@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gogo200202&show_icons=true&theme=gruvbox)
+
+
 <!--
 **Gogo200202/Gogo200202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
