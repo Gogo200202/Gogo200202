@@ -1,5 +1,5 @@
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif))
+![Alt Text](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
 # 💫 About Me:
 🔭 I’m currently working on My very little Os<br>👯 I’m looking to collaborate on open sores projects<br>🤝 I’m looking for help with open sores projects<br>💬 Ask me about anything <br>⚡ I like challenging myself
 
