@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;There is nothing quite so tragic as a young cynic.&quot;</em> <br>
+— Maya Angelou
