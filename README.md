@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Old age is like everything else. To make a success of it, you've got to start young.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;When you move beyond your fear, you feel free.&quot;</em> <br>
+— Spencer Johnson
