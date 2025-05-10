@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is 10% what happens to you and 90% how you react to it. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
+— Eric Hoffer
