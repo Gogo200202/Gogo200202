@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change happens when the pain of holding on becomes greater than the fear of letting go.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;To do great work one must be very idle as well as very industrious.&quot;</em> <br>
+— Samuel Butler
