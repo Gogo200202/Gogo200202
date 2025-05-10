@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The question is not what you look at, but what you see.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Life is 10% what happens to you and 90% how you react to it. &quot;</em> <br>
+— Charles Swindoll
