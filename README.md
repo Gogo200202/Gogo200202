@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no path to Peace. Peace is the path.&quot;</em> <br>
-— Dan Millman
+<em>&quot;The question is not what you look at, but what you see.&quot;</em> <br>
+— Henry David Thoreau
