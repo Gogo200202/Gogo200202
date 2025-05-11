@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who leaves the game wins it.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Anyone who reads a book with a sense of obligation does not understand the art of reading.&quot;</em> <br>
+— Lin Yutang
