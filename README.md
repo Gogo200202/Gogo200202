@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;May you live all the days of your life.&quot;</em> <br>
+— Jonathan Swift
