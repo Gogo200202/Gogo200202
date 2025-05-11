@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you run you stand a chance of losing, but if you don't run you've already lost.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Repetition does not transform a lie into a truth.&quot;</em> <br>
+— Franklin D. Roosevelt
