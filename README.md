@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To do great work one must be very idle as well as very industrious.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;The biggest adventure you can ever take is to live the life of your dreams. &quot;</em> <br>
+— Oprah Winfrey
