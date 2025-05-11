@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Repetition does not transform a lie into a truth.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;What's the point in being smart enough to read, if everything you read makes you dumb?&quot;</em> <br>
+— C. Sean McGee
