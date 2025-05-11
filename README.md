@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death and life have their determined appointments; riches and honors depend upon heaven. &quot;</em> <br>
-— Confucius
+<em>&quot;If you want things to be different, perhaps the answer is to become different yourself.&quot;</em> <br>
+— Norman Vincent Peale
