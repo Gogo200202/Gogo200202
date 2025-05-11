@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never confuse a single defeat with a final defeat.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Death and life have their determined appointments; riches and honors depend upon heaven. &quot;</em> <br>
+— Confucius
