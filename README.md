@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't change your mind just because people are offended; change your mind if you're wrong.&quot;</em> <br>
-— Criss Jami
+<em>&quot;A man should do his job so well that the living, the dead, and the unborn could do it no better.&quot;</em> <br>
+— Martin Luther King, Jr.
