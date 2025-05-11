@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anyone who reads a book with a sense of obligation does not understand the art of reading.&quot;</em> <br>
-— Lin Yutang
+<em>&quot;Never confuse a single defeat with a final defeat.&quot;</em> <br>
+— F. Scott Fitzgerald
