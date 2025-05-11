@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want things to be different, perhaps the answer is to become different yourself.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;If you run you stand a chance of losing, but if you don't run you've already lost.&quot;</em> <br>
+— Barack Obama
