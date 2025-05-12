@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever satisfies the soul is truth.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;The outer conditions of a person's life will always be found to reflect their inner beliefs.&quot;</em> <br>
+— James Allen
