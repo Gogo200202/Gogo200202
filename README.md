@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anger exceeding limits causes fear and excessive kindness eliminates respect.&quot;</em> <br>
-— Euripides
+<em>&quot;Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.&quot;</em> <br>
+— Earl Nightingale
