@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Simple words, repeated daily, can change your life.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;There is no such thing as a great talent without great willpower.&quot;</em> <br>
+— Honore de Balzac
