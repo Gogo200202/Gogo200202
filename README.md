@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fortunate are those who take the first steps.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
+— T.S. Eliot
