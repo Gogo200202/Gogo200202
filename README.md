@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;The fewer the words, the better the prayer.&quot;</em> <br>
+— Martin Luther
