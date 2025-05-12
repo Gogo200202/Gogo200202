@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's no coming to consciousness without pain&quot;</em> <br>
-— Carl Jung
+<em>&quot;Imagination is the beginning of creation.&quot;</em> <br>
+— George Bernard Shaw
