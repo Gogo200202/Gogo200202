@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is the beginning of creation.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Life is one long process of getting tired.&quot;</em> <br>
+— Samuel Butler
