@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The outer conditions of a person's life will always be found to reflect their inner beliefs.&quot;</em> <br>
-— James Allen
+<em>&quot;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&quot;</em> <br>
+— Joan Rivers
