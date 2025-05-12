@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is hopeless; we must hope for everything.&quot;</em> <br>
-— Euripides
+<em>&quot;Whatever satisfies the soul is truth.&quot;</em> <br>
+— Walt Whitman
