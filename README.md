@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your next step is simple. You are the first domino.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Simple words, repeated daily, can change your life.&quot;</em> <br>
+— Maxime Lagace
