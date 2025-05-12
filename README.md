@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
+— Josh Waitzkin
