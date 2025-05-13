@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before anything else, preparation is the key to success.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;The positive thinker sees the invisible, feels the intangible, and achieves the impossible.&quot;</em> <br>
+— Winston Churchill
