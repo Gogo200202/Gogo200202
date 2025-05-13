@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time heals what reason cannot.  &quot;</em> <br>
-— Seneca
+<em>&quot;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&quot;</em> <br>
+— Thich Nhat Hanh
