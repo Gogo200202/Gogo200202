@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peaceful is the one who expects nothing.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;It's better to dance than to march through life.&quot;</em> <br>
+— Yoko Ono
