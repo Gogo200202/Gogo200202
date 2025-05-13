@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Seek not the good in external things;seek it in yourselves.&quot;</em> <br>
-— Epictetus
+<em>&quot;Time heals what reason cannot.  &quot;</em> <br>
+— Seneca
