@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The grass is greener where you water it.&quot;</em> <br>
-— Neil Barringham
+<em>&quot;Seek not the good in external things;seek it in yourselves.&quot;</em> <br>
+— Epictetus
