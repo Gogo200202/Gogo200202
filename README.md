@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's better to dance than to march through life.&quot;</em> <br>
-— Yoko Ono
+<em>&quot;Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.&quot;</em> <br>
+— Alexander Graham Bell
