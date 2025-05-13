@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;You are the sky. Everything else - it's just the weather.&quot;</em> <br>
+— Pema Chodron
