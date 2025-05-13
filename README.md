@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Deeds will not be less valiant because they are upraised.&quot;</em> <br>
+— J.R.R. Tolkien
