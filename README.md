@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.&quot;</em> <br>
+— George Bernard Shaw
