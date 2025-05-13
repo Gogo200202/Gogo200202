@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;A man with outward courage dares to die: a man with inner courage dares to live.&quot;</em> <br>
+— Lao Tzu
