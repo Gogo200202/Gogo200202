@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Leaders think and talk about solutions. Followers think and talk about the problems.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;A wise person should have money in their head, but not in their heart.&quot;</em> <br>
+— Jonathan Swift
