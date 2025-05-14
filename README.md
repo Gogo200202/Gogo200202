@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Doing what you love is the cornerstone of having abundance in your life. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Blessed is he who expects nothing, for he shall never be disappointed.&quot;</em> <br>
+— Alexander Pope
