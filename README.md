@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone sees what you appear to be, few experience what you really are.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;It is better to disappoint people with the truth than to appease them with a lie.&quot;</em> <br>
+— Simon Sinek
