@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise person should have money in their head, but not in their heart.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;The key to immortality is first living a life worth remembering. &quot;</em> <br>
+— Bruce Lee
