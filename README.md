@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to disappoint people with the truth than to appease them with a lie.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;We suffer more often in imagination than in reality.  &quot;</em> <br>
+— Seneca
