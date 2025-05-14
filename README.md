@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Doing what you love is the cornerstone of having abundance in your life. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
+— Lao Tzu
