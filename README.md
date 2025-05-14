@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We suffer more often in imagination than in reality.  &quot;</em> <br>
-— Seneca
+<em>&quot;When you repeat a mistake, it is not a mistake anymore: it is a decision.&quot;</em> <br>
+— Paulo Coelho
