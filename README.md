@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Life is a question and how we live it is our answer.&quot;</em> <br>
+— Gary Keller
