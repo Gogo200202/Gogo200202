@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you repeat a mistake, it is not a mistake anymore: it is a decision.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Doing what you love is the cornerstone of having abundance in your life. &quot;</em> <br>
+— Wayne Dyer
