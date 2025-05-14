@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;Everyone sees what you appear to be, few experience what you really are.&quot;</em> <br>
+— Niccolo Machiavelli
