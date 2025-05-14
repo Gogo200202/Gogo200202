@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Blessed is he who expects nothing, for he shall never be disappointed.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;Leaders think and talk about solutions. Followers think and talk about the problems.&quot;</em> <br>
+— Brian Tracy
