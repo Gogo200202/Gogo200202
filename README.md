@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.&quot;</em> <br>
-— Rumi
+<em>&quot;Stop wasting time defending your problems and work on addressing them instead.&quot;</em> <br>
+— Celestine Chua
