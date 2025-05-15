@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To get angry is like to revenge yourself for the guilt of others.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.&quot;</em> <br>
+— Roy T. Bennett
