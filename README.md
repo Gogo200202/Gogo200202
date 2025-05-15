@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pen is the tongue of the mind. &quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;Never do to others what you would not like them to do to you. &quot;</em> <br>
+— Confucius
