@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The pen is the tongue of the mind. &quot;</em> <br>
+— Miguel de Cervantes
