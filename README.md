@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A zen master's life is one continuous mistake.&quot;</em> <br>
-— Dogen
+<em>&quot;Know your gifts and share them.&quot;</em> <br>
+— Les Brown
