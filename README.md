@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let anyone define you. You define yourself.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;He who has overcome his fears will truly be free.&quot;</em> <br>
+— Aristotle
