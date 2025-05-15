@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure means you've now learned another valuable lesson that pushes you one step closer to success.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;A zen master's life is one continuous mistake.&quot;</em> <br>
+— Dogen
