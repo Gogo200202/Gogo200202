@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Still your waters.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&quot;</em> <br>
+— Joyce Meyer
