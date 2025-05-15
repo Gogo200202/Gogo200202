@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Failure means you've now learned another valuable lesson that pushes you one step closer to success.&quot;</em> <br>
+— Steve Harvey
