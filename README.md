@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never do to others what you would not like them to do to you. &quot;</em> <br>
-— Confucius
+<em>&quot;Talk to someone about themselves and they'll listen for hours.&quot;</em> <br>
+— Dale Carnegie
