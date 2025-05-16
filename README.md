@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only I can change my life. No one can do it for me.&quot;</em> <br>
-— Carol Burnett
+<em>&quot;A moving door hinge never corrodes. Flowing water never grows stagnant.&quot;</em> <br>
+— Ming-Dao Deng
