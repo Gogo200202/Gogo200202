@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing new in the world is the history you do not know.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;The destiny of man is in his own soul. &quot;</em> <br>
+— Herodotus
