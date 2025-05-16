@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&quot;</em> <br>
-— Mark Twain
+<em>&quot;If you want to see things just as they are, then you yourself must practice just as you are.&quot;</em> <br>
+— Dogen
