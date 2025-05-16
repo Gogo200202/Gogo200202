@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The destiny of man is in his own soul. &quot;</em> <br>
-— Herodotus
+<em>&quot;You do not read a book for the book's sake, but for your own.&quot;</em> <br>
+— Earl Nightingale
