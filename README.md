@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Show up even when you don't want to show up.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&quot;</em> <br>
+— Sun Tzu
