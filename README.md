@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A moving door hinge never corrodes. Flowing water never grows stagnant.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Elegance does not consist in putting on a new dress.&quot;</em> <br>
+— Coco Chanel
