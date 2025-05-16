@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You'll see it when you believe it. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&quot;</em> <br>
+— Charles Spurgeon
