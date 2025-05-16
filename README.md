@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Elegance does not consist in putting on a new dress.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&quot;</em> <br>
+— Amelia Earhart
