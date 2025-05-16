@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stop wasting time defending your problems and work on addressing them instead.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Only I can change my life. No one can do it for me.&quot;</em> <br>
+— Carol Burnett
