@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;You have to give up some of the old so that you can make room for the new.&quot;</em> <br>
+— Yanni
