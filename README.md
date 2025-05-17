@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.&quot;</em> <br>
-— Unknown
+<em>&quot;No man becomes rich unless he enriches others.&quot;</em> <br>
+— Andrew Carnegie
