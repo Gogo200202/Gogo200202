@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Look to the beauty of this day, miracles are all around you.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Unhappiness enters through a door that has been left open.&quot;</em> <br>
+— Zen Proverb
