@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words used to attract the dull of wit are not to be relied on.&quot;</em> <br>
-— Huang Po
+<em>&quot;Look to the beauty of this day, miracles are all around you.&quot;</em> <br>
+— Mary Engelbreit
