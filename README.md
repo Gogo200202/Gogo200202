@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is filled with secrets. You can't learn them all at once.&quot;</em> <br>
-— Dan Brown
+<em>&quot;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&quot;</em> <br>
+— Eleanor Roosevelt
