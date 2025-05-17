@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
-— Woody Allen
+<em>&quot;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&quot;</em> <br>
+— Naval Ravikant
