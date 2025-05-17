@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unhappiness enters through a door that has been left open.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Real growth comes through intense, difficult, and challenging situations.&quot;</em> <br>
+— Kamal Ravikant
