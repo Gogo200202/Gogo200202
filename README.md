@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every blessing ignored becomes a curse.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
+— Woody Allen
