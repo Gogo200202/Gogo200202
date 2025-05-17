@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Insanity: doing the same thing over and over again and expecting different results.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Life is filled with secrets. You can't learn them all at once.&quot;</em> <br>
+— Dan Brown
