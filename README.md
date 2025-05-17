@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Excellence is not an exception, it is a prevailing attitude.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Every blessing ignored becomes a curse.&quot;</em> <br>
+— Paulo Coelho
