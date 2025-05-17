@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Insanity: doing the same thing over and over again and expecting different results.&quot;</em> <br>
+— Albert Einstein
