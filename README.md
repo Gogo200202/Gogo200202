@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Real growth comes through intense, difficult, and challenging situations.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;To raise your consciousness, surround yourself with people of higher consciousness.&quot;</em> <br>
+— Celestine Chua
