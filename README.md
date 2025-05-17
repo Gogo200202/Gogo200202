@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To raise your consciousness, surround yourself with people of higher consciousness.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.&quot;</em> <br>
+— Unknown
