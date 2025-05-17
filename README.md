@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Words used to attract the dull of wit are not to be relied on.&quot;</em> <br>
+— Huang Po
