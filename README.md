@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man becomes rich unless he enriches others.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
+— Henry David Thoreau
