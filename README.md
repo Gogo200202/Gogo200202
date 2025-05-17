@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;Excellence is not an exception, it is a prevailing attitude.&quot;</em> <br>
+— Colin Powell
