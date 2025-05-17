@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences &quot;</em> <br>
+— Nikola Tesla
