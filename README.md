@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best mind-altering drug is the truth.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.&quot;</em> <br>
+— Kamal Ravikant
