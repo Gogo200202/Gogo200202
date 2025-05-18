@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;The best mind-altering drug is the truth.&quot;</em> <br>
+— Lily Tomlin
