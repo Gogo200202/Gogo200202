@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faults are yours to fix, not to curse.&quot;</em> <br>
-— Colin Powell
+<em>&quot;No one is useless in this world who lightens the burdens of another.&quot;</em> <br>
+— Charles Dickens
