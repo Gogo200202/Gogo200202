@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Life is much more successfully looked at from a single window.&quot;</em> <br>
+— F. Scott Fitzgerald
