@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Giving is living. If you stop wanting to give, there's nothing more to live for.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;Conflict cannot survive without your participation. &quot;</em> <br>
+— Wayne Dyer
