@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is the sum of small efforts, repeated day in and day out.&quot;</em> <br>
-— Robert Collier
+<em>&quot;Argue for your limitations and sure enough, they're yours.&quot;</em> <br>
+— Richard Bach
