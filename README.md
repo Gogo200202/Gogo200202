@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You only live once, but if you do it right, once is enough.&quot;</em> <br>
-— Mae West
+<em>&quot;Giving is living. If you stop wanting to give, there's nothing more to live for.&quot;</em> <br>
+— Audrey Hepburn
