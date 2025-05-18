@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be approximately right rather than exactly wrong.&quot;</em> <br>
-— John Tukey
+<em>&quot;Success is the sum of small efforts, repeated day in and day out.&quot;</em> <br>
+— Robert Collier
