@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Simplicity is the glory of expression.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.&quot;</em> <br>
+— Alexander Graham Bell
