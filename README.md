@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Argue for your limitations and sure enough, they're yours.&quot;</em> <br>
-— Richard Bach
+<em>&quot;You need a plan to build a house. To build a life, it is even more important to have a plan or goal.&quot;</em> <br>
+— Zig Ziglar
