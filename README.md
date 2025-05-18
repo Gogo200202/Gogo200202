@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is much more successfully looked at from a single window.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;You only live once, but if you do it right, once is enough.&quot;</em> <br>
+— Mae West
