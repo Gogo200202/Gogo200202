@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Conflict cannot survive without your participation. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Today will never happen again. Don't waste it with a false start or no start at all.&quot;</em> <br>
+— Og Mandino
