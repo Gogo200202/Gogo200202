@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Today will never happen again. Don't waste it with a false start or no start at all.&quot;</em> <br>
-— Og Mandino
+<em>&quot;High thoughts must have high language.&quot;</em> <br>
+— Aristophanes
