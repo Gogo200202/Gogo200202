@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's no next time. It's now or never.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;The greatest value of a picture is when it forces us to notice what we never expected to see.&quot;</em> <br>
+— John Tukey
