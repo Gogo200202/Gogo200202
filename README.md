@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;High thoughts must have high language.&quot;</em> <br>
-— Aristophanes
+<em>&quot;There is no absolute success in the world, only constant progress.&quot;</em> <br>
+— Jonathan Swift
