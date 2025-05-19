@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no absolute success in the world, only constant progress.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;There exists only the present instant; a Now which always and without end is itself new.&quot;</em> <br>
+— Meister Eckhart
