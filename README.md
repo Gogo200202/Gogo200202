@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest value of a picture is when it forces us to notice what we never expected to see.&quot;</em> <br>
-— John Tukey
+<em>&quot;Take care of your body. It's the only place you have to live.&quot;</em> <br>
+— Jim Rohn
