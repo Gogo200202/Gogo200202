@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The enemy is a very good teacher.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Realistic people do not accomplish extraordinary things.&quot;</em> <br>
+— John Eliot
