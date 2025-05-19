@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There exists only the present instant; a Now which always and without end is itself new.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;Comedy = tragedy + time.&quot;</em> <br>
+— Carol Burnett
