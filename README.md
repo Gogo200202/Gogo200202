@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;There are no secrets to success. It is the result of preparation, hard work, learning from failure.&quot;</em> <br>
+— Colin Powell
