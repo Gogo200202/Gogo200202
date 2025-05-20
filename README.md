@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sadness is but a wall between two gardens.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Far and away the best prize that life has to offer is the chance to work hard at work worth doing.&quot;</em> <br>
+— Theodore Roosevelt
