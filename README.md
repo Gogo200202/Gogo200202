@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no secrets to success. It is the result of preparation, hard work, learning from failure.&quot;</em> <br>
-— Colin Powell
+<em>&quot;If you want work well done, select a busy man; the other kind has no time.&quot;</em> <br>
+— Elbert Hubbard
