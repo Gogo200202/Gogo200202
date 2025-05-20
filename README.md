@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's your road, and yours alone, others may walk it with you, but no one can walk it for you.&quot;</em> <br>
-— Rumi
+<em>&quot;You win more from losing than winning.&quot;</em> <br>
+— Morgan Wootten
