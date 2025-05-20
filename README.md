@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anything you may hold firmly in your imagination can be yours.&quot;</em> <br>
-— William James
+<em>&quot;All you need is the plan, the road map, and the courage to press on to your destination.&quot;</em> <br>
+— Earl Nightingale
