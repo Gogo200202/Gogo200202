@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You win more from losing than winning.&quot;</em> <br>
-— Morgan Wootten
+<em>&quot;Sadness is but a wall between two gardens.&quot;</em> <br>
+— Kahlil Gibran
