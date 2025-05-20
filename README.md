@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who knows best knows how little he knows.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&quot;</em> <br>
+— Charles Dickens
