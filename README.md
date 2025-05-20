@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Far and away the best prize that life has to offer is the chance to work hard at work worth doing.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
+— Nicolas Chamfort
