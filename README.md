@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;It's your road, and yours alone, others may walk it with you, but no one can walk it for you.&quot;</em> <br>
+— Rumi
