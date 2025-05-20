@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perplexity is the beginning of knowledge.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Anything you may hold firmly in your imagination can be yours.&quot;</em> <br>
+— William James
