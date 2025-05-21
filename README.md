@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first principle of success is desire.&quot;</em> <br>
-— Robert Collier
+<em>&quot;If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.&quot;</em> <br>
+— Theodore Roosevelt
