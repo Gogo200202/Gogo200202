@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future doesn't belong to the faint-hearted; it belongs to the brave.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;We can spend our whole lives escaping from the monsters of our minds.&quot;</em> <br>
+— Pema Chodron
