@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Get mad, then get over it.&quot;</em> <br>
-— Colin Powell
+<em>&quot;A man should do his job so well that the living, the dead, and the unborn could do it no better.&quot;</em> <br>
+— Martin Luther King, Jr.
