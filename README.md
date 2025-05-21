@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can spend our whole lives escaping from the monsters of our minds.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;Go as far as you can see and you will see further.  &quot;</em> <br>
+— Zig Ziglar
