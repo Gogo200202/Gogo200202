@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is difficult to free fools from the chains they revere. &quot;</em> <br>
-— Voltaire
+<em>&quot;Facts are the enemy of truth. &quot;</em> <br>
+— Miguel de Cervantes
