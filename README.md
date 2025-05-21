@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;It's not what you pay a man, but what he costs you that counts.&quot;</em> <br>
+— Will Rogers
