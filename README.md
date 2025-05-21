@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change yourself and you have done your part in changing the world.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Happiness is not something ready made. It comes from your own actions.&quot;</em> <br>
+— Dalai Lama
