@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Doubt is an uncomfortable condition, but certainty is a ridiculous one.&quot;</em> <br>
-— Voltaire
+<em>&quot;The future doesn't belong to the faint-hearted; it belongs to the brave.&quot;</em> <br>
+— Ronald Reagan
