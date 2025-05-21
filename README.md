@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is not something ready made. It comes from your own actions.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Get mad, then get over it.&quot;</em> <br>
+— Colin Powell
