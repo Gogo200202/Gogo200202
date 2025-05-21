@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go as far as you can see and you will see further.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Expect the best, plan for the worst, and prepare to be surprised. &quot;</em> <br>
+— Denis Waitley
