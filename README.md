@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man should do his job so well that the living, the dead, and the unborn could do it no better.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;If you are unable to find the truth right where you are, where else do you expect to find it?&quot;</em> <br>
+— Dogen
