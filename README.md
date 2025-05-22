@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Intelligent men are cruel. Stupid men are monstrously cruel.&quot;</em> <br>
-— Jack London
+<em>&quot;Where violence reigns, reason is weak.&quot;</em> <br>
+— Nicolas Chamfort
