@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Persistence is very important. You should not give up unless you are forced to give up.&quot;</em> <br>
-— Elon Musk
+<em>&quot;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&quot;</em> <br>
+— Zig Ziglar
