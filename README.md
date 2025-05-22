@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The truth is rarely pure and never simple. &quot;</em> <br>
-— Oscar Wilde
+<em>&quot;What keeps life fascinating is the constant creativity of the soul.&quot;</em> <br>
+— Deepak Chopra
