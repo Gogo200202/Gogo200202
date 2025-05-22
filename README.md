@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You make your own luck if you stay at it long enough.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Intelligent men are cruel. Stupid men are monstrously cruel.&quot;</em> <br>
+— Jack London
