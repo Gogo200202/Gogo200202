@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are unable to find the truth right where you are, where else do you expect to find it?&quot;</em> <br>
-— Dogen
+<em>&quot;You make your own luck if you stay at it long enough.&quot;</em> <br>
+— Naval Ravikant
