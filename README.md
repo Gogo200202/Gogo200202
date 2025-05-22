@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Doubt is an uncomfortable condition, but certainty is a ridiculous one.&quot;</em> <br>
+— Voltaire
