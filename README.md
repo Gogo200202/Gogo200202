@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Curiosity is the most powerful thing you own.&quot;</em> <br>
-— James Cameron
+<em>&quot;You drown not by falling into a river, but by staying submerged in it.&quot;</em> <br>
+— Paulo Coelho
