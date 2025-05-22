@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not how much we give but how much love we put into giving.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Persistence is very important. You should not give up unless you are forced to give up.&quot;</em> <br>
+— Elon Musk
