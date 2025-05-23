@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing good ever comes of violence.&quot;</em> <br>
-— Martin Luther
+<em>&quot;Happiness is only real, when shared.&quot;</em> <br>
+— Christopher McCandless
