@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All cruelty springs from weakness.  &quot;</em> <br>
-— Seneca
+<em>&quot;The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.&quot;</em> <br>
+— Voltaire
