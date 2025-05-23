@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is only real, when shared.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;If you don't like something, change it. If you can't change it, change your attitude.&quot;</em> <br>
+— Maya Angelou
