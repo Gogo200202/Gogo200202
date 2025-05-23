@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can not live your life just based on what everyone else thinks.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;You're always free to change your mind and choose a different future, or a different past.&quot;</em> <br>
+— Richard Bach
