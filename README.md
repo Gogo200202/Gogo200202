@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man can get rich himself unless he enriches others.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;There is no greater agony than bearing an untold story inside you.&quot;</em> <br>
+— Maya Angelou
