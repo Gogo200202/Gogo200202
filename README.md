@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Identify your problems, but give your power and energy to solutions.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;A fool sees himself as another, but a wise man sees others as himself.&quot;</em> <br>
+— Dogen
