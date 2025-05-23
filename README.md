@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wait for extraordinary opportunities. Seize common occasions and make them great.&quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;Identify your problems, but give your power and energy to solutions.&quot;</em> <br>
+— Tony Robbins
