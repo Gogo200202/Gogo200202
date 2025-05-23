@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't like something, change it. If you can't change it, change your attitude.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.&quot;</em> <br>
+— Spencer Johnson
