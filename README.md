@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let the past steal your present.&quot;</em> <br>
-— Cherralea Morgen
+<em>&quot;A crisis is an opportunity riding the dangerous wind.&quot;</em> <br>
+— Chinese Proverb
