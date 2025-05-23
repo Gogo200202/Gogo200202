@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Live calmly. The time will come when the flowers bloom by themselves.&quot;</em> <br>
+— Zen Proverb
