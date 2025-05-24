@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No one returns from a long journey the same person they were before.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
+— Bob Proctor
