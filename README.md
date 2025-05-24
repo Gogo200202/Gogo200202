@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life and the simple beauty of it is too good to pass up.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;To find yourself, think for yourself.&quot;</em> <br>
+— Socrates
