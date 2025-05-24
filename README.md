@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. &quot;</em> <br>
-— Buddha
+<em>&quot;Art is the signature of civilizations. &quot;</em> <br>
+— Beverly Sills
