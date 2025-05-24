@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Life and the simple beauty of it is too good to pass up.&quot;</em> <br>
+— Christopher McCandless
