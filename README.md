@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;The majority of what you want will come from the minority of what you do.&quot;</em> <br>
+— Gary Keller
