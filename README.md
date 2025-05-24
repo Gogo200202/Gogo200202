@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being entirely honest with oneself is a good exercise.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.&quot;</em> <br>
+— Joan Rivers
