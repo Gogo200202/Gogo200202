@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A crisis is an opportunity riding the dangerous wind.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;The four P's to success are pressure, persistence, perseverance, and prayer.&quot;</em> <br>
+— Steve Harvey
