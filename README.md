@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are people who have money and people who are rich.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. &quot;</em> <br>
+— Buddha
