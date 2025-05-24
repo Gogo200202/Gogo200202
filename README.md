@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The goal is not to be perfect by the end, the goal is to be better today.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;No one returns from a long journey the same person they were before.&quot;</em> <br>
+— Zen Proverb
