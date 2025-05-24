@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The majority of what you want will come from the minority of what you do.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Change is hardest at the beginning, messiest in the middle and best at the end.&quot;</em> <br>
+— Robin Sharma
