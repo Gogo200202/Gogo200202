@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being in a good frame of mind helps keep one in the picture of health.&quot;</em> <br>
-— Unknown
+<em>&quot;The goal is not to be perfect by the end, the goal is to be better today.&quot;</em> <br>
+— Simon Sinek
