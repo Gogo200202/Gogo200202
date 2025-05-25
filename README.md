@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.&quot;</em> <br>
+— Alan Watts
