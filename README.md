@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our truest life is when we are in dreams awake.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Life is a long lesson in humility. &quot;</em> <br>
+— James Matthew Barrie
