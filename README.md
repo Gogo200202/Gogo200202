@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No grand idea was ever born in a conference, but a lot of foolish ideas have died there.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Sometimes, the only way to evolve is to open ourselves fully.&quot;</em> <br>
+— Kamal Ravikant
