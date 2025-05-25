@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&quot;</em> <br>
-— Seungsahn
+<em>&quot;If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.&quot;</em> <br>
+— Deepak Chopra
