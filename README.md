@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Waste no more time arguing about what a good man should be. Be one.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Live and act within the limit of your knowledge and keep expanding it to the limit of your life.&quot;</em> <br>
+— Ayn Rand
