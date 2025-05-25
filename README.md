@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live and act within the limit of your knowledge and keep expanding it to the limit of your life.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&quot;</em> <br>
+— Seungsahn
