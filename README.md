@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only put off until tomorrow what you are willing to die having left undone.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Victims recite problems, leaders provide solutions.&quot;</em> <br>
+— Robin Sharma
