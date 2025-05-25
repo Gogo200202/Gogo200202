@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Our truest life is when we are in dreams awake.&quot;</em> <br>
+— Henry David Thoreau
