@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the end, it's not the years in your life that count. It's the life in your years.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.&quot;</em> <br>
+— Naval Ravikant
