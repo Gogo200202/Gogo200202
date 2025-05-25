@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.&quot;</em> <br>
-— Alan Watts
+<em>&quot;If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.&quot;</em> <br>
+— James Cameron
