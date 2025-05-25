@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes, the only way to evolve is to open ourselves fully.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;In the end, it's not the years in your life that count. It's the life in your years.&quot;</em> <br>
+— Abraham Lincoln
