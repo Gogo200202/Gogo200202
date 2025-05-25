@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a long lesson in humility. &quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;Only put off until tomorrow what you are willing to die having left undone.&quot;</em> <br>
+— Pablo Picasso
