@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Greatness lies not in being strong, but in the right use of strength.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&quot;</em> <br>
+— Deepak Chopra
