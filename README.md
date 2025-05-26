@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before preparing to improve the world, first look around your own home three times. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Greatness lies not in being strong, but in the right use of strength.&quot;</em> <br>
+— Henry Ward Beecher
