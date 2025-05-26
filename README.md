@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just do the best you can. No one can do more than that.&quot;</em> <br>
-— John Wooden
+<em>&quot;You do not read a book for the book's sake, but for your own.&quot;</em> <br>
+— Earl Nightingale
