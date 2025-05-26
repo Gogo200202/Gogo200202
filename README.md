@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The universe doesn't allow perfection.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;No man will make a great leader who wants to do it all himself or to get all the credit for doing it.&quot;</em> <br>
+— Andrew Carnegie
