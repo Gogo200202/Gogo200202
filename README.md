@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every strike brings me closer to the next home run. &quot;</em> <br>
-— Babe Ruth
+<em>&quot;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&quot;</em> <br>
+— George Eliot
