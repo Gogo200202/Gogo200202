@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.&quot;</em> <br>
-— Epictetus
+<em>&quot;If we did all the things we are capable of, we would literally astound ourselves.&quot;</em> <br>
+— Thomas Edison
