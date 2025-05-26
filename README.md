@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You do not read a book for the book's sake, but for your own.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Absorb what is useful, discard what is not, add what is uniquely your own.&quot;</em> <br>
+— Bruce Lee
