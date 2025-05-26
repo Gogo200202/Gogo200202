@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we did all the things we are capable of, we would literally astound ourselves.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Even if you persuade me, you won't persuade me.&quot;</em> <br>
+— Aristophanes
