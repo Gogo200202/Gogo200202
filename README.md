@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.&quot;</em> <br>
+— Epictetus
