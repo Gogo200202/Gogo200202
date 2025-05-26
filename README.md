@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even if you persuade me, you won't persuade me.&quot;</em> <br>
-— Aristophanes
+<em>&quot;Every strike brings me closer to the next home run. &quot;</em> <br>
+— Babe Ruth
