@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Turn the pain into power.&quot;</em> <br>
-— Unknown
+<em>&quot;Unless you're ashamed of yourself now and then, you're not honest.&quot;</em> <br>
+— William Faulkner
