@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life should be touched, not strangled.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Eighty percent of success is showing up. &quot;</em> <br>
+— Woody Allen
