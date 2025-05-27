@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless you're ashamed of yourself now and then, you're not honest.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Be regular and orderly in your life, so that you may be violent and original in your work.&quot;</em> <br>
+— Gustave Flaubert
