@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talk sense to a fool and he calls you foolish.&quot;</em> <br>
-— Euripides
+<em>&quot;Change is hard at first, messy in the middle and gorgeous at the end.&quot;</em> <br>
+— Robin Sharma
