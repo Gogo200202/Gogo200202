@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men are disturbed not by things, but by the view which they take of them.&quot;</em> <br>
-— Epictetus
+<em>&quot;I am who I am today because of the choices I made yesterday.&quot;</em> <br>
+— Eleanor Roosevelt
