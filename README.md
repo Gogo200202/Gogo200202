@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am thankful to all who said no to me. It is because of them that I'm doing it myself.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;I alone cannot change the world, but I can cast a stone across the waters to create many ripples.&quot;</em> <br>
+— Mother Teresa
