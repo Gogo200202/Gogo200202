@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have the potential for greatness.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Men are disturbed not by things, but by the view which they take of them.&quot;</em> <br>
+— Epictetus
