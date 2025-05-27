@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is hard at first, messy in the middle and gorgeous at the end.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Don't shortchange yourself when it comes to investing in your own better future.&quot;</em> <br>
+— Jim Rohn
