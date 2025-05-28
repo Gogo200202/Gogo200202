@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most important thing is to enjoy your life, to be happy, it's all that matters.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;The more knowledge you have, the more you're free to rely on your instincts.&quot;</em> <br>
+— Arnold Schwarzenegger
