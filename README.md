@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Your success and happiness lie in you.&quot;</em> <br>
+— Helen Keller
