@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pain of parting is nothing to the joy of meeting again.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;The only lost cause is one we give up on before we enter the struggle.&quot;</em> <br>
+— Vaclav Havel
