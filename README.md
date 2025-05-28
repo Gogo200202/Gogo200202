@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot;</em> <br>
-— Dogen
+<em>&quot;The world only exists in your eyes. You can make it as big or as small as you want.&quot;</em> <br>
+— F. Scott Fitzgerald
