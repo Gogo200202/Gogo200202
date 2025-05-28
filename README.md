@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your success and happiness lie in you.&quot;</em> <br>
-— Helen Keller
+<em>&quot;When you have a dream, you've got to grab it and never let go.&quot;</em> <br>
+— Carol Burnett
