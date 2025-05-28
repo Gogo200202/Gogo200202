@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more knowledge you have, the more you're free to rely on your instincts.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot;</em> <br>
+— Dogen
