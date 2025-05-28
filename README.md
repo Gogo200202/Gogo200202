@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you have a dream, you've got to grab it and never let go.&quot;</em> <br>
-— Carol Burnett
+<em>&quot;The most important thing is to enjoy your life, to be happy, it's all that matters.&quot;</em> <br>
+— Audrey Hepburn
