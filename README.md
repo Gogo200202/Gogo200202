@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only lost cause is one we give up on before we enter the struggle.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Only the hand that erases can write the true thing.&quot;</em> <br>
+— Meister Eckhart
