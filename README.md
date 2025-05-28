@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;The pain of parting is nothing to the joy of meeting again.&quot;</em> <br>
+— Charles Dickens
