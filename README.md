@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.&quot;</em> <br>
-— Aristophanes
+<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
+— Kahlil Gibran
