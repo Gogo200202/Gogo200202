@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't allow your mind to tell your heart what to do. The mind gives up easily.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Aim for the moon. If you miss, you may hit a star.&quot;</em> <br>
+— W. Clement Stone
