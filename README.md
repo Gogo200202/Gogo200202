@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The clock indicates the moment...but what does eternity indicate?&quot;</em> <br>
-— Walt Whitman
+<em>&quot;Faith is taking the first step even when you don't see the whole staircase.&quot;</em> <br>
+— Martin Luther King, Jr.
