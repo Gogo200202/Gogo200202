@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.&quot;</em> <br>
+— Sun Tzu
