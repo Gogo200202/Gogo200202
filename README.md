@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;It is not as important how we start, but how we finish.&quot;</em> <br>
+— Joyce Meyer
