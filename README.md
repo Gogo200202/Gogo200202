@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Greatness lies not in being strong, but in the right use of strength.&quot;</em> <br>
+— Henry Ward Beecher
