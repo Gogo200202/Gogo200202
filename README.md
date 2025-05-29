@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Well done is better than well said.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Don't allow your mind to tell your heart what to do. The mind gives up easily.&quot;</em> <br>
+— Paulo Coelho
