@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Greatness lies not in being strong, but in the right use of strength.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Your setback is just a setup for a comeback.&quot;</em> <br>
+— Steve Harvey
