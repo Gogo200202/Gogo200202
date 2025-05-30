@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're afraid to die, you're afraid to live. You can't have one without the other.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;To become what you are not, behave as you do not.&quot;</em> <br>
+— T.S. Eliot
