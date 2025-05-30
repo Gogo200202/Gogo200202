@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Too many of us are not living our dreams because we are living our fears.&quot;</em> <br>
-— Les Brown
+<em>&quot;I think self-awareness is probably the most important thing towards being a champion. &quot;</em> <br>
+— Billie Jean King
