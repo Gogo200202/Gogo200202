@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I think self-awareness is probably the most important thing towards being a champion. &quot;</em> <br>
-— Billie Jean King
+<em>&quot;One's best success comes after their greatest disappointments.&quot;</em> <br>
+— Henry Ward Beecher
