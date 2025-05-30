@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust, like the soul, never returns once it is gone.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Make your stand today. On this spot. On this day.&quot;</em> <br>
+— Ming-Dao Deng
