@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A little impatience will spoil great plans.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;If you're afraid to die, you're afraid to live. You can't have one without the other.&quot;</em> <br>
+— Rita Mae Brown
