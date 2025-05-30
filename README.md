@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless someone truly has the power to say no, they never truly have the power to say yes.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Others have seen what is and asked why. I have seen what could be and asked why not&quot;</em> <br>
+— Pablo Picasso
