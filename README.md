@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your setback is just a setup for a comeback.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;To do great work one must be very idle as well as very industrious.&quot;</em> <br>
+— Samuel Butler
