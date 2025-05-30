@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One's best success comes after their greatest disappointments.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;For changes to be of any true value, they've got to be lasting and consistent.&quot;</em> <br>
+— Tony Robbins
