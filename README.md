@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Aim for the moon. If you miss, you may hit a star.&quot;</em> <br>
-— W. Clement Stone
+<em>&quot;Too many of us are not living our dreams because we are living our fears.&quot;</em> <br>
+— Les Brown
