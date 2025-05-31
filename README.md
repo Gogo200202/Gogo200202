@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;The heart wants what it wants - or else it does not care.&quot;</em> <br>
+— Emily Dickinson
