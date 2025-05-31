@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The heart wants what it wants - or else it does not care.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;Most great people have achieved their greatest success just one step beyond their greatest failure.&quot;</em> <br>
+— Napoleon Hill
