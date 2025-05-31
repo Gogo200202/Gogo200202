@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rest and be kind, you don't have to prove anything.&quot;</em> <br>
-— Jack Kerouac
+<em>&quot;Go as far as you can see and you will see further.  &quot;</em> <br>
+— Zig Ziglar
