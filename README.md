@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Create with the heart; build with the mind.&quot;</em> <br>
-— Criss Jami
+<em>&quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&quot;</em> <br>
+— Albert Einstein
