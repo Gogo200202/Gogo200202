@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make your life a mission - not an intermission.&quot;</em> <br>
-— Unknown
+<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
+— Anne Wilson Schaef
