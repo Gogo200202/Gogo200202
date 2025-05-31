@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be truly ignorant, be content with your own knowledge.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;Disobedience is the true foundation of liberty. The obedient must be slaves.&quot;</em> <br>
+— Henry David Thoreau
