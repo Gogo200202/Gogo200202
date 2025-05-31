@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make your stand today. On this spot. On this day.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Make your life a mission - not an intermission.&quot;</em> <br>
+— Unknown
