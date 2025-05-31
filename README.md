@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;The more something threatens your identity, the more you will avoid it.&quot;</em> <br>
+— Mark Manson
