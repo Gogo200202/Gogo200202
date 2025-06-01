@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing we have to fear is fear itself.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;Ability is a poor man's wealth.&quot;</em> <br>
+— John Wooden
