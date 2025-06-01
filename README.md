@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man is literally what he thinks.&quot;</em> <br>
-— James Allen
+<em>&quot;The only thing we have to fear is fear itself.&quot;</em> <br>
+— Franklin D. Roosevelt
