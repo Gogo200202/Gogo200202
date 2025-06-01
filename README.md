@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more you are motivated by Love, The more Fearless &amp; Free your action will be.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Wit is educated insolence.&quot;</em> <br>
+— Aristotle
