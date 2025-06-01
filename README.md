@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Disobedience is the true foundation of liberty. The obedient must be slaves.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&quot;</em> <br>
+— Charles Darwin
