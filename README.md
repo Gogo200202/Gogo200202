@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wit is educated insolence.&quot;</em> <br>
-— Aristotle
+<em>&quot;Do the difficult things while they are easy and do the great things while they are small.&quot;</em> <br>
+— Lao Tzu
