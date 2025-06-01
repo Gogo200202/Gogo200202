@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Ability is a poor man's wealth.&quot;</em> <br>
-— John Wooden
+<em>&quot;The more you are motivated by Love, The more Fearless &amp; Free your action will be.&quot;</em> <br>
+— Dalai Lama
