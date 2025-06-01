@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is a source of great strength.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;A wise man will be master of his mind, a fool will be its slave.&quot;</em> <br>
+— Publilius Syrus
