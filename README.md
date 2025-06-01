@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Things turn out best for the people who make the best of the way things turn out.&quot;</em> <br>
-— John Wooden
+<em>&quot;People who belittle people, will be LITTLE people, and will accomplish very Little&quot;</em> <br>
+— Norman Vincent Peale
