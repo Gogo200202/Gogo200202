@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
-— Aristophanes
+<em>&quot;The present moment is filled with joy and happiness. If you are attentive, you will see it.&quot;</em> <br>
+— Thich Nhat Hanh
