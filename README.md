@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is those who concentrate on but one thing at a time who advance in this world.&quot;</em> <br>
-— Gary Keller
+<em>&quot;When it comes to mastering a skill, time is the magic ingredient.&quot;</em> <br>
+— Robert Greene
