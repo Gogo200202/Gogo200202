@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To escape from the world means that one's mind is not concerned with the opinions of the world.&quot;</em> <br>
-— Dogen
+<em>&quot;Every hour of every day is an unspeakably perfect miracle.&quot;</em> <br>
+— Walt Whitman
