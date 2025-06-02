@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When it comes to mastering a skill, time is the magic ingredient.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
+— Aristophanes
