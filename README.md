@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;My guiding principle is this: Guilt is never to be doubted. &quot;</em> <br>
+— Franz Kafka
