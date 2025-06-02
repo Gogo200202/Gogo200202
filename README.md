@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No matter what happens in life, never lose sight of who you are.&quot;</em> <br>
-— Yanni
+<em>&quot;It is those who concentrate on but one thing at a time who advance in this world.&quot;</em> <br>
+— Gary Keller
