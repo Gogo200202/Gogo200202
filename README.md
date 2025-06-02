@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;No matter what happens in life, never lose sight of who you are.&quot;</em> <br>
+— Yanni
