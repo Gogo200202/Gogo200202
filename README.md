@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is always risk, so learn to manage risk instead of avoiding it.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Character is destiny.&quot;</em> <br>
+— Heraclitus
