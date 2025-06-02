@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The present moment is filled with joy and happiness. If you are attentive, you will see it.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;To escape from the world means that one's mind is not concerned with the opinions of the world.&quot;</em> <br>
+— Dogen
