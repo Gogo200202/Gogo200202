@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Anything worth doing is worth doing slowly.&quot;</em> <br>
+— Mae West
