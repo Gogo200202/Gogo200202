@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Things turn out best for the people who make the best of the way things turn out.&quot;</em> <br>
-— John Wooden
+<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
+— Aristotle
