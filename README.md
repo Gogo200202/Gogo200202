@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless you're ashamed of yourself now and then, you're not honest.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Note that this journey is uniquely yours, no one elses. So the path has to be your own.&quot;</em> <br>
+— Jon Kabat-Zinn
