@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
-— Aristotle
+<em>&quot;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&quot;</em> <br>
+— William James
