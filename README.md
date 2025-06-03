@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Note that this journey is uniquely yours, no one elses. So the path has to be your own.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.&quot;</em> <br>
+— Alexandre Dumas
