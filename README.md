@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is the absence of the striving for happiness.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;It is better to be looked over than overlooked.&quot;</em> <br>
+— Mae West
