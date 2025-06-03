@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do good by stealth, and blush to find it fame.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.&quot;</em> <br>
+— Mark Twain
