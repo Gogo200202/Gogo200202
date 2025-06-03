@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to be looked over than overlooked.&quot;</em> <br>
-— Mae West
+<em>&quot;Imagination is everything. It is the preview of life's coming attractions.&quot;</em> <br>
+— Albert Einstein
