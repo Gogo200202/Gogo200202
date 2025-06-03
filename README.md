@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is everything. It is the preview of life's coming attractions.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Excellence is not a skill. It is an attitude. &quot;</em> <br>
+— Ralph Marston
