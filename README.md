@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Do good by stealth, and blush to find it fame.&quot;</em> <br>
+— Alexander Pope
