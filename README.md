@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do one thing every day that scares you.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Happiness is the absence of the striving for happiness.&quot;</em> <br>
+— Zhuangzi
