@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality of your life is determined by the quality of questions you ask.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The dead receive more flowers than the living because regret is stronger than gratitude.&quot;</em> <br>
+— Anne Frank
