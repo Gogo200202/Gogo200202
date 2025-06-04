@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life would be tragic if it weren't funny.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;Sometimes you have to travel a long way to find what is near.&quot;</em> <br>
+— Paulo Coelho
