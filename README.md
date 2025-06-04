@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;Play your part in life, but never forget that it is only a role.&quot;</em> <br>
+— Paramahansa Yogananda
