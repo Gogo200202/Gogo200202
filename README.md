@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes you have to travel a long way to find what is near.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;A hopeless man is a very desperate and dangerous man, almost a dead man.&quot;</em> <br>
+— Robert F. Kennedy
