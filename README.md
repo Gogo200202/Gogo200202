@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The key to success is failure.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;You are not only responsible for what you say, but also for what you do not say. &quot;</em> <br>
+— Martin Luther
