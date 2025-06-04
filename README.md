@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A hopeless man is a very desperate and dangerous man, almost a dead man.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;There is no one giant step that does it. It's a lot of little steps.&quot;</em> <br>
+— Peter A. Cohen
