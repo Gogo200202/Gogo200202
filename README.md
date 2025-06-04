@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anything becomes interesting if you look at it long enough..&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;The quality of your life is determined by the quality of questions you ask.&quot;</em> <br>
+— Tony Robbins
