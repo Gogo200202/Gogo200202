@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no one giant step that does it. It's a lot of little steps.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;The key to success is failure.&quot;</em> <br>
+— Michael Jordan
