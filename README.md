@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are not only responsible for what you say, but also for what you do not say. &quot;</em> <br>
-— Martin Luther
+<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
+— Bob Proctor
