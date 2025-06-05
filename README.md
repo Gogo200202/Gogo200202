@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perfection is not attainable, but if we chase perfection we can catch excellence.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;The idea of ourselves is our escape from the fact of what we really are.&quot;</em> <br>
+— Jiddu Krishnamurti
