@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Whatever you decide to do, make sure it makes you happy.&quot;</em> <br>
+— Paulo Coelho
