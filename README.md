@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are two things a person should never be angry at, what they can help, and what they cannot.&quot;</em> <br>
-— Plato
+<em>&quot;The best way to understanding is a few good examples.&quot;</em> <br>
+— Isaac Newton
