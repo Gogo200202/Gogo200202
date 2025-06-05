@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is an essence of when you are fearless, you become more creative.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;There are two things a person should never be angry at, what they can help, and what they cannot.&quot;</em> <br>
+— Plato
