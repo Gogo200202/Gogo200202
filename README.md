@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be true to yourself, help others, make each day your masterpiece&quot;</em> <br>
-— John Wooden
+<em>&quot;Perfection is not attainable, but if we chase perfection we can catch excellence.&quot;</em> <br>
+— Vince Lombardi
