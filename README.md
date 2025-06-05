@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Whenever you do a thing, act as if all the world were watching.&quot;</em> <br>
+— Thomas Jefferson
