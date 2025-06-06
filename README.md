@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;When you are content to be simply yourself and don't compare or compete, everybody will respect you. &quot;</em> <br>
+— Lao Tzu
