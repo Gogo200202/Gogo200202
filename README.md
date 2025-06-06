@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no greatness where there is not simplicity, goodness, and truth.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;The only way to make sense out of change is to plunge into it, move with it, and join the dance.&quot;</em> <br>
+— Alan Watts
