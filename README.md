@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The temptation to give up is strongest just before victory.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;There is no greatness where there is not simplicity, goodness, and truth.&quot;</em> <br>
+— Leo Tolstoy
