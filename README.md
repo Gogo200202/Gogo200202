@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some people find fault like there is a reward for it.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Anger exceeding limits causes fear and excessive kindness eliminates respect.&quot;</em> <br>
+— Euripides
