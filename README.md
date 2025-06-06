@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's possible in ways both large or small to make a difference in someone's life.&quot;</em> <br>
-— Yanni
+<em>&quot;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&quot;</em> <br>
+— Naval Ravikant
