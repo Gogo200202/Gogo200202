@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fortunate are those who take the first steps.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;There's more to life than being a passenger.&quot;</em> <br>
+— Amelia Earhart
