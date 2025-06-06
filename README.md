@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not try to be on the side of the majority, but live according to your inner laws.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Life is like stepping onto a boat which is about to sail out to sea and sink.&quot;</em> <br>
+— Shunryu Suzuki
