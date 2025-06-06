@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Do not try to be on the side of the majority, but live according to your inner laws.&quot;</em> <br>
+— Marcus Aurelius
