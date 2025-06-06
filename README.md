@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The destiny of man is in his own soul. &quot;</em> <br>
-— Herodotus
+<em>&quot;Some people find fault like there is a reward for it.  &quot;</em> <br>
+— Zig Ziglar
