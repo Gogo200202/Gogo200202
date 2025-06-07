@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't have anything worthwhile without difficulties.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;Don't gain the world and lose your soul. Wisdom is better than silver and gold.&quot;</em> <br>
+— Bob Marley
