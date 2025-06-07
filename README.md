@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never put off to tomorrow what you can do to-day.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;When you are able to employ your will always for constructive purposes, you become the controller of your destiny.&quot;</em> <br>
+— Paramahansa Yogananda
