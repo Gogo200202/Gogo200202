@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Your gift is something that you can do innately better than anything else.&quot;</em> <br>
+— Steve Harvey
