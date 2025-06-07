@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't gain the world and lose your soul. Wisdom is better than silver and gold.&quot;</em> <br>
-— Bob Marley
+<em>&quot;Empty yourself of everything - let the mind become still.&quot;</em> <br>
+— Lao Tzu
