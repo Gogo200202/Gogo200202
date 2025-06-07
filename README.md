@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Empty yourself of everything - let the mind become still.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Never put off to tomorrow what you can do to-day.&quot;</em> <br>
+— Thomas Jefferson
