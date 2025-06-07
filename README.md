@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Wrong turns are as important as right turns. More important, sometimes.&quot;</em> <br>
+— Richard Bach
