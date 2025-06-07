@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your neighbor is the man who needs you.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.&quot;</em> <br>
+— Josh Waitzkin
