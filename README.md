@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is what happens to you while you're busy making other plans.&quot;</em> <br>
-— John Lennon
+<em>&quot;Your neighbor is the man who needs you.&quot;</em> <br>
+— Elbert Hubbard
