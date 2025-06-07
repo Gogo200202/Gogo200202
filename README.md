@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
-— Heraclitus
+<em>&quot;You can't have anything worthwhile without difficulties.&quot;</em> <br>
+— Harry S. Truman
