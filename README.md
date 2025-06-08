@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is peace even in the storm.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
+— Aristotle
