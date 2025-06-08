@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Death is not an ending. It is a transformation.&quot;</em> <br>
+— Ming-Dao Deng
