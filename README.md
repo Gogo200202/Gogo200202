@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;First say to yourself what you would be; and then do what you have to do.&quot;</em> <br>
-— Epictetus
+<em>&quot;Everyone thinks of changing the world, but no one thinks of changing himself.&quot;</em> <br>
+— Leo Tolstoy
