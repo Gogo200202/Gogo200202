@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
+— Andrew Carnegie
