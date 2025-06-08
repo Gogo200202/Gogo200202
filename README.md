@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Be willing to be a beginner every single morning.&quot;</em> <br>
+— Meister Eckhart
