@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What the mind can conceive and believe, and the heart desire, you can achieve.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
+— Audrey Hepburn
