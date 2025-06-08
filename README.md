@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;What the mind can conceive and believe, and the heart desire, you can achieve.&quot;</em> <br>
+— Norman Vincent Peale
