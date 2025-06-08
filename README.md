@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
-— Aristotle
+<em>&quot;First say to yourself what you would be; and then do what you have to do.&quot;</em> <br>
+— Epictetus
