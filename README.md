@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.&quot;</em> <br>
+— Paramahansa Yogananda
