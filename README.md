@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone thinks of changing the world, but no one thinks of changing himself.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;If you do what you've always done, you'll get what you've always gotten.&quot;</em> <br>
+— Tony Robbins
