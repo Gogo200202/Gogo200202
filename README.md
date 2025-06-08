@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be willing to be a beginner every single morning.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;There is peace even in the storm.&quot;</em> <br>
+— Vincent van Gogh
