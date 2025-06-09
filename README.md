@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest adventure is what lies ahead.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;What the eye doesn't see and the mind doesn't know, doesn't exist.&quot;</em> <br>
+— D. H. Lawrence
