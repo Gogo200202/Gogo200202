@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The older you get, the better you get. Unless you're a banana.&quot;</em> <br>
-— Betty White
+<em>&quot;The successful warrior is the average man, with laser-like focus.&quot;</em> <br>
+— Bruce Lee
