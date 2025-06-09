@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A scientific man ought to have no wishes, no affections, - a mere heart of stone.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
+— Carlos Ruiz Zafon
