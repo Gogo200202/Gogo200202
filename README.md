@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Quality is more important than quantity. One home run is much better than two doubles.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;A scientific man ought to have no wishes, no affections, - a mere heart of stone.&quot;</em> <br>
+— Charles Darwin
