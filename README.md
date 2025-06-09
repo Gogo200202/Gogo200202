@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&quot;</em> <br>
+— Yanni
