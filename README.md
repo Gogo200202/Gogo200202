@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Who you are is always right.&quot;</em> <br>
+— Ming-Dao Deng
