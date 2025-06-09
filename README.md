@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Instead of thinking outside the box, get rid of the box.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Quality is more important than quantity. One home run is much better than two doubles.&quot;</em> <br>
+— Steve Jobs
