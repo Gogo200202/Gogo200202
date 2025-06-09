@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&quot;</em> <br>
-— Yanni
+<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
+— Kahlil Gibran
