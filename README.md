@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Although the world is full of suffering, it is also full of the overcoming of it.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!&quot;</em> <br>
+— Alfred Adler
