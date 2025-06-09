@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Who you are is always right.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;If you correct your mind, the rest of your life will fall into place.&quot;</em> <br>
+— Lao Tzu
