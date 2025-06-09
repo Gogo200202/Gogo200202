@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The successful warrior is the average man, with laser-like focus.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;The biggest adventure is what lies ahead.&quot;</em> <br>
+— J.R.R. Tolkien
