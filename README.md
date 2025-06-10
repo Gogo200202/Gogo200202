@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't program yourself, life will program you.&quot;</em> <br>
-— Les Brown
+<em>&quot;Behind every cloud is another cloud.&quot;</em> <br>
+— Judy Garland
