@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is your attitude, not your aptitude, that determines your altitude.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;That some achieve great success is proof to all that others can achieve it as well.&quot;</em> <br>
+— Abraham Lincoln
