@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is from the inside out. When you shift on the inside, life shifts on the outside.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Identification with our mind causes thought to become compulsive.&quot;</em> <br>
+— Eckhart Tolle
