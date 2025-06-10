@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Adventure is worthwhile in itself.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Life is love and love is life.&quot;</em> <br>
+— Elvis Presley
