@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;A heart is not judged by how much you love, but by how much you are loved by others.&quot;</em> <br>
+— Judy Garland
