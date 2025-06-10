@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is love and love is life.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;It is your attitude, not your aptitude, that determines your altitude.&quot;</em> <br>
+— Zig Ziglar
