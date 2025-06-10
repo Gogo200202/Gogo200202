@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The guest will judge better of a feast than the cook.&quot;</em> <br>
-— Aristotle
+<em>&quot;Even if you're sure you can win, be careful that you can live with what you lose.&quot;</em> <br>
+— Gary Keller
