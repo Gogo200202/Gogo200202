@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is during our darkest moments that we must focus to see the light.&quot;</em> <br>
-— Aristotle
+<em>&quot;Your heart is full of fertile seeds, waiting to sprout.&quot;</em> <br>
+— Morihei Ueshiba
