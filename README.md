@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A heart is not judged by how much you love, but by how much you are loved by others.&quot;</em> <br>
-— Judy Garland
+<em>&quot;One must be poor to know the luxury of giving.&quot;</em> <br>
+— George Eliot
