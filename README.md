@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;That some achieve great success is proof to all that others can achieve it as well.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Life is from the inside out. When you shift on the inside, life shifts on the outside.&quot;</em> <br>
+— Kamal Ravikant
