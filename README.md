@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your heart is full of fertile seeds, waiting to sprout.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;The guest will judge better of a feast than the cook.&quot;</em> <br>
+— Aristotle
