@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One must be poor to know the luxury of giving.&quot;</em> <br>
-— George Eliot
+<em>&quot;It is during our darkest moments that we must focus to see the light.&quot;</em> <br>
+— Aristotle
