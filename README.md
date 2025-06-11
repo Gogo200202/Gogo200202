@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;Success and failure come and go, but don't let them define you. It's who you are that matters.&quot;</em> <br>
+— Kamal Ravikant
