@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success and failure come and go, but don't let them define you. It's who you are that matters.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;For every minute you are angry you lose sixty seconds of happiness.&quot;</em> <br>
+— Ralph Waldo Emerson
