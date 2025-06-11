@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a balance of holding on and letting go.&quot;</em> <br>
-— Rumi
+<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
+— Marilyn Monroe
