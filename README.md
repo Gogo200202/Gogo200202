@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
+— Og Mandino
