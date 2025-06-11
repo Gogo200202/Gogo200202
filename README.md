@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Living life in style also means living a life of balance.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Never was anything great achieved without danger.&quot;</em> <br>
+— Niccolo Machiavelli
