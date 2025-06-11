@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is never final, failure is never fatal. It's courage that counts.&quot;</em> <br>
-— John Wooden
+<em>&quot;When you reach the end of your rope, tie a knot in it and hang on.&quot;</em> <br>
+— Franklin D. Roosevelt
