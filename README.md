@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For every minute you are angry you lose sixty seconds of happiness.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Success is never final, failure is never fatal. It's courage that counts.&quot;</em> <br>
+— John Wooden
