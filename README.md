@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.&quot;</em> <br>
+— Shunryu Suzuki
