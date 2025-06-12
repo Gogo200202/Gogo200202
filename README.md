@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What you seek is seeking you.&quot;</em> <br>
-— Rumi
+<em>&quot;I would rather be a little nobody, then to be an evil somebody.&quot;</em> <br>
+— Abraham Lincoln
