@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I would rather be a little nobody, then to be an evil somebody.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&quot;</em> <br>
+— Thich Nhat Hanh
