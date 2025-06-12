@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It takes a very long time to become young.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Do all things with love.&quot;</em> <br>
+— Og Mandino
