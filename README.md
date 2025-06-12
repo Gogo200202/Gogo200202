@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let us rather run the risk of wearing out than rusting out.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.&quot;</em> <br>
+— Celestine Chua
