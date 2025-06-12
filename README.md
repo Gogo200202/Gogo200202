@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't think money does everything or you are going to end up doing everything for money.&quot;</em> <br>
-— Voltaire
+<em>&quot;When reading, only read. When eating, only eat. When thinking, only think.&quot;</em> <br>
+— Seungsahn
