@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Charms strike the sight, but merit wins the soul.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;It takes a very long time to become young.&quot;</em> <br>
+— Pablo Picasso
