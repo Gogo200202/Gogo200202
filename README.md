@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;You Create Your Own Present By What You Give Your Attention To Today.&quot;</em> <br>
+— Spencer Johnson
