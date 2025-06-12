@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do all things with love.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Let us rather run the risk of wearing out than rusting out.&quot;</em> <br>
+— Theodore Roosevelt
