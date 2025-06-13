@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quicker you let go of old cheese, the sooner you find new cheese.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.&quot;</em> <br>
+— Sun Tzu
