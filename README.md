@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
-— Huang Po
+<em>&quot;Hope means hoping when everything seems hopeless.&quot;</em> <br>
+— Gilbert Chesterton
