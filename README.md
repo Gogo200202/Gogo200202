@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Help others and give something back.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;All life is an experiment. The more experiments you make, the better.&quot;</em> <br>
+— Ralph Waldo Emerson
