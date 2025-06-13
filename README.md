@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is like reaching an important birthday and finding you're exactly the same.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;Nothing is hopeless; we must hope for everything.&quot;</em> <br>
+— Euripides
