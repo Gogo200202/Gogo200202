@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can't argue both sides, you can't argue.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;There is no greater agony than bearing an untold story inside you.&quot;</em> <br>
+— Maya Angelou
