@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When reading, only read. When eating, only eat. When thinking, only think.&quot;</em> <br>
-— Seungsahn
+<em>&quot;Success is like reaching an important birthday and finding you're exactly the same.&quot;</em> <br>
+— Audrey Hepburn
