@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope means hoping when everything seems hopeless.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Listen to what you know instead of what you fear.&quot;</em> <br>
+— Richard Bach
