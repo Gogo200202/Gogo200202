@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no greater agony than bearing an untold story inside you.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Life begins where fear ends.&quot;</em> <br>
+— Osho
