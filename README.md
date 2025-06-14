@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The key to immortality is first living a life worth remembering. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;No matter what happens, always be yourself.&quot;</em> <br>
+— Dale Carnegie
