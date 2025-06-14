@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
+— Heraclitus
