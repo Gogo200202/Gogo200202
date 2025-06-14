@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your world is a living expression of how you are using and have used your mind.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Every man is guilty of all the good he did not do. &quot;</em> <br>
+— Voltaire
