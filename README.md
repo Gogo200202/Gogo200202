@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every man is guilty of all the good he did not do. &quot;</em> <br>
-— Voltaire
+<em>&quot;The key to immortality is first living a life worth remembering. &quot;</em> <br>
+— Bruce Lee
