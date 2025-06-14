@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You only live once, but if you do it right, once is enough.&quot;</em> <br>
-— Mae West
+<em>&quot;If there were no God, there would be no atheists.&quot;</em> <br>
+— Gilbert Chesterton
