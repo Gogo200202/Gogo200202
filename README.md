@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is not a four letter word...but often your reaction to it is!&quot;</em> <br>
-— Jeffrey Gitomer
+<em>&quot;Normal is the average of deviance.&quot;</em> <br>
+— Rita Mae Brown
