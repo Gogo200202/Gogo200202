@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A clear conscience is the sure sign of a bad memory.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Your world is a living expression of how you are using and have used your mind.&quot;</em> <br>
+— Earl Nightingale
