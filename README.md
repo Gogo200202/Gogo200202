@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before you can see the Light, you have to deal with the darkness.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Everyone sees what you appear to be, few experience what you really are.&quot;</em> <br>
+— Niccolo Machiavelli
