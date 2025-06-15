@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no sadder sight than a young pessimist.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Nothing is more creative...nor destructive...than a brilliant mind with a purpose.&quot;</em> <br>
+— Dan Brown
