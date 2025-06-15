@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who are possessed by nothing possess everything.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;You can't wait for inspiration. You have to go after it with a club. &quot;</em> <br>
+— Jack London
