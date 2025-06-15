@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is ignorance that causes most mistakes.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;If you do not get the chills when you set your goal you're not setting big enough goals.&quot;</em> <br>
+— Bob Proctor
