@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only place success comes before work is in the dictionary.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Before you can see the Light, you have to deal with the darkness.&quot;</em> <br>
+— Dan Millman
