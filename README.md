@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.&quot;</em> <br>
-— Stephen King
+<em>&quot;The only place success comes before work is in the dictionary.&quot;</em> <br>
+— Vince Lombardi
