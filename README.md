@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not get the chills when you set your goal you're not setting big enough goals.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;Take care of your body. It's the only place you have to live.&quot;</em> <br>
+— Jim Rohn
