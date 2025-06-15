@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Often in the real world, it's not the smart that get ahead, but the bold.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;There is no sadder sight than a young pessimist.&quot;</em> <br>
+— Mark Twain
