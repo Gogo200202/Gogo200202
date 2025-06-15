@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't wait for inspiration. You have to go after it with a club. &quot;</em> <br>
-— Jack London
+<em>&quot;It is our experiences that mold us into who we are...during times of adversity our true character will show.&quot;</em> <br>
+— Unknown
