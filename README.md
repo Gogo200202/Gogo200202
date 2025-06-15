@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is our experiences that mold us into who we are...during times of adversity our true character will show.&quot;</em> <br>
-— Unknown
+<em>&quot;There are as many opinions as there are experts.&quot;</em> <br>
+— Franklin D. Roosevelt
