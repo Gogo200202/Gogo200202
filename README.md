@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is more creative...nor destructive...than a brilliant mind with a purpose.&quot;</em> <br>
-— Dan Brown
+<em>&quot;The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.&quot;</em> <br>
+— Stephen King
