@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are as many opinions as there are experts.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;Death is not sad; the sad thing is that most people don't really live at all.&quot;</em> <br>
+— Dan Millman
