@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every man is guilty of all the good he did not do. &quot;</em> <br>
-— Voltaire
+<em>&quot;It is ignorance that causes most mistakes.&quot;</em> <br>
+— Harry S. Truman
