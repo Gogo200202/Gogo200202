@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death is not sad; the sad thing is that most people don't really live at all.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Often in the real world, it's not the smart that get ahead, but the bold.&quot;</em> <br>
+— Robert Kiyosaki
