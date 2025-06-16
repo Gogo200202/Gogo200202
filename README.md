@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone sees what you appear to be, few experience what you really are.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;Lust, anger and greed are the three gates to self-destructive hell.&quot;</em> <br>
+— Bhagavad Gita
