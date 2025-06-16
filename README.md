@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The number one cause of failure is the fear of failure.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;The power of human thought grows exponentially with the number of minds that share that thought.&quot;</em> <br>
+— Dan Brown
