@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everybody has talent, but ability takes hard work.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Keep your dreams, you never know when you might need them.&quot;</em> <br>
+— Carlos Ruiz Zafon
