@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Persistence is very important. You should not give up unless you are forced to give up.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Everybody has talent, but ability takes hard work.&quot;</em> <br>
+— Michael Jordan
