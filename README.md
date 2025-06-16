@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you correct your mind, the rest of your life will fall into place.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;There is no value in anything until it is finished. &quot;</em> <br>
+— Genghis Khan
