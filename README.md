@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I never said it would be easy, I only said it would be worth it.&quot;</em> <br>
-— Mae West
+<em>&quot;Loving thoughts and actions are clearly beneficial for our physical and mental health.&quot;</em> <br>
+— Dalai Lama
