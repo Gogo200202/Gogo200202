@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no value in anything until it is finished. &quot;</em> <br>
-— Genghis Khan
+<em>&quot;Wise men speak because they have something to say; Fools because they have to say something.&quot;</em> <br>
+— Plato
