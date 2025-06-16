@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never fear quarrels, but seek hazardous adventures.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
+— Albus Dumbledore
