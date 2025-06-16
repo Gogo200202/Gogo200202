@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Start the day with love, spend the day with love, fill the day with love and end the day with love.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;I never said it would be easy, I only said it would be worth it.&quot;</em> <br>
+— Mae West
