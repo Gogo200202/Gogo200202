@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The power of human thought grows exponentially with the number of minds that share that thought.&quot;</em> <br>
-— Dan Brown
+<em>&quot;Start the day with love, spend the day with love, fill the day with love and end the day with love.&quot;</em> <br>
+— Sathya Sai Baba
