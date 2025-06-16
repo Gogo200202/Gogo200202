@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&quot;</em> <br>
+— Brian Tracy
