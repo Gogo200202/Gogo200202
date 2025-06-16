@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wise men speak because they have something to say; Fools because they have to say something.&quot;</em> <br>
-— Plato
+<em>&quot;The number one cause of failure is the fear of failure.&quot;</em> <br>
+— Steve Harvey
