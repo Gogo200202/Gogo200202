@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;Nothing ever goes away until it has taught us what we need to know.&quot;</em> <br>
+— Pema Chodron
