@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.&quot;</em> <br>
-— Gary Keller
+<em>&quot;It is not the knowing that is difficult, but the doing. &quot;</em> <br>
+— Chinese Proverb
