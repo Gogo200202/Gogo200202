@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&quot;</em> <br>
+— Og Mandino
