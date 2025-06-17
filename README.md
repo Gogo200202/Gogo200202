@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A person who does not read is no better than one cannot read.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Begin at once to live, and count each separate day as a separate life.  &quot;</em> <br>
+— Seneca
