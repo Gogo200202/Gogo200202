@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.&quot;</em> <br>
+— Earl Nightingale
