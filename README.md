@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;Life is a series of choices and all we can do is make them.&quot;</em> <br>
+— Kamal Ravikant
