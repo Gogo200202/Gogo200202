@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learning is a weightless treasure you can always carry easily.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;A person who does not read is no better than one cannot read.&quot;</em> <br>
+— Earl Nightingale
