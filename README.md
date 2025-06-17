@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&quot;</em> <br>
-— Robin Williams
+<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
+— Leo Tolstoy
