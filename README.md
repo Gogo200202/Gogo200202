@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If your mind is empty, it is always ready for anything, it is open to everything.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
+— Billie Jean King
