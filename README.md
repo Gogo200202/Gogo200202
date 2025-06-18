@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not how much money you make, it's how much money you keep.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The salvation of the world lies in the human heart.&quot;</em> <br>
+— Vaclav Havel
