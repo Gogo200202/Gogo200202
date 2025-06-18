@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Music is like creating an emotional painting. The sounds are the colors.&quot;</em> <br>
-— Yanni
+<em>&quot;Life may be full of pain but that's not an excuse to give up.&quot;</em> <br>
+— Arnold Schwarzenegger
