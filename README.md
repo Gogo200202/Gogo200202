@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For every minute you are angry you lose sixty seconds of happiness.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;When you have a dream, you've got to grab it and never let go.&quot;</em> <br>
+— Carol Burnett
