@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winning isn't everything, but wanting to win is.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;It's not how much money you make, it's how much money you keep.&quot;</em> <br>
+— Robert Kiyosaki
