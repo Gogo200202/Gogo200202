@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you've got nothing, you've got nothing to lose.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;A gentleman is one who puts more into the world than he takes out.&quot;</em> <br>
+— George Bernard Shaw
