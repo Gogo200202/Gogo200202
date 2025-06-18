@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even if you're sure you can win, be careful that you can live with what you lose.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Setting goals is the first step in turning the invisible into the visible.&quot;</em> <br>
+— Tony Robbins
