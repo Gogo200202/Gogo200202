@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you see someone without a smile give them one of yours.&quot;</em> <br>
-— Unknown
+<em>&quot;Winning isn't everything, but wanting to win is.&quot;</em> <br>
+— Vince Lombardi
