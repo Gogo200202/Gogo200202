@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A gentleman is one who puts more into the world than he takes out.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Anything worth doing is worth doing slowly.&quot;</em> <br>
+— Mae West
