@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Public opinion is the worst of all opinions.&quot;</em> <br>
+— Nicolas Chamfort
