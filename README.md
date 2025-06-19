@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're brave enough to say goodbye, life will reward you with a new hello.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;People become attached to their burdens sometimes more than the burdens are attached to them.&quot;</em> <br>
+— George Bernard Shaw
