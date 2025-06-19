@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Guilt is perhaps the most painful companion of death.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;If you're brave enough to say goodbye, life will reward you with a new hello.&quot;</em> <br>
+— Paulo Coelho
