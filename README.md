@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must be free not because we claim freedom, but because we practice it.&quot;</em> <br>
-— William Faulkner
+<em>&quot;In order to attain the impossible, one must attempt the absurd.&quot;</em> <br>
+— Miguel de Cervantes
