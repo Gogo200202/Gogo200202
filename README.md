@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People become attached to their burdens sometimes more than the burdens are attached to them.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Your success and happiness lie in you.&quot;</em> <br>
+— Helen Keller
