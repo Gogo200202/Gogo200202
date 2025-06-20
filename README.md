@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enjoy life. There's plenty of time to be dead.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Life is from the inside out. When you shift on the inside, life shifts on the outside.&quot;</em> <br>
+— Kamal Ravikant
