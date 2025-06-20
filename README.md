@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
-— Euripides
+<em>&quot;The meaning of life is to find your gift. The purpose of life is to give it away.&quot;</em> <br>
+— Pablo Picasso
