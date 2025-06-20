@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is not just the passing of time. Life is the collection of experiences and their intensity.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Life is either a daring adventure, or nothing.&quot;</em> <br>
+— Helen Keller
