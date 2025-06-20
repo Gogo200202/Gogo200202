@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
+— Euripides
