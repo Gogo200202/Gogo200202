@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It does not do to dwell on dreams and forget to live, remember that.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;A creative man is motivated by the desire to achieve, not by the desire to beat others.&quot;</em> <br>
+— Ayn Rand
