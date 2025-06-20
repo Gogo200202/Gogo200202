@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
+— Charles Darwin
