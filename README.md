@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A creative man is motivated by the desire to achieve, not by the desire to beat others.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;The degree of responsibility you take for your life determines how much change you can create in it.&quot;</em> <br>
+— Celestine Chua
