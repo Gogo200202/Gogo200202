@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no mistakes in life, only lessons.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&quot;</em> <br>
+— Heraclitus
