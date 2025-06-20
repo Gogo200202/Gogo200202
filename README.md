@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Enjoy life. There's plenty of time to be dead.&quot;</em> <br>
+— Hans Christian Andersen
