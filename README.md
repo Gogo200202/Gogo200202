@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes adversity is what you need to face in order to become successful.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&quot;</em> <br>
+— Henry Ford
