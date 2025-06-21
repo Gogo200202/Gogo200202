@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't explain your philosophy. Embody it.&quot;</em> <br>
-— Epictetus
+<em>&quot;A goal is a dream with a deadline.&quot;</em> <br>
+— Napoleon Hill
