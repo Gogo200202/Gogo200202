@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest gift that you can give to others is the gift of unconditional love and acceptance. &quot;</em> <br>
-— Brian Tracy
+<em>&quot;People are not disturbed by things, but by the views they take of them.&quot;</em> <br>
+— Epictetus
