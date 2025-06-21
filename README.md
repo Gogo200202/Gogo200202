@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mastering others is strength, mastering yourself is true power.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Optimism is the one quality more associated with success and happiness than any other.&quot;</em> <br>
+— Brian Tracy
