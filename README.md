@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Mastering others is strength, mastering yourself is true power.&quot;</em> <br>
+— Lao Tzu
