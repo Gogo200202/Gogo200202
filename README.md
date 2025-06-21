@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you have to make a choice and don't make it, that is in itself a choice.&quot;</em> <br>
-— William James
+<em>&quot;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&quot;</em> <br>
+— Franklin D. Roosevelt
