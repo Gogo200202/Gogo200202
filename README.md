@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. &quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Sometimes adversity is what you need to face in order to become successful.&quot;</em> <br>
+— Zig Ziglar
