@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. &quot;</em> <br>
+— Eckhart Tolle
