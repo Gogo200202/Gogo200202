@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;Those who cannot change their minds cannot change anything.&quot;</em> <br>
+— George Bernard Shaw
