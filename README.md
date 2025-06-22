@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is nothing more truly artistic than to love people.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;The person who says something is impossible should not interrupt the person who is doing it.&quot;</em> <br>
+— Chinese Proverb
