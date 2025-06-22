@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you aren't sure which way to do something, do it both ways and see which works better.&quot;</em> <br>
-— John Carmack
+<em>&quot;Keep your eyes on the stars, but remember to keep your feet on the ground.&quot;</em> <br>
+— Theodore Roosevelt
