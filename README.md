@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Blessed is he who expects nothing, for he shall never be disappointed.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;There is nothing more truly artistic than to love people.&quot;</em> <br>
+— Vincent van Gogh
