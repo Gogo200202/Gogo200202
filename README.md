@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nature does not hurry, yet everything is accomplished.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Action may not always bring happiness, but there is no happiness without action.&quot;</em> <br>
+— William James
