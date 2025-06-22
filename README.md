@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Ability is a poor man's wealth.&quot;</em> <br>
-— John Wooden
+<em>&quot;The biggest adventure is what lies ahead.&quot;</em> <br>
+— J.R.R. Tolkien
