@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learning is a weightless treasure you can always carry easily.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;A very little key will open a very heavy door.&quot;</em> <br>
+— Charles Dickens
