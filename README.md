@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;I must also have a dark side if I am to be whole.&quot;</em> <br>
+— Carl Jung
