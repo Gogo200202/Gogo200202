@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A very little key will open a very heavy door.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
+— Thomas Edison
