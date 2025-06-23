@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All religions, arts and sciences are branches of the same tree. &quot;</em> <br>
-— Albert Einstein
+<em>&quot;Be grateful for what you have now, and nothing should be taken for granted.&quot;</em> <br>
+— Roy T. Bennett
