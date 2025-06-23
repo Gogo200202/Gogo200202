@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be grateful for what you have now, and nothing should be taken for granted.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;People who have goals succeed because they know where they're going. It's that simple.&quot;</em> <br>
+— Earl Nightingale
