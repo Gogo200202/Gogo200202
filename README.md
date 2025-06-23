@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. &quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Many people spend more time looking at their failures than focusing on their successes.&quot;</em> <br>
+— Lolly Daskal
