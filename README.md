@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You Create Your Own Present By What You Give Your Attention To Today.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Where words fail, music speaks.&quot;</em> <br>
+— Hans Christian Andersen
