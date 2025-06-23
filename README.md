@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to be looked over than overlooked.&quot;</em> <br>
-— Mae West
+<em>&quot;You Create Your Own Present By What You Give Your Attention To Today.&quot;</em> <br>
+— Spencer Johnson
