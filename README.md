@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What do we live for, if it is not to make life less difficult for each other?&quot;</em> <br>
-— George Eliot
+<em>&quot;All religions, arts and sciences are branches of the same tree. &quot;</em> <br>
+— Albert Einstein
