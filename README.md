@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our life isn't how much we can take out, but how much we can put in.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;If you want to achieve greatness stop asking for permission.&quot;</em> <br>
+— Unknown
