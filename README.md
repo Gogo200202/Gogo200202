@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I will not walk backward in life.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Whenever you find yourself on the side of the majority, it is time to reform.&quot;</em> <br>
+— Mark Twain
