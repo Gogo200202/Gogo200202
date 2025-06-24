@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faithless is he that says farewell when the road darkens.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Everything will be ok in the end. If it's not ok, it's not the end.&quot;</em> <br>
+— John Lennon
