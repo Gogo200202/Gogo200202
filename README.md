@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The Only Thing That Is Constant Is Change&quot;</em> <br>
-— Heraclitus
+<em>&quot;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&quot;</em> <br>
+— Alan Watts
