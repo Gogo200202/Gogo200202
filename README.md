@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only by acceptance of the past, can you alter it.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Decide what your truth is. Then live it.&quot;</em> <br>
+— Kamal Ravikant
