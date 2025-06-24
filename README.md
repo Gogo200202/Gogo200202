@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whenever you find yourself on the side of the majority, it is time to reform.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Every limit is a beginning as well as an ending.&quot;</em> <br>
+— George Eliot
