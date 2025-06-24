@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Decide what your truth is. Then live it.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.&quot;</em> <br>
+— Kahlil Gibran
