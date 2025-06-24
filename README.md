@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confuse them with your silence and amaze them with your actions.&quot;</em> <br>
-— Unknown
+<em>&quot;I will not walk backward in life.&quot;</em> <br>
+— J.R.R. Tolkien
