@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality of your life is determined by the quality of questions you ask.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Our life isn't how much we can take out, but how much we can put in.  &quot;</em> <br>
+— Estee Lauder
