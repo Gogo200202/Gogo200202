@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything will be ok in the end. If it's not ok, it's not the end.&quot;</em> <br>
-— John Lennon
+<em>&quot;People become attached to their burdens sometimes more than the burdens are attached to them.&quot;</em> <br>
+— George Bernard Shaw
