@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is not the absence of problems, it's the ability to deal with them.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Too many of us are not living our dreams because we are living our fears.&quot;</em> <br>
+— Les Brown
