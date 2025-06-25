@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is too short to waste your time on people who don't respect, appreciate, and value you.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Happiness is not the absence of problems, it's the ability to deal with them.&quot;</em> <br>
+— Steve Maraboli
