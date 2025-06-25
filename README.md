@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is the absence of the striving for happiness.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;If you want peace, you won't get it with violence.&quot;</em> <br>
+— John Lennon
