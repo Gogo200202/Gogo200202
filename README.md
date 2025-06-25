@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future will be shaped by those willing to commit their minds and their bodies to the task.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Human beings can alter their lives by altering their attitudes of mind.&quot;</em> <br>
+— William James
