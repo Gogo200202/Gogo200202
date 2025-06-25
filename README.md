@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whether you have a problem in your life or not depends upon your own attitude, your own understanding.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;Definiteness of purpose is the starting point of all achievement. &quot;</em> <br>
+— W. Clement Stone
