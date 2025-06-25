@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Definiteness of purpose is the starting point of all achievement. &quot;</em> <br>
-— W. Clement Stone
+<em>&quot;The future will be shaped by those willing to commit their minds and their bodies to the task.&quot;</em> <br>
+— Robert F. Kennedy
