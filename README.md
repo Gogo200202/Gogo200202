@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The difference between impossible and possible is a willing heart.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&quot;</em> <br>
+— Alan Watts
