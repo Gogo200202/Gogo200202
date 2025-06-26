@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who laughs at himself never runs out of things to laugh at.&quot;</em> <br>
-— Epictetus
+<em>&quot;Even a hare will bite when it is cornered. &quot;</em> <br>
+— Chinese Proverb
