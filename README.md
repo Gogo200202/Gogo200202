@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Know yourself and you will win all battles.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;A man's worth is no greater than his ambitions.&quot;</em> <br>
+— Marcus Aurelius
