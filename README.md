@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wisdom is the oneness of mind that guides and permeates all things.&quot;</em> <br>
-— Heraclitus
+<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
+— Steve Harvey
