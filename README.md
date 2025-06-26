@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let what you cannot do interfere with what you can do.&quot;</em> <br>
-— John Wooden
+<em>&quot;Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.&quot;</em> <br>
+— Jeffrey Gitomer
