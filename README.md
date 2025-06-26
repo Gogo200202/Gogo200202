@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The dream is free, but the hustle is sold separately.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Don't let what you cannot do interfere with what you can do.&quot;</em> <br>
+— John Wooden
