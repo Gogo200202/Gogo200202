@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear is a natural reaction to moving closer to the truth.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;Learn from the mistakes of others. You can't live long enough to make them all yourself.&quot;</em> <br>
+— Eleanor Roosevelt
