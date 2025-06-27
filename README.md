@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I can think of nothing less pleasurable than a life devoted to pleasure.&quot;</em> <br>
-— John D. Rockefeller
+<em>&quot;Stress happens when the mind resists what is.&quot;</em> <br>
+— Dan Millman
