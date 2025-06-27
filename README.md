@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;None of us can change our yesterdays but all of us can change our tomorrows.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Give so much away people insist on paying you.&quot;</em> <br>
+— Jack Butcher
