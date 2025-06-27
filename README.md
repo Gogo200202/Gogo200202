@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn from the mistakes of others. You can't live long enough to make them all yourself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Smile, breathe and go slowly.&quot;</em> <br>
+— Thich Nhat Hanh
