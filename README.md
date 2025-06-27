@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Presents are made for the pleasure of who gives them, not the merits of who receives them.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Education breeds confidence. Confidence breeds hope. Hope breeds peace.&quot;</em> <br>
+— Confucius
