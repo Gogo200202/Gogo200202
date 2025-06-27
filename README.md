@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;From morning till night, we should never rely on a single thing.&quot;</em> <br>
+— Huang Po
