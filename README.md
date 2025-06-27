@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are not stuck where you are unless you decide to be.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;A hut full of laughter is richer than a palace full of sadness.&quot;</em> <br>
+— Zen Proverb
