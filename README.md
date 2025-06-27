@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A hut full of laughter is richer than a palace full of sadness.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Presents are made for the pleasure of who gives them, not the merits of who receives them.&quot;</em> <br>
+— Carlos Ruiz Zafon
