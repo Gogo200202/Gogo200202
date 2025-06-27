@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Smile, breathe and go slowly.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;You are not stuck where you are unless you decide to be.  &quot;</em> <br>
+— Wayne Dyer
