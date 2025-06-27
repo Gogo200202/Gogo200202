@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;From morning till night, we should never rely on a single thing.&quot;</em> <br>
-— Huang Po
+<em>&quot;I can think of nothing less pleasurable than a life devoted to pleasure.&quot;</em> <br>
+— John D. Rockefeller
