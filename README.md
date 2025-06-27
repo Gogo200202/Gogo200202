@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stress happens when the mind resists what is.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Forgive yourself for your faults and your mistakes and move on.&quot;</em> <br>
+— Les Brown
