@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Education breeds confidence. Confidence breeds hope. Hope breeds peace.&quot;</em> <br>
-— Confucius
+<em>&quot;You have to make time, even for something as universal as staring at the stars.&quot;</em> <br>
+— W.P. Kinsella
