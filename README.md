@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Those who bring sunshine into the lives of others cannot keep it from themselves.&quot;</em> <br>
+— James Matthew Barrie
