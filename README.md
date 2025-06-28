@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winners never quit and quitters never win.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.&quot;</em> <br>
+— Henry David Thoreau
