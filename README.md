@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Within every desire is the mechanics of its fulfillment.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Enjoy life. There's plenty of time to be dead.&quot;</em> <br>
+— Hans Christian Andersen
