@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death walks faster than the wind and never returns what he has taken.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;There is no limitations except those we create for ourselves.&quot;</em> <br>
+— Lolly Daskal
