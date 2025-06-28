@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No idea, no matter how good, will work if it doesn't get used.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.&quot;</em> <br>
+— Sonia Ricotti
