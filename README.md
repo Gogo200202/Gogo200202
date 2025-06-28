@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The weak can never forgive. Forgiveness is the attribute of the strong.&quot;</em> <br>
+— Mahatma Gandhi
