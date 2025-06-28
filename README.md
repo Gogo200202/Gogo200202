@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything that is done in the world is done by hope.&quot;</em> <br>
-— Martin Luther
+<em>&quot;Within every desire is the mechanics of its fulfillment.&quot;</em> <br>
+— Deepak Chopra
