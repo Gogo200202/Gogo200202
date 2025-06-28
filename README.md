@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only man who never makes mistakes is the man who never does anything.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Winners never quit and quitters never win.&quot;</em> <br>
+— Vince Lombardi
