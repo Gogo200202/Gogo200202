@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only limits in your life are those that you set yourself.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;The only man who never makes mistakes is the man who never does anything.&quot;</em> <br>
+— Theodore Roosevelt
