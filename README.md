@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your heart is full of fertile seeds, waiting to sprout.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Death walks faster than the wind and never returns what he has taken.&quot;</em> <br>
+— Hans Christian Andersen
