@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;Your heart is full of fertile seeds, waiting to sprout.&quot;</em> <br>
+— Morihei Ueshiba
