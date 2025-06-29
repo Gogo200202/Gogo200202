@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;It doesn't matter where you are coming from. All that matters is where you are going. &quot;</em> <br>
+— Brian Tracy
