@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do something worth remembering.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;Don´t hesitate or allow yourself to make excuses. Just get out and do it.&quot;</em> <br>
+— Christopher McCandless
