@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Small men think they are small; great men never know they are great. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
+— Wayne Dyer
