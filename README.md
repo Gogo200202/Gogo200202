@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Today you are you, that is truer than true. There is no one alive who is you-er than you.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Love never keeps a man from pursuing his destiny.&quot;</em> <br>
+— Paulo Coelho
