@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Teachers open the door. You enter by yourself. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Whatever your heart clings to and confides in, that is really your God.&quot;</em> <br>
+— Martin Luther
