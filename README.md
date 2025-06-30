@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Numbing the pain for a while will only make it worse when you finally feel it.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;We shape clay into a pot, but it is the emptiness inside that holds whatever we want.&quot;</em> <br>
+— Lao Tzu
