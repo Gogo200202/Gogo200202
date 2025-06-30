@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make improvements, not excuses. Seek respect, not attention.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;It is truth that liberates, not your effort to be free.&quot;</em> <br>
+— Jiddu Krishnamurti
