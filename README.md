@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Numbing the pain for a while will only make it worse when you finally feel it.&quot;</em> <br>
+— Albus Dumbledore
