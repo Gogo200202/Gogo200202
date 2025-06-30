@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We shape clay into a pot, but it is the emptiness inside that holds whatever we want.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?&quot;</em> <br>
+— Sathya Sai Baba
