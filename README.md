@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Each time we don't say what we wanna say, we're dying.&quot;</em> <br>
-— Yoko Ono
+<em>&quot;Within every desire is the mechanics of its fulfillment.&quot;</em> <br>
+— Deepak Chopra
