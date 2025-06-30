@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is only depth of character that determines the profundity with which we face life.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;The way we feel is the direct result of what we think.&quot;</em> <br>
+— Peter A. Cohen
