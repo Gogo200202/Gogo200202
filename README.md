@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;So long as we are being remembered, we remain alive.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Before preparing to improve the world, first look around your own home three times. &quot;</em> <br>
+— Chinese Proverb
