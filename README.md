@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men are disturbed not by things, but by the view which they take of them.&quot;</em> <br>
-— Epictetus
+<em>&quot;Through discipline comes freedom.&quot;</em> <br>
+— Aristotle
