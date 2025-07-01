@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You give but little when you give of your possessions. It is when you give of yourself that you truly give.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Go confidently in the direction of your dreams! Live the life you've imagined.&quot;</em> <br>
+— Henry David Thoreau
