@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To forget the whole world is easy; to make the whole world forget you is hard.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;What do we live for, if it is not to make life less difficult for each other?&quot;</em> <br>
+— George Eliot
