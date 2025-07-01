@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go confidently in the direction of your dreams! Live the life you've imagined.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;You get in life what you have the courage to ask for.&quot;</em> <br>
+— Oprah Winfrey
