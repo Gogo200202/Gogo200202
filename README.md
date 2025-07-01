@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;The heart wants what it wants - or else it does not care.&quot;</em> <br>
+— Emily Dickinson
