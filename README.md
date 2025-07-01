@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&quot;</em> <br>
-— Alan Watts
+<em>&quot;The Art of Peace begins with you.&quot;</em> <br>
+— Morihei Ueshiba
