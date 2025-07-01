@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love never keeps a man from pursuing his destiny.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Men are disturbed not by things, but by the view which they take of them.&quot;</em> <br>
+— Epictetus
