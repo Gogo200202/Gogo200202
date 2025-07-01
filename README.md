@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before preparing to improve the world, first look around your own home three times. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. &quot;</em> <br>
+— Nikola Tesla
