@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You get in life what you have the courage to ask for.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;The weak can never forgive. Forgiveness is the attribute of the strong.&quot;</em> <br>
+— Mahatma Gandhi
