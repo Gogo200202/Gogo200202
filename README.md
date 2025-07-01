@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In youth we run into difficulties. In old age difficulties run into us. &quot;</em> <br>
-— Beverly Sills
+<em>&quot;To forget the whole world is easy; to make the whole world forget you is hard.&quot;</em> <br>
+— Zhuangzi
