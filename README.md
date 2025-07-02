@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must find the place inside yourself where nothing is impossible.&quot;</em> <br>
-— Les Brown
+<em>&quot;Projecting your mind into a successful situation is the most powerful means to achieve goals.  &quot;</em> <br>
+— Estee Lauder
