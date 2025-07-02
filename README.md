@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your chances of success in any undertaking can always be measured by your belief in yourself.&quot;</em> <br>
-— Robert Collier
+<em>&quot;You must find the place inside yourself where nothing is impossible.&quot;</em> <br>
+— Les Brown
