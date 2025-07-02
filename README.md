@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't ever save anything for a special occasion. Being alive is the special occasion.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&quot;</em> <br>
+— Gilbert Chesterton
