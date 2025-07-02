@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have to make time, even for something as universal as staring at the stars.&quot;</em> <br>
-— W.P. Kinsella
+<em>&quot;Mastering others is strength, mastering yourself is true power.&quot;</em> <br>
+— Lao Tzu
