@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is either a daring adventure, or it is nothing.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Follow your heart, listen to your inner voice, stop caring about what others think.&quot;</em> <br>
+— Roy T. Bennett
