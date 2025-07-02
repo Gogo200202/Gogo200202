@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never fear quarrels, but seek hazardous adventures.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Your chances of success in any undertaking can always be measured by your belief in yourself.&quot;</em> <br>
+— Robert Collier
