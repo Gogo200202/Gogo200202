@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A fool sees himself as another, but a wise man sees others as himself.&quot;</em> <br>
-— Dogen
+<em>&quot;If your happiness depends on what somebody else does, I guess you do have a problem.&quot;</em> <br>
+— Richard Bach
