@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Life is either a daring adventure, or it is nothing.&quot;</em> <br>
+— Helen Keller
