@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Through discipline comes freedom.&quot;</em> <br>
-— Aristotle
+<em>&quot;Be curious, not judgmental.&quot;</em> <br>
+— Walt Whitman
