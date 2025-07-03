@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of change is to focus all your energy not on fighting the old, but on building the new.&quot;</em> <br>
-— Dan Millman
+<em>&quot;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&quot;</em> <br>
+— Dr. Seuss
