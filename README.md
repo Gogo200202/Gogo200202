@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One mistake does not have to rule a person's entire life.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Poverty and hardship are created by false thinking.&quot;</em> <br>
+— Bodhidharma
