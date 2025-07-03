@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life moves on and so should we.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Make improvements, not excuses. Seek respect, not attention.&quot;</em> <br>
+— Roy T. Bennett
