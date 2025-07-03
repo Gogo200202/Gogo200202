@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wiser you get, the less you care to look like a fool.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. &quot;</em> <br>
+— Nikola Tesla
