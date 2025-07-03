@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of happiness is not in doing what you like but in liking what you have to do.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;The merit of all things lies in their difficulty.&quot;</em> <br>
+— Alexandre Dumas
