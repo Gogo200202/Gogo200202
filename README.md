@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The merit of all things lies in their difficulty.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;He who is not contented with what he has, would not be contented with what he would like to have.&quot;</em> <br>
+— Socrates
