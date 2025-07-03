@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Poverty and hardship are created by false thinking.&quot;</em> <br>
-— Bodhidharma
+<em>&quot;Difficulties strengthen the mind, as labor does the body.  &quot;</em> <br>
+— Seneca
