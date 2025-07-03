@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mastering others is strength, mastering yourself is true power.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.&quot;</em> <br>
+— Wayne Dyer
