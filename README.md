@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;We must learn to live together as brothers or perish together as fools.&quot;</em> <br>
+— Martin Luther King, Jr.
