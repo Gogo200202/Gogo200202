@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.&quot;</em> <br>
-— Wayne Dyer
+<em>&quot;The wiser you get, the less you care to look like a fool.&quot;</em> <br>
+— Maxime Lagace
