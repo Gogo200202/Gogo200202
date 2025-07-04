@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The desire for more positive experience is itself a negative experience.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Believe in your infinite potential. Your only limitations are those you set upon yourself.&quot;</em> <br>
+— Roy T. Bennett
