@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The majority of what you want will come from the minority of what you do.&quot;</em> <br>
-— Gary Keller
+<em>&quot;The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.&quot;</em> <br>
+— Mark Twain
