@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great things are not done by impulse, but by a series of small things brought together.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;The majority of what you want will come from the minority of what you do.&quot;</em> <br>
+— Gary Keller
