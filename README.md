@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It isn't what you do, but how you do it.&quot;</em> <br>
-— John Wooden
+<em>&quot;Great ones are willing to get burned time and again as they sharpen their swords in the fire.&quot;</em> <br>
+— Josh Waitzkin
