@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe in your infinite potential. Your only limitations are those you set upon yourself.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;It isn't what you do, but how you do it.&quot;</em> <br>
+— John Wooden
