@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;At the center of your being you have the answer; you know who you are and you know what you want.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Art is the signature of civilizations. &quot;</em> <br>
+— Beverly Sills
