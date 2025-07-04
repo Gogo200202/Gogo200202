@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is dangerous to be right in matters on which the established authorities are wrong.&quot;</em> <br>
-— Voltaire
+<em>&quot;The only real mistake is the one from which we learn nothing. &quot;</em> <br>
+— Henry Ford
