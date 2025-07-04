@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Difficulties strengthen the mind, as labor does the body.  &quot;</em> <br>
-— Seneca
+<em>&quot;The desire for more positive experience is itself a negative experience.&quot;</em> <br>
+— Mark Manson
