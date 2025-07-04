@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why fit in when you were born to stand out?&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Creative endeavors are by their nature uncertain.&quot;</em> <br>
+— Robert Greene
