@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Art is the signature of civilizations. &quot;</em> <br>
-— Beverly Sills
+<em>&quot;Attitude, not aptitude, determines altitude.  &quot;</em> <br>
+— Zig Ziglar
