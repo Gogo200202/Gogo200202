@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One small positive thought can change your whole day.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;What the mind can conceive, it can achieve.&quot;</em> <br>
+— Napoleon Hill
