@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't give up the fight, Stand up for your rights.&quot;</em> <br>
-— Bob Marley
+<em>&quot;None of us can change our yesterdays but all of us can change our tomorrows.&quot;</em> <br>
+— Colin Powell
