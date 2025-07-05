@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You need to be doing fewer things for more effect instead of doing more things with side effects.&quot;</em> <br>
-— Gary Keller
+<em>&quot;There is peace even in the storm.&quot;</em> <br>
+— Vincent van Gogh
