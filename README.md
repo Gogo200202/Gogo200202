@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No one ever is defeated until defeat has been accepted as a reality.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;To accomplish big things, I am convinced you must first dream big dreams.&quot;</em> <br>
+— Conrad Hilton
