@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
-— Heraclitus
+<em>&quot;No one ever is defeated until defeat has been accepted as a reality.&quot;</em> <br>
+— Napoleon Hill
