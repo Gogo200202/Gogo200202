@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;None of us can change our yesterdays but all of us can change our tomorrows.&quot;</em> <br>
-— Colin Powell
+<em>&quot;A single dream is more powerful than a thousand realities.&quot;</em> <br>
+— J.R.R. Tolkien
