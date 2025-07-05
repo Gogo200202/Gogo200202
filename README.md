@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;One small positive thought can change your whole day.&quot;</em> <br>
+— Zig Ziglar
