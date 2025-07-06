@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Opportunities multiply as they are seized.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;The truth is rarely pure and never simple. &quot;</em> <br>
+— Oscar Wilde
