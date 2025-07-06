@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let them drag you down by rumors. Just go with what you believe in.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Integrity is the ability to stand by an idea.&quot;</em> <br>
+— Ayn Rand
