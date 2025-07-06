@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We think too much and feel too little.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;Don't let them drag you down by rumors. Just go with what you believe in.&quot;</em> <br>
+— Michael Jordan
