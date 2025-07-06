@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let the past steal your present.&quot;</em> <br>
-— Cherralea Morgen
+<em>&quot;Opportunities multiply as they are seized.&quot;</em> <br>
+— Sun Tzu
