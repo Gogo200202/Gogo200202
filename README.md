@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Integrity is the ability to stand by an idea.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
+— Kahlil Gibran
