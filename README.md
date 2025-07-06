@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;The harder you work, the harder it is to surrender.&quot;</em> <br>
+— Vince Lombardi
