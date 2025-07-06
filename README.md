@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you aim at nothing, you will hit it every time.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Maybe you are searching among the branches, for what only appears in the roots.&quot;</em> <br>
+— Rumi
