@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Strategy is a commodity, execution is an art.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Don't let the past steal your present.&quot;</em> <br>
+— Cherralea Morgen
