@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only the hand that erases can write the true thing.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.&quot;</em> <br>
+— Richard Bach
