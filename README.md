@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The harder you work, the harder it is to surrender.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Only the hand that erases can write the true thing.&quot;</em> <br>
+— Meister Eckhart
