@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.&quot;</em> <br>
+— Celestine Chua
