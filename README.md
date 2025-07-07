@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Inspire yourself to be great. Being good isn't good enough.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&quot;</em> <br>
+— Grace Coddington
