@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you decide to do, make sure it makes you happy.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Give more than you think you can, trusting that you are richer than you think.&quot;</em> <br>
+— Jon Kabat-Zinn
