@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wrong turns are as important as right turns. More important, sometimes.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Our view of the world is truly shaped by what we decide to hear.&quot;</em> <br>
+— William James
