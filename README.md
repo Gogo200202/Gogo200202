@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Wrong turns are as important as right turns. More important, sometimes.&quot;</em> <br>
+— Richard Bach
