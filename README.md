@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Intense love does not measure, it just gives.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;It's your outlook on life that counts.&quot;</em> <br>
+— Betty White
