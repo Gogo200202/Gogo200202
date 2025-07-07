@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's your outlook on life that counts.&quot;</em> <br>
-— Betty White
+<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
+— Maxime Lagace
