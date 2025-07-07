@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man is happy who does not think himself so.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Change is inevitable but personal growth is a choice.&quot;</em> <br>
+— Bob Proctor
