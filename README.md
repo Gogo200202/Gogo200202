@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give more than you think you can, trusting that you are richer than you think.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;Intense love does not measure, it just gives.&quot;</em> <br>
+— Mother Teresa
