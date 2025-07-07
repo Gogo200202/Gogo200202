@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.&quot;</em> <br>
+— James Allen
