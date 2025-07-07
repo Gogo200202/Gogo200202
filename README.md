@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.&quot;</em> <br>
-— James Allen
+<em>&quot;No man is happy who does not think himself so.&quot;</em> <br>
+— Norman Vincent Peale
