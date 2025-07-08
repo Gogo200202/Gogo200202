@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be where your enemy is not.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;The greatest weariness comes from work not done.&quot;</em> <br>
+— Eric Hoffer
