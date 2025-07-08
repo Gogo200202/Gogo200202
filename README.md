@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The truly rich men are the ones who have health, loved ones and a work they love.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.&quot;</em> <br>
+— Ming-Dao Deng
