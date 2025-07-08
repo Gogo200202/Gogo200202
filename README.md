@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;All has not been said and never will be.&quot;</em> <br>
+— Samuel Beckett
