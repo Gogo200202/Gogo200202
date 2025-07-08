@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.&quot;</em> <br>
-— Richard Bach
+<em>&quot;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&quot;</em> <br>
+— Steve Maraboli
