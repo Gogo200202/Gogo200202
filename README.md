@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;The more reasons you have for achieving your goal, the more determined you will become.&quot;</em> <br>
+— Brian Tracy
