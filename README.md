@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a question and how we live it is our answer.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?&quot;</em> <br>
+— Seneca
