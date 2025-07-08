@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Insanity is relative. It depends on who has who locked in what cage.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;You will succeed because most people are lazy.&quot;</em> <br>
+— Shahir Zag
