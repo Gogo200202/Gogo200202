@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more reasons you have for achieving your goal, the more determined you will become.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;You can't let your failures define you. You have to let your failures teach you.&quot;</em> <br>
+— Barack Obama
