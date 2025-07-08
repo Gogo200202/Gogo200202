@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will succeed because most people are lazy.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;Be where your enemy is not.&quot;</em> <br>
+— Sun Tzu
