@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?&quot;</em> <br>
-— Seneca
+<em>&quot;Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.&quot;</em> <br>
+— Richard Bach
