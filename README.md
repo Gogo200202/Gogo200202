@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest weariness comes from work not done.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;You are what you believe yourself to be.&quot;</em> <br>
+— Paulo Coelho
