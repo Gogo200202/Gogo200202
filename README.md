@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.&quot;</em> <br>
+— Steve Harvey
