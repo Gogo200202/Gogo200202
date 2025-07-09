@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There can be no deep disappointment where there is not deep love.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&quot;</em> <br>
+— Steve Maraboli
