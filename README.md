@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we all did the things we are capable of doing, we would literally astound ourselves.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Freedom itself demands discomfort.&quot;</em> <br>
+— Mark Manson
