@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom itself demands discomfort.&quot;</em> <br>
-— Mark Manson
+<em>&quot;There can be no deep disappointment where there is not deep love.&quot;</em> <br>
+— Martin Luther King, Jr.
