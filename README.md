@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your mind is infinite, it's your doubts that are limiting.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Giving back involves a certain amount of giving up.&quot;</em> <br>
+— Colin Powell
