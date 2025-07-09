@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All has not been said and never will be.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Good things aren't supposed to just fall into your lap.&quot;</em> <br>
+— Audrey Hepburn
