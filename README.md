@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&quot;</em> <br>
+— Peter Drucker
