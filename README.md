@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The question isn't who is going to let me; it's who is going to stop me.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Live calmly. The time will come when the flowers bloom by themselves.&quot;</em> <br>
+— Zen Proverb
