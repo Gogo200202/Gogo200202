@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;You don't need anybody to tell you who you are or what you are. You are what you are!&quot;</em> <br>
+— John Lennon
