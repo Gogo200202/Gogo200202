@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep smiling, because life is a beautiful thing and there's so much to smile about.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;Any game becomes important when you know and love the players.&quot;</em> <br>
+— W.P. Kinsella
