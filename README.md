@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&quot;</em> <br>
-— Socrates
+<em>&quot;The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.&quot;</em> <br>
+— Naval Ravikant
