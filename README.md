@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&quot;</em> <br>
+— Zig Ziglar
