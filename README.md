@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Never fear quarrels, but seek hazardous adventures.&quot;</em> <br>
+— Alexandre Dumas
