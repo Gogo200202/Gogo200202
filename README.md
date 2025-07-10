@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is within the reach of just about everyone.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Just living is not enough... one must have sunshine, freedom, and a little flower. &quot;</em> <br>
+— Hans Christian Andersen
