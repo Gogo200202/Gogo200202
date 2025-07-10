@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just living is not enough... one must have sunshine, freedom, and a little flower. &quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;The secret of change is to focus all your energy not on fighting the old, but on building the new.&quot;</em> <br>
+— Dan Millman
