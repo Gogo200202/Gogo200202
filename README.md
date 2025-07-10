@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let what you cannot do interfere with what you can do.&quot;</em> <br>
-— John Wooden
+<em>&quot;The future is the worst thing about the present.&quot;</em> <br>
+— Gustave Flaubert
