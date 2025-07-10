@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more you give, the more comes back to you.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Life is like riding a bicycle. To keep your balance you must keep moving.&quot;</em> <br>
+— Albert Einstein
