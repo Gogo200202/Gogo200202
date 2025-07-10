@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not whether you get knocked down, its whether you get back up.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&quot;</em> <br>
+— Socrates
