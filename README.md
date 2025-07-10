@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't waste time on excuses. Just get it done.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;Success is within the reach of just about everyone.&quot;</em> <br>
+— Lolly Daskal
