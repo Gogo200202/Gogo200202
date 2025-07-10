@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The more you give, the more comes back to you.&quot;</em> <br>
+— Napoleon Hill
