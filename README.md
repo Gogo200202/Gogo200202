@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of change is to focus all your energy not on fighting the old, but on building the new.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Remember, today is the tomorrow you worried about yesterday.&quot;</em> <br>
+— Dale Carnegie
