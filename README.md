@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great minds are always feared by lesser minds.&quot;</em> <br>
-— Dan Brown
+<em>&quot;Nothing like a health problem to turn up the contrast dial for the rest of life.&quot;</em> <br>
+— Naval Ravikant
