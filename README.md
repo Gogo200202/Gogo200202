@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enjoy every minute of life. Never second-guess life.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Keep your face to the sunshine and you cannot see the shadows.&quot;</em> <br>
+— Helen Keller
