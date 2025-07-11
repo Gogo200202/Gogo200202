@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do every act of your life as if it were your last.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.&quot;</em> <br>
+— Dan Millman
