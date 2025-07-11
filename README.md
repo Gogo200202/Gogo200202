@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.&quot;</em> <br>
-— Adi Da Samraj
+<em>&quot;Do every act of your life as if it were your last.&quot;</em> <br>
+— Marcus Aurelius
