@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.&quot;</em> <br>
-— Robert Frost
+<em>&quot;We think too much and feel too little.&quot;</em> <br>
+— Charlie Chaplin
