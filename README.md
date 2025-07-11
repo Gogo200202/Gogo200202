@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.&quot;</em> <br>
-— Unknown
+<em>&quot;Enjoy every minute of life. Never second-guess life.&quot;</em> <br>
+— Michael Jordan
