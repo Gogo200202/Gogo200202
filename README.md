@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can put lipstick on a pig. It's still a pig.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.&quot;</em> <br>
+— Nicolas Chamfort
