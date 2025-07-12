@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best revenge is to be unlike him who performed the injury.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Turn your face to the sun, as flowers know how to do.&quot;</em> <br>
+— Ming-Dao Deng
