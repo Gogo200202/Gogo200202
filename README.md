@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rudeness is the weak man's imitation of strength.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.&quot;</em> <br>
+— John Wooden
