@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can change our lives. We can do, have, and be exactly what we wish.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;If you don't find the time, if you don't do the work, you don't get the results.&quot;</em> <br>
+— Arnold Schwarzenegger
