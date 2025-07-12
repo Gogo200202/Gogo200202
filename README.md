@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot always control what goes on outside. But you can always control what goes on inside. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;The desire for more positive experience is itself a negative experience.&quot;</em> <br>
+— Mark Manson
