@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is everything. It is the preview of life's coming attractions.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.&quot;</em> <br>
+— Robin Sharma
