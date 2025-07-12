@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't find the time, if you don't do the work, you don't get the results.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
+— Rumi
