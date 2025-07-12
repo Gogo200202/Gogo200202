@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where words fail, music speaks.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;I was angered, for I had no shoes. Then I met a man who had no feet. &quot;</em> <br>
+— Chinese Proverb
