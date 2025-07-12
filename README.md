@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Turn your face to the sun, as flowers know how to do.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Where words fail, music speaks.&quot;</em> <br>
+— Hans Christian Andersen
