@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The sweetest pleasure arises from difficulties overcome.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Rudeness is the weak man's imitation of strength.&quot;</em> <br>
+— Eric Hoffer
