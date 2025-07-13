@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be true to yourself, help others, make each day your masterpiece&quot;</em> <br>
-— John Wooden
+<em>&quot;Nothing is too high for a man to reach, but he must climb with care and confidence&quot;</em> <br>
+— Hans Christian Andersen
