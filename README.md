@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more you praise and celebrate your life, the more there is in life to celebrate. &quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Never close your lips to those whom you have already opened your heart.&quot;</em> <br>
+— Charles Dickens
