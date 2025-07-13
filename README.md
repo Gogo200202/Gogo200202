@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Act as if what you do makes a difference. It does.&quot;</em> <br>
-— William James
+<em>&quot;We meet ourselves time and again in a thousand disguises on the path of life.&quot;</em> <br>
+— Carl Jung
