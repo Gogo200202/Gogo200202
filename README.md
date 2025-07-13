@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence is like a dragon where, for every head cut off, two more heads grow back.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Be true to yourself, help others, make each day your masterpiece&quot;</em> <br>
+— John Wooden
