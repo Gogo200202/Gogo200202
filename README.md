@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is too high for a man to reach, but he must climb with care and confidence&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Act as if what you do makes a difference. It does.&quot;</em> <br>
+— William James
