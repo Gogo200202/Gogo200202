@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;But better die than live mechanically a life that is a repetition of repetitions.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;I will not walk backward in life.&quot;</em> <br>
+— J.R.R. Tolkien
