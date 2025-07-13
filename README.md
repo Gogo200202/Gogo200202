@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
-— Aristophanes
+<em>&quot;Confidence is like a dragon where, for every head cut off, two more heads grow back.&quot;</em> <br>
+— Criss Jami
