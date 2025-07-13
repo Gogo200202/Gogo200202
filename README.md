@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
+— Aristophanes
