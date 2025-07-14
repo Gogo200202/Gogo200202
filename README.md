@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing ever goes away until it has taught us what we need to know.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;If there were no God, there would be no atheists.&quot;</em> <br>
+— Gilbert Chesterton
