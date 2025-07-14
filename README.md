@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If there were no God, there would be no atheists.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;I never dwell on what happened. You can't change it. Move forward.&quot;</em> <br>
+— Joan Rivers
