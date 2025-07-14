@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I never dwell on what happened. You can't change it. Move forward.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;Not engaging in ignorance is wisdom. &quot;</em> <br>
+— Bodhidharma
