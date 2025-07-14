@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do what is right, not what is easy, nor what is popular.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Remember the entrance to the sanctuary is inside you.&quot;</em> <br>
+— Rumi
