@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Great loves too must be endured.&quot;</em> <br>
+— Coco Chanel
