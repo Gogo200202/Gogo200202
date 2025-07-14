@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who can make you believe absurdities can make you commit atrocities. &quot;</em> <br>
-— Voltaire
+<em>&quot;If fear is too strong, the genius is suppressed.&quot;</em> <br>
+— Robert Kiyosaki
