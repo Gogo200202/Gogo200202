@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not engaging in ignorance is wisdom. &quot;</em> <br>
-— Bodhidharma
+<em>&quot;Attitude, not aptitude, determines altitude.  &quot;</em> <br>
+— Zig Ziglar
