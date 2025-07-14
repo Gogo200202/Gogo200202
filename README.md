@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
-— Rumi
+<em>&quot;A needle is not sharp at both ends. &quot;</em> <br>
+— Chinese Proverb
