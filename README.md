@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remember the entrance to the sanctuary is inside you.&quot;</em> <br>
-— Rumi
+<em>&quot;Those who can make you believe absurdities can make you commit atrocities. &quot;</em> <br>
+— Voltaire
