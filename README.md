@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is love and love is life.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. &quot;</em> <br>
+— Nikola Tesla
