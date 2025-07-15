@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If fear is too strong, the genius is suppressed.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;As you think, so shall you become. &quot;</em> <br>
+— Bruce Lee
