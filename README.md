@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't talk about what you have done or what you are going to do.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Success is a poor teacher.&quot;</em> <br>
+— Robert Kiyosaki
