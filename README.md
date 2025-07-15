@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As you think, so shall you become. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.&quot;</em> <br>
+— Robert Greene
