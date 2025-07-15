@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not how much money you make, it's how much money you keep.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Don't talk about what you have done or what you are going to do.&quot;</em> <br>
+— Thomas Jefferson
