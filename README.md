@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't need a weatherman to know which way the wind blows.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.&quot;</em> <br>
+— Charles Darwin
