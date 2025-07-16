@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;The purpose of life is to contribute in some way to making things better.&quot;</em> <br>
+— Robert F. Kennedy
