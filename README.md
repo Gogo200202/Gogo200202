@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;Those who cannot change their minds cannot change anything.&quot;</em> <br>
+— George Bernard Shaw
