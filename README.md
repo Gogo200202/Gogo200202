@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't break your ropes while you're alive, do you think ghosts will do it after?&quot;</em> <br>
-— Kabir
+<em>&quot;Failure will never overtake me if my determination to succeed is strong enough.&quot;</em> <br>
+— Og Mandino
