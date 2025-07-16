@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mastering others is strength, mastering yourself is true power.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Don't seek, don't search, don't ask, don't knock, don't demand - relax.&quot;</em> <br>
+— Osho
