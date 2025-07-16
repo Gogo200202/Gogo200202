@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A journey of a thousand miles begins with a single step.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Engage in those actions and thoughts that nurture the good qualities you want to have.&quot;</em> <br>
+— Paramahansa Yogananda
