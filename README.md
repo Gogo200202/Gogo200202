@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Engage in those actions and thoughts that nurture the good qualities you want to have.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;If you don't break your ropes while you're alive, do you think ghosts will do it after?&quot;</em> <br>
+— Kabir
