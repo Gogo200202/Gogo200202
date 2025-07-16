@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.&quot;</em> <br>
-— Kabir
+<em>&quot;The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.&quot;</em> <br>
+— Eleanor Roosevelt
