@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure will never overtake me if my determination to succeed is strong enough.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Don't cry because it's over. Smile because it happened.&quot;</em> <br>
+— Dr. Seuss
