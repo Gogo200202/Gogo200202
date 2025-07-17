@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learning is a gift, even when pain is your teacher.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&quot;</em> <br>
+— Carl Bard
