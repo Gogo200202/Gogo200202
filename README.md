@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're always free to change your mind and choose a different future, or a different past.&quot;</em> <br>
-— Richard Bach
+<em>&quot;When you judge another, you do not define them, you define yourself&quot;</em> <br>
+— Wayne Dyer
