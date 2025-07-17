@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The purpose of life is to contribute in some way to making things better.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Given the choice between the experience of pain and nothing, I would choose pain.&quot;</em> <br>
+— William Faulkner
