@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wish it were easier, wish you were better.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Learning is a gift, even when pain is your teacher.&quot;</em> <br>
+— Michael Jordan
