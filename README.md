@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The privilege of a lifetime is to become who you truly are.&quot;</em> <br>
-— Carl Jung
+<em>&quot;True friendship ought never to conceal what it thinks. &quot;</em> <br>
+— St. Jerome
