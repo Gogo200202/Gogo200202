@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot;</em> <br>
-— Dogen
+<em>&quot;The more perfect a person is on the outside, the more demons they have on the inside.&quot;</em> <br>
+— Sigmund Freud
