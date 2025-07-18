@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A journey of a thousand miles begins with a single step.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Every one of us is the sum total of his own thoughts.&quot;</em> <br>
+— Earl Nightingale
