@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't learn to do, but learn in doing.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;Expect the best, plan for the worst, and prepare to be surprised. &quot;</em> <br>
+— Denis Waitley
