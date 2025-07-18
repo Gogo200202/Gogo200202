@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every one of us is the sum total of his own thoughts.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Decide what your truth is. Then live it.&quot;</em> <br>
+— Kamal Ravikant
