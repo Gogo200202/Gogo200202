@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you move beyond your fear, you feel free.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Ask no questions, and you'll be told no lies.&quot;</em> <br>
+— Charles Dickens
