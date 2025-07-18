@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A person is only by the thoughts that he chooses.&quot;</em> <br>
-— James Allen
+<em>&quot;A journey of a thousand miles begins with a single step.&quot;</em> <br>
+— Lao Tzu
