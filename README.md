@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Ask no questions, and you'll be told no lies.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;A person is only by the thoughts that he chooses.&quot;</em> <br>
+— James Allen
