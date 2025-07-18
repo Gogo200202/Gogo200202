@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more perfect a person is on the outside, the more demons they have on the inside.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;When you move beyond your fear, you feel free.&quot;</em> <br>
+— Spencer Johnson
