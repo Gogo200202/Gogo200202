@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better to live until you die.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Peace if possible, truth at all costs.&quot;</em> <br>
+— Martin Luther
