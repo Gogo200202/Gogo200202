@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peace if possible, truth at all costs.&quot;</em> <br>
-— Martin Luther
+<em>&quot;Truth is such a rare thing, it is delighted to tell it.&quot;</em> <br>
+— Emily Dickinson
