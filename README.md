@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Truth is such a rare thing, it is delighted to tell it.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;You must learn to let go. Release the stress. You were never in control anyway.&quot;</em> <br>
+— Steve Maraboli
