@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every second you have on this planet is very precious and it's your responsibility that you're happy.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Don't learn to do, but learn in doing.&quot;</em> <br>
+— Samuel Butler
