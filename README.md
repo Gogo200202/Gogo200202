@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man is happy unless he believes he is.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Happiness is only real when shared.&quot;</em> <br>
+— Christopher McCandless
