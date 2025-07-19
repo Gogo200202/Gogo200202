@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;A man's worth is no greater than his ambitions.&quot;</em> <br>
+— Marcus Aurelius
