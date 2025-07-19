@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is nothing in the world so irresistibly contagious as laughter and good humor.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Friendship is like money, easier made than kept.&quot;</em> <br>
+— Samuel Butler
