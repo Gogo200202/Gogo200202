@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not wait for leaders; do it alone, person to person.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.&quot;</em> <br>
+— Celestine Chua
