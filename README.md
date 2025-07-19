@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Embrace the life you have and stop wishing that you could be someone else.&quot;</em> <br>
+— Joyce Meyer
