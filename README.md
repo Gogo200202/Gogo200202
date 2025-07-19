@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&quot;</em> <br>
-— Robert Greene
+<em>&quot;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&quot;</em> <br>
+— Deepak Chopra
