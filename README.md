@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Embrace the life you have and stop wishing that you could be someone else.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Don't let someone elses. opinion become your reality.&quot;</em> <br>
+— Les Brown
