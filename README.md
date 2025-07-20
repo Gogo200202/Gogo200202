@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Words without actions are the assassins of idealism.&quot;</em> <br>
+— Herbert Hoover
