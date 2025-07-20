@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My definition of success is control.&quot;</em> <br>
-— Kenneth Branagh
+<em>&quot;The healthiest response to life is joy.&quot;</em> <br>
+— Deepak Chopra
