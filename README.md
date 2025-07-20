@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&quot;</em> <br>
+— Oprah Winfrey
