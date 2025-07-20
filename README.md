@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Don't look for meaning in the words. Listen to the silences.&quot;</em> <br>
+— Samuel Beckett
