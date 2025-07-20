@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words without actions are the assassins of idealism.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;My definition of success is control.&quot;</em> <br>
+— Kenneth Branagh
