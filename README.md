@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Gratitude is the fairest blossom which springs from the soul.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;There is no limit to the amount of good you can do if you don't care who gets the credit.&quot;</em> <br>
+— Ronald Reagan
