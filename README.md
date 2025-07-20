@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Reality is the leading cause of stress among those in touch with it.&quot;</em> <br>
+— Lily Tomlin
