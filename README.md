@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no limit to the amount of good you can do if you don't care who gets the credit.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&quot;</em> <br>
+— Norman Vincent Peale
