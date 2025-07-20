@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&quot;</em> <br>
+— James Matthew Barrie
