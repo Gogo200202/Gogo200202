@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.&quot;</em> <br>
+— Bhagavad Gita
