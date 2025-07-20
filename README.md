@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The healthiest response to life is joy.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Gratitude is the fairest blossom which springs from the soul.&quot;</em> <br>
+— Henry Ward Beecher
