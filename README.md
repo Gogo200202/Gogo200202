@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't look for meaning in the words. Listen to the silences.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&quot;</em> <br>
+— Winston Churchill
