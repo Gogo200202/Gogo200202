@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;If you want to achieve greatness stop asking for permission.&quot;</em> <br>
+— Unknown
