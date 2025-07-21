@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Silence is the great teacher and to learn its lessons you must pay attention to it.&quot;</em> <br>
+— Deepak Chopra
