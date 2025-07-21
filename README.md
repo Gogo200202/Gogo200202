@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Old age is like everything else. To make a success of it, you've got to start young.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;The first principle of success is desire.&quot;</em> <br>
+— Robert Collier
