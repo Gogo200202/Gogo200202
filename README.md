@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness depends upon ourselves.&quot;</em> <br>
-— Aristotle
+<em>&quot;The first step toward getting somewhere is to decide that you are not going to stay where you are.&quot;</em> <br>
+— Unknown
