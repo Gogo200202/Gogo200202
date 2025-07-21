@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is what we make out of what we have, not what we are given, that separates one person from another.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;There is peace even in the storm.&quot;</em> <br>
+— Vincent van Gogh
