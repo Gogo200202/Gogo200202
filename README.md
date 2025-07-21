@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The world only exists in your eyes. You can make it as big or as small as you want.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Old age is like everything else. To make a success of it, you've got to start young.&quot;</em> <br>
+— Theodore Roosevelt
