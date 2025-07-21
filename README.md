@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first step toward getting somewhere is to decide that you are not going to stay where you are.&quot;</em> <br>
-— Unknown
+<em>&quot;It is what we make out of what we have, not what we are given, that separates one person from another.&quot;</em> <br>
+— Nelson Mandela
