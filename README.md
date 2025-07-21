@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being wrong opens us up to the possibility of change.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Happiness depends upon ourselves.&quot;</em> <br>
+— Aristotle
