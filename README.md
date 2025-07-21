@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first principle of success is desire.&quot;</em> <br>
-— Robert Collier
+<em>&quot;Those who seek the easy way do not seek the true way.&quot;</em> <br>
+— Dogen
