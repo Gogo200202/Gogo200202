@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you repeat a mistake, it is not a mistake anymore: it is a decision.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;The world only exists in your eyes. You can make it as big or as small as you want.&quot;</em> <br>
+— F. Scott Fitzgerald
