@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;When you repeat a mistake, it is not a mistake anymore: it is a decision.&quot;</em> <br>
+— Paulo Coelho
