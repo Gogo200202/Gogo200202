@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no secrets to success. It is the result of preparation, hard work, learning from failure.&quot;</em> <br>
-— Colin Powell
+<em>&quot;You have within you right now, everything you need to deal with whatever the world can throw at you.&quot;</em> <br>
+— Brian Tracy
