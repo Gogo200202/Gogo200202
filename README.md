@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I think self-awareness is probably the most important thing towards being a champion. &quot;</em> <br>
-— Billie Jean King
+<em>&quot;Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  &quot;</em> <br>
+— Estee Lauder
