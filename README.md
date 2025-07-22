@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The scariest moment is always just before you start. After that, things can only get better.&quot;</em> <br>
-— Stephen King
+<em>&quot;A person is only by the thoughts that he chooses.&quot;</em> <br>
+— James Allen
