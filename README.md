@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&quot;</em> <br>
-— Charles Darwin
+<em>&quot;We're responsible for everything that happens to us.&quot;</em> <br>
+— Yanni
