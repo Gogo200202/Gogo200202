@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing has any power over me other than that which I give it through my conscious thoughts.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&quot;</em> <br>
+— Norman Vincent Peale
