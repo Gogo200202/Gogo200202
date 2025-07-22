@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&quot;</em> <br>
+— Gilbert Chesterton
