@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
+— Charles Darwin
