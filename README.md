@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The one who praises you is a thief. The one who criticizes you is your true friend.&quot;</em> <br>
-— Seungsahn
+<em>&quot;The scariest moment is always just before you start. After that, things can only get better.&quot;</em> <br>
+— Stephen King
