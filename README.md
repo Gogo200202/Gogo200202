@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only he who has no use for the empire is fit to be entrusted with it.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;I think self-awareness is probably the most important thing towards being a champion. &quot;</em> <br>
+— Billie Jean King
