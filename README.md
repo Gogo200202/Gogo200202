@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We're responsible for everything that happens to us.&quot;</em> <br>
-— Yanni
+<em>&quot;Only he who has no use for the empire is fit to be entrusted with it.&quot;</em> <br>
+— Zhuangzi
