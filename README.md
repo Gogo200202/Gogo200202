@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;The more people you help become successful the more successful you become.&quot;</em> <br>
+— Steve Harvey
