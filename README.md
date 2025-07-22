@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.&quot;</em> <br>
+— Vaclav Havel
