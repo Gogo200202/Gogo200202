@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
-— Woody Allen
+<em>&quot;Never do to others what you would not like them to do to you. &quot;</em> <br>
+— Confucius
