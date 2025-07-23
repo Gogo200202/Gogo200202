@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I've always tried to go a step past wherever people expected me to end up.&quot;</em> <br>
-— Beverly Sills
+<em>&quot;To travel is to be alive, but to get somewhere is to be dead.&quot;</em> <br>
+— Alan Watts
