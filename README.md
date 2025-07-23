@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Mastering others is strength, mastering yourself is true power.&quot;</em> <br>
+— Lao Tzu
