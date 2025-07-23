@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;I've always tried to go a step past wherever people expected me to end up.&quot;</em> <br>
+— Beverly Sills
