@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Follow the man who seeks the truth; run from the man who has found it.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Successful people tend to become more successful because they are always thinking about their successes.&quot;</em> <br>
+— Brian Tracy
