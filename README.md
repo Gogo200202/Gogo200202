@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to disappoint people with the truth than to appease them with a lie.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;When reading, only read. When eating, only eat. When thinking, only think.&quot;</em> <br>
+— Seungsahn
