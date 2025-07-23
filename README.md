@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest of all mistakes is to do nothing because you think you can only do a little.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Until you change how you get things done, you'll never know what works best.&quot;</em> <br>
+— Roy T. Bennett
