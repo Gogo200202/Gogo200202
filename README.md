@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When reading, only read. When eating, only eat. When thinking, only think.&quot;</em> <br>
-— Seungsahn
+<em>&quot;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&quot;</em> <br>
+— Simon Sinek
