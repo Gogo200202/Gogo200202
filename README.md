@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To forgive means pardoning the unpardonable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;It is better to disappoint people with the truth than to appease them with a lie.&quot;</em> <br>
+— Simon Sinek
