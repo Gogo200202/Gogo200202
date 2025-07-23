@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never do to others what you would not like them to do to you. &quot;</em> <br>
-— Confucius
+<em>&quot;Life is not a problem to be solved, but a reality to be experienced.&quot;</em> <br>
+— Soren Kierkegaard
