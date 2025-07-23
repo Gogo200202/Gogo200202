@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To travel is to be alive, but to get somewhere is to be dead.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&quot;</em> <br>
+— Colin Powell
