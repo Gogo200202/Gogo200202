@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Until you change how you get things done, you'll never know what works best.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Follow the man who seeks the truth; run from the man who has found it.&quot;</em> <br>
+— Vaclav Havel
