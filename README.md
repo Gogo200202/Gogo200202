@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are all different. Don't judge, understand instead.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Life is the art of drawing sufficient conclusions from insufficient premises.&quot;</em> <br>
+— Samuel Butler
