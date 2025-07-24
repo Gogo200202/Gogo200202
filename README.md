@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I like the dreams of the future better than the history of the past.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;The way we feel is the direct result of what we think.&quot;</em> <br>
+— Peter A. Cohen
