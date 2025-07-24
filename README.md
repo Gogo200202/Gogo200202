@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no limitations except those we create for ourselves.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Common sense is not so common. &quot;</em> <br>
+— Voltaire
