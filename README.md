@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is the art of drawing sufficient conclusions from insufficient premises.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;Life is about not knowing and then doing something anyway.&quot;</em> <br>
+— Mark Manson
