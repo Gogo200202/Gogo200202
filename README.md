@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best dreams happen when you're awake.&quot;</em> <br>
-— Cherie Gilderbloom
+<em>&quot;It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.&quot;</em> <br>
+— Alan Watts
