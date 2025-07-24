@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be like a postage stamp. Stick to it until you get there.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&quot;</em> <br>
+— Peter Drucker
