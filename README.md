@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Music is like creating an emotional painting. The sounds are the colors.&quot;</em> <br>
+— Yanni
