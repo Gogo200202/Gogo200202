@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I love myself I love you. If I love you I love myself.&quot;</em> <br>
-— Rumi
+<em>&quot;Success is getting what you want, happiness is wanting what you get.&quot;</em> <br>
+— W.P. Kinsella
