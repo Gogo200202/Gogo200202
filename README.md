@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never take your position for granted and never let any favors you receive go to your head.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Great loves too must be endured.&quot;</em> <br>
+— Coco Chanel
