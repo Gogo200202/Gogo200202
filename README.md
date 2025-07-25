@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest deception men suffer is from their own opinions.&quot;</em> <br>
-— Leonardo da Vinci
+<em>&quot;Never take your position for granted and never let any favors you receive go to your head.&quot;</em> <br>
+— Robert Greene
