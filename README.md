@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stop acting so small. You are the universe in ecstatic motion.&quot;</em> <br>
-— Rumi
+<em>&quot;Remember that sometimes not getting what you want is a wonderful stroke of luck.&quot;</em> <br>
+— Dalai Lama
