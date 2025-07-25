@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Productize your perspective.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;I begin with an idea and then it becomes something else.&quot;</em> <br>
+— Pablo Picasso
