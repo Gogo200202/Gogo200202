@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is getting what you want, happiness is wanting what you get.&quot;</em> <br>
-— W.P. Kinsella
+<em>&quot;Life is a series of choices and all we can do is make them.&quot;</em> <br>
+— Kamal Ravikant
