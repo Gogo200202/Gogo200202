@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your work is to discover your work and then, with all your heart, to give yourself to it.&quot;</em> <br>
-— Buddha
+<em>&quot;The soul should always stand ajar, ready to welcome the ecstatic experience.&quot;</em> <br>
+— Emily Dickinson
