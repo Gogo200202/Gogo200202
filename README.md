@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&quot;</em> <br>
-— G.I. Gurdjieff
+<em>&quot;You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.&quot;</em> <br>
+— Eleanor Roosevelt
