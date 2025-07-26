@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&quot;</em> <br>
-— Robert Frost
+<em>&quot;You can't get to a place that you don't believe exists.&quot;</em> <br>
+— Unknown
