@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. &quot;</em> <br>
+— Charles Swindoll
