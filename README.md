@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot;</em> <br>
+— Roy T. Bennett
