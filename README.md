@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. &quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;The soul without imagination is what an observatory would be without a telescope.&quot;</em> <br>
+— Henry Ward Beecher
