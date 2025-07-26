@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The soul without imagination is what an observatory would be without a telescope.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&quot;</em> <br>
+— G.I. Gurdjieff
