@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you lose your desire for things that do not matter, you will be free.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;I believe that one of life's greatest risks is never daring to risk.&quot;</em> <br>
+— Oprah Winfrey
