@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
+— Thomas Edison
