@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't break your ropes while you're alive, do you think ghosts will do it after?&quot;</em> <br>
-— Kabir
+<em>&quot;To do great work one must be very idle as well as very industrious.&quot;</em> <br>
+— Samuel Butler
