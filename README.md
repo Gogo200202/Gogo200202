@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go and do the things you can't. That is how you get to do them.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Those who look for the bad in people will surely find it.&quot;</em> <br>
+— Abraham Lincoln
