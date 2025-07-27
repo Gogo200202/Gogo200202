@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The source of a true smile is an awakened mind.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;We may not be able to stop evil in the world, but how we treat one another is entirely up to us.&quot;</em> <br>
+— Barack Obama
