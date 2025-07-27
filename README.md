@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not about what it is, it's about what it can become.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;The source of a true smile is an awakened mind.&quot;</em> <br>
+— Thich Nhat Hanh
