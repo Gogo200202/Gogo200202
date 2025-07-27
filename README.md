@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&quot;</em> <br>
-— Rumi
+<em>&quot;If you don't break your ropes while you're alive, do you think ghosts will do it after?&quot;</em> <br>
+— Kabir
