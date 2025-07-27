@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To do great work one must be very idle as well as very industrious.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;I am not what happened to me, I am what I choose to become.&quot;</em> <br>
+— Carl Jung
