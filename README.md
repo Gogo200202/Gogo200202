@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We run to win, not just to be in the race.  &quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Life does not get better by chance, it gets better by change.&quot;</em> <br>
+— Jim Rohn
