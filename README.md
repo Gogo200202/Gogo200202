@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is amazing what you can accomplish if you do not care who gets the credit.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;Make no small plans for they have no power to stir the soul.&quot;</em> <br>
+— Niccolo Machiavelli
