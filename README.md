@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am not what happened to me, I am what I choose to become.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Go and do the things you can't. That is how you get to do them.&quot;</em> <br>
+— Pablo Picasso
