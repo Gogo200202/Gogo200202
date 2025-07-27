@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life does not get better by chance, it gets better by change.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Where your talents and the needs of the world cross, there lies your vocation.&quot;</em> <br>
+— Aristotle
