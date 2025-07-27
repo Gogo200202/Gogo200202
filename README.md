@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Less is more.&quot;</em> <br>
-— Robert Browning
+<em>&quot;It is amazing what you can accomplish if you do not care who gets the credit.&quot;</em> <br>
+— Harry S. Truman
