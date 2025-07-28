@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Friendship is one of the most tangible things in a world which offers fewer and fewer supports.&quot;</em> <br>
-— Kenneth Branagh
+<em>&quot;You can't climb the ladder of success with your hands in your pockets.&quot;</em> <br>
+— Arnold Schwarzenegger
