@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life has more imagination than we carry in our dreams.&quot;</em> <br>
-— Christopher Columbus
+<em>&quot;Friendship is one of the most tangible things in a world which offers fewer and fewer supports.&quot;</em> <br>
+— Kenneth Branagh
