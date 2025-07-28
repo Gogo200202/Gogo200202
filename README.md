@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Passion is energy. Feel the power that comes from focusing on what excites you. &quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Learn the rules like a pro, so you can break them like an artist.&quot;</em> <br>
+— Pablo Picasso
