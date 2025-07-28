@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
-— Seneca
+<em>&quot;Life has more imagination than we carry in our dreams.&quot;</em> <br>
+— Christopher Columbus
