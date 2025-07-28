@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn the rules like a pro, so you can break them like an artist.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;True friendship ought never to conceal what it thinks. &quot;</em> <br>
+— St. Jerome
