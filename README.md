@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The fear of death is more to be feared, than death itself.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
+— Kahlil Gibran
