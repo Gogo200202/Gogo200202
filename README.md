@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't climb the ladder of success with your hands in your pockets.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
+— Zig Ziglar
