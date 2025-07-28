@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What have you done today to make someone else happy?&quot;</em> <br>
-— Deepam Chaterjee
+<em>&quot;Mind is the creator of everything. You should therefore guide it to create only good.&quot;</em> <br>
+— Paramahansa Yogananda
