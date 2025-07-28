@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom from desire leads to inner peace.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;At the end of the day, let there be no excuses, no explanations, no regrets.&quot;</em> <br>
+— Steve Maraboli
