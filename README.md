@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Passion is energy. Feel the power that comes from focusing on what excites you. &quot;</em> <br>
+— Oprah Winfrey
