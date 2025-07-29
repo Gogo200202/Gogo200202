@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Raise your words, not voice. It is rain that grows flowers, not thunder.&quot;</em> <br>
-— Rumi
+<em>&quot;It's wise to tell the truth. It's even wiser to tell it kindly.&quot;</em> <br>
+— Maxime Lagace
