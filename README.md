@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be true to yourself, help others, make each day your masterpiece&quot;</em> <br>
-— John Wooden
+<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
+— Harry S. Truman
