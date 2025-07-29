@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Most of us will do anything to avoid facing ourselves.&quot;</em> <br>
+— Lolly Daskal
