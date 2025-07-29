@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Changing minds is harder than finding people who already agree.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;The more you extend kindness to yourself, the more it will become your automatic response to others.&quot;</em> <br>
+— Wayne Dyer
