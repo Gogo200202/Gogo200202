@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What lies behind us and what lies before us are tiny matters compared to what lies within us.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Don't be afraid to give up the good to go for the great.&quot;</em> <br>
+— John D. Rockefeller
