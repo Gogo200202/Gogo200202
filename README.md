@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most of us will do anything to avoid facing ourselves.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Doing what you love is the cornerstone of having abundance in your life. &quot;</em> <br>
+— Wayne Dyer
