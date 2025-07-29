@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's wise to tell the truth. It's even wiser to tell it kindly.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Success is like reaching an important birthday and finding you're exactly the same.&quot;</em> <br>
+— Audrey Hepburn
