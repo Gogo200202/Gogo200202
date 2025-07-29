@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more you know, the more you know you don't know.&quot;</em> <br>
-— Aristotle
+<em>&quot;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&quot;</em> <br>
+— Robert Greene
