@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;The more knowledge you have, the more you're free to rely on your instincts.&quot;</em> <br>
+— Arnold Schwarzenegger
