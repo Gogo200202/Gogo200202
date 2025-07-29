@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Changing minds is harder than finding people who already agree.&quot;</em> <br>
+— Jack Butcher
