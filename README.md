@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&quot;</em> <br>
-— Robert Collier
+<em>&quot;There is no significance in life without struggle.&quot;</em> <br>
+— Lolly Daskal
