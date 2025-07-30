@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't listen to the person who has the answers; listen to the person who has the questions.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Find the game where you can win, and then commit your life to playing it; and play to win.&quot;</em> <br>
+— Robert Kiyosaki
