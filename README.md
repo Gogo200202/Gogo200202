@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do something worth remembering.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;An ounce of performance is worth pounds of promises.&quot;</em> <br>
+— Mae West
