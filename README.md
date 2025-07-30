@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is like reaching an important birthday and finding you're exactly the same.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;True friendship ought never to conceal what it thinks. &quot;</em> <br>
+— St. Jerome
