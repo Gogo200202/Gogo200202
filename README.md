@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&quot;</em> <br>
+<em>&quot;Your life does not get better by chance, it gets better by change.&quot;</em> <br>
 — Jim Rohn
