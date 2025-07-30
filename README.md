@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An ounce of performance is worth pounds of promises.&quot;</em> <br>
-— Mae West
+<em>&quot;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&quot;</em> <br>
+— Robert Collier
