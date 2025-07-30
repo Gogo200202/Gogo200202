@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What is planted in each person's soul will sprout.  &quot;</em> <br>
-— Rumi
+<em>&quot;I've always tried to go a step past wherever people expected me to end up.&quot;</em> <br>
+— Beverly Sills
