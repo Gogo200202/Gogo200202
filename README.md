@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is a poor teacher.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Don't listen to the person who has the answers; listen to the person who has the questions.&quot;</em> <br>
+— Albert Einstein
