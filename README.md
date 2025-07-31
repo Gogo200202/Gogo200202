@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where there is no struggle, there is no strength. &quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.&quot;</em> <br>
+— Roy T. Bennett
