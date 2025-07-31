@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winners are not people who never fail, but people who never quit.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.&quot;</em> <br>
+— Marcus Aurelius
