@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you make a choice, you change the future.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Deeds will not be less valiant because they are upraised.&quot;</em> <br>
+— J.R.R. Tolkien
