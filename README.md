@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Debt is the slavery of the free.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Do not fight with pigs - you will be smeared in mud but the pig will like it.&quot;</em> <br>
+— George Bernard Shaw
