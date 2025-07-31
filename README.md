@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is like stepping onto a boat which is about to sail out to sea and sink.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;When you make a choice, you change the future.&quot;</em> <br>
+— Deepak Chopra
