@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I try more and more to be myself, caring relatively little whether people approve or disapprove.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Winners are not people who never fail, but people who never quit.&quot;</em> <br>
+— Arnold Schwarzenegger
