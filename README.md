@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Deeds will not be less valiant because they are upraised.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Debt is the slavery of the free.&quot;</em> <br>
+— Publilius Syrus
