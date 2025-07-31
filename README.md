@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;I try more and more to be myself, caring relatively little whether people approve or disapprove.&quot;</em> <br>
+— Vincent van Gogh
