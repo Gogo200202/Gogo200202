@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man is but a product of his thoughts. What he thinks he becomes.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;Life is like stepping onto a boat which is about to sail out to sea and sink.&quot;</em> <br>
+— Shunryu Suzuki
