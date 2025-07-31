@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Each path to knowledge involves different rules and these rules are not interchangeable.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Death and life have their determined appointments; riches and honors depend upon heaven. &quot;</em> <br>
+— Confucius
