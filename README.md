@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not fight with pigs - you will be smeared in mud but the pig will like it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&quot;</em> <br>
+— Audrey Hepburn
