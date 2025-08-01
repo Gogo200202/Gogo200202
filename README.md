@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;At first dreams seem impossible, then improbable, then inevitable.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.&quot;</em> <br>
+— Bob Proctor
