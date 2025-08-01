@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The finish line is just the beginning of a whole new race.&quot;</em> <br>
-— Unknown
+<em>&quot;Life does not get better by chance, it gets better by change.&quot;</em> <br>
+— Jim Rohn
