@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect is earned by effort not age, all things age without effort.&quot;</em> <br>
-— C. Sean McGee
+<em>&quot;The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.&quot;</em> <br>
+— Winston Churchill
