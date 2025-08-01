@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&quot;</em> <br>
+— Josh Waitzkin
