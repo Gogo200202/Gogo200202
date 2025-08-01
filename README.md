@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A day without laughter is a day wasted.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;Never let your memories be greater than your dreams.&quot;</em> <br>
+— Doug Ivester
