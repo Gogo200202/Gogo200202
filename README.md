@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you try, you might get exactly what you want. If you don't, you don't.&quot;</em> <br>
-— Unknown
+<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
+— Huang Po
