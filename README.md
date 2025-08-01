@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are shaped and fashioned by what we love.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;Your goals are the road maps that guide you and show you what is possible for your life.&quot;</em> <br>
+— Les Brown
