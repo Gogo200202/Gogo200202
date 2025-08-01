@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&quot;</em> <br>
-— Henry Ford
+<em>&quot;If you try, you might get exactly what you want. If you don't, you don't.&quot;</em> <br>
+— Unknown
