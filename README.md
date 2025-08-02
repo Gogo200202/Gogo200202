@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A golden cage is still just a cage.&quot;</em> <br>
-— Anita Krizzan
+<em>&quot;Sometimes success isn't about making the right decision, it's more about making some decision.&quot;</em> <br>
+— Robin Sharma
