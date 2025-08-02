@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never was anything great achieved without danger.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;There is nothing more truly artistic than to love people.&quot;</em> <br>
+— Vincent van Gogh
