@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In order to attain the impossible, one must attempt the absurd.&quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;There are only encounters in history. There are no accidents.&quot;</em> <br>
+— Pablo Picasso
