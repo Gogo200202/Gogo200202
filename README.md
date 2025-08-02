@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are only encounters in history. There are no accidents.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;The roots of education are bitter, but the fruit is sweet.&quot;</em> <br>
+— Aristotle
