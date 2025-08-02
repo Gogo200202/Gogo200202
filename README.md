@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enjoy when you can, and endure when you must.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;Peace is not the absence of conflict, but the ability to cope with it.&quot;</em> <br>
+— Unknown
