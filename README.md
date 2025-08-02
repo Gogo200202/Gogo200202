@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is nothing more truly artistic than to love people.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;No man is happy unless he believes he is.&quot;</em> <br>
+— Publilius Syrus
