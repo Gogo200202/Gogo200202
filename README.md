@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peace is not the absence of conflict, but the ability to cope with it.&quot;</em> <br>
-— Unknown
+<em>&quot;Raise your words, not voice. It is rain that grows flowers, not thunder.&quot;</em> <br>
+— Rumi
