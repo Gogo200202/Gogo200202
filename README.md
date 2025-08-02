@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope means hoping when everything seems hopeless.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.&quot;</em> <br>
+— James Allen
