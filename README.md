@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A Rolling Stone Gathers No Moss.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Life is trying things to see if they work.&quot;</em> <br>
+— Ray Bradbury
