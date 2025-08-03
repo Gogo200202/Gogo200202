@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;People tend to complicate their own lives, as if living weren't already complicated enough.&quot;</em> <br>
+— Carlos Ruiz Zafon
