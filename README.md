@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Raise your words, not voice. It is rain that grows flowers, not thunder.&quot;</em> <br>
-— Rumi
+<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
+— Heraclitus
