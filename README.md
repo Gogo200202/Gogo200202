@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&quot;</em> <br>
+— John Eliot
