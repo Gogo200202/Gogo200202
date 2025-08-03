@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is a bitter plant, but its fruit is sweet.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;No man will make a great leader who wants to do it all himself or to get all the credit for doing it.&quot;</em> <br>
+— Andrew Carnegie
