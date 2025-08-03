@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep smiling, because life is a beautiful thing and there's so much to smile about.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;Those who are easily shocked should be shocked more often.&quot;</em> <br>
+— Mae West
