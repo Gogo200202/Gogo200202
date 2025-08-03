@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is trying things to see if they work.&quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Patience is a bitter plant, but its fruit is sweet.&quot;</em> <br>
+— Chinese Proverb
