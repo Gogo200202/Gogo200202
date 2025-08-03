@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People tend to complicate their own lives, as if living weren't already complicated enough.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.&quot;</em> <br>
+— Criss Jami
