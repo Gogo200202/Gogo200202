@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;If you don't like something change it; if you can't change it, change the way you think about it.&quot;</em> <br>
+— Mary Engelbreit
