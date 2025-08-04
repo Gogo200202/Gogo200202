@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's a very deep connection among human beings. All we have to do is open our minds to it.&quot;</em> <br>
-— Yanni
+<em>&quot;People who bite the hand that feeds them usually lick the boot that kicks them.&quot;</em> <br>
+— Eric Hoffer
