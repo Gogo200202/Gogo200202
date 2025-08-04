@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There will always be suffering. But we must not suffer over the suffering.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Embody what you teach, and teach only what you have embodied.&quot;</em> <br>
+— Dan Millman
