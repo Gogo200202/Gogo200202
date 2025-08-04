@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is nothing quite so tragic as a young cynic.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
+— Jack Butcher
