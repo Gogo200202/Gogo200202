@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You may be one person in this world, but to one person you may mean the world.&quot;</em> <br>
-— Unknown
+<em>&quot;There will always be suffering. But we must not suffer over the suffering.&quot;</em> <br>
+— Alan Watts
