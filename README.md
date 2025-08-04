@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;The golden opportunity you are seeking is within yourself.&quot;</em> <br>
+— Mary Engelbreit
