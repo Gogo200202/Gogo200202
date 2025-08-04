@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Happiness is not the absence of problems, it's the ability to deal with them.&quot;</em> <br>
+— Steve Maraboli
