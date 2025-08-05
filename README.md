@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Everyone is a moon, and has a dark side which he never shows to anybody.&quot;</em> <br>
+— Mark Twain
