@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't know where you're going, you will probably end up somewhere else.&quot;</em> <br>
-— Laurence J. Peter
+<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
+— Heraclitus
