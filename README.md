@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Weeds are flowers too, once you get to know them.&quot;</em> <br>
-— A.A. Milne
+<em>&quot;It is well known that those who do not trust themselves never trust others.&quot;</em> <br>
+— Alfred Adler
