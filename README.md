@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is well known that those who do not trust themselves never trust others.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;People inspire you, or they drain you. Pick them wisely.&quot;</em> <br>
+— Les Brown
