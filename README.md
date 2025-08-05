@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a question and how we live it is our answer.&quot;</em> <br>
-— Gary Keller
+<em>&quot;You can calculate the worth of a man by the number of his enemies.&quot;</em> <br>
+— Gustave Flaubert
