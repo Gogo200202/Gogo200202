@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People inspire you, or they drain you. Pick them wisely.&quot;</em> <br>
-— Les Brown
+<em>&quot;The only way to make sense out of change is to plunge into it, move with it, and join the dance.&quot;</em> <br>
+— Alan Watts
