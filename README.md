@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence is the greatest friend.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Looking after my health today gives me a better hope for tomorrow. &quot;</em> <br>
+— Anne Wilson Schaef
