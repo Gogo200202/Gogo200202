@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It doesn't matter what you do, only how well you do it.&quot;</em> <br>
-— Dan Millman
+<em>&quot;If you don't know where you're going, you will probably end up somewhere else.&quot;</em> <br>
+— Laurence J. Peter
