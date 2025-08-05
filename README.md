@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone is a moon, and has a dark side which he never shows to anybody.&quot;</em> <br>
-— Mark Twain
+<em>&quot;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&quot;</em> <br>
+— Virginia Woolf
