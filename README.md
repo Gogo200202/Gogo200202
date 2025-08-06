@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&quot;</em> <br>
+— Betty White
