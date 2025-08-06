@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing we have to fear is fear itself.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.&quot;</em> <br>
+— Criss Jami
