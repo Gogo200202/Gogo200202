@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Turn the pain into power.&quot;</em> <br>
-— Unknown
+<em>&quot;The only thing we have to fear is fear itself.&quot;</em> <br>
+— Franklin D. Roosevelt
