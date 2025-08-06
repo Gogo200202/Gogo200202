@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Realistic people do not accomplish extraordinary things.&quot;</em> <br>
-— John Eliot
+<em>&quot;The thing about smart people is that they seem like crazy people to dumb people.&quot;</em> <br>
+— Stephen Hawking
