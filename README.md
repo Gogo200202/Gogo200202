@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&quot;</em> <br>
-— Betty White
+<em>&quot;Forever is composed of now's.&quot;</em> <br>
+— Emily Dickinson
