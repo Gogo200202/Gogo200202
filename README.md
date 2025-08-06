@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Don't live the same year 75 times and call it a life.&quot;</em> <br>
+— Robin Sharma
