@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Give a girl the right shoes, and she can conquer the world.&quot;</em> <br>
+— Bette Midler
