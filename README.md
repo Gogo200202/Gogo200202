@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give a girl the right shoes, and she can conquer the world.&quot;</em> <br>
-— Bette Midler
+<em>&quot;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&quot;</em> <br>
+— Dr. Seuss
