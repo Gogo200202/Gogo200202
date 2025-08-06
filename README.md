@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The thing about smart people is that they seem like crazy people to dumb people.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;When you judge another, you do not define them, you define yourself&quot;</em> <br>
+— Wayne Dyer
