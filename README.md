@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't live the same year 75 times and call it a life.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Be strong. Be confident. Be the star of your own life.&quot;</em> <br>
+— Estee Lauder
