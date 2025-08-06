@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be strong. Be confident. Be the star of your own life.&quot;</em> <br>
-— Estee Lauder
+<em>&quot;Real loss is only possible when you love something more than you love yourself.&quot;</em> <br>
+— Robin Williams
