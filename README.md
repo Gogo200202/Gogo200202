@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Force has no place where there is need of skill. &quot;</em> <br>
-— Herodotus
+<em>&quot;Fear is your worst enemy. Risk is your best friend.&quot;</em> <br>
+— Gurbaksh Chahal
