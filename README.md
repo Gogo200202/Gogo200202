@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must be free not because we claim freedom, but because we practice it.&quot;</em> <br>
-— William Faulkner
+<em>&quot;The first principle of success is desire.&quot;</em> <br>
+— Robert Collier
