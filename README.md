@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What you do today can improve all your tomorrows.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;There are no secrets to success. It is the result of preparation, hard work, and learning from failure.&quot;</em> <br>
+— Colin Powell
