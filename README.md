@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You use a glass mirror to see your face; you use works of art to see your soul.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Truth is not something outside to be discovered, it is something inside to be realized.&quot;</em> <br>
+— Osho
