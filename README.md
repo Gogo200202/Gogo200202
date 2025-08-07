@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you change the way you look at things, the things you look at change. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&quot;</em> <br>
+— Tony Robbins
