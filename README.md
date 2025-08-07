@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no secrets to success. It is the result of preparation, hard work, and learning from failure.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Surrender to what is. Let go of what was. Have faith in what will be.&quot;</em> <br>
+— Sonia Ricotti
