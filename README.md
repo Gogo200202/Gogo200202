@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
+— Zen Proverb
