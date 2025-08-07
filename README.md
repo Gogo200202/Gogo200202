@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Surrender to what is. Let go of what was. Have faith in what will be.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;You use a glass mirror to see your face; you use works of art to see your soul.&quot;</em> <br>
+— George Bernard Shaw
