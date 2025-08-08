@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
+— Zig Ziglar
