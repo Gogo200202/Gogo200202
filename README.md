@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are never too old to set another goal or to dream a new dream.&quot;</em> <br>
-— Les Brown
+<em>&quot;Don't shortchange yourself when it comes to investing in your own better future.&quot;</em> <br>
+— Jim Rohn
