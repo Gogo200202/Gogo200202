@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence breeds beauty.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;Fools read fast. Geniuses reread.&quot;</em> <br>
+— Maxime Lagace
