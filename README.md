@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Care about what other people think and you will always be their prisoner.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Make no small plans for they have no power to stir the soul.&quot;</em> <br>
+— Niccolo Machiavelli
