@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
+— Oprah Winfrey
