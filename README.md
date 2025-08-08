@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;We are all different. Don't judge, understand instead.&quot;</em> <br>
+— Roy T. Bennett
