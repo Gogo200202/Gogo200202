@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not tell the truth about yourself you cannot tell it about other people.&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;No one can hurt you without your consent.&quot;</em> <br>
+— Eleanor Roosevelt
