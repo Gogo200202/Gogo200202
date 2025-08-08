@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone wants to go to Heaven, but no one wants to die.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
+— T.S. Eliot
