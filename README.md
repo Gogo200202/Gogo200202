@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality of your life is determined by the quality of your thoughts.&quot;</em> <br>
-— Unknown
+<em>&quot;The future depends on what you do today. &quot;</em> <br>
+— Mahatma Gandhi
