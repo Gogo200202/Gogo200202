@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Show up even when you don't want to show up.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Even the finest sword plunged into salt water will eventually rust.&quot;</em> <br>
+— Sun Tzu
