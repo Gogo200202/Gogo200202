@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;New beginnings are disguised as painful endings.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Think and wonder, wonder and think.&quot;</em> <br>
+— Dr. Seuss
