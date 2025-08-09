@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
+— Marilyn Monroe
