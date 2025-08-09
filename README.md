@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is the absence of judgment.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
+— Andrew Carnegie
