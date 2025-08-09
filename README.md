@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Think and wonder, wonder and think.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Show up even when you don't want to show up.&quot;</em> <br>
+— Steve Harvey
