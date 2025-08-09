@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words, once they are printed, have a life of their own.&quot;</em> <br>
-— Carol Burnett
+<em>&quot;Love is the absence of judgment.&quot;</em> <br>
+— Dalai Lama
