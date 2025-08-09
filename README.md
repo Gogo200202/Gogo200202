@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trying to define yourself is like trying to bite your own teeth.&quot;</em> <br>
-— Alan Watts
+<em>&quot;The quality of your life is determined by the quality of your thoughts.&quot;</em> <br>
+— Unknown
