@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future depends on what you do today. &quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;When you're at the end of your rope, tie a knot and hold on.&quot;</em> <br>
+— Theodore Roosevelt
