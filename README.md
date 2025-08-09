@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you're at the end of your rope, tie a knot and hold on.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;I must also have a dark side if I am to be whole.&quot;</em> <br>
+— Carl Jung
