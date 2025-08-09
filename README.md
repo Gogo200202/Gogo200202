@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I must also have a dark side if I am to be whole.&quot;</em> <br>
-— Carl Jung
+<em>&quot;New beginnings are disguised as painful endings.&quot;</em> <br>
+— Lao Tzu
