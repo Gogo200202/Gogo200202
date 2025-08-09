@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even the finest sword plunged into salt water will eventually rust.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&quot;</em> <br>
+— Maxime Lagace
