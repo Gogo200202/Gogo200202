@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What the mind can conceive and believe, and the heart desire, you can achieve.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;It's your road, and yours alone, others may walk it with you, but no one can walk it for you.&quot;</em> <br>
+— Rumi
