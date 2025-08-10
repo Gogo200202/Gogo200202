@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better to light a candle than to curse the darkness. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Where there is no struggle, there is no strength. &quot;</em> <br>
+— Oprah Winfrey
