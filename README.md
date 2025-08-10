@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The right thing to do and the hard thing to do are usually the same.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Pleasure is always derived from something outside you, whereas joy arises from within. &quot;</em> <br>
+— Eckhart Tolle
