@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;We are all here for some special reason.&quot;</em> <br>
+— Robin Sharma
