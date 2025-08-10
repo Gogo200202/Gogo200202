@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where there is no struggle, there is no strength. &quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.&quot;</em> <br>
+— Gary Keller
