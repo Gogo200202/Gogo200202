@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever is begun in anger, ends in shame.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;In the middle of chaos lies opportunity.  &quot;</em> <br>
+— Bruce Lee
