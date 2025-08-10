@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only people without problems are those in cemeteries.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Life is what you make it. Always has been, always will be.&quot;</em> <br>
+— Eleanor Roosevelt
