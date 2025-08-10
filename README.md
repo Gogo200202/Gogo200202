@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The older you get the stronger the wind gets - and it's always in your face.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Better to light a candle than to curse the darkness. &quot;</em> <br>
+— Chinese Proverb
