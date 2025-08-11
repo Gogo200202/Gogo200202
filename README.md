@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Facts are the enemy of truth. &quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;Silence is the great teacher and to learn its lessons you must pay attention to it.&quot;</em> <br>
+— Deepak Chopra
