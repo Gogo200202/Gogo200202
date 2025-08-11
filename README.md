@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The Art of Peace begins with you.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.&quot;</em> <br>
+— Ming-Dao Deng
