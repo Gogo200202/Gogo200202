@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. &quot;</em> <br>
+— Miguel de Cervantes
