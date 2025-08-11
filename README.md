@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;True it is, we only hate those whom we do not know.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;He is not a lover who does not love forever.&quot;</em> <br>
+— Euripides
