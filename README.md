@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If a man knows not to which port he sails, no wind is favorable.  &quot;</em> <br>
-— Seneca
+<em>&quot;Coming together is a beginning, staying together is progress, and working together is success. &quot;</em> <br>
+— Henry Ford
