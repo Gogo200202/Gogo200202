@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;If a man knows not to which port he sails, no wind is favorable.  &quot;</em> <br>
+— Seneca
