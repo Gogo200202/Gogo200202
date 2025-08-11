@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're waiting until you feel talented enough to make it, you'll never make it.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Don't listen to the person who has the answers; listen to the person who has the questions.&quot;</em> <br>
+— Albert Einstein
