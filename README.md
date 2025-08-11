@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Coming together is a beginning, staying together is progress, and working together is success. &quot;</em> <br>
-— Henry Ford
+<em>&quot;True it is, we only hate those whom we do not know.&quot;</em> <br>
+— Andrew Carnegie
