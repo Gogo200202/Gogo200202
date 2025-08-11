@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is the great teacher and to learn its lessons you must pay attention to it.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;If you don't like something change it; if you can't change it, change the way you think about it.&quot;</em> <br>
+— Mary Engelbreit
