@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We forge the chains we wear in life.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&quot;</em> <br>
+— James Allen
