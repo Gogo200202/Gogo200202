@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;So long as we are being remembered, we remain alive.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Do not regret the past. Look to the future.&quot;</em> <br>
+— Soyen Shaku
