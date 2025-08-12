@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.&quot;</em> <br>
-— Epictetus
+<em>&quot;Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.&quot;</em> <br>
+— Ralph Marston
