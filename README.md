@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We tend to live up to our expectations.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Gratitude is the fairest blossom which springs from the soul.&quot;</em> <br>
+— Henry Ward Beecher
