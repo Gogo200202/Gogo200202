@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can easily judge the character of a man by how he treats those who can do nothing for him.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.&quot;</em> <br>
+— Bhagavad Gita
