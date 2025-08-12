@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a question and how we live it is our answer.&quot;</em> <br>
-— Gary Keller
+<em>&quot;So long as we are being remembered, we remain alive.&quot;</em> <br>
+— Carlos Ruiz Zafon
