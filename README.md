@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Emancipate yourself from mental slavery, none but ourselves can free our mind.&quot;</em> <br>
-— Bob Marley
+<em>&quot;I think self-awareness is probably the most important thing towards being a champion. &quot;</em> <br>
+— Billie Jean King
