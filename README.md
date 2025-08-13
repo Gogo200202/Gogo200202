@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams are for dreamers. Goals are for achievers.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Emancipate yourself from mental slavery, none but ourselves can free our mind.&quot;</em> <br>
+— Bob Marley
