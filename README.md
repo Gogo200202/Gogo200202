@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Allow motion to equal emotion.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
+— Chinese Proverb
