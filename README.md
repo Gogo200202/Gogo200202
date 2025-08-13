@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Within every desire is the mechanics of its fulfillment.&quot;</em> <br>
+— Deepak Chopra
