@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What the mind can conceive, it can achieve.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;To bear trials with a calm mind robs misfortune of its strength and burden.&quot;</em> <br>
+— Seneca
