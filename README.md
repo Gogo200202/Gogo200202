@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every act of creation is first an act of destruction.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Do it with passion, or not at all.&quot;</em> <br>
+— Rosa Nouchette Carey
