@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is going from failure to failure without losing your enthusiasm&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Dreams are for dreamers. Goals are for achievers.&quot;</em> <br>
+— Arnold Schwarzenegger
