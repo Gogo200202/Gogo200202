@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To bear trials with a calm mind robs misfortune of its strength and burden.&quot;</em> <br>
-— Seneca
+<em>&quot;Every act of creation is first an act of destruction.&quot;</em> <br>
+— Pablo Picasso
