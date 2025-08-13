@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do it with passion, or not at all.&quot;</em> <br>
-— Rosa Nouchette Carey
+<em>&quot;Allow motion to equal emotion.&quot;</em> <br>
+— Elbert Hubbard
