@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;We become what we believe.&quot;</em> <br>
+— Lolly Daskal
