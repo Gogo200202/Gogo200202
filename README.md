@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dream big and dare to fail.&quot;</em> <br>
-— Norman Vaughan
+<em>&quot;Even if you persuade me, you won't persuade me.&quot;</em> <br>
+— Aristophanes
