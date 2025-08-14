@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The roots of education are bitter, but the fruit is sweet.&quot;</em> <br>
-— Aristotle
+<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
+— Oprah Winfrey
