@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pleasure can be supported by an illusion; but happiness rests upon truth. &quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;The healthiest response to life is joy.&quot;</em> <br>
+— Deepak Chopra
