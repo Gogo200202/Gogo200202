@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take interest and even delight in doing the small things well.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Pleasure can be supported by an illusion; but happiness rests upon truth. &quot;</em> <br>
+— Nicolas Chamfort
