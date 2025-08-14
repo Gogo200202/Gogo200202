@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.&quot;</em> <br>
-— Criss Jami
+<em>&quot;If fear is too strong, the genius is suppressed.&quot;</em> <br>
+— Robert Kiyosaki
