@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Allow motion to equal emotion.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Take interest and even delight in doing the small things well.&quot;</em> <br>
+— Jim Rohn
