@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The healthiest response to life is joy.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;There is little success where there is little laughter.&quot;</em> <br>
+— Andrew Carnegie
