@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.&quot;</em> <br>
+— Amelia Earhart
