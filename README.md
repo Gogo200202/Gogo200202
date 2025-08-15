@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is hard to fail, but it is worse never to have tried to succeed.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&quot;</em> <br>
+— Robert Greene
