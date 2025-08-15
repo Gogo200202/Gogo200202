@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A crisis is an opportunity riding the dangerous wind.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Dream big. Start small. But most of all, start.&quot;</em> <br>
+— Simon Sinek
