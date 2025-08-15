@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fortunate are those who take the first steps.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;It is hard to fail, but it is worse never to have tried to succeed.&quot;</em> <br>
+— Theodore Roosevelt
