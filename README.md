@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The heart that gives, gathers.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;You'll get more from being a peacemaker than a warrior.&quot;</em> <br>
+— Arnold Schwarzenegger
