@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You'll get more from being a peacemaker than a warrior.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;A crisis is an opportunity riding the dangerous wind.&quot;</em> <br>
+— Chinese Proverb
