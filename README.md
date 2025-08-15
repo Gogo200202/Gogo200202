@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Character is the result of two things: mental attitude and the way we spend our time.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;The heart that gives, gathers.&quot;</em> <br>
+— Lao Tzu
