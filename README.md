@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. &quot;</em> <br>
-— George Washington
+<em>&quot;Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.&quot;</em> <br>
+— James Allen
