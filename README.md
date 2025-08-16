@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Youth has no age.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;You know the more one does the more one can do.&quot;</em> <br>
+— Amelia Earhart
