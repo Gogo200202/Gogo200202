@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be the silent watcher of your thoughts and behavior. You are beneath the thinker.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;There are no uninteresting things, only uninterested people.&quot;</em> <br>
+— Gilbert Chesterton
