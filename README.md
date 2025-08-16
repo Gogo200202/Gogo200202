@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you love someone, you love the person as they are, and not as you'd like them to be.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.&quot;</em> <br>
+— Kabir
