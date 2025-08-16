@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest step towards a life of simplicity is to learn to let go.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;When you love someone, you love the person as they are, and not as you'd like them to be.&quot;</em> <br>
+— Leo Tolstoy
