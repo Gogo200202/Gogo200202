@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A hopeless man is a very desperate and dangerous man, almost a dead man.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Youth has no age.&quot;</em> <br>
+— Pablo Picasso
