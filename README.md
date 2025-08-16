@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every moment is a fresh beginning.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;The greatest step towards a life of simplicity is to learn to let go.&quot;</em> <br>
+— Steve Maraboli
