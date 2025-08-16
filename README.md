@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You know the more one does the more one can do.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
+— Albus Dumbledore
