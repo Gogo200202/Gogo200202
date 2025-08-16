@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
+— Charles Darwin
