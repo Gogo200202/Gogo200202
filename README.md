@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence comes from crossing thresholds.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.&quot;</em> <br>
+— A.A. Milne
