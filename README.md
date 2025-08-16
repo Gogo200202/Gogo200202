@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no uninteresting things, only uninterested people.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Every moment is a fresh beginning.&quot;</em> <br>
+— T.S. Eliot
