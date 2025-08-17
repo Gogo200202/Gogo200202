@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Begin now to be what you will be hereafter.&quot;</em> <br>
-— St. Jerome
+<em>&quot;The whole of life, from the moment you are born to the moment you die, is a process of learning.&quot;</em> <br>
+— Jiddu Krishnamurti
