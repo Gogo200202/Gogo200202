@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first step is to establish that something is possible; then probability will occur.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Work is always an antidote to depression.&quot;</em> <br>
+— Eleanor Roosevelt
