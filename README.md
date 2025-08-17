@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The whole of life, from the moment you are born to the moment you die, is a process of learning.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.&quot;</em> <br>
+— Carlos Ruiz Zafon
