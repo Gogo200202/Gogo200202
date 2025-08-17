@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
+— Bob Proctor
