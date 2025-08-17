@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pain of parting is nothing to the joy of meeting again.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Words have no power to impress the mind without the exquisite horror of their reality.&quot;</em> <br>
+— Edgar Allan Poe
