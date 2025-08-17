@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Work is always an antidote to depression.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Begin now to be what you will be hereafter.&quot;</em> <br>
+— St. Jerome
