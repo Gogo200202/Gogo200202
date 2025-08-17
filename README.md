@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;FOCUS - Follow One Course Until Successful&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The reward of suffering is experience.&quot;</em> <br>
+— Harry S. Truman
