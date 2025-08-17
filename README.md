@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The strength of a wall is neither greater nor less than the courage of the men who defend it. &quot;</em> <br>
-— Genghis Khan
+<em>&quot;Don't try to steer the river.&quot;</em> <br>
+— Deepak Chopra
