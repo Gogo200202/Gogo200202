@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A path is made by walking on it.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.&quot;</em> <br>
+— Unknown
