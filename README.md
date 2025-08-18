@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I can live without money, but I cannot live without love.&quot;</em> <br>
-— Judy Garland
+<em>&quot;The soul without imagination is what an observatory would be without a telescope.&quot;</em> <br>
+— Henry Ward Beecher
