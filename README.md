@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;A path is made by walking on it.&quot;</em> <br>
+— Zhuangzi
