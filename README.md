@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The idea of ourselves is our escape from the fact of what we really are.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;I can live without money, but I cannot live without love.&quot;</em> <br>
+— Judy Garland
