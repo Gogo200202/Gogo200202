@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People think about what they don't want and attract more of the same.&quot;</em> <br>
-— Unknown
+<em>&quot;No snowflake ever falls in the wrong place.&quot;</em> <br>
+— Zen Proverb
