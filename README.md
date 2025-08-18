@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Awakening is possible only for those who seek it and want it.&quot;</em> <br>
-— G.I. Gurdjieff
+<em>&quot;The idea of ourselves is our escape from the fact of what we really are.&quot;</em> <br>
+— Jiddu Krishnamurti
