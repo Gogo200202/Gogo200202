@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love never keeps a man from pursuing his destiny.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Freedom lies in being bold.&quot;</em> <br>
+— Robert Frost
