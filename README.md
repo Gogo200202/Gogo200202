@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;People think about what they don't want and attract more of the same.&quot;</em> <br>
+— Unknown
