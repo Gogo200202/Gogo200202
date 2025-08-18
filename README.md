@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No snowflake ever falls in the wrong place.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Convinced myself, I seek not to convince.&quot;</em> <br>
+— Edgar Allan Poe
