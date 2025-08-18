@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's just a bad day, not a bad life.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Love never keeps a man from pursuing his destiny.&quot;</em> <br>
+— Paulo Coelho
