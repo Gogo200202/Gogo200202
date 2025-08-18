@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give out what you most want to come back.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
+— Chinese Proverb
