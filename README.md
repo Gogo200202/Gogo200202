@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We tend to live up to our expectations.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Wisdom is doing now what you are going to be happy with later on.&quot;</em> <br>
+— Joyce Meyer
