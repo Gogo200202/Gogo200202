@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is hardest at the beginning, messiest in the middle and best at the end.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Only when I fall do I get up again.&quot;</em> <br>
+— Vincent van Gogh
