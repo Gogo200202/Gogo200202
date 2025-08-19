@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;You already have every characteristic necessary for success if you recognize, claim, develop and use them.&quot;</em> <br>
+— Zig Ziglar
