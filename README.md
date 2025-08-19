@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wisdom is doing now what you are going to be happy with later on.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Attitude drives actions. Actions drive results. Results drive lifestyles.&quot;</em> <br>
+— Jim Rohn
