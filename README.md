@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Attitude drives actions. Actions drive results. Results drive lifestyles.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.&quot;</em> <br>
+— Earl Nightingale
