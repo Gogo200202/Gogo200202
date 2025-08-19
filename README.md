@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
-— Buddha
+<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
+— Eric Hoffer
