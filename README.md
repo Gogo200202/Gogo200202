@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You already have every characteristic necessary for success if you recognize, claim, develop and use them.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
+— Buddha
