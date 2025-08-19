@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Human behavior flows from three main sources: desire, emotion, and knowledge.&quot;</em> <br>
-— Plato
+<em>&quot;We tend to live up to our expectations.&quot;</em> <br>
+— Earl Nightingale
