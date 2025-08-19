@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never argue with stupid people, they will drag you down to their level and then beat you with experience.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Change is hardest at the beginning, messiest in the middle and best at the end.&quot;</em> <br>
+— Robin Sharma
