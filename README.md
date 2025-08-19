@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Lust, anger and greed are the three gates to self-destructive hell.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Circumstances rule men; men do not rule circumstances. &quot;</em> <br>
+— Herodotus
