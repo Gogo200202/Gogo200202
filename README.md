@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wherever you are is the entry point.&quot;</em> <br>
-— Kabir
+<em>&quot;Human behavior flows from three main sources: desire, emotion, and knowledge.&quot;</em> <br>
+— Plato
