@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&quot;</em> <br>
-— Dogen
+<em>&quot;Quiet people have the loudest minds.&quot;</em> <br>
+— Stephen King
