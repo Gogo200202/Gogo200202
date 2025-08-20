@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remember, hope is a good thing, maybe the best of things.&quot;</em> <br>
-— Stephen King
+<em>&quot;an action committed in anger is an action doomed to failure. &quot;</em> <br>
+— Genghis Khan
