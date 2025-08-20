@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;You must learn to let go. Release the stress. You were never in control anyway.&quot;</em> <br>
+— Steve Maraboli
