@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a traveling to the edge of knowledge, then a leap taken.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Remain calm. Be kind.&quot;</em> <br>
+— Colin Powell
