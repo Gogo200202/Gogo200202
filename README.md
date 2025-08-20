@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must learn to let go. Release the stress. You were never in control anyway.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Be regular and orderly in your life, so that you may be violent and original in your work.&quot;</em> <br>
+— Gustave Flaubert
