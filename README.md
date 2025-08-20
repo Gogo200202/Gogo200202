@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our deeds determine us, as much as we determine our deeds.&quot;</em> <br>
-— George Eliot
+<em>&quot;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&quot;</em> <br>
+— Morihei Ueshiba
