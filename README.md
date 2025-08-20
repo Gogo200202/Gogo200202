@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;an action committed in anger is an action doomed to failure. &quot;</em> <br>
-— Genghis Khan
+<em>&quot;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&quot;</em> <br>
+— Dogen
