@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wise people, even though all laws were abolished, would still lead the same life.&quot;</em> <br>
-— Aristophanes
+<em>&quot;Our deeds determine us, as much as we determine our deeds.&quot;</em> <br>
+— George Eliot
