@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your worth consists in what you are and not in what you have.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Thinking will not overcome fear but action will. &quot;</em> <br>
+— W. Clement Stone
