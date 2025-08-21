@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wit is educated insolence.&quot;</em> <br>
-— Aristotle
+<em>&quot;You have to make time, even for something as universal as staring at the stars.&quot;</em> <br>
+— W.P. Kinsella
