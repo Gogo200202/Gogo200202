@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be regular and orderly in your life, so that you may be violent and original in your work.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;If we all did the things we are capable of doing, we would literally astound ourselves.&quot;</em> <br>
+— Thomas Edison
