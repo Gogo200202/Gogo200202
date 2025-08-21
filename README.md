@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life has the name of life, but in reality it is death.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Learn to value yourself, which means: fight for your happiness.&quot;</em> <br>
+— Ayn Rand
