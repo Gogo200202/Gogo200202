@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You miss 100% of the shots you don't take.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Genius is the ability to act rightly without precedent - the power to do the right thing the first time.&quot;</em> <br>
+— Elbert Hubbard
