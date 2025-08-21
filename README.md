@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn to value yourself, which means: fight for your happiness.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;There is no way to happiness - happiness is the way.&quot;</em> <br>
+— Thich Nhat Hanh
