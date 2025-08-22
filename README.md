@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &quot;</em> <br>
+— Samuel Beckett
