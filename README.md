@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.&quot;</em> <br>
-— John D. Rockefeller
+<em>&quot;Animals don't hate, and we're supposed to be better than them.&quot;</em> <br>
+— Elvis Presley
