@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Catch, then, O catch the transient hour; Improve each moment as it flies! &quot;</em> <br>
-— St. Jerome
+<em>&quot;Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.&quot;</em> <br>
+— Thomas Jefferson
