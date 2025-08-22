@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Pleasure is always derived from something outside you, whereas joy arises from within. &quot;</em> <br>
+— Eckhart Tolle
