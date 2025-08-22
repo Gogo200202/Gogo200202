@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Either you choose to stay in the shallow end of the pool or you go out into the ocean.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;Catch, then, O catch the transient hour; Improve each moment as it flies! &quot;</em> <br>
+— St. Jerome
