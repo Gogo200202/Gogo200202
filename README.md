@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pleasure is always derived from something outside you, whereas joy arises from within. &quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;In three words I can sum up everything I've learned about life: it goes on.&quot;</em> <br>
+— Robert Frost
