@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life can be the scariest and most beautiful thing simultaneously.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Courage is resistance to fear, mastery of fear - not absence of fear.&quot;</em> <br>
+— Mark Twain
