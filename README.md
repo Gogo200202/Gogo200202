@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The scariest monsters are the ones that lurk within our souls.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
+— Richard Bach
