@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Normal is the average of deviance.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Perpetual optimism is a force multiplier.&quot;</em> <br>
+— Colin Powell
