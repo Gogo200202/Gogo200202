@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Optimism, when applied to your life, develops strength and peace within you.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;In the middle of chaos lies opportunity.  &quot;</em> <br>
+— Bruce Lee
