@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the middle of chaos lies opportunity.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;Normal is the average of deviance.&quot;</em> <br>
+— Rita Mae Brown
