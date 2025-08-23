@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise man can learn more from a foolish question than a fool can learn from a wise answer.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.&quot;</em> <br>
+— Steve Maraboli
