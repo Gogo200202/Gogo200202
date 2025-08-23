@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is resistance to fear, mastery of fear - not absence of fear.&quot;</em> <br>
-— Mark Twain
+<em>&quot;We are always complaining that our days are few, and acting as though there would be no end of them.  &quot;</em> <br>
+— Seneca
