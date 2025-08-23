@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are always complaining that our days are few, and acting as though there would be no end of them.  &quot;</em> <br>
-— Seneca
+<em>&quot;The ego wants comfort and certainty. The soul wants to live fully.&quot;</em> <br>
+— Maxime Lagace
