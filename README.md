@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perpetual optimism is a force multiplier.&quot;</em> <br>
-— Colin Powell
+<em>&quot;It is not how much we have, but how much we enjoy, that makes happiness.&quot;</em> <br>
+— Charles Spurgeon
