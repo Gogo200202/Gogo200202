@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The traveler sees what he sees. The tourist sees what he has come to see.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Some people feel the rain. Others just get wet. &quot;</em> <br>
+— Bob Dylan
