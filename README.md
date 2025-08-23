@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The ego wants comfort and certainty. The soul wants to live fully.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;A wise man can learn more from a foolish question than a fool can learn from a wise answer.  &quot;</em> <br>
+— Bruce Lee
