@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope is a waking dream.&quot;</em> <br>
-— Aristotle
+<em>&quot;The scariest monsters are the ones that lurk within our souls.&quot;</em> <br>
+— Edgar Allan Poe
