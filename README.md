@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
-— Richard Bach
+<em>&quot;The traveler sees what he sees. The tourist sees what he has come to see.&quot;</em> <br>
+— Gilbert Chesterton
