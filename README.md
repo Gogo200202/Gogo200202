@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some people feel the rain. Others just get wet. &quot;</em> <br>
-— Bob Dylan
+<em>&quot;Life can be the scariest and most beautiful thing simultaneously.&quot;</em> <br>
+— Maxime Lagace
