@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All human wisdom is contained in these two words - Wait and Hope&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Great things happen to those who don't stop believing, trying, learning, and being grateful.&quot;</em> <br>
+— Roy T. Bennett
