@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&quot;</em> <br>
-— Rumi
+<em>&quot;I am who I am today because of the choices I made yesterday.&quot;</em> <br>
+— Eleanor Roosevelt
