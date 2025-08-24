@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not how much we have, but how much we enjoy, that makes happiness.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;Life is a journey, not a destination.&quot;</em> <br>
+— Dan Millman
