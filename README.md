@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am who I am today because of the choices I made yesterday.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&quot;</em> <br>
+— Eckhart Tolle
