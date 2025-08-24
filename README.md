@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not think you will necessarily be aware of your own enlightenment.&quot;</em> <br>
-— Dogen
+<em>&quot;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&quot;</em> <br>
+— Rumi
