@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Real growth comes through intense, difficult, and challenging situations.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;You don't get in life what you want; you get in life what you are.&quot;</em> <br>
+— Les Brown
