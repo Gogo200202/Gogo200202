@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a journey, not a destination.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Real growth comes through intense, difficult, and challenging situations.&quot;</em> <br>
+— Kamal Ravikant
