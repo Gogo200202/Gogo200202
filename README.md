@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;You may be disappointed if you fail, but you are doomed if you don't try.&quot;</em> <br>
+— Beverly Sills
