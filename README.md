@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Appear weak when you are strong, and strong when you are weak.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;All human wisdom is contained in these two words - Wait and Hope&quot;</em> <br>
+— Alexandre Dumas
