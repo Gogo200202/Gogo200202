@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.&quot;</em> <br>
+— Oprah Winfrey
