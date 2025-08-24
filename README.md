@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not stop thinking of life as an adventure.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Do not think you will necessarily be aware of your own enlightenment.&quot;</em> <br>
+— Dogen
