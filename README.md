@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You may be disappointed if you fail, but you are doomed if you don't try.&quot;</em> <br>
-— Beverly Sills
+<em>&quot;Do not stop thinking of life as an adventure.&quot;</em> <br>
+— Eleanor Roosevelt
