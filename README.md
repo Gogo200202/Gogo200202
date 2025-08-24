@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People who say it cannot be done should not interrupt those who are doing it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
+— Thomas Edison
