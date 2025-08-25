@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;I skate to where the puck is going to be, not where it has been.&quot;</em> <br>
+— Wayne Gretzky
