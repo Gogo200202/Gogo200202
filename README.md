@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;One is never afraid of the unknown; one is afraid of the known coming to an end.&quot;</em> <br>
+— Jiddu Krishnamurti
