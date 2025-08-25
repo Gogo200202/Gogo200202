@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way to predict the future is to create it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Conscience is a man's compass. &quot;</em> <br>
+— Vincent van Gogh
