@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One is never afraid of the unknown; one is afraid of the known coming to an end.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Not all those who wander are lost.&quot;</em> <br>
+— J.R.R. Tolkien
