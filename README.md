@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not all those who wander are lost.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Anxiety is the dizziness of freedom.&quot;</em> <br>
+— Soren Kierkegaard
