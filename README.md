@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;However difficult life may seem, there is always something you can do and succeed at.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;Don't set your own goals by what other people make important.&quot;</em> <br>
+— Lolly Daskal
