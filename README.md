@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't set your own goals by what other people make important.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.&quot;</em> <br>
+— Kamal Ravikant
