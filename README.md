@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Conscience is a man's compass. &quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;The quicker you let go of old cheese, the sooner you find new cheese.&quot;</em> <br>
+— Spencer Johnson
