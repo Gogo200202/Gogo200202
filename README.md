@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I skate to where the puck is going to be, not where it has been.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Life is ours to be spent, not to be saved. &quot;</em> <br>
+— D. H. Lawrence
