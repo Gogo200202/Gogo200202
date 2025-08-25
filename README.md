@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stop wasting time looking at someone else's reality while doing nothing about yours.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;He who has overcome his fears will truly be free.&quot;</em> <br>
+— Aristotle
