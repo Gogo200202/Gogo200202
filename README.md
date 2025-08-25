@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not enough to win a war; it is more important to organize the peace.&quot;</em> <br>
-— Aristotle
+<em>&quot;The best way to predict the future is to create it.&quot;</em> <br>
+— Abraham Lincoln
