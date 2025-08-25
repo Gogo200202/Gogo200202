@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no path to Love. Love is the path.&quot;</em> <br>
-— Dan Millman
+<em>&quot;However difficult life may seem, there is always something you can do and succeed at.&quot;</em> <br>
+— Stephen Hawking
