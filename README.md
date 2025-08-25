@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anxiety is the dizziness of freedom.&quot;</em> <br>
-— Soren Kierkegaard
+<em>&quot;Stop wasting time looking at someone else's reality while doing nothing about yours.&quot;</em> <br>
+— Steve Harvey
