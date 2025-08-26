@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When it is dark enough, you can see the stars.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;The final mystery is oneself.&quot;</em> <br>
+— Oscar Wilde
