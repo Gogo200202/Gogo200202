@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I will not walk backward in life.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;You are the average of the five people you spend most time with.&quot;</em> <br>
+— Jim Rohn
