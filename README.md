@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
-— Unknown
+<em>&quot;We can't help everyone, but everyone can help someone.&quot;</em> <br>
+— Ronald Reagan
