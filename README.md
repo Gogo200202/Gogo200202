@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are the average of the five people you spend most time with.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Stop comparing yourself to others and focus on your own improvement.&quot;</em> <br>
+— Lolly Daskal
