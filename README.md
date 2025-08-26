@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most effective way to do it, is to do it.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;I will not walk backward in life.&quot;</em> <br>
+— J.R.R. Tolkien
