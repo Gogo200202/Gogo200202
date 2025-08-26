@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  &quot;</em> <br>
-— David Brinkley
+<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
+— Heraclitus
