@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is ours to be spent, not to be saved. &quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;When it is dark enough, you can see the stars.&quot;</em> <br>
+— Ralph Waldo Emerson
