@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men trust their ears less than their eyes.&quot;</em> <br>
-— Herodotus
+<em>&quot;The first rule of business; treat others like they want to treat you.&quot;</em> <br>
+— Charles Dickens
