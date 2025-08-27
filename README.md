@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Successful people do what unsuccessful people are not willing to do.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;The successful warrior is the average man, with laser-like focus.&quot;</em> <br>
+— Bruce Lee
