@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&quot;</em> <br>
-— Margaret Mead
+<em>&quot;The glow of one warm thought is to me worth more than money.&quot;</em> <br>
+— Thomas Jefferson
