@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What loneliness is more lonely than distrust?&quot;</em> <br>
-— George Eliot
+<em>&quot;To live is the rarest thing in the world. Most people exist, that is all. &quot;</em> <br>
+— Oscar Wilde
