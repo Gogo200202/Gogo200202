@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I can laugh, I can live.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;There is an essence of when you are fearless, you become more creative.&quot;</em> <br>
+— Gurbaksh Chahal
