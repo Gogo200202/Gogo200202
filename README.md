@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Happiness is an effect of doing what you love, not an end goal to be achieved.&quot;</em> <br>
+— Celestine Chua
