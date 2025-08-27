@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To live is the rarest thing in the world. Most people exist, that is all. &quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&quot;</em> <br>
+— Margaret Mead
