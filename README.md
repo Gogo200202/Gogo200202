@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The glow of one warm thought is to me worth more than money.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Failure is feedback. Learn from it and move on.&quot;</em> <br>
+— Jack Butcher
