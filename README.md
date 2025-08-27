@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality of your commitments will determine the course of your life.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;Life is a traveling to the edge of knowledge, then a leap taken.&quot;</em> <br>
+— D. H. Lawrence
