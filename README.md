@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The real meditation is how you live your life.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;Be patient and calm; no one can catch fish in anger.&quot;</em> <br>
+— Herbert Hoover
