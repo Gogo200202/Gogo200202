@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is acceptable. Not trying is a whole different ball park.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;We can have more than we've got because we can become more than we are.&quot;</em> <br>
+— Jim Rohn
