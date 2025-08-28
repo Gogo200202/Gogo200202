@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My sun sets to rise again.&quot;</em> <br>
-— Robert Browning
+<em>&quot;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&quot;</em> <br>
+— Lao Tzu
