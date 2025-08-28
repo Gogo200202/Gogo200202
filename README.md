@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The happiest people in the world are those who feel absolutely terrific about themselves.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;My sun sets to rise again.&quot;</em> <br>
+— Robert Browning
