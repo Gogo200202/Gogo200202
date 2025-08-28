@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The farther backward you can look, the farther forward you are likely to see.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Many of life's failures are people who did not realize how close they were to success when they gave up.&quot;</em> <br>
+— Thomas Edison
