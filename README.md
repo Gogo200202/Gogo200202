@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People who bite the hand that feeds them usually lick the boot that kicks them.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;The most creative act you will ever undertake is the act of creating yourself.&quot;</em> <br>
+— Deepak Chopra
