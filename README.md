@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our attitude toward life determines life's attitude towards us.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Our life isn't how much we can take out, but how much we can put in.  &quot;</em> <br>
+— Estee Lauder
