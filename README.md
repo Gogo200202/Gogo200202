@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is stumbling from failure to failure with no loss of enthusiasm.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;The happiest people in the world are those who feel absolutely terrific about themselves.&quot;</em> <br>
+— Brian Tracy
