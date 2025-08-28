@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can do two things at once, but you can't focus effectively on two things at once.&quot;</em> <br>
-— Gary Keller
+<em>&quot;The real meditation is how you live your life.&quot;</em> <br>
+— Jon Kabat-Zinn
