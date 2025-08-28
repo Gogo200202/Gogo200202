@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;You can do two things at once, but you can't focus effectively on two things at once.&quot;</em> <br>
+— Gary Keller
