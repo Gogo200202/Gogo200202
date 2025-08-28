@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can have more than we've got because we can become more than we are.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Our attitude toward life determines life's attitude towards us.&quot;</em> <br>
+— Earl Nightingale
