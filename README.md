@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be patient and calm; no one can catch fish in anger.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;Failure is acceptable. Not trying is a whole different ball park.&quot;</em> <br>
+— Michael Jordan
