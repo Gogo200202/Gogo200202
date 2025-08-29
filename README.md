@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It does not do to dwell on dreams and forget to live, remember that.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;It's not how much we give but how much love we put into giving.&quot;</em> <br>
+— Mother Teresa
