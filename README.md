@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Few things are more deceptive than memories.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;The key to immortality is first living a life worth remembering. &quot;</em> <br>
+— Bruce Lee
