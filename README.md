@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&quot;</em> <br>
+— Nelson Mandela
