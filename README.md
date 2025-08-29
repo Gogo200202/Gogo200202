@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not how much we give but how much love we put into giving.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Life is like a wheel. Sooner or later, it always comes around to where you started again.&quot;</em> <br>
+— Stephen King
