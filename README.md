@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thinking is the hardest work there is. That is why so few people engage in it.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
+— Leo Tolstoy
