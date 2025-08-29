@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;The past has no power over the present moment. &quot;</em> <br>
+— Eckhart Tolle
