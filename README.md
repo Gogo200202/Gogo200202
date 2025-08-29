@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no excuse for not trying.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Thinking is the hardest work there is. That is why so few people engage in it.&quot;</em> <br>
+— Robert Kiyosaki
