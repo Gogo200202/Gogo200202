@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&quot;</em> <br>
+— Eleanor Roosevelt
