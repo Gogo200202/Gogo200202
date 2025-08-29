@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is like a wheel. Sooner or later, it always comes around to where you started again.&quot;</em> <br>
-— Stephen King
+<em>&quot;Few things are more deceptive than memories.&quot;</em> <br>
+— Carlos Ruiz Zafon
