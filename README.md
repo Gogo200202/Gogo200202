@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The past has no power over the present moment. &quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Make your stand today. On this spot. On this day.&quot;</em> <br>
+— Ming-Dao Deng
