@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Waste not fresh tears over old griefs.&quot;</em> <br>
-— Euripides
+<em>&quot;There is no excuse for not trying.&quot;</em> <br>
+— Barack Obama
