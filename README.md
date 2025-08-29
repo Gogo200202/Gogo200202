@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Many of life's failures are people who did not realize how close they were to success when they gave up.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;It does not do to dwell on dreams and forget to live, remember that.&quot;</em> <br>
+— Albus Dumbledore
