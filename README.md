@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&quot;</em> <br>
-— James Allen
+<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
+— Bob Proctor
