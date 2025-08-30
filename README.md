@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is a difference between giving directions and giving direction.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;To arrive at the simplest truth requires years of contemplation.&quot;</em> <br>
+— Isaac Newton
