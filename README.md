@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live life as though nobody is watching, and express yourself as though everyone is listening.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;Be mindful. Be grateful. Be positive. Be true. Be kind.&quot;</em> <br>
+— Roy T. Bennett
