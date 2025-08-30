@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;There is a difference between giving directions and giving direction.&quot;</em> <br>
+— Simon Sinek
