@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To arrive at the simplest truth requires years of contemplation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;A strong man overcomes an obstacle, a wise man goes the whole way.&quot;</em> <br>
+— Zen Proverb
