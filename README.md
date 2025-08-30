@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;You cannot teach a crab to walk straight.&quot;</em> <br>
+— Aristophanes
