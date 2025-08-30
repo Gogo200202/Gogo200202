@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A strong man overcomes an obstacle, a wise man goes the whole way.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;If you don't know, the thing to do is not to get scared, but to learn.&quot;</em> <br>
+— Ayn Rand
