@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being a good example is the best form of service.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.&quot;</em> <br>
+— Richard Bach
