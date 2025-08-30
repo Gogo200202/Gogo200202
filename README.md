@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't know, the thing to do is not to get scared, but to learn.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&quot;</em> <br>
+— James Allen
