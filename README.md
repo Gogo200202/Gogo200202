@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your time is limited, so don't waste it living someone elses. life.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&quot;</em> <br>
+— Herbert Hoover
