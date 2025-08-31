@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be mindful. Be grateful. Be positive. Be true. Be kind.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The meaning of life is that it stops.&quot;</em> <br>
+— Franz Kafka
