@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence comes not from always being right but not fearing to be wrong.&quot;</em> <br>
-— Unknown
+<em>&quot;A man that flies from his fear may find that he has only taken a short cut to meet it.&quot;</em> <br>
+— J.R.R. Tolkien
