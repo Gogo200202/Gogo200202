@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Walk slowly but never walk backward.&quot;</em> <br>
+<em>&quot;Confidence comes not from always being right but not fearing to be wrong.&quot;</em> <br>
 — Unknown
