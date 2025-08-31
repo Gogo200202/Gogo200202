@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The scariest monsters are the ones that lurk within our souls.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;You know the more one does the more one can do.&quot;</em> <br>
+— Amelia Earhart
