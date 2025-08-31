@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What the caterpillar calls the end of the world, the master calls a butterfly.&quot;</em> <br>
-— Richard Bach
+<em>&quot;The quality of your life is the quality of your relationships.&quot;</em> <br>
+— Tony Robbins
