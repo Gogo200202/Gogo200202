@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pursuit of mastery bears gifts. &quot;</em> <br>
-— Gary Keller
+<em>&quot;What would life be if we had no courage to attempt anything? &quot;</em> <br>
+— Vincent van Gogh
