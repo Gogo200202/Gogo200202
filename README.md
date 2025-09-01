@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have a brain and mind of your own. Use it, and reach your own decisions.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;If I persist long enough I will win.&quot;</em> <br>
+— Og Mandino
