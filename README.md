@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I persist long enough I will win.&quot;</em> <br>
-— Og Mandino
+<em>&quot;A leader is one who knows the way, goes the way, and shows the way.&quot;</em> <br>
+— Unknown
