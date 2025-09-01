@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are dark shadows on the earth, but its lights are stronger in the contrast.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Hope means hoping when everything seems hopeless.&quot;</em> <br>
+— Gilbert Chesterton
