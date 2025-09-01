@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&quot;</em> <br>
-— Bette Midler
+<em>&quot;The biggest room in the world is the room for improvement.&quot;</em> <br>
+— Unknown
