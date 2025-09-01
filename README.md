@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&quot;</em> <br>
+— Norman Vincent Peale
