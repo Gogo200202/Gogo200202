@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A leader is one who knows the way, goes the way, and shows the way.&quot;</em> <br>
-— Unknown
+<em>&quot;The one who praises you is a thief. The one who criticizes you is your true friend.&quot;</em> <br>
+— Seungsahn
