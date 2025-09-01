@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest room in the world is the room for improvement.&quot;</em> <br>
-— Unknown
+<em>&quot;Absorb what is useful, discard what is useless and add what is specifically your own.  &quot;</em> <br>
+— Bruce Lee
