@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope means hoping when everything seems hopeless.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;You have a brain and mind of your own. Use it, and reach your own decisions.&quot;</em> <br>
+— Napoleon Hill
