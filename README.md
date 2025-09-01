@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.&quot;</em> <br>
+— Earl Nightingale
