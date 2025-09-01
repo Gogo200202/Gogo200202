@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absorb what is useful, discard what is useless and add what is specifically your own.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;There are dark shadows on the earth, but its lights are stronger in the contrast.&quot;</em> <br>
+— Charles Dickens
