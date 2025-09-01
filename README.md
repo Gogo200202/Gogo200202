@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What would life be if we had no courage to attempt anything? &quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Live calmly. The time will come when the flowers bloom by themselves.&quot;</em> <br>
+— Zen Proverb
