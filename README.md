@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is ignorance that causes most mistakes.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;There is a big difference between being centered and being self-centered.&quot;</em> <br>
+— Lolly Daskal
