@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. &quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;I'd rather welcome change than cling to the past.&quot;</em> <br>
+— Robert Kiyosaki
