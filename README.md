@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life would be tragic if it weren't funny.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;The greatest work that kindness does to others is that it makes them kind themselves.&quot;</em> <br>
+— Amelia Earhart
