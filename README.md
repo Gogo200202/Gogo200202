@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is not something ready made. It comes from your own actions.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Life would be tragic if it weren't funny.&quot;</em> <br>
+— Stephen Hawking
