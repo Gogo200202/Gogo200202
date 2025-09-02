@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The reward of suffering is experience.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;Play your part in life, but never forget that it is only a role.&quot;</em> <br>
+— Paramahansa Yogananda
