@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you know what you want, and want it bad enough, you will find a way to get it.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;It is ignorance that causes most mistakes.&quot;</em> <br>
+— Harry S. Truman
