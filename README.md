@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Play your part in life, but never forget that it is only a role.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;There is a big difference between being centered and being self-centered.&quot;</em> <br>
+— Lolly Daskal
