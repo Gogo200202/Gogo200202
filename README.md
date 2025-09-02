@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I'd rather welcome change than cling to the past.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The smallest of actions is always better than the noblest of intentions.&quot;</em> <br>
+— Robin Sharma
