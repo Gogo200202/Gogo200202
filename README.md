@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Each time we don't say what we wanna say, we're dying.&quot;</em> <br>
+— Yoko Ono
