@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Someday death will take us to another star.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;In order to control myself I must first accept myself by going with and not against my nature.&quot;</em> <br>
+— Bruce Lee
