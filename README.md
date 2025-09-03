@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Judge your success by what you had to give up in order to get it.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;If you can't feed a hundred people, then feed just one.&quot;</em> <br>
+— Mother Teresa
