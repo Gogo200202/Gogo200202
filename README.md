@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The smallest of actions is always better than the noblest of intentions.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;There are no limitations to the mind except those we acknowledge...&quot;</em> <br>
+— Napoleon Hill
