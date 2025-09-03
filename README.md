@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In order to control myself I must first accept myself by going with and not against my nature.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;Many people spend more time looking at their failures than focusing on their successes.&quot;</em> <br>
+— Lolly Daskal
