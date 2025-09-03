@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not be so open-minded that your brains fall out.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;You may be one person in this world, but to one person you may mean the world.&quot;</em> <br>
+— Unknown
