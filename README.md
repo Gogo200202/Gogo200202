@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can't feed a hundred people, then feed just one.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Don't stop when you're tired. Stop when you're done.&quot;</em> <br>
+— Marilyn Monroe
