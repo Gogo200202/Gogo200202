@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is achieved and maintained by those who try and keep trying. &quot;</em> <br>
-— W. Clement Stone
+<em>&quot;Do not be so open-minded that your brains fall out.&quot;</em> <br>
+— Gilbert Chesterton
