@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Many people spend more time looking at their failures than focusing on their successes.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&quot;</em> <br>
+— Josh Waitzkin
