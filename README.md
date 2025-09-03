@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;The truth is rarely pure and never simple. &quot;</em> <br>
+— Oscar Wilde
