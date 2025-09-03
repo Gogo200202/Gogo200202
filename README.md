@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't cry because it's over. Smile because it happened.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Judge your success by what you had to give up in order to get it.&quot;</em> <br>
+— Dalai Lama
