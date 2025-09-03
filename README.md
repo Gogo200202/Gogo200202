@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A lot of people have gone further than they thought they could because someone else thought they could.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Success is achieved and maintained by those who try and keep trying. &quot;</em> <br>
+— W. Clement Stone
