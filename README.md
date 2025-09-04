@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The real measure of your wealth is how much you'd be worth if you lost all your money.&quot;</em> <br>
-— Unknown
+<em>&quot;Not why the addiction but why the pain.&quot;</em> <br>
+— Gabor Mate
