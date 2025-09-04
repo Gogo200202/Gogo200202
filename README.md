@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being entirely honest with oneself is a good exercise.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;If you can't explain it simply, you don't understand it well enough.&quot;</em> <br>
+— Albert Einstein
