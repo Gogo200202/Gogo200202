@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be fascinated instead of frustrated.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;To be great is to be misunderstood.&quot;</em> <br>
+— Ralph Waldo Emerson
