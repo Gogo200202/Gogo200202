@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not why the addiction but why the pain.&quot;</em> <br>
-— Gabor Mate
+<em>&quot;Science can flourish only in an atmosphere of free speech. &quot;</em> <br>
+— Albert Einstein
