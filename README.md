@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be great is to be misunderstood.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;People are doing the best that they can from their own level of consciousness.&quot;</em> <br>
+— Deepak Chopra
