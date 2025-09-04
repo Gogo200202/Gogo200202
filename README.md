@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life can only be understood backwards; but it must be lived forwards.&quot;</em> <br>
-— Soren Kierkegaard
+<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
+— Sydney Smith
