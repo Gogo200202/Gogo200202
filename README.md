@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can't explain it simply, you don't understand it well enough.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&quot;</em> <br>
+— Nicolas Chamfort
