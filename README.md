@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear of death is fear of the Unknown.&quot;</em> <br>
-— Adi Da Samraj
+<em>&quot;A person who does not read is no better than one cannot read.&quot;</em> <br>
+— Earl Nightingale
