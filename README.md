@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You may be one person in this world, but to one person you may mean the world.&quot;</em> <br>
-— Unknown
+<em>&quot;Life can only be understood backwards; but it must be lived forwards.&quot;</em> <br>
+— Soren Kierkegaard
