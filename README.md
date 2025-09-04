@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
+— Jack Butcher
