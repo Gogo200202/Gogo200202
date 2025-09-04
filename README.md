@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Science can flourish only in an atmosphere of free speech. &quot;</em> <br>
-— Albert Einstein
+<em>&quot;Be fascinated instead of frustrated.&quot;</em> <br>
+— Jim Rohn
