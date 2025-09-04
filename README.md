@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;The real measure of your wealth is how much you'd be worth if you lost all your money.&quot;</em> <br>
+— Unknown
