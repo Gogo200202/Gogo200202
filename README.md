@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest weariness comes from work not done.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;While we may not be able to control all that happens to us, we can control what happens inside us.&quot;</em> <br>
+— Benjamin Franklin
