@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you look for perfection, you'll never be content.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;You can't make someone feel good about themselves until you feel good about yourself.&quot;</em> <br>
+— Robin Sharma
