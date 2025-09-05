@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every drop in the ocean counts. &quot;</em> <br>
-— Yoko Ono
+<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
+— Gilbert Chesterton
