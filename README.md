@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't need anybody to tell you who you are or what you are. You are what you are!&quot;</em> <br>
-— John Lennon
+<em>&quot;If you look for perfection, you'll never be content.&quot;</em> <br>
+— Leo Tolstoy
