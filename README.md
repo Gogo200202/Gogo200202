@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;While we may not be able to control all that happens to us, we can control what happens inside us.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Be a good animal, true to your instincts.&quot;</em> <br>
+— D. H. Lawrence
