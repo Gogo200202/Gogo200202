@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be a good animal, true to your instincts.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&quot;</em> <br>
+— Charles Dickens
