@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust thyself: every heart vibrates to that iron string.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Every drop in the ocean counts. &quot;</em> <br>
+— Yoko Ono
