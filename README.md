@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The friend is the man who knows all about you, and still likes you.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;I'm an optimist by choice not by stupidity.&quot;</em> <br>
+— Yanni
