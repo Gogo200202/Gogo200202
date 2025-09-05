@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;You don't need anybody to tell you who you are or what you are. You are what you are!&quot;</em> <br>
+— John Lennon
