@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Work for something because it is good, not just because it stands a chance to succeed.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.&quot;</em> <br>
+— Roy T. Bennett
