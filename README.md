@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to learn late than never.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
+— Sathya Sai Baba
