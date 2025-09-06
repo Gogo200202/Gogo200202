@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&quot;</em> <br>
+— Pema Chodron
