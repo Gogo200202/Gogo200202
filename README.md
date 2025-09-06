@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;We must have strong minds, ready to accept facts as they are.&quot;</em> <br>
+— Harry S. Truman
