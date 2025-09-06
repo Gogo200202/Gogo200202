@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Only by acceptance of the past, can you alter it.&quot;</em> <br>
+— T.S. Eliot
