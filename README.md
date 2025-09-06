@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.&quot;</em> <br>
+— Sydney Smith
