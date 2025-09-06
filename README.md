@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must have strong minds, ready to accept facts as they are.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;It is safer to search in the maze than to remain in a cheeseless situation.&quot;</em> <br>
+— Spencer Johnson
