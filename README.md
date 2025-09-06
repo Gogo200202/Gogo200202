@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is safer to search in the maze than to remain in a cheeseless situation.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Trust is the foundation of great leadership.&quot;</em> <br>
+— Lolly Daskal
