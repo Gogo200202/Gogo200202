@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are like islands in the sea, separate on the surface but connected in the deep.&quot;</em> <br>
-— William James
+<em>&quot;It is better to learn late than never.&quot;</em> <br>
+— Publilius Syrus
