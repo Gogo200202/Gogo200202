@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust is the foundation of great leadership.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Everyone wants to go to Heaven, but no one wants to die.&quot;</em> <br>
+— Robert Kiyosaki
