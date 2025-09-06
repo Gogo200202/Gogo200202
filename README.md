@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Do good by stealth, and blush to find it fame.&quot;</em> <br>
+— Alexander Pope
