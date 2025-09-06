@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Decide upon your major definite purpose in life and then organize all your activities around it.&quot;</em> <br>
+<em>&quot;Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'&quot;</em> <br>
 — Brian Tracy
