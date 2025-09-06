@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do good by stealth, and blush to find it fame.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;Decide upon your major definite purpose in life and then organize all your activities around it.&quot;</em> <br>
+— Brian Tracy
