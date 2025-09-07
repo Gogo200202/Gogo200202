@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
-— Euripides
+<em>&quot;To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.&quot;</em> <br>
+— Kahlil Gibran
