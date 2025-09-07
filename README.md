@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It doesn't matter how much you want. What really matters is how much you want it.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
+— Thomas Edison
