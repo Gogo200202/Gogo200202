@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is dangerous to be right in matters on which the established authorities are wrong.&quot;</em> <br>
-— Voltaire
+<em>&quot;Perseverance and spirit have done wonders in all ages. &quot;</em> <br>
+— George Washington
