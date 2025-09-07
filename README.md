@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Expect the best, plan for the worst, and prepare to be surprised. &quot;</em> <br>
-— Denis Waitley
+<em>&quot;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&quot;</em> <br>
+— Stephen King
