@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Money poisons you when you've got it, and starves you when you haven't.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Words are clothes that thoughts wear&quot;</em> <br>
+— Samuel Butler
