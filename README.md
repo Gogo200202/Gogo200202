@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.&quot;</em> <br>
-— Dan Millman
+<em>&quot;When you are totally at peace with yourself, nothing can shake you.&quot;</em> <br>
+— Deepam Chaterjee
