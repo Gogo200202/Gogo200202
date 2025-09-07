@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perseverance and spirit have done wonders in all ages. &quot;</em> <br>
-— George Washington
+<em>&quot;Life should be touched, not strangled.  &quot;</em> <br>
+— Ray Bradbury
