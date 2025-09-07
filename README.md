@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is a consequence and must not be a goal.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;It doesn't matter how much you want. What really matters is how much you want it.&quot;</em> <br>
+— Ralph Marston
