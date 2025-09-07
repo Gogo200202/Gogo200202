@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you are totally at peace with yourself, nothing can shake you.&quot;</em> <br>
-— Deepam Chaterjee
+<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
+— Euripides
