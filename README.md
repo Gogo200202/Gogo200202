@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life should be touched, not strangled.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Courage is the price that life exacts for granting peace.&quot;</em> <br>
+— Amelia Earhart
