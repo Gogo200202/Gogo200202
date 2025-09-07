@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
+— Eric Hoffer
