@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Inspire yourself to be great. Being good isn't good enough.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;Don't stop when you're tired. Stop when you're done.&quot;</em> <br>
+— Marilyn Monroe
