@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope is not a strategy. Luck is not a factor. Fear is not an option.&quot;</em> <br>
-— James Cameron
+<em>&quot;It's the possibility of having a dream come true that makes life interesting.&quot;</em> <br>
+— Paulo Coelho
