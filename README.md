@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness cannot be traveled to, owned, earned, worn or consumed.&quot;</em> <br>
-— Denis Waitley
+<em>&quot;Kindness is a language which the deaf can hear and the blind can see.&quot;</em> <br>
+— Mark Twain
