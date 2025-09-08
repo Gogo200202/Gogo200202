@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dream big and dare to fail.&quot;</em> <br>
-— Norman Vaughan
+<em>&quot;If you love life, don't waste time, for time is what life is made up of. &quot;</em> <br>
+— Bruce Lee
