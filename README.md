@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wishing to be friends is quick work, but friendship is a slow ripening fruit.&quot;</em> <br>
-— Aristotle
+<em>&quot;Don't let the noise of others opinions drown out your inner voice.&quot;</em> <br>
+— Steve Jobs
