@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you love life, don't waste time, for time is what life is made up of. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;Hope is not a strategy. Luck is not a factor. Fear is not an option.&quot;</em> <br>
+— James Cameron
