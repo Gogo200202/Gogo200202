@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Happiness cannot be traveled to, owned, earned, worn or consumed.&quot;</em> <br>
+— Denis Waitley
