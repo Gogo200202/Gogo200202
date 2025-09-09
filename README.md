@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear not the path of Truth for the lack of People walking on it.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Wherever you are, and whatever you do, be in love.&quot;</em> <br>
+— Rumi
