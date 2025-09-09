@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't get in life what you want; you get in life what you are.&quot;</em> <br>
-— Les Brown
+<em>&quot;The only place where success comes before work is in the dictionary.&quot;</em> <br>
+— Vidal Sassoon
