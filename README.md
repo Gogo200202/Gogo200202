@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Start each day with a positive thought and a grateful heart.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Maybe you are searching among the branches, for what only appears in the roots.&quot;</em> <br>
+— Rumi
