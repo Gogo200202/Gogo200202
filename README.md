@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future doesn't belong to the faint-hearted; it belongs to the brave.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;A journey of a thousand miles begins with a single step.&quot;</em> <br>
+— Lao Tzu
