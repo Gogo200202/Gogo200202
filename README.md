@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A journey of a thousand miles begins with a single step.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.&quot;</em> <br>
+— Jiddu Krishnamurti
