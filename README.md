@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only place where success comes before work is in the dictionary.&quot;</em> <br>
-— Vidal Sassoon
+<em>&quot;Fear not the path of Truth for the lack of People walking on it.&quot;</em> <br>
+— Robert F. Kennedy
