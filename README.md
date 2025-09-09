@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everybody needs a passion. That's what keeps life interesting.&quot;</em> <br>
-— Betty White
+<em>&quot;Turn off your mind, relax, and float downstream.&quot;</em> <br>
+— John Lennon
