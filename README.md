@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The highest level of wisdom is when you not only accept but love adversity.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Intense love does not measure, it just gives.&quot;</em> <br>
+— Mother Teresa
