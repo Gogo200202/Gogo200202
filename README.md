@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Misfortune shows those who are not really friends.&quot;</em> <br>
-— Aristotle
+<em>&quot;Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.&quot;</em> <br>
+— Robert Frost
