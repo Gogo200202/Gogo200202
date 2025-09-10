@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rewards and punishment is the lowest form of education.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;I've always tried to go a step past wherever people expected me to end up.&quot;</em> <br>
+— Beverly Sills
