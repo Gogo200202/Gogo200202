@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wherever you are is the entry point.&quot;</em> <br>
-— Kabir
+<em>&quot;Go confidently in the direction of your dreams. Live the life you've imagined.&quot;</em> <br>
+— Arnold Schwarzenegger
