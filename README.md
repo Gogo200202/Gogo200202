@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only I can change my life. No one can do it for me.&quot;</em> <br>
-— Carol Burnett
+<em>&quot;Believe that life is worth living and your belief will help create the fact.&quot;</em> <br>
+— William James
