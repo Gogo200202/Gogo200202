@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Intense love does not measure, it just gives.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;We cannot always do great things in life, but we can do small things with great love.&quot;</em> <br>
+— Dan Millman
