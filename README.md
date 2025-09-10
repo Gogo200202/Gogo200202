@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Genius is patience.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;Wherever you are is the entry point.&quot;</em> <br>
+— Kabir
