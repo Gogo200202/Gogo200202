@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I've always tried to go a step past wherever people expected me to end up.&quot;</em> <br>
-— Beverly Sills
+<em>&quot;Misfortune shows those who are not really friends.&quot;</em> <br>
+— Aristotle
