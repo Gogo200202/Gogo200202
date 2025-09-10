@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your worth consists in what you are and not in what you have.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.&quot;</em> <br>
+— Deepak Chopra
