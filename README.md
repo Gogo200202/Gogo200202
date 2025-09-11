@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go confidently in the direction of your dreams. Live the life you've imagined.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;We all give up great expectations along the way.&quot;</em> <br>
+— Carlos Ruiz Zafon
