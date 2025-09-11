@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enthusiasm is a vital element toward the individual success of every man or woman.&quot;</em> <br>
-— Conrad Hilton
+<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
+— Alfred Adler
