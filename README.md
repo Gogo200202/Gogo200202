@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We run to win, not just to be in the race.  &quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Catch, then, O catch the transient hour; Improve each moment as it flies! &quot;</em> <br>
+— St. Jerome
