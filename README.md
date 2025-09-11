@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be not glad at the misfortune of another, though he may be your enemy. &quot;</em> <br>
-— George Washington
+<em>&quot;The man who does not value himself, cannot value anything or anyone.&quot;</em> <br>
+— Ayn Rand
