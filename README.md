@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better a diamond with a flaw than a pebble without one.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Success is a poor teacher.&quot;</em> <br>
+— Robert Kiyosaki
