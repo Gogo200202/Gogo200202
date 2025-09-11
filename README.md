@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absorb what is useful, discard what is useless and add what is specifically your own.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;You can't climb the ladder of success with your hands in your pockets.&quot;</em> <br>
+— Arnold Schwarzenegger
