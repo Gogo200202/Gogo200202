@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Catch, then, O catch the transient hour; Improve each moment as it flies! &quot;</em> <br>
-— St. Jerome
+<em>&quot;Nothing good ever comes of violence.&quot;</em> <br>
+— Martin Luther
