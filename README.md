@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Better a diamond with a flaw than a pebble without one.&quot;</em> <br>
+— Chinese Proverb
