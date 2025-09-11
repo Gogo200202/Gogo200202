@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absurdity is the ecstasy of intellectualism.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Absorb what is useful, discard what is useless and add what is specifically your own.  &quot;</em> <br>
+— Bruce Lee
