@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't climb the ladder of success with your hands in your pockets.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&quot;</em> <br>
+— William Faulkner
