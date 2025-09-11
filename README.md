@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The man who does not value himself, cannot value anything or anyone.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&quot;</em> <br>
+— Robert F. Kennedy
