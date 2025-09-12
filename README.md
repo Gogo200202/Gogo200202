@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not fear failure but rather fear not trying.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Obstacles are those frightful things you see when you take your eyes off your goal.&quot;</em> <br>
+— Henry Ford
