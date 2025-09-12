@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To earn more you must learn more.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.&quot;</em> <br>
+— Shunryu Suzuki
