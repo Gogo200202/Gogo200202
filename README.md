@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who cannot be a good follower cannot be a good leader.&quot;</em> <br>
-— Aristotle
+<em>&quot;Blessed is he who expects nothing, for he shall never be disappointed.&quot;</em> <br>
+— Alexander Pope
