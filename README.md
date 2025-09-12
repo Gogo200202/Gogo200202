@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not ignore the passion that burns in you. Spend time to discover your gift.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
+— Maxime Lagace
