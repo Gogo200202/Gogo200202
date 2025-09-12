@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The number one cause of failure is the fear of failure.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;I didn't get there by wishing for it or hoping for it, but by working for it.&quot;</em> <br>
+— Estee Lauder
