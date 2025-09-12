@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let us rather run the risk of wearing out than rusting out.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Do not fear failure but rather fear not trying.&quot;</em> <br>
+— Roy T. Bennett
