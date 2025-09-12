@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;Life is the dancer and you are the dance.&quot;</em> <br>
+— Eckhart Tolle
