@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.&quot;</em> <br>
-— Carl Jung
+<em>&quot;The number one cause of failure is the fear of failure.&quot;</em> <br>
+— Steve Harvey
