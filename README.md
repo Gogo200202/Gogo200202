@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stress happens when the mind resists what is.&quot;</em> <br>
-— Dan Millman
+<em>&quot;To earn more you must learn more.&quot;</em> <br>
+— Brian Tracy
