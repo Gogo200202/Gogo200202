@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The temptation to give up is strongest just before victory.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Big people don't make people feel small.&quot;</em> <br>
+— Robin Sharma
