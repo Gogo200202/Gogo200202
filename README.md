@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way to 'find out if it will work out' is to do it.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;The less you talk about your shame, the more of it you have.&quot;</em> <br>
+— Mark Manson
