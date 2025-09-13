@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot control the behavior of others, but you can always choose how you respond to it.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;People do not decide their futures, they decide their habits and their habits decide their futures.&quot;</em> <br>
+— Gary Keller
