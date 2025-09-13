@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not fair to ask of others what you are not willing to do yourself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;All men are equal before fish.&quot;</em> <br>
+— Herbert Hoover
