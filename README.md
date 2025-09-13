@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People do not decide their futures, they decide their habits and their habits decide their futures.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Perpetual optimism is a force multiplier.&quot;</em> <br>
+— Colin Powell
