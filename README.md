@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;If you're not failing every now and again, it's a sign you're not doing anything very innovative.&quot;</em> <br>
+— Woody Allen
