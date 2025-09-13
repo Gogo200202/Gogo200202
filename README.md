@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perpetual optimism is a force multiplier.&quot;</em> <br>
-— Colin Powell
+<em>&quot;In order to carry a positive action, we must develop here a positive vision.&quot;</em> <br>
+— Dalai Lama
