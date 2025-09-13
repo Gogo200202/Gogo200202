@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The older you get, the more you understand how your conscience works.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
+— T.S. Eliot
