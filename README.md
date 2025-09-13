@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Big people don't make people feel small.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;You cannot control the behavior of others, but you can always choose how you respond to it.&quot;</em> <br>
+— Roy T. Bennett
