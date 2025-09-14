@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Inner peace is when you realize that, in the end, nothing matters.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;It takes half your life before you discover life is a do-it-yourself project.&quot;</em> <br>
+— Napoleon Hill
