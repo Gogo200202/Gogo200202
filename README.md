@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&quot;</em> <br>
-— James Allen
+<em>&quot;Be true to yourself, help others, make each day your masterpiece&quot;</em> <br>
+— John Wooden
