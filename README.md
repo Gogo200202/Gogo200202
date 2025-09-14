@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot;</em> <br>
-— Dogen
+<em>&quot;A fall into a ditch makes you wiser.&quot;</em> <br>
+— Chinese Proverb
