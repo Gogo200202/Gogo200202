@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you open your heart to others, the more your heart suffers.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;You're never given a dream without also being given the power to make it true.&quot;</em> <br>
+— Richard Bach
