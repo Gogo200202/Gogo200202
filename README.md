@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.&quot;</em> <br>
+— Albus Dumbledore
