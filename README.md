@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&quot;</em> <br>
+— James Allen
