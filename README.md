@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're never given a dream without also being given the power to make it true.&quot;</em> <br>
-— Richard Bach
+<em>&quot;All great truths begin as blasphemies.&quot;</em> <br>
+— George Bernard Shaw
