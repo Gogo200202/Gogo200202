@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;It doesn't matter where you are coming from. All that matters is where you are going. &quot;</em> <br>
+— Brian Tracy
