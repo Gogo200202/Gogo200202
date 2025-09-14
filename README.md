@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All great truths begin as blasphemies.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.&quot;</em> <br>
+— Dogen
