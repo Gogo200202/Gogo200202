@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Great ones are willing to get burned time and again as they sharpen their swords in the fire.&quot;</em> <br>
+— Josh Waitzkin
