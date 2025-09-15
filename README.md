@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In nature there is no alienation. Everything belongs.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
+— Nicolas Chamfort
