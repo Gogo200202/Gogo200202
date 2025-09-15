@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For changes to be of any true value, they've got to be lasting and consistent.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &quot;</em> <br>
+— Orison Swett Marden
