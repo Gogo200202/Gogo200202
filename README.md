@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.&quot;</em> <br>
+— Earl Nightingale
