@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Great acts are made up of small deeds.&quot;</em> <br>
+— Lao Tzu
