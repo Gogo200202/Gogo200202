@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A person who does not read is no better than one cannot read.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;It is useless to meet revenge with revenge; it will heal nothing.&quot;</em> <br>
+— J.R.R. Tolkien
