@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great acts are made up of small deeds.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;In nature there is no alienation. Everything belongs.&quot;</em> <br>
+— Ming-Dao Deng
