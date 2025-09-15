@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is useless to meet revenge with revenge; it will heal nothing.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;We've got to live, no matter how many skies have fallen.&quot;</em> <br>
+— D. H. Lawrence
