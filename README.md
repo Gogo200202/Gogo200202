@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Your imagination is your preview of life's coming attractions.&quot;</em> <br>
+— Albert Einstein
