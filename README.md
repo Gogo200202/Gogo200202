@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We've got to live, no matter how many skies have fallen.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&quot;</em> <br>
+— Andrew Carnegie
