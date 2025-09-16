@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Few things are more deceptive than memories.&quot;</em> <br>
+— Carlos Ruiz Zafon
