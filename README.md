@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Opportunity often comes disguised in the form of misfortune or temporary defeat.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Each problem has a positive side.&quot;</em> <br>
+— Og Mandino
