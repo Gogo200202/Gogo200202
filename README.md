@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Kindness is a language which the deaf can hear and the blind can see.&quot;</em> <br>
-— Mark Twain
+<em>&quot;I am not the outcome. I am never the result. I am only the effort.&quot;</em> <br>
+— Kamal Ravikant
