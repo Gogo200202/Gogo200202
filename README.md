@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Insanity: doing the same thing over and over again and expecting different results.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Opportunity often comes disguised in the form of misfortune or temporary defeat.&quot;</em> <br>
+— Napoleon Hill
