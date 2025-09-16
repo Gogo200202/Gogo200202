@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is best to begin at the beginning.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;There is no path to Happiness. Happiness is the path.&quot;</em> <br>
+— Dan Millman
