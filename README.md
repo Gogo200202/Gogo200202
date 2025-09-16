@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Few things are more deceptive than memories.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;It is best to begin at the beginning.&quot;</em> <br>
+— Amelia Earhart
