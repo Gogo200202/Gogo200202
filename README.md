@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Each problem has a positive side.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Life can be wonderful if you're not afraid of it.&quot;</em> <br>
+— Charlie Chaplin
