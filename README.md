@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your imagination is your preview of life's coming attractions.&quot;</em> <br>
+<em>&quot;Insanity: doing the same thing over and over again and expecting different results.&quot;</em> <br>
 — Albert Einstein
