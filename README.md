@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life can be wonderful if you're not afraid of it.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&quot;</em> <br>
+— Carl Bard
