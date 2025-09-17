@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some of us learn from other people's mistakes and the rest of us have to be other people.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.&quot;</em> <br>
+— Jonathan Swift
