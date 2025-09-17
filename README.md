@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Man invented language to satisfy his deep need to complain.&quot;</em> <br>
+— Lily Tomlin
