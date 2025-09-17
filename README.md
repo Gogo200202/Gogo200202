@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The opposite of courage in our society is not cowardice... it is conformity.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;If you let your head get too big, it'll break your neck.&quot;</em> <br>
+— Elvis Presley
