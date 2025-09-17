@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you let your head get too big, it'll break your neck.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;The ability to observe without evaluating is the highest form of intelligence.&quot;</em> <br>
+— Jiddu Krishnamurti
