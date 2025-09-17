@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;I have no methods; all I do is accept people as they are.&quot;</em> <br>
+— Joan Rivers
