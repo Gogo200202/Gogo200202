@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man invented language to satisfy his deep need to complain.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Change yourself and you have done your part in changing the world.&quot;</em> <br>
+— Paramahansa Yogananda
