@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;You don't have to be great to start, but you have to start to be great.  &quot;</em> <br>
+— Zig Ziglar
