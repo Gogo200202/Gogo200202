@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pursuit of mastery bears gifts. &quot;</em> <br>
-— Gary Keller
+<em>&quot;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&quot;</em> <br>
+— Kamal Ravikant
