@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't have to be great to start, but you have to start to be great.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The pursuit of mastery bears gifts. &quot;</em> <br>
+— Gary Keller
