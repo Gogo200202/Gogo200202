@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have no methods; all I do is accept people as they are.&quot;</em> <br>
+<em>&quot;Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.&quot;</em> <br>
 — Joan Rivers
