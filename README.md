@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;The best thing to hold onto in life is each other.&quot;</em> <br>
+— Audrey Hepburn
