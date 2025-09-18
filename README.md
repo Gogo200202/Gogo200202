@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can live a whole life time never being awake.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Whatever you do in life, surround yourself with smart people who'll argue with you.&quot;</em> <br>
+— John Wooden
