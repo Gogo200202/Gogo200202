@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As you think, so shall you become. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;If you done it, it ain't bragging.&quot;</em> <br>
+— Walt Whitman
