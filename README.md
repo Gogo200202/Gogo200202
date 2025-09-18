@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The ability to observe without evaluating is the highest form of intelligence.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
+— Leo Tolstoy
