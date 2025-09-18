@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you done it, it ain't bragging.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;If you put water into a cup, it becomes the cup.&quot;</em> <br>
+— Bruce Lee
