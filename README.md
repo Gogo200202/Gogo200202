@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The fear of death is more to be feared, than death itself.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Any game becomes important when you know and love the players.&quot;</em> <br>
+— W.P. Kinsella
