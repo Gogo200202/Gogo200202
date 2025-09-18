@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the long run, the sharpest weapon of all is a kind and gentle spirit.&quot;</em> <br>
-— Anne Frank
+<em>&quot;You can live a whole life time never being awake.&quot;</em> <br>
+— Dan Millman
