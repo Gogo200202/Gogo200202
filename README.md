@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I've always lived in the moment.&quot;</em> <br>
-— Yanni
+<em>&quot;A dream you dream alone is only a dream. A dream you dream together is reality.&quot;</em> <br>
+— Yoko Ono
