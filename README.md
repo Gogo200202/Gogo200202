@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;In the long run, the sharpest weapon of all is a kind and gentle spirit.&quot;</em> <br>
+— Anne Frank
