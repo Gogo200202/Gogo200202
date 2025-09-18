@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;As you think, so shall you become. &quot;</em> <br>
+— Bruce Lee
