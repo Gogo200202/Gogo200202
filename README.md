@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day may not be good, but there's something good in every day.&quot;</em> <br>
-— Unknown
+<em>&quot;Patience is a bitter plant, but its fruit is sweet.&quot;</em> <br>
+— Chinese Proverb
