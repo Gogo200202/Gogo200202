@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing like a health problem to turn up the contrast dial for the rest of life.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Choose to be optimistic, it feels better.&quot;</em> <br>
+— Dalai Lama
