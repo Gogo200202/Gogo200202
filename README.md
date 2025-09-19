@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Successful people are not without problems. They're simply people who've learned to solve their problems.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Do what is right, not what is easy, nor what is popular.&quot;</em> <br>
+— Roy T. Bennett
