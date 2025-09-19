@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Decide upon your major definite purpose in life and then organize all your activities around it.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Successful people are not without problems. They're simply people who've learned to solve their problems.&quot;</em> <br>
+— Earl Nightingale
