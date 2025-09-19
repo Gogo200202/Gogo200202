@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Always be a first rate version of yourself and not a second rate version of someone else.&quot;</em> <br>
+— Judy Garland
