@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't know who is important to you until you actually lose them.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;You can never cross the ocean unless you have the courage to lose sight of the shore.&quot;</em> <br>
+— Christopher Columbus
