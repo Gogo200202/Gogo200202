@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perseverance and spirit have done wonders in all ages. &quot;</em> <br>
-— George Washington
+<em>&quot;Excellence is not a skill. It is an attitude. &quot;</em> <br>
+— Ralph Marston
