@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always be a first rate version of yourself and not a second rate version of someone else.&quot;</em> <br>
-— Judy Garland
+<em>&quot;Art, like morality, consists of drawing the line somewhere.&quot;</em> <br>
+— Gilbert Chesterton
