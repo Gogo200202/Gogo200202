@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you put water into a cup, it becomes the cup.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;Perseverance and spirit have done wonders in all ages. &quot;</em> <br>
+— George Washington
