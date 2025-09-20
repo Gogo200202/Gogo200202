@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just throw away all thoughts of imaginary things, and stand firm in that which you are.&quot;</em> <br>
-— Kabir
+<em>&quot;Formal education will make you a living, self-education will make you a fortune.&quot;</em> <br>
+— Jim Rohn
