@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man sees in the world what he carries in his heart.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;Realistic people do not accomplish extraordinary things.&quot;</em> <br>
+— John Eliot
