@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Formal education will make you a living, self-education will make you a fortune.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Even though you are on the right track - you will get run over if you just sit there.&quot;</em> <br>
+— Will Rogers
