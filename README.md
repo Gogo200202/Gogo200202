@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no shortcuts to any place worth going. &quot;</em> <br>
-— Beverly Sills
+<em>&quot;People don't care how much you know until they know how much you care.&quot;</em> <br>
+— Theodore Roosevelt
