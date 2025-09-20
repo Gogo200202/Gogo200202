@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you try to impress, the more peaceful you can be.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Just throw away all thoughts of imaginary things, and stand firm in that which you are.&quot;</em> <br>
+— Kabir
