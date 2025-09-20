@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To live is to be willing to die over and over again.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;People tend to complicate their own lives, as if living weren't already complicated enough.&quot;</em> <br>
+— Carlos Ruiz Zafon
