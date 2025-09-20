@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&quot;</em> <br>
-— Walt Disney
+<em>&quot;The less you try to impress, the more peaceful you can be.&quot;</em> <br>
+— Maxime Lagace
