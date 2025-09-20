@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even though you are on the right track - you will get run over if you just sit there.&quot;</em> <br>
-— Will Rogers
+<em>&quot;A man sees in the world what he carries in his heart.&quot;</em> <br>
+— Johann Wolfgang von Goethe
