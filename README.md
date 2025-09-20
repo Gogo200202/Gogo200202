@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Choose to be optimistic, it feels better.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;The fewer the words, the better the prayer.&quot;</em> <br>
+— Martin Luther
