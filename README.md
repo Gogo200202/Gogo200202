@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&quot;</em> <br>
+— Walt Disney
