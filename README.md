@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a gift. Never forget to enjoy and bask in every moment you are in.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;If you need inspiration, don't do it.&quot;</em> <br>
+— Elon Musk
