@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are the only problem you will ever have and you are the only solution.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&quot;</em> <br>
+— Paramahansa Yogananda
