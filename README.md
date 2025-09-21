@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People tend to complicate their own lives, as if living weren't already complicated enough.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Treat everyone with politeness and kindness, not because they are nice, but because you are.&quot;</em> <br>
+— Roy T. Bennett
