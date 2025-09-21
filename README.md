@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not try to be on the side of the majority, but live according to your inner laws.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;You are the only problem you will ever have and you are the only solution.&quot;</em> <br>
+— Bob Proctor
