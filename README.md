@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The world only exists in your eyes. You can make it as big or as small as you want.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;There are no ordinary moments.&quot;</em> <br>
+— Dan Millman
