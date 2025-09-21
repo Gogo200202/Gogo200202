@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no ordinary moments.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Belief creates the actual fact.&quot;</em> <br>
+— William James
