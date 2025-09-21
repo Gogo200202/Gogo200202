@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you need inspiration, don't do it.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.&quot;</em> <br>
+— Jeffrey Gitomer
