@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fiction is the truth inside the lie.&quot;</em> <br>
-— Stephen King
+<em>&quot;To create more positive results in your life, replace 'if only' with 'next time'.&quot;</em> <br>
+— Celestine Chua
