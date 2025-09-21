@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Treat everyone with politeness and kindness, not because they are nice, but because you are.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Do not try to be on the side of the majority, but live according to your inner laws.&quot;</em> <br>
+— Marcus Aurelius
