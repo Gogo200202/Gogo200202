@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As soon as you truly commit to making something happen, the 'how' will reveal itself.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;A dream doesn't become reality through magic it takes sweat, determination and hard work.&quot;</em> <br>
+— Colin Powell
