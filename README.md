@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have not failed. I've just found 10,000 ways that won't work.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Human beings can alter their lives by altering their attitudes of mind.&quot;</em> <br>
+— William James
