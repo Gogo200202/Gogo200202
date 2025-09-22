@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;An intelligence test sometimes shows a man how smart he would have been not to have taken it.&quot;</em> <br>
+— Laurence J. Peter
