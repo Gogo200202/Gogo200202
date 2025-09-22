@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;The most important things are the hardest to say.&quot;</em> <br>
+— Stephen King
