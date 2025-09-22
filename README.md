@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear is what stops you. Courage is what keeps you going.&quot;</em> <br>
-— Unknown
+<em>&quot;All men who have achieved great things have been great dreamers. &quot;</em> <br>
+— Orison Swett Marden
