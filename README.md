@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All men who have achieved great things have been great dreamers. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.&quot;</em> <br>
+— T.S. Eliot
