@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a journey, not a destination.&quot;</em> <br>
-— Dan Millman
+<em>&quot;I have not failed. I've just found 10,000 ways that won't work.&quot;</em> <br>
+— Thomas Edison
