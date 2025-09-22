@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All you need is passion. If you have a passion for something, you'll create the talent.&quot;</em> <br>
-— Yanni
+<em>&quot;Fear is what stops you. Courage is what keeps you going.&quot;</em> <br>
+— Unknown
