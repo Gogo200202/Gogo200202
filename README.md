@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No one is useless in this world who lightens the burdens of another.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
+— Vince Lombardi
