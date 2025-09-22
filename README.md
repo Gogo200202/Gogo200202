@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Little minds have little worries, big minds have no time for worries.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&quot;</em> <br>
+— Bhagavad Gita
