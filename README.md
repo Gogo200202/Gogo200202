@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no greater agony than bearing an untold story inside you.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;But better die than live mechanically a life that is a repetition of repetitions.&quot;</em> <br>
+— D. H. Lawrence
