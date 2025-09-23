@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who fails to plan, plans to fail.&quot;</em> <br>
-— Unknown
+<em>&quot;We think too much and feel too little.&quot;</em> <br>
+— Charlie Chaplin
