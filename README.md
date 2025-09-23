@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be a good animal, true to your instincts.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;If you done it, it ain't bragging.&quot;</em> <br>
+— Walt Whitman
