@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;But better die than live mechanically a life that is a repetition of repetitions.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.&quot;</em> <br>
+— Norman Vincent Peale
