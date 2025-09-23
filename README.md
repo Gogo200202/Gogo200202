@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Actions are the seeds of fate. Deeds grow into destiny.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;I love fools' experiments. I am always making them.&quot;</em> <br>
+— Charles Darwin
