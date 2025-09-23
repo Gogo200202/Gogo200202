@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Don't let them drag you down by rumors. Just go with what you believe in.&quot;</em> <br>
+— Michael Jordan
