@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;He who fails to plan, plans to fail.&quot;</em> <br>
+— Unknown
