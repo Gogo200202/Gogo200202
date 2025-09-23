@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We think too much and feel too little.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;We must have strong minds, ready to accept facts as they are.&quot;</em> <br>
+— Harry S. Truman
