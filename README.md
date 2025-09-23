@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learning never exhausts the mind. &quot;</em> <br>
-— Leonardo da Vinci
+<em>&quot;Actions are the seeds of fate. Deeds grow into destiny.&quot;</em> <br>
+— Harry S. Truman
