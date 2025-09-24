@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rather than love, than money, than fame, give me truth.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;The chief danger in life is that you may take too many precautions.&quot;</em> <br>
+— Alfred Adler
