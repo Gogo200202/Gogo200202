@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The eyes of others our prisons; their thoughts our cages.&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;If you don't find the time, if you don't do the work, you don't get the results.&quot;</em> <br>
+— Arnold Schwarzenegger
