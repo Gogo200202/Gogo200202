@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who know, do. Those that understand, teach.&quot;</em> <br>
-— Aristotle
+<em>&quot;Rather than love, than money, than fame, give me truth.&quot;</em> <br>
+— Henry David Thoreau
