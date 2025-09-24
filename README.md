@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.&quot;</em> <br>
+— Norman Vincent Peale
