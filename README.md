@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A zen master's life is one continuous mistake.&quot;</em> <br>
-— Dogen
+<em>&quot;When you consider things like the stars, our affairs don't seem to matter very much, do they?&quot;</em> <br>
+— Virginia Woolf
