@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In three words I can sum up everything I've learned about life: it goes on.&quot;</em> <br>
-— Robert Frost
+<em>&quot;Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?&quot;</em> <br>
+— Seneca
