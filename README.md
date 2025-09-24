@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you consider things like the stars, our affairs don't seem to matter very much, do they?&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;Don't waste time on excuses. Just get it done.&quot;</em> <br>
+— Ralph Marston
