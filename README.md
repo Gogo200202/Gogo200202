@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be not glad at the misfortune of another, though he may be your enemy. &quot;</em> <br>
-— George Washington
+<em>&quot;Those who know, do. Those that understand, teach.&quot;</em> <br>
+— Aristotle
