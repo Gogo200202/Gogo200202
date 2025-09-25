@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe that life is worth living and your belief will help create the fact.&quot;</em> <br>
-— William James
+<em>&quot;It's what you do in the present that will redeem the past and thereby change the future.&quot;</em> <br>
+— Paulo Coelho
