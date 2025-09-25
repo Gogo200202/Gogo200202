@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&quot;</em> <br>
-— Unknown
+<em>&quot;Falling down is not failure. Failure comes when you stay where you have fallen.&quot;</em> <br>
+— Socrates
