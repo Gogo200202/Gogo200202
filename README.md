@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every failure brings with it the seed of an equivalent success.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;We will act consistently with our view of who we truly are, whether that view is accurate or not.&quot;</em> <br>
+— Tony Robbins
