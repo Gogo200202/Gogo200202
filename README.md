@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We will act consistently with our view of who we truly are, whether that view is accurate or not.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The most important things are the hardest to say.&quot;</em> <br>
+— Stephen King
