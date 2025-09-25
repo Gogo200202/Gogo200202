@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Believe that life is worth living and your belief will help create the fact.&quot;</em> <br>
+— William James
