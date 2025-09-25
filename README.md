@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;</em> <br>
-— Robert Greene
+<em>&quot;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&quot;</em> <br>
+— Unknown
