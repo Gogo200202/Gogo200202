@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Optimism is the one quality more associated with success and happiness than any other.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Every failure brings with it the seed of an equivalent success.&quot;</em> <br>
+— Napoleon Hill
