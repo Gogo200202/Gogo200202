@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are free, and that is why you are lost. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;</em> <br>
+— Robert Greene
