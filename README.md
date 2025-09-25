@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not allow your inner doubts to keep you from achieving what you can do.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&quot;</em> <br>
+— Roy T. Bennett
