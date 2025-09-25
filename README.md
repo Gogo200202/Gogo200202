@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Like it or not, this moment is all we really have to work with.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;Optimism is the one quality more associated with success and happiness than any other.&quot;</em> <br>
+— Brian Tracy
