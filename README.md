@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.&quot;</em> <br>
+— Sigmund Freud
