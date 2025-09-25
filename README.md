@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's what you do in the present that will redeem the past and thereby change the future.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;If you are lucky enough to find love, remember it is there and don't throw it away.&quot;</em> <br>
+— Stephen Hawking
