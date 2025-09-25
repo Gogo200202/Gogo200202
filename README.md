@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are lucky enough to find love, remember it is there and don't throw it away.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&quot;</em> <br>
+— Eckhart Tolle
