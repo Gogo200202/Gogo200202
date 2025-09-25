@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Falling down is not failure. Failure comes when you stay where you have fallen.&quot;</em> <br>
-— Socrates
+<em>&quot;Do not allow your inner doubts to keep you from achieving what you can do.&quot;</em> <br>
+— Lolly Daskal
