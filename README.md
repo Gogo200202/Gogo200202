@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;They say love is the best investment; the more you give, the more you get in return.&quot;</em> <br>
+— Audrey Hepburn
