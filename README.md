@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where your talents and the needs of the world cross, there lies your vocation.&quot;</em> <br>
-— Aristotle
+<em>&quot;We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.&quot;</em> <br>
+— Kamal Ravikant
