@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I can stop one heart from breaking, I shall not live in vain.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.&quot;</em> <br>
+— Steve Maraboli
