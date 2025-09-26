@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's wise to tell the truth. It's even wiser to tell it kindly.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;If I can stop one heart from breaking, I shall not live in vain.&quot;</em> <br>
+— Emily Dickinson
