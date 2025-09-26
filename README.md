@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are free, and that is why you are lost. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&quot;</em> <br>
+— Unknown
