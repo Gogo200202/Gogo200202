@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;They say love is the best investment; the more you give, the more you get in return.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;You can suffer the pain of change or suffer remaining the way you are.&quot;</em> <br>
+— Joyce Meyer
