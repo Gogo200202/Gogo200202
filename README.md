@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;If no one ever broke the rules, then we'd never advance.&quot;</em> <br>
+— Simon Sinek
