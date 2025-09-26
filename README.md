@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If no one ever broke the rules, then we'd never advance.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;Action may not always bring happiness, but there is no happiness without action.&quot;</em> <br>
+— William James
