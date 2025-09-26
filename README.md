@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can suffer the pain of change or suffer remaining the way you are.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;We suffer more often in imagination than in reality.  &quot;</em> <br>
+— Seneca
