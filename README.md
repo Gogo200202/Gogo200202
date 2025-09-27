@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future doesn't belong to the faint-hearted; it belongs to the brave.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&quot;</em> <br>
+— Robin Williams
