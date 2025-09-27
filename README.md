@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;Great ones are willing to get burned time and again as they sharpen their swords in the fire.&quot;</em> <br>
+— Josh Waitzkin
