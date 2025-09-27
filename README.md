@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Our attitude toward life determines life's attitude towards us.&quot;</em> <br>
+— Earl Nightingale
