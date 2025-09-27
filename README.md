@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our attitude toward life determines life's attitude towards us.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;The future doesn't belong to the faint-hearted; it belongs to the brave.&quot;</em> <br>
+— Ronald Reagan
