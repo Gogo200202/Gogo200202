@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&quot;</em> <br>
-— Robin Williams
+<em>&quot;Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.&quot;</em> <br>
+— Elon Musk
