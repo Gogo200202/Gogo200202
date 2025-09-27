@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great ones are willing to get burned time and again as they sharpen their swords in the fire.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Doing the best at this moment puts you in the best place for the next moment.&quot;</em> <br>
+— Oprah Winfrey
