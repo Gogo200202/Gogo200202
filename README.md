@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;From morning till night, we should never rely on a single thing.&quot;</em> <br>
-— Huang Po
+<em>&quot;Wise men speak because they have something to say; Fools because they have to say something.&quot;</em> <br>
+— Plato
