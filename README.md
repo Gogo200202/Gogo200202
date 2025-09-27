@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.&quot;</em> <br>
-— John Eliot
+<em>&quot;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&quot;</em> <br>
+— Robert Greene
