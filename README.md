@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;It is truth that liberates, not your effort to be free.&quot;</em> <br>
+— Jiddu Krishnamurti
