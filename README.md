@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Doing the best at this moment puts you in the best place for the next moment.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;See what you're doing wrong, laugh at it, change and do better.&quot;</em> <br>
+— Spencer Johnson
