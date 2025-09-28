@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.&quot;</em> <br>
+— Henry Ward Beecher
