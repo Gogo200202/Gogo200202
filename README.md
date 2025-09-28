@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Today you are you, that is truer than true. There is no one alive who is you-er than you.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;If you truly love Nature, you will find beauty everywhere. &quot;</em> <br>
+— Vincent van Gogh
