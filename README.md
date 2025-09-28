@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If no one ever broke the rules, then we'd never advance.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
+— Dalai Lama
