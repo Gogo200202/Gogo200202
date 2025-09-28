@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you truly love Nature, you will find beauty everywhere. &quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;If no one ever broke the rules, then we'd never advance.&quot;</em> <br>
+— Simon Sinek
