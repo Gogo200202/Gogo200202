@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you change what you believe, you change what you do.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;The key to success is to focus our conscious mind on things we desire not things we fear. &quot;</em> <br>
+— Brian Tracy
