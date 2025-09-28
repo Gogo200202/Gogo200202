@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who seek the easy way do not seek the true way.&quot;</em> <br>
-— Dogen
+<em>&quot;Character is doing what you don't want to do but know you should do.&quot;</em> <br>
+— Joyce Meyer
