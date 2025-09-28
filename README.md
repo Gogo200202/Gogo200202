@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Those who seek the easy way do not seek the true way.&quot;</em> <br>
+— Dogen
