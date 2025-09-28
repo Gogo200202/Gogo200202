@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.&quot;</em> <br>
+— Earl Nightingale
