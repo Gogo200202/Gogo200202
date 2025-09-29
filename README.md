@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;For things to change, you have to change.&quot;</em> <br>
+— Jim Rohn
