@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Understanding that rests in what it does not understand is the finest.&quot;</em> <br>
+— Zhuangzi
