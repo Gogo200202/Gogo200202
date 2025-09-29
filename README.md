@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Never let your memories be greater than your dreams.&quot;</em> <br>
+— Doug Ivester
