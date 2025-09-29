@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a traveling to the edge of knowledge, then a leap taken.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Great things are not done by impulse, but by a series of small things brought together.&quot;</em> <br>
+— Vincent van Gogh
