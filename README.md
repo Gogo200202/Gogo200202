@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Until you make the unconscious conscious, it will direct your life and you will call it fate.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Setting goals is the first step in turning the invisible into the visible.&quot;</em> <br>
+— Tony Robbins
