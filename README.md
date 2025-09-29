@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Life is a traveling to the edge of knowledge, then a leap taken.&quot;</em> <br>
+— D. H. Lawrence
