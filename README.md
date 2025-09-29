@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never let your memories be greater than your dreams.&quot;</em> <br>
-— Doug Ivester
+<em>&quot;Everybody has talent, but ability takes hard work.&quot;</em> <br>
+— Michael Jordan
