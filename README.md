@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Motivation is what gets you started. Habit is what keeps you going.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&quot;</em> <br>
+— Eckhart Tolle
