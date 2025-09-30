@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Lust, anger and greed are the three gates to self-destructive hell.&quot;</em> <br>
+— Bhagavad Gita
