@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Understanding that rests in what it does not understand is the finest.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;Nothing is particularly hard if you divide it into small jobs. &quot;</em> <br>
+— Henry Ford
