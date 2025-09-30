@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;Always be a first-rate version of yourself, instead of a second-rate version of someone else.&quot;</em> <br>
+— Judy Garland
