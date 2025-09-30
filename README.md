@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All you need is passion. If you have a passion for something, you'll create the talent.&quot;</em> <br>
-— Yanni
+<em>&quot;The best answer to anger is silence.&quot;</em> <br>
+— Marcus Aurelius
