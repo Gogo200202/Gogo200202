@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Listening well is as powerful as talking well, and is also as essential to true conversation.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.&quot;</em> <br>
+— Andrew Carnegie
