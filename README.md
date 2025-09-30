@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always be a first-rate version of yourself, instead of a second-rate version of someone else.&quot;</em> <br>
-— Judy Garland
+<em>&quot;Those who cannot change their minds cannot change anything.&quot;</em> <br>
+— George Bernard Shaw
