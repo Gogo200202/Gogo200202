@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even in the grave, all is not lost.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
+— Heraclitus
