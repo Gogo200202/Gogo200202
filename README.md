@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is particularly hard if you divide it into small jobs. &quot;</em> <br>
-— Henry Ford
+<em>&quot;Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.&quot;</em> <br>
+— Celestine Chua
