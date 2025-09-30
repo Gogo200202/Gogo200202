@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who cannot change their minds cannot change anything.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;To be totally at leisure for one day is to be immortal for one day. &quot;</em> <br>
+— Chinese Proverb
