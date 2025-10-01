@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is filled with secrets. You can't learn them all at once.&quot;</em> <br>
-— Dan Brown
+<em>&quot;Discipline is the bridge between goals and accomplishment.&quot;</em> <br>
+— Jim Rohn
