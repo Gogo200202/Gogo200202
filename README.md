@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn from the rejection and turn it into an opportunity!&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.&quot;</em> <br>
+— Epictetus
