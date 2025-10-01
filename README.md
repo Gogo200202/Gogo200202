@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All happiness depends on courage and work.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;Learn from the rejection and turn it into an opportunity!&quot;</em> <br>
+— Mary Engelbreit
