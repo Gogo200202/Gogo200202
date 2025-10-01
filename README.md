@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Believe in one thing too much and you have no room for new ideas.  &quot;</em> <br>
+— Ray Bradbury
