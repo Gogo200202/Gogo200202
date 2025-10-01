@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;All happiness depends on courage and work.&quot;</em> <br>
+— Honore de Balzac
