@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe in one thing too much and you have no room for new ideas.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Don't let the past steal your present.&quot;</em> <br>
+— Cherralea Morgen
