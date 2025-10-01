@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Longevity is a fleeting moment that lasts forever.&quot;</em> <br>
-— Vidal Sassoon
+<em>&quot;Life is filled with secrets. You can't learn them all at once.&quot;</em> <br>
+— Dan Brown
