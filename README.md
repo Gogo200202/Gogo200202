@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The dreamers are the saviors of the worlds.&quot;</em> <br>
-— James Allen
+<em>&quot;Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.&quot;</em> <br>
+— Thich Nhat Hanh
