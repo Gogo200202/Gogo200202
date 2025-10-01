@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All that we see or seem is but a dream within a dream.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;Longevity is a fleeting moment that lasts forever.&quot;</em> <br>
+— Vidal Sassoon
