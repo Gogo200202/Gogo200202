@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;The educated differ from the uneducated as much as the living differ from the dead.&quot;</em> <br>
+— Aristotle
