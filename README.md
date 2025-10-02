@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Expect the best of yourself, and then do what is necessary to make it a reality.&quot;</em> <br>
+— Ralph Marston
