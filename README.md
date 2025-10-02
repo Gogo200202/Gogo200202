@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.&quot;</em> <br>
+— Dale Carnegie
