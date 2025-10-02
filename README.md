@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;You live by what you thrill to, and there's the end of it.&quot;</em> <br>
+— D. H. Lawrence
