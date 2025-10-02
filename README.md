@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Expect the best of yourself, and then do what is necessary to make it a reality.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;He who possesses most must be most afraid of loss.&quot;</em> <br>
+— Leonardo da Vinci
