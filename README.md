@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who possesses most must be most afraid of loss.&quot;</em> <br>
-— Leonardo da Vinci
+<em>&quot;Even though you are on the right track - you will get run over if you just sit there.&quot;</em> <br>
+— Will Rogers
