@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.&quot;</em> <br>
-— Gabor Mate
+<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
+— Zig Ziglar
