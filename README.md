@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The soul is neither born, and nor does it die.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;It's not what you pay a man, but what he costs you that counts.&quot;</em> <br>
+— Will Rogers
