@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&quot;</em> <br>
-— William James
+<em>&quot;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&quot;</em> <br>
+— Anne Wilson Schaef
