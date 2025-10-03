@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You came empty handed, and you will leave empty handed.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Take into account that great love and great achievements involve great risk.&quot;</em> <br>
+— Dalai Lama
