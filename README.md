@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People who belittle people, will be LITTLE people, and will accomplish very Little&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;I want the fishing rod, not the fish.&quot;</em> <br>
+— Yanni
