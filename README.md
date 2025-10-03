@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take into account that great love and great achievements involve great risk.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Heart is what separates the good from the great.&quot;</em> <br>
+— Michael Jordan
