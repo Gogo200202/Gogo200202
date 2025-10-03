@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Muddy water is best cleared by leaving it alone.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Winners don't Quit. That's why they Win.&quot;</em> <br>
+— Unknown
