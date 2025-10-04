@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What we dwell on is who we become.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Change your thoughts and you change your world.&quot;</em> <br>
+— Norman Vincent Peale
