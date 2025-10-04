@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why change? Everyone has his own style. When you have found it, you should stick to it.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;If you can handle rejection, you'll learn to get everything you want.&quot;</em> <br>
+— Tony Robbins
