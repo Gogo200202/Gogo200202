@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't worry about being successful, but work toward being significant and the success will naturally follow.&quot;</em> <br>
+<em>&quot;What we dwell on is who we become.&quot;</em> <br>
 — Oprah Winfrey
