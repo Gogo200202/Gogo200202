@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not final, failure is not fatal: it is the courage to continue that counts.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Why change? Everyone has his own style. When you have found it, you should stick to it.&quot;</em> <br>
+— Audrey Hepburn
