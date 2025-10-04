@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot;</em> <br>
-— Dogen
+<em>&quot;We can't help everyone, but everyone can help someone.&quot;</em> <br>
+— Ronald Reagan
