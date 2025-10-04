@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can handle rejection, you'll learn to get everything you want.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &quot;</em> <br>
+— Charles Swindoll
