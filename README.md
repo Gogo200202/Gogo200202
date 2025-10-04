@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Success is not final, failure is not fatal: it is the courage to continue that counts.&quot;</em> <br>
+— Winston Churchill
