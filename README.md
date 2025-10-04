@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you tell the truth, you don't have to remember anything.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Don't worry about being successful, but work toward being significant and the success will naturally follow.&quot;</em> <br>
+— Oprah Winfrey
