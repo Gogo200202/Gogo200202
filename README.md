@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;A lie can travel half way around the world while the truth is putting on its shoes.&quot;</em> <br>
+— Mark Twain
