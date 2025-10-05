@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.&quot;</em> <br>
-— John Lennon
+<em>&quot;You can tell more about a person by what he says about others than you can by what others say about him.&quot;</em> <br>
+— Audrey Hepburn
