@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Acknowledging the good that you already have in your life is the foundation for all abundance.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Guilt is perhaps the most painful companion of death.&quot;</em> <br>
+— Coco Chanel
