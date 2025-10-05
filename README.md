@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Small men think they are small; great men never know they are great. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;The only place success comes before work is in the dictionary.&quot;</em> <br>
+— Vince Lombardi
