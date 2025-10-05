@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One must be deeply aware of the impermanence of the world.&quot;</em> <br>
-— Dogen
+<em>&quot;I never said it would be easy, I only said it would be worth it.&quot;</em> <br>
+— Mae West
