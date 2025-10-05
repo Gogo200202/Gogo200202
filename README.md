@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can tell more about a person by what he says about others than you can by what others say about him.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;I do not seek. I find.&quot;</em> <br>
+— Pablo Picasso
