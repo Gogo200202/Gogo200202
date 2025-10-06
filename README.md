@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let them drag you down by rumors. Just go with what you believe in.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;If we have no peace, it is because we have forgotten that we belong to each other.&quot;</em> <br>
+— Mother Teresa
