@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is up to each of us to sing as we feel moved by the overall song of life.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.&quot;</em> <br>
+— Marcus Aurelius
