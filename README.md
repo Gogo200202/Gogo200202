@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time goes from present to past.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;It is up to each of us to sing as we feel moved by the overall song of life.&quot;</em> <br>
+— Ming-Dao Deng
