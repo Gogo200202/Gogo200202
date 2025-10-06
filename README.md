@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing we have to fear is fear itself.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;Peace begins with a smile.&quot;</em> <br>
+— Mother Teresa
