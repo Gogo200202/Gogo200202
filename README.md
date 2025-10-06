@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I never said it would be easy, I only said it would be worth it.&quot;</em> <br>
-— Mae West
+<em>&quot;Never buy a thing you do not want, because it is cheap, it will be dear to you.&quot;</em> <br>
+— Thomas Jefferson
