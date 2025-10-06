@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peace begins with a smile.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Where violence reigns, reason is weak.&quot;</em> <br>
+— Nicolas Chamfort
