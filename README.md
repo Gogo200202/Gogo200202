@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The world is open for play, everything and everybody is mockable in a wonderful way.&quot;</em> <br>
-— Robin Williams
+<em>&quot;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&quot;</em> <br>
+— Roy T. Bennett
