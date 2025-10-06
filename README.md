@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where violence reigns, reason is weak.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Time goes from present to past.&quot;</em> <br>
+— Shunryu Suzuki
