@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fools resist. The wise embrace.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;The world is open for play, everything and everybody is mockable in a wonderful way.&quot;</em> <br>
+— Robin Williams
