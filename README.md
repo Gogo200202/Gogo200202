@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We think too much and feel too little.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;Don't change your mind just because people are offended; change your mind if you're wrong.&quot;</em> <br>
+— Criss Jami
