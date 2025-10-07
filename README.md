@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&quot;</em> <br>
-— William Faulkner
+<em>&quot;You may delay, but time will not.&quot;</em> <br>
+— Benjamin Franklin
