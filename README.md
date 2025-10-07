@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.&quot;</em> <br>
-— Nikola Tesla
+<em>&quot;It will never rain roses: when we want to have more roses, we must plant more roses.&quot;</em> <br>
+— George Eliot
