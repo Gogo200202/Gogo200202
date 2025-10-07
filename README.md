@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't have time to do it right, when will you have time to do it over?&quot;</em> <br>
-— John Wooden
+<em>&quot;If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.&quot;</em> <br>
+— Nikola Tesla
