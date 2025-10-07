@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;No man is happy unless he believes he is.&quot;</em> <br>
+— Publilius Syrus
