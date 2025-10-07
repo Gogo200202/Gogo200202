@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before preparing to improve the world, first look around your own home three times. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.&quot;</em> <br>
+— Bob Marley
