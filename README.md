@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not fear failure but rather fear not trying.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Where your talents and the needs of the world cross, there lies your vocation.&quot;</em> <br>
+— Aristotle
