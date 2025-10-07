@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wise warrior avoids the battle.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;If you don't have time to do it right, when will you have time to do it over?&quot;</em> <br>
+— John Wooden
