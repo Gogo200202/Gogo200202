@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It will never rain roses: when we want to have more roses, we must plant more roses.&quot;</em> <br>
-— George Eliot
+<em>&quot;If you take responsibility for yourself you will develop a hunger to accomplish your dream.&quot;</em> <br>
+— Les Brown
