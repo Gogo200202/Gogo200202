@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You may delay, but time will not.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
+— Billie Jean King
