@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where your talents and the needs of the world cross, there lies your vocation.&quot;</em> <br>
-— Aristotle
+<em>&quot;No man is more cheated than the selfish man.&quot;</em> <br>
+— Henry Ward Beecher
