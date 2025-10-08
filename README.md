@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you are tough on yourself, life is going to be infinitely easier on you.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Focus is a matter of deciding what things you're not going to do.&quot;</em> <br>
+— John Carmack
