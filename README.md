@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;The person who is his own master cannot tolerate another boss. &quot;</em> <br>
+— Chinese Proverb
