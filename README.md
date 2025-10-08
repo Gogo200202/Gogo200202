@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Receive without complaint, Work with fate.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;What we know is a drop, what we don't know is an ocean. &quot;</em> <br>
+— Isaac Newton
