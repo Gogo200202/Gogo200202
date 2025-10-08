@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life becomes easier and more beautiful when we can see the good in other people.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.&quot;</em> <br>
+— Paulo Coelho
