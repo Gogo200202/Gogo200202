@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Vision is the art of seeing things invisible.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;Life becomes easier and more beautiful when we can see the good in other people.&quot;</em> <br>
+— Roy T. Bennett
