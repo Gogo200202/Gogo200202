@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the End, we will remember not the words of our enemies, but the silence of our friends.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;I pay attention to every minute of the day.&quot;</em> <br>
+— Steve Harvey
