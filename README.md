@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Have the courage to follow your heart and intuition. They somehow know what you truly want to become.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
+— Isaac Newton
