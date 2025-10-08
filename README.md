@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Focus is a matter of deciding what things you're not going to do.&quot;</em> <br>
-— John Carmack
+<em>&quot;There are no accidents... there is only some purpose that we haven't yet understood.&quot;</em> <br>
+— Deepak Chopra
