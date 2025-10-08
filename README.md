@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Focus is a matter of deciding what things you're not going to do.&quot;</em> <br>
-— John Carmack
+<em>&quot;In the End, we will remember not the words of our enemies, but the silence of our friends.&quot;</em> <br>
+— Martin Luther King, Jr.
