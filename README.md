@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We need never be ashamed of our tears.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Engage in those actions and thoughts that nurture the good qualities you want to have.&quot;</em> <br>
+— Paramahansa Yogananda
