@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
+— Carlos Ruiz Zafon
