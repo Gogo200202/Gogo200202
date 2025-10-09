@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. &quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.&quot;</em> <br>
+— James Allen
