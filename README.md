@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be afraid to give up the good to go for the great.&quot;</em> <br>
-— John D. Rockefeller
+<em>&quot;Stop comparing yourself to others and focus on your own improvement.&quot;</em> <br>
+— Lolly Daskal
