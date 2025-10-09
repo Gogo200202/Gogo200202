@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stop comparing yourself to others and focus on your own improvement.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;A real friend is one who walks in when the rest of the world walks out.&quot;</em> <br>
+— Unknown
