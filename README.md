@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't like something change it; if you can't change it, change the way you think about it.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Be not afraid of growing slowly, be afraid only of standing still. &quot;</em> <br>
+— Chinese Proverb
