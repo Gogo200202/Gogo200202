@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Fear is what stops you. Courage is what keeps you going.&quot;</em> <br>
+— Unknown
