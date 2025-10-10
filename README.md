@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Projecting your mind into a successful situation is the most powerful means to achieve goals.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;Before you embark on a journey of revenge, dig two graves. &quot;</em> <br>
+— Confucius
