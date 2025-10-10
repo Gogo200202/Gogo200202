@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear is what stops you. Courage is what keeps you going.&quot;</em> <br>
-— Unknown
+<em>&quot;First say to yourself what you would be; and then do what you have to do.&quot;</em> <br>
+— Epictetus
