@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Wheresoever you go, go with all your heart.&quot;</em> <br>
+— Confucius
