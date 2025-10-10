@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It doesn't matter where you are coming from. All that matters is where you are going. &quot;</em> <br>
-— Brian Tracy
+<em>&quot;He who knows how to wait need make no concessions.&quot;</em> <br>
+— Sigmund Freud
