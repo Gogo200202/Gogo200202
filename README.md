@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who knows how to wait need make no concessions.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;You are never too old to set another goal or to dream a new dream.&quot;</em> <br>
+— Les Brown
