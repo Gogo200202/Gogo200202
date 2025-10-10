@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before you embark on a journey of revenge, dig two graves. &quot;</em> <br>
-— Confucius
+<em>&quot;It is never too late to be what you might have been.&quot;</em> <br>
+— George Eliot
