@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The soul without imagination is what an observatory would be without a telescope.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;It doesn't matter where you are coming from. All that matters is where you are going. &quot;</em> <br>
+— Brian Tracy
