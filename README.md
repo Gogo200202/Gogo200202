@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The score never interested me, only the game.&quot;</em> <br>
-— Mae West
+<em>&quot;Management is doing things right; leadership is doing the right things.&quot;</em> <br>
+— Peter Drucker
