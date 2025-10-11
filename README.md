@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man who cannot tolerate small misfortunes can never accomplish great things.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.&quot;</em> <br>
+— Pema Chodron
