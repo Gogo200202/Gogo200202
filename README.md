@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
-— Heraclitus
+<em>&quot;To handle yourself, use your head; to handle others, use your heart.&quot;</em> <br>
+— Eleanor Roosevelt
