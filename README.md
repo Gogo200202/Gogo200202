@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Management is doing things right; leadership is doing the right things.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Thinking is the hardest work there is. That is why so few people engage in it.&quot;</em> <br>
+— Robert Kiyosaki
