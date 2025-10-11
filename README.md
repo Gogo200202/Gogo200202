@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To handle yourself, use your head; to handle others, use your heart.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;It is those who concentrate on but one thing at a time who advance in this world.&quot;</em> <br>
+— Gary Keller
