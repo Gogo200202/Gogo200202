@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The search for happiness is one of the chief sources of unhappiness.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
+— Vince Lombardi
