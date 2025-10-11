@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn to sit back and observe, not everything needs a reaction.&quot;</em> <br>
-— Unknown
+<em>&quot;Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.&quot;</em> <br>
+— Norman Vincent Peale
