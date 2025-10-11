@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thinking is the hardest work there is. That is why so few people engage in it.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;A man who cannot tolerate small misfortunes can never accomplish great things.&quot;</em> <br>
+— Chinese Proverb
