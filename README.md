@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wheresoever you go, go with all your heart.&quot;</em> <br>
-— Confucius
+<em>&quot;Not all those who wander are lost.&quot;</em> <br>
+— J.R.R. Tolkien
