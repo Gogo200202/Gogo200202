@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&quot;</em> <br>
-— Criss Jami
+<em>&quot;The search for happiness is one of the chief sources of unhappiness.&quot;</em> <br>
+— Eric Hoffer
