@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&quot;</em> <br>
+— Criss Jami
