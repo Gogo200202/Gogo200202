@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&quot;</em> <br>
+<em>&quot;Success is about doing the right thing, not about doing everything right.&quot;</em> <br>
 — Gary Keller
