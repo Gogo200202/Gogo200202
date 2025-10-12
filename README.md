@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;FOCUS - Follow One Course Until Successful&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The journey is what brings us happiness not the destination.&quot;</em> <br>
+— Dan Millman
