@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Where we fall are the stepping-stones for our journey.&quot;</em> <br>
+— Lolly Daskal
