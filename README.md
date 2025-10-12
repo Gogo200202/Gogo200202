@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&quot;</em> <br>
+— Martin Luther King, Jr.
