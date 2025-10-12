@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we did all the things we are capable of, we would literally astound ourselves.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&quot;</em> <br>
+— Robin Sharma
