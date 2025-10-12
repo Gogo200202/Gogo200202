@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The journey is what brings us happiness not the destination.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Love is merely the name for the desire and pursuit of the whole.&quot;</em> <br>
+— Aristophanes
