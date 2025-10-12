@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is merely the name for the desire and pursuit of the whole.&quot;</em> <br>
-— Aristophanes
+<em>&quot;He who hesitates is a damned fool.&quot;</em> <br>
+— Mae West
