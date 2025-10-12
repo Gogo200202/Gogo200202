@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only limits in your life are those that you set yourself.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;If we did all the things we are capable of, we would literally astound ourselves.&quot;</em> <br>
+— Thomas Edison
