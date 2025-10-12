@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One always begins to forgive a place as soon as it's left behind.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&quot;</em> <br>
+— Gary Keller
