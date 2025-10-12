@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is hardest at the beginning, messiest in the middle and best at the end.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&quot;</em> <br>
+— Deepak Chopra
