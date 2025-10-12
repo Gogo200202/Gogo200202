@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The art of being happy lies in the power of extracting happiness from common things.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Show me a hero, and I'll write you a tragedy.&quot;</em> <br>
+— F. Scott Fitzgerald
