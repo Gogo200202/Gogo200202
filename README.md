@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;The art of being happy lies in the power of extracting happiness from common things.&quot;</em> <br>
+— Henry Ward Beecher
