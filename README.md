@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
-— Huang Po
+<em>&quot;One always begins to forgive a place as soon as it's left behind.&quot;</em> <br>
+— Charles Dickens
