@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Until you make the unconscious conscious, it will direct your life and you will call it fate.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.&quot;</em> <br>
+— Norman Vincent Peale
