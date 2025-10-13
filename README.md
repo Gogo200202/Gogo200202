@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People tend to complicate their own lives, as if living weren't already complicated enough.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&quot;</em> <br>
+— Morihei Ueshiba
