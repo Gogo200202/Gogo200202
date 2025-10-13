@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I cannot do great things. I can do small things in a great way.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&quot;</em> <br>
+— Brian Tracy
