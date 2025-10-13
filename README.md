@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Troubles are often the tools by which God fashions us for better things.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;If I cannot do great things. I can do small things in a great way.&quot;</em> <br>
+— Martin Luther King, Jr.
