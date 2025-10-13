@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Until you make the unconscious conscious, it will direct your life and you will call it fate.&quot;</em> <br>
+— Carl Jung
