@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you move beyond your fear, you feel free.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;The biggest adventure is what lies ahead.&quot;</em> <br>
+— J.R.R. Tolkien
