@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is more important than knowledge.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
+— Vince Lombardi
