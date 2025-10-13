@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where we fall are the stepping-stones for our journey.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;When you move beyond your fear, you feel free.&quot;</em> <br>
+— Spencer Johnson
