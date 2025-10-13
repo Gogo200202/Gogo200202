@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is only real, when shared.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Imagination is more important than knowledge.&quot;</em> <br>
+— Albert Einstein
