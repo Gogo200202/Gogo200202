@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live, travel, adventure, bless, and don't be sorry.  &quot;</em> <br>
-— Jack Kerouac
+<em>&quot;Happiness is only real, when shared.&quot;</em> <br>
+— Christopher McCandless
