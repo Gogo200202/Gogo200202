@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.&quot;</em> <br>
-— Unknown
+<em>&quot;To get angry is like to revenge yourself for the guilt of others.&quot;</em> <br>
+— Jonathan Swift
