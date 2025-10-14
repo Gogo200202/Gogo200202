@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a long lesson in humility. &quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&quot;</em> <br>
+— Dale Carnegie
