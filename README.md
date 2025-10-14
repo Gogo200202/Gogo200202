@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man becomes rich unless he enriches others.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Life is a long lesson in humility. &quot;</em> <br>
+— James Matthew Barrie
