@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is the great teacher and to learn its lessons you must pay attention to it.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.&quot;</em> <br>
+— Nicolas Chamfort
