@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to make God laugh, tell him about your plans. &quot;</em> <br>
-— Woody Allen
+<em>&quot;We need never be ashamed of our tears.&quot;</em> <br>
+— Charles Dickens
