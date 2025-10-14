@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;If you want to make God laugh, tell him about your plans. &quot;</em> <br>
+— Woody Allen
