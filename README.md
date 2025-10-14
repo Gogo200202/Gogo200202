@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live simply, expect little, give much.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Silence is the great teacher and to learn its lessons you must pay attention to it.&quot;</em> <br>
+— Deepak Chopra
