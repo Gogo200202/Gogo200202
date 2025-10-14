@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Yesterday is but today's memory, tomorrow is today's dream.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
+— Nicolas Chamfort
