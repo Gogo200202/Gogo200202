@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To get angry is like to revenge yourself for the guilt of others.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;Trying to define yourself is like trying to bite your own teeth.&quot;</em> <br>
+— Zen Proverb
