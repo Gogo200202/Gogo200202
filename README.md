@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winning isn't everything, but wanting to win is.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;No man becomes rich unless he enriches others.&quot;</em> <br>
+— Andrew Carnegie
