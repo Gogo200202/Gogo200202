@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We need never be ashamed of our tears.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;It's what you do in the present that will redeem the past and thereby change the future.&quot;</em> <br>
+— Paulo Coelho
