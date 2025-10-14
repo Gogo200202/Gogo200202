@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;The best way to understanding is a few good examples.&quot;</em> <br>
+— Isaac Newton
