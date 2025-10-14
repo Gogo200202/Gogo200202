@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way to understanding is a few good examples.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.&quot;</em> <br>
+— Unknown
