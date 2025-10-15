@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams have only one owner at a time. That's why dreamers are lonely.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Even the finest sword plunged into salt water will eventually rust.&quot;</em> <br>
+— Sun Tzu
