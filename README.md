@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The very essence of instinct is that it's followed independently of reason.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;Dreams have only one owner at a time. That's why dreamers are lonely.&quot;</em> <br>
+— William Faulkner
