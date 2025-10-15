@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing can survive without food. Everything we consume acts either to heal us or to poison us.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;We must not sit down and wait for miracles. Up and be going!&quot;</em> <br>
+— John Eliot
