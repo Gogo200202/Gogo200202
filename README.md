@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;Make peace with your inner turmoil.&quot;</em> <br>
+— Unknown
