@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Nothing can survive without food. Everything we consume acts either to heal us or to poison us.&quot;</em> <br>
+— Thich Nhat Hanh
