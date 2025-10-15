@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;The very essence of instinct is that it's followed independently of reason.&quot;</em> <br>
+— Charles Darwin
