@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make peace with your inner turmoil.&quot;</em> <br>
-— Unknown
+<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
+— Isaac Newton
