@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;A good teacher opens the door for you, but you must enter the room by yourself.&quot;</em> <br>
+— Zen Proverb
