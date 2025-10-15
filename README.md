@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must learn to let go. Release the stress. You were never in control anyway.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;You can never get enough of what you don't need to make you happy.&quot;</em> <br>
+— Eric Hoffer
