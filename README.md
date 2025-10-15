@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be patient and calm; no one can catch fish in anger.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.&quot;</em> <br>
+— Brian Tracy
