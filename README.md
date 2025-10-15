@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must not sit down and wait for miracles. Up and be going!&quot;</em> <br>
-— John Eliot
+<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
+— Anne Wilson Schaef
