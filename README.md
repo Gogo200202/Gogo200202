@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.&quot;</em> <br>
+— Kamal Ravikant
