@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Quiet people have the loudest minds.&quot;</em> <br>
-— Stephen King
+<em>&quot;Life is a series of choices and all we can do is make them.&quot;</em> <br>
+— Kamal Ravikant
