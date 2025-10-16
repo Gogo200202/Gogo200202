@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The idea of ourselves is our escape from the fact of what we really are.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Not all those who wander are lost.&quot;</em> <br>
+— J.R.R. Tolkien
