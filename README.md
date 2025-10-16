@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to change an opinion than to persist in a wrong one.&quot;</em> <br>
-— Socrates
+<em>&quot;Weeds are flowers too, once you get to know them.&quot;</em> <br>
+— A.A. Milne
