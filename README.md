@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;For all evils there are two remedies - time and silence.&quot;</em> <br>
+— Alexandre Dumas
