@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Weeds are flowers too, once you get to know them.&quot;</em> <br>
-— A.A. Milne
+<em>&quot;Where there is no struggle, there is no strength. &quot;</em> <br>
+— Oprah Winfrey
