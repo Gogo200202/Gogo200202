@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most courageous act is still to think for yourself. Aloud.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;Quiet people have the loudest minds.&quot;</em> <br>
+— Stephen King
