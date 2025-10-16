@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The ego wants to go fast. The soul needs to go slow.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.&quot;</em> <br>
+— Ming-Dao Deng
