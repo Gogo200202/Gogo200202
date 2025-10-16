@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For all evils there are two remedies - time and silence.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;The most courageous act is still to think for yourself. Aloud.&quot;</em> <br>
+— Coco Chanel
