@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is like a beautiful melody, only the lyrics are messed up.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;For your life to be great, your faith must be bigger than your fear.&quot;</em> <br>
+— Robin Sharma
