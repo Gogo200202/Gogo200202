@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even the finest sword plunged into salt water will eventually rust.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
+— Oprah Winfrey
