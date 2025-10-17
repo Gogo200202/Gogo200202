@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;If the only prayer you ever say in your entire life is thank you, it will be enough.&quot;</em> <br>
+— Meister Eckhart
