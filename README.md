@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If the only prayer you ever say in your entire life is thank you, it will be enough.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&quot;</em> <br>
+— Naval Ravikant
