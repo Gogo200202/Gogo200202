@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing brings down walls as surely as acceptance.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&quot;</em> <br>
+— Celestine Chua
