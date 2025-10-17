@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can handle rejection, you'll learn to get everything you want.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;If you pray for rain, be prepared to deal with some mud.&quot;</em> <br>
+— Mary Engelbreit
