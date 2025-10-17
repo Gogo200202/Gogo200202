@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;True it is, we only hate those whom we do not know.&quot;</em> <br>
+— Andrew Carnegie
