@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who realize their folly are not true fools.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;Know your gifts and share them.&quot;</em> <br>
+— Les Brown
