@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If it is not right, do not do it, if it is not true, do not say it.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The heart wants what it wants. There's no logic. &quot;</em> <br>
+— Woody Allen
