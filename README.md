@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a long lesson in humility. &quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.&quot;</em> <br>
+— Dale Carnegie
