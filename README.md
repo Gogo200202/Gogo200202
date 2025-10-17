@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Know your gifts and share them.&quot;</em> <br>
-— Les Brown
+<em>&quot;Nothing brings down walls as surely as acceptance.&quot;</em> <br>
+— Deepak Chopra
