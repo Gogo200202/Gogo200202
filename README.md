@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The traveler sees what he sees. The tourist sees what he has come to see.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Life is a long lesson in humility. &quot;</em> <br>
+— James Matthew Barrie
