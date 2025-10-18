@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;In the middle of difficulty lies opportunity.&quot;</em> <br>
+— Albert Einstein
