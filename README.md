@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is ten percent what you experience and ninety percent how you respond to it.&quot;</em> <br>
-— Unknown
+<em>&quot;Do not try to be on the side of the majority, but live according to your inner laws.&quot;</em> <br>
+— Marcus Aurelius
