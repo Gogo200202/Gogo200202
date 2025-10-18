@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't get to a place that you don't believe exists.&quot;</em> <br>
-— Unknown
+<em>&quot;Everybody needs a passion. That's what keeps life interesting.&quot;</em> <br>
+— Betty White
