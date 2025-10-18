@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not try to be on the side of the majority, but live according to your inner laws.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;You have to give up some of the old so that you can make room for the new.&quot;</em> <br>
+— Yanni
