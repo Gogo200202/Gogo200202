@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&quot;</em> <br>
+— Abraham Lincoln
