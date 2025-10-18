@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A memory is a beautiful thing, it's almost a desire that you miss.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;Life is ten percent what you experience and ninety percent how you respond to it.&quot;</em> <br>
+— Unknown
