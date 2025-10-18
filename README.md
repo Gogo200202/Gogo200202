@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When the world pushes you to your knees, you're in the perfect position to pray.&quot;</em> <br>
-— Rumi
+<em>&quot;Every day passes whether you participate or not.&quot;</em> <br>
+— Ming-Dao Deng
