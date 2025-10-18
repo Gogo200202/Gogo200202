@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have to give up some of the old so that you can make room for the new.&quot;</em> <br>
-— Yanni
+<em>&quot;Whatever your mind can conceive and believe, it can achieve.&quot;</em> <br>
+— Napoleon Hill
