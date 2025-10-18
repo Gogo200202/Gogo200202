@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day passes whether you participate or not.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;If we are not able to smile, then the world will not have peace.&quot;</em> <br>
+— Thich Nhat Hanh
