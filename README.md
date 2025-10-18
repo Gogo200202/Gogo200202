@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the middle of difficulty lies opportunity.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;A memory is a beautiful thing, it's almost a desire that you miss.&quot;</em> <br>
+— Gustave Flaubert
