@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we are not able to smile, then the world will not have peace.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Inspire yourself to be great. Being good isn't good enough.&quot;</em> <br>
+— Gurbaksh Chahal
