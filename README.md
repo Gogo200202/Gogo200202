@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's the possibility of having a dream come true that makes life interesting.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.&quot;</em> <br>
+— Albus Dumbledore
