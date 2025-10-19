@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day may not be good, but there's something good in every day.&quot;</em> <br>
-— Unknown
+<em>&quot;Live calmly. The time will come when the flowers bloom by themselves.&quot;</em> <br>
+— Zen Proverb
