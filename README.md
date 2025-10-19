@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&quot;</em> <br>
+— Robert Kiyosaki
