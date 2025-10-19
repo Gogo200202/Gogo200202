@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He will win who knows when to fight and when not to fight.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;You must welcome change as the rule but not as your ruler. &quot;</em> <br>
+— Denis Waitley
