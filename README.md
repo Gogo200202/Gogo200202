@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If a man knows not to which port he sails, no wind is favorable.  &quot;</em> <br>
-— Seneca
+<em>&quot;He will win who knows when to fight and when not to fight.&quot;</em> <br>
+— Sun Tzu
