@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must welcome change as the rule but not as your ruler. &quot;</em> <br>
-— Denis Waitley
+<em>&quot;It's the possibility of having a dream come true that makes life interesting.&quot;</em> <br>
+— Paulo Coelho
