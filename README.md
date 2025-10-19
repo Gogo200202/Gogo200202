@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dance first. Think later. It's the natural order.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;When the root is strong, the fruit is sweet.&quot;</em> <br>
+— Bob Marley
