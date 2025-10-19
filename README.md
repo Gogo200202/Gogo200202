@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Meditate. It won't be fun but it will surface what you need to deal with.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.&quot;</em> <br>
+— Theodore Roosevelt
