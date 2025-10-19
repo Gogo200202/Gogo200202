@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;If a man knows not to which port he sails, no wind is favorable.  &quot;</em> <br>
+— Seneca
