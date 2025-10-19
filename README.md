@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Listen to what you know instead of what you fear.&quot;</em> <br>
+— Richard Bach
