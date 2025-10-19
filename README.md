@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live calmly. The time will come when the flowers bloom by themselves.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Knowing yourself is the beginning of all wisdom.&quot;</em> <br>
+— Aristotle
