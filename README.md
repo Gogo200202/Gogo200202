@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The joy of life comes from our encounters with new experiences.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Every day may not be good, but there's something good in every day.&quot;</em> <br>
+— Unknown
