@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When the root is strong, the fruit is sweet.&quot;</em> <br>
-— Bob Marley
+<em>&quot;Meditate. It won't be fun but it will surface what you need to deal with.&quot;</em> <br>
+— Naval Ravikant
