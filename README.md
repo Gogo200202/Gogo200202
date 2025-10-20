@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
+— Leo Tolstoy
