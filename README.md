@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The time is now, the place is here. Stay in the present.&quot;</em> <br>
-— Dan Millman
+<em>&quot;People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.&quot;</em> <br>
+— Andrew Carnegie
