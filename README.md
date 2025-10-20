@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It takes half your life before you discover life is a do-it-yourself project.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.&quot;</em> <br>
+— Jon Kabat-Zinn
