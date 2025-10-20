@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are all faced with a series of great opportunities brilliantly disguised as impossible situations. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;The time is now, the place is here. Stay in the present.&quot;</em> <br>
+— Dan Millman
