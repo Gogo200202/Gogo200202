@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way out is always through.&quot;</em> <br>
-— Robert Frost
+<em>&quot;The deeper the truth in a creative work, the longer it will live.  &quot;</em> <br>
+— Charlie Chaplin
