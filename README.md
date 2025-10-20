@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&quot;</em> <br>
+— Marcus Aurelius
