@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;We are all faced with a series of great opportunities brilliantly disguised as impossible situations. &quot;</em> <br>
+— Charles Swindoll
