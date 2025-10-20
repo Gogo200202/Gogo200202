@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wise people, even though all laws were abolished, would still lead the same life.&quot;</em> <br>
-— Aristophanes
+<em>&quot;You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.&quot;</em> <br>
+— Norman Vincent Peale
