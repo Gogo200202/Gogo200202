@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is stumbling from failure to failure with no loss of enthusiasm.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Change is never easy, but always possible.&quot;</em> <br>
+— Barack Obama
