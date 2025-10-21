@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not as important how we start, but how we finish.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;When you can't make them see the light, make them feel the heat.&quot;</em> <br>
+— Ronald Reagan
