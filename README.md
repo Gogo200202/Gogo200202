@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My sun sets to rise again.&quot;</em> <br>
-— Robert Browning
+<em>&quot;Success is stumbling from failure to failure with no loss of enthusiasm.&quot;</em> <br>
+— Winston Churchill
