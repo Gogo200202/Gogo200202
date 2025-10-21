@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way to predict your future is to create it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;The pen is the tongue of the mind. &quot;</em> <br>
+— Miguel de Cervantes
