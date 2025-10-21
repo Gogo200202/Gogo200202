@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who are possessed by nothing possess everything.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;The best way to predict your future is to create it.&quot;</em> <br>
+— Abraham Lincoln
