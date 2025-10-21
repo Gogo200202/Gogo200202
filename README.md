@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&quot;</em> <br>
-— Richard Bach
+<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
+— Steve Harvey
