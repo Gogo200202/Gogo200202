@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
+— Wayne Dyer
