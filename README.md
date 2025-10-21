@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you can't make them see the light, make them feel the heat.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;My sun sets to rise again.&quot;</em> <br>
+— Robert Browning
