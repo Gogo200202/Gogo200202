@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;You cannot change your destination overnight but you can change your direction overnight.&quot;</em> <br>
+— Jim Rohn
