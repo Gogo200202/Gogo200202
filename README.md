@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot change your destination overnight but you can change your direction overnight.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Those who are possessed by nothing possess everything.&quot;</em> <br>
+— Morihei Ueshiba
