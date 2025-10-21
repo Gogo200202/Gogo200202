@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pen is the tongue of the mind. &quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;You can have results or excuses, but not both.&quot;</em> <br>
+— Arnold Schwarzenegger
