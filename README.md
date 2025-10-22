@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By words the mind is winged.&quot;</em> <br>
-— Aristophanes
+<em>&quot;The reward of suffering is experience.&quot;</em> <br>
+— Harry S. Truman
