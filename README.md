@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is really simple, but men insist on making it complicated. &quot;</em> <br>
-— Confucius
+<em>&quot;Leaders think and talk about solutions. Followers think and talk about the problems.&quot;</em> <br>
+— Brian Tracy
