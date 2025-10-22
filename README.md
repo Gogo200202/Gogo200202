@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
+— Tony Robbins
