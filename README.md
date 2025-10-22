@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&quot;</em> <br>
-— James Cameron
+<em>&quot;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&quot;</em> <br>
+— James Matthew Barrie
