@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The measure of wisdom is how calm you are when facing any given situation.&quot;</em> <br>
+— Naval Ravikant
