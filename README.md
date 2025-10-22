@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;In the End, we will remember not the words of our enemies, but the silence of our friends.&quot;</em> <br>
+— Martin Luther King, Jr.
