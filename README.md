@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time goes from present to past.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;If fear is too strong, the genius is suppressed.&quot;</em> <br>
+— Robert Kiyosaki
