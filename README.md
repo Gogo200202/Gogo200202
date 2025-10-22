@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The question isn't who is going to let me; it's who is going to stop me.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.&quot;</em> <br>
+— Dan Millman
