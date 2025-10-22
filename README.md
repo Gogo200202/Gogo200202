@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He will win who knows when to fight and when not to fight.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;The question isn't who is going to let me; it's who is going to stop me.&quot;</em> <br>
+— Ayn Rand
