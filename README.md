@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The measure of wisdom is how calm you are when facing any given situation.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Good luck is opportunity meeting preparedness.&quot;</em> <br>
+— Deepak Chopra
