@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Passion is born deaf and dumb.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.&quot;</em> <br>
+— Naval Ravikant
