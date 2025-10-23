@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The measure of who we are is what we do with what we have.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.&quot;</em> <br>
+— Les Brown
