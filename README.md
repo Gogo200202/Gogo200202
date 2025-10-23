@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whether you think you can or think you can't – you are right.&quot;</em> <br>
-— Henry Ford
+<em>&quot;The measure of who we are is what we do with what we have.&quot;</em> <br>
+— Vince Lombardi
