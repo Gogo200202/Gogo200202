@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.&quot;</em> <br>
-— Les Brown
+<em>&quot;Supreme excellence consists of breaking the enemy's resistance without fighting.&quot;</em> <br>
+— Sun Tzu
