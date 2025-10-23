@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your life does not get better by chance, it gets better by change.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Look to the beauty of this day, miracles are all around you.&quot;</em> <br>
+— Mary Engelbreit
