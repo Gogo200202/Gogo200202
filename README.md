@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Whether you think you can or think you can't – you are right.&quot;</em> <br>
+— Henry Ford
