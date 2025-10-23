@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Look to the beauty of this day, miracles are all around you.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Passion is born deaf and dumb.&quot;</em> <br>
+— Honore de Balzac
