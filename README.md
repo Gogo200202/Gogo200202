@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&quot;</em> <br>
+— Unknown
