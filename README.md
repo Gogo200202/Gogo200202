@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The divine is not something high above us. It is in heaven, it is in earth, it is inside us.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;We can see through others only when we can see through ourselves.&quot;</em> <br>
+— Bruce Lee
