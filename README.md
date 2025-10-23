@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Disobedience is the true foundation of liberty. The obedient must be slaves.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.&quot;</em> <br>
+— Zig Ziglar
