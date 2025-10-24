@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to see things just as they are, then you yourself must practice just as you are.&quot;</em> <br>
-— Dogen
+<em>&quot;To improve is to change, so to be perfect is to change often.&quot;</em> <br>
+— Winston Churchill
