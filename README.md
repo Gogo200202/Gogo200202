@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Supreme excellence consists of breaking the enemy's resistance without fighting.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Making your mark on the world is hard. If it were easy, everybody would do it.&quot;</em> <br>
+— Barack Obama
