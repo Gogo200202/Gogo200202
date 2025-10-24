@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always try to be a little kinder than necessary.&quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;A man who cannot tolerate small misfortunes can never accomplish great things.&quot;</em> <br>
+— Chinese Proverb
