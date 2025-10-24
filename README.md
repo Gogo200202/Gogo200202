@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To improve is to change, so to be perfect is to change often.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.&quot;</em> <br>
+— Criss Jami
