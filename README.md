@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing ever goes away until it has taught us what we need to know.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;By perseverance the snail reached the ark.&quot;</em> <br>
+— Charles Spurgeon
