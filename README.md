@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is truth that liberates, not your effort to be free.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;If you want to see things just as they are, then you yourself must practice just as you are.&quot;</em> <br>
+— Dogen
