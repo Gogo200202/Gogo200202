@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Either you choose to stay in the shallow end of the pool or you go out into the ocean.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;We run to win, not just to be in the race.  &quot;</em> <br>
+— Vince Lombardi
