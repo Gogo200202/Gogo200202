@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not follow the ideas of others, but learn to listen to the voice within yourself.&quot;</em> <br>
-— Dogen
+<em>&quot;A strong man overcomes an obstacle, a wise man goes the whole way.&quot;</em> <br>
+— Zen Proverb
