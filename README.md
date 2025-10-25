@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only the educated are free.&quot;</em> <br>
-— Epictetus
+<em>&quot;Courage Is a Love Affair with the Unknown&quot;</em> <br>
+— Osho
