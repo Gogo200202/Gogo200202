@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be afraid that you do not know something. Be afraid of not learning about it.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&quot;</em> <br>
+— Richard Bach
