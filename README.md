@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust, like the soul, never returns once it is gone.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;All life is a manifestation of the spirit, the manifestation of love.&quot;</em> <br>
+— Morihei Ueshiba
