@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All life is a manifestation of the spirit, the manifestation of love.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Only those who do nothing at all make no mistakes.&quot;</em> <br>
+— Unknown
