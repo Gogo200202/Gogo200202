@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only those who do nothing at all make no mistakes.&quot;</em> <br>
-— Unknown
+<em>&quot;Numbing the pain for a while will only make it worse when you finally feel it.&quot;</em> <br>
+— Albus Dumbledore
