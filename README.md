@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage Is a Love Affair with the Unknown&quot;</em> <br>
-— Osho
+<em>&quot;Happiness is only real when shared.&quot;</em> <br>
+— Christopher McCandless
