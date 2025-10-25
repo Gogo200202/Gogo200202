@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loss is nothing else but change and change is nature's delight.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The most important battle is one to conquer yourself.&quot;</em> <br>
+— Yanni
