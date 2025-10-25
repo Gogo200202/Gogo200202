@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most important battle is one to conquer yourself.&quot;</em> <br>
-— Yanni
+<em>&quot;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&quot;</em> <br>
+— Winston Churchill
