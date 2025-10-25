@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Do not follow the ideas of others, but learn to listen to the voice within yourself.&quot;</em> <br>
+— Dogen
