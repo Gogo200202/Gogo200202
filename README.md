@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are all in the gutter, but some of us are looking at the stars. &quot;</em> <br>
-— Oscar Wilde
+<em>&quot;If you aim at nothing, you will hit it every time.  &quot;</em> <br>
+— Zig Ziglar
