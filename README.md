@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Numbing the pain for a while will only make it worse when you finally feel it.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;All you need is the plan, the road map, and the courage to press on to your destination.&quot;</em> <br>
+— Earl Nightingale
