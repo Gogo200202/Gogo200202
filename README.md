@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you aim at nothing, you will hit it every time.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.&quot;</em> <br>
+— Marcus Aurelius
