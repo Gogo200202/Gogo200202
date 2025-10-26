@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anyone who wants to achieve a dream must stay strong, focused and steady.&quot;</em> <br>
-— Estee Lauder
+<em>&quot;To raise your consciousness, surround yourself with people of higher consciousness.&quot;</em> <br>
+— Celestine Chua
