@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Maybe you are searching among the branches, for what only appears in the roots.&quot;</em> <br>
-— Rumi
+<em>&quot;Pleasure in the job puts perfection in the work.&quot;</em> <br>
+— Aristotle
