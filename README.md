@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Beauty is not in the face; beauty is a light in the heart.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Sometimes out of your biggest misery, comes your greatest gain.&quot;</em> <br>
+— Steve Harvey
