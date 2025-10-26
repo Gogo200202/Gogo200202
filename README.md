@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;High thoughts must have high language.&quot;</em> <br>
-— Aristophanes
+<em>&quot;Anyone who wants to achieve a dream must stay strong, focused and steady.&quot;</em> <br>
+— Estee Lauder
