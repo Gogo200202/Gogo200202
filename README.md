@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All you need is the plan, the road map, and the courage to press on to your destination.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Either get busy living or get busy dying.&quot;</em> <br>
+— Stephen King
