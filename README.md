@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;From a certain point onward there is no longer any turning back. That is the point that must be reached.&quot;</em> <br>
-— Franz Kafka
+<em>&quot;We are all in the gutter, but some of us are looking at the stars. &quot;</em> <br>
+— Oscar Wilde
