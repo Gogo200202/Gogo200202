@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pleasure in the job puts perfection in the work.&quot;</em> <br>
-— Aristotle
+<em>&quot;To the mind that is still, the whole universe surrenders.&quot;</em> <br>
+— Lao Tzu
