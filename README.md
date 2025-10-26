@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To the mind that is still, the whole universe surrenders.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Beauty is not in the face; beauty is a light in the heart.&quot;</em> <br>
+— Kahlil Gibran
