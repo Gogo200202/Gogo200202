@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faithless is he that says farewell when the road darkens.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Only the educated are free.&quot;</em> <br>
+— Epictetus
