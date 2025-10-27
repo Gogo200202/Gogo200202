@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you do in life, surround yourself with smart people who'll argue with you.&quot;</em> <br>
-— John Wooden
+<em>&quot;Anxiety is the dizziness of freedom.&quot;</em> <br>
+— Soren Kierkegaard
