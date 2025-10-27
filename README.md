@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only the educated are free.&quot;</em> <br>
-— Epictetus
+<em>&quot;Whatever you do in life, surround yourself with smart people who'll argue with you.&quot;</em> <br>
+— John Wooden
