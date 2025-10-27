@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Faithless is he that says farewell when the road darkens.&quot;</em> <br>
+— J.R.R. Tolkien
