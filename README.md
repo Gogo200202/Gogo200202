@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absurdity is the ecstasy of intellectualism.&quot;</em> <br>
-— Criss Jami
+<em>&quot;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&quot;</em> <br>
+— Dalai Lama
