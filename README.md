@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Comedy = tragedy + time.&quot;</em> <br>
-— Carol Burnett
+<em>&quot;To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.&quot;</em> <br>
+— Samuel Butler
