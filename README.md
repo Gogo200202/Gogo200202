@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Optimism, when applied to your life, develops strength and peace within you.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;I don't pretend to know everything; I just only speak on matters I know I'll win.&quot;</em> <br>
+— Criss Jami
