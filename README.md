@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make peace with your inner turmoil.&quot;</em> <br>
-— Unknown
+<em>&quot;Not how long, but how well you have lived is the main thing.&quot;</em> <br>
+— Seneca
