@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;The highest form of ignorance is when you reject something you don't know anything about. &quot;</em> <br>
+— Wayne Dyer
