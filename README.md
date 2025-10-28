@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;He who wishes to be obeyed must know how to command.&quot;</em> <br>
+— Niccolo Machiavelli
