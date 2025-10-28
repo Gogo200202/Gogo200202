@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What do we live for if not to make life less difficult for each other?&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;To do two things at once is to do neither.&quot;</em> <br>
+— Publilius Syrus
