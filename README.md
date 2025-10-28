@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not how long, but how well you have lived is the main thing.&quot;</em> <br>
-— Seneca
+<em>&quot;The more something threatens your identity, the more you will avoid it.&quot;</em> <br>
+— Mark Manson
