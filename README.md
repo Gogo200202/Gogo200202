@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more something threatens your identity, the more you will avoid it.&quot;</em> <br>
-— Mark Manson
+<em>&quot;You don't earn loyalty in a day. You earn loyalty day-by-day.&quot;</em> <br>
+— Jeffrey Gitomer
