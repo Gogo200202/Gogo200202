@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Youth has no age.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.&quot;</em> <br>
+— Steve Maraboli
