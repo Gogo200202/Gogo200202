@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No amount of regretting can change the past, and no amount of worrying can change the future.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;What do we live for if not to make life less difficult for each other?&quot;</em> <br>
+— T.S. Eliot
