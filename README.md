@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The highest form of ignorance is when you reject something you don't know anything about. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;No amount of regretting can change the past, and no amount of worrying can change the future.&quot;</em> <br>
+— Roy T. Bennett
