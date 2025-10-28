@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who wishes to be obeyed must know how to command.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
+— Harry S. Truman
