@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is pretty simple: someone to love, something to do, something to look forward to.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!&quot;</em> <br>
+— Og Mandino
