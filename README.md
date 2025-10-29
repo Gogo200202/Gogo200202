@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take care of your body. It's the only place you have to live.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;There is no path to Love. Love is the path.&quot;</em> <br>
+— Dan Millman
