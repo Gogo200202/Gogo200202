@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality of your life is the quality of your relationships.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Success is an iceberg.&quot;</em> <br>
+— Unknown
