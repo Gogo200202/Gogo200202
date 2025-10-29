@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way round is through.&quot;</em> <br>
-— Robert Frost
+<em>&quot;From morning till night, we should never rely on a single thing.&quot;</em> <br>
+— Huang Po
