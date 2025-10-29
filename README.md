@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Most people get ahead during the time that others waste.&quot;</em> <br>
+— Henry Ford
