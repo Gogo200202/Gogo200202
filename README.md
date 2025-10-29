@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's a very deep connection among human beings. All we have to do is open our minds to it.&quot;</em> <br>
-— Yanni
+<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
+— Unknown
