@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!&quot;</em> <br>
-— Og Mandino
+<em>&quot;Don't let your mind stop you.&quot;</em> <br>
+— Steve Harvey
