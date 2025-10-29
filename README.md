@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most people get ahead during the time that others waste.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Make peace with your inner turmoil.&quot;</em> <br>
+— Unknown
