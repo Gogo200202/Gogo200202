@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no path to Love. Love is the path.&quot;</em> <br>
-— Dan Millman
+<em>&quot;The quality of your life is the quality of your relationships.&quot;</em> <br>
+— Tony Robbins
