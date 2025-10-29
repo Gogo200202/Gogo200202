@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Forget safety. Live where you fear to live.&quot;</em> <br>
-— Rumi
+<em>&quot;The soul should always stand ajar, ready to welcome the ecstatic experience.&quot;</em> <br>
+— Emily Dickinson
