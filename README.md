@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The key to immortality is first living a life worth remembering. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;A lot of people have gone further than they thought they could because someone else thought they could.&quot;</em> <br>
+— Zig Ziglar
