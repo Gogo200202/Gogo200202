@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Find the game where you can win, and then commit your life to playing it; and play to win.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;All problems are illusions of the mind.&quot;</em> <br>
+— Eckhart Tolle
