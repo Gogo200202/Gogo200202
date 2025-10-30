@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;There is only the one reality, neither to be realized nor attained.&quot;</em> <br>
+— Huang Po
