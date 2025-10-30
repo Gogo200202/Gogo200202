@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All problems are illusions of the mind.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;We're responsible for everything that happens to us.&quot;</em> <br>
+— Yanni
