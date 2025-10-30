@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A lot of people have gone further than they thought they could because someone else thought they could.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Find the game where you can win, and then commit your life to playing it; and play to win.&quot;</em> <br>
+— Robert Kiyosaki
