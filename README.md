@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Surrender to what is. Let go of what was. Have faith in what will be.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.&quot;</em> <br>
+— Buddha
