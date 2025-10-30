@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A rational person can find peace by cultivating indifference to things outside of their control.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Life is a question and how we live it is our answer.&quot;</em> <br>
+— Gary Keller
