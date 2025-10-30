@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a balance of holding on and letting go.&quot;</em> <br>
-— Rumi
+<em>&quot;Surrender to what is. Let go of what was. Have faith in what will be.&quot;</em> <br>
+— Sonia Ricotti
