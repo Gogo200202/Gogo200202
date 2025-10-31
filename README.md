@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.&quot;</em> <br>
-— James Cameron
+<em>&quot;Enthusiasm is a vital element toward the individual success of every man or woman.&quot;</em> <br>
+— Conrad Hilton
