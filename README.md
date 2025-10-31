@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No matter what happens in life, never lose sight of who you are.&quot;</em> <br>
-— Yanni
+<em>&quot;The more reasons you have for achieving your goal, the more determined you will become.&quot;</em> <br>
+— Brian Tracy
