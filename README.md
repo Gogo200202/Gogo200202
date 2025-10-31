@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A mountain never yields to the wind no matter how strong it is.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&quot;</em> <br>
+— Robert Kiyosaki
