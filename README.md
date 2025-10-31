@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Truth is not something outside to be discovered, it is something inside to be realized.&quot;</em> <br>
+— Osho
