@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enthusiasm is a vital element toward the individual success of every man or woman.&quot;</em> <br>
-— Conrad Hilton
+<em>&quot;Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.&quot;</em> <br>
+— J.R.R. Tolkien
