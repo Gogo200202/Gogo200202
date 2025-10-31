@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your home is where your thoughts find peace.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&quot;</em> <br>
+— Robin Sharma
