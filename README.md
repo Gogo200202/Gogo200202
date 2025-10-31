@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Truth is not something outside to be discovered, it is something inside to be realized.&quot;</em> <br>
-— Osho
+<em>&quot;Your home is where your thoughts find peace.&quot;</em> <br>
+— Zen Proverb
