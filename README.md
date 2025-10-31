@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It all depends on what you choose to believe.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;You change the world by being yourself.&quot;</em> <br>
+— Yoko Ono
