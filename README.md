@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If ever you feel like an animal among men, be a lion.&quot;</em> <br>
-— Criss Jami
+<em>&quot;A mountain never yields to the wind no matter how strong it is.&quot;</em> <br>
+— Zen Proverb
