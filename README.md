@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;However difficult life may seem, there is always something you can do and succeed at.&quot;</em> <br>
+— Stephen Hawking
