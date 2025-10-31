@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&quot;</em> <br>
+— Sun Tzu
