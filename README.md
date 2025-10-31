@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more reasons you have for achieving your goal, the more determined you will become.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&quot;</em> <br>
+— Henry Ford
