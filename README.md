@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One of the advantages of being disorganized is that one is always having surprising discoveries.&quot;</em> <br>
-— A.A. Milne
+<em>&quot;Listen to what you know instead of what you fear.&quot;</em> <br>
+— Richard Bach
