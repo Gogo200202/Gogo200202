@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have power over your mind - not outside events. Realize this, and you will find strength.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.&quot;</em> <br>
+— Sonia Ricotti
