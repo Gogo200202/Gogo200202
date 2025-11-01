@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All animals except man know that the principal business of life is to enjoy it.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;One of the advantages of being disorganized is that one is always having surprising discoveries.&quot;</em> <br>
+— A.A. Milne
