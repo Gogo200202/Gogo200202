@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let the behavior of others destroy your inner peace.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;I don't walk away from things that I think are unfinished.&quot;</em> <br>
+— Arnold Schwarzenegger
