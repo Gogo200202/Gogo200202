@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The giving of love is an education in itself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;You have power over your mind - not outside events. Realize this, and you will find strength.&quot;</em> <br>
+— Marcus Aurelius
