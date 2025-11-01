@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have not failed. I've just found 10,000 ways that won't work.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;The greatest deception men suffer is from their own opinions.&quot;</em> <br>
+— Leonardo da Vinci
