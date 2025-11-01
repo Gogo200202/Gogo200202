@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have to make time, even for something as universal as staring at the stars.&quot;</em> <br>
-— W.P. Kinsella
+<em>&quot;Walking with a friend in the dark is better than walking alone in the light.&quot;</em> <br>
+— Helen Keller
