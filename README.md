@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Of all men's miseries the bitterest is this: to know so much and to have control over nothing. &quot;</em> <br>
-— Herodotus
+<em>&quot;Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.&quot;</em> <br>
+— Paramahansa Yogananda
