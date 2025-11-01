@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;All animals except man know that the principal business of life is to enjoy it.&quot;</em> <br>
+— Samuel Butler
