@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Walking with a friend in the dark is better than walking alone in the light.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Follow your instincts. That is where true wisdom manifests itself.&quot;</em> <br>
+— Oprah Winfrey
