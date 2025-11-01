@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Follow your instincts. That is where true wisdom manifests itself.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Art is to console those who are broken by life.&quot;</em> <br>
+— Vincent van Gogh
