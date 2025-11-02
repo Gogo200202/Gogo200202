@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The meaning of life is to find your gift. The purpose of life is to give it away.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;You will face many defeats in life, but never let yourself be defeated.&quot;</em> <br>
+— Maya Angelou
