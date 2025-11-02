@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;If you see someone without a smile give them one of yours.&quot;</em> <br>
+— Unknown
