@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For things to change, you have to change.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;The meaning of life is to find your gift. The purpose of life is to give it away.&quot;</em> <br>
+— Pablo Picasso
