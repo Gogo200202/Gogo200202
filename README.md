@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most of the evil in this world is done by people with good intentions.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Start each day with a positive thought and a grateful heart.&quot;</em> <br>
+— Roy T. Bennett
