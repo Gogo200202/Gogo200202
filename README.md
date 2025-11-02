@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Most of the evil in this world is done by people with good intentions.&quot;</em> <br>
+— T.S. Eliot
