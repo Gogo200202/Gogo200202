@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every poem should remind the reader that they are going to die.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;For things to change, you have to change.&quot;</em> <br>
+— Jim Rohn
