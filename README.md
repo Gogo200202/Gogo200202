@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Care about what other people think and you will always be their prisoner.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
+— Alfred Adler
