@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;To do two things at once is to do neither.&quot;</em> <br>
+— Publilius Syrus
