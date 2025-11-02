@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want work well done, select a busy man; the other kind has no time.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.&quot;</em> <br>
+— Celestine Chua
