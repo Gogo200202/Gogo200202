@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Pleasure is always derived from something outside you, whereas joy arises from within. &quot;</em> <br>
+— Eckhart Tolle
