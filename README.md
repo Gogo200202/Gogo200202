@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your happiness is what truly matters most. Do what you have to do in order to be happy.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Loyalty and friendship are the most precious possessions a man can have.&quot;</em> <br>
+— Herbert Hoover
