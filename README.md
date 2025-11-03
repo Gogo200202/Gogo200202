@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All men who have achieved great things have been great dreamers. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;You have within you right now, everything you need to deal with whatever the world can throw at you.&quot;</em> <br>
+— Brian Tracy
