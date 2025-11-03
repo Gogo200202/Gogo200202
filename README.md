@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are patient in one moment of anger, you will escape a hundred days of sorrow. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Your happiness is what truly matters most. Do what you have to do in order to be happy.&quot;</em> <br>
+— Brian Tracy
