@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want peace, you won't get it with violence.&quot;</em> <br>
-— John Lennon
+<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
+— Lao Tzu
