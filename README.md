@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most of us will do anything to avoid facing ourselves.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;All men who have achieved great things have been great dreamers. &quot;</em> <br>
+— Orison Swett Marden
