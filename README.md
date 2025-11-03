@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For fast-acting relief try slowing down.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;There is no one giant step that does it. It's a lot of little steps.&quot;</em> <br>
+— Peter A. Cohen
