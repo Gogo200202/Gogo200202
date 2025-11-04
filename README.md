@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first step toward getting somewhere is to decide that you are not going to stay where you are.&quot;</em> <br>
-— Unknown
+<em>&quot;The time is now, the place is here. Stay in the present.&quot;</em> <br>
+— Dan Millman
