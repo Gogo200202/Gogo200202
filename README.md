@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pleasure in the job puts perfection in the work.&quot;</em> <br>
-— Aristotle
+<em>&quot;It is what we make out of what we have, not what we are given, that separates one person from another.&quot;</em> <br>
+— Nelson Mandela
