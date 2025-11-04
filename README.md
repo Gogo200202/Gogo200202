@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Work for something because it is good, not just because it stands a chance to succeed.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;No man is more cheated than the selfish man.&quot;</em> <br>
+— Henry Ward Beecher
