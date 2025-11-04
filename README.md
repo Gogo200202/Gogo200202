@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The goal is not to show how great you are to others, but how vulnerable you are to yourself.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Confidence is consistency of thinking about what is possible and how to make it possible.&quot;</em> <br>
+— John Eliot
