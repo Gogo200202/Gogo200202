@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.&quot;</em> <br>
-— James Allen
+<em>&quot;Keep others in suspense, cultivate an air of unpredictability.&quot;</em> <br>
+— Robert Greene
