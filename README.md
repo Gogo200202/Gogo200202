@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is what we make out of what we have, not what we are given, that separates one person from another.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;We never know the love of a parent till we become parents ourselves.&quot;</em> <br>
+— Henry Ward Beecher
