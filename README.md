@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep others in suspense, cultivate an air of unpredictability.&quot;</em> <br>
-— Robert Greene
+<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
+— Shahir Zag
