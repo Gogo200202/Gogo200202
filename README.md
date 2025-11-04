@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man is more cheated than the selfish man.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.&quot;</em> <br>
+— Steve Jobs
