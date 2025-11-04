@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless you're ashamed of yourself now and then, you're not honest.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Work for something because it is good, not just because it stands a chance to succeed.&quot;</em> <br>
+— Vaclav Havel
