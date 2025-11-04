@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loyalty and friendship are the most precious possessions a man can have.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;A life without a cause is a life without effect.&quot;</em> <br>
+— Paulo Coelho
