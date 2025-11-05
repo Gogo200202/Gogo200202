@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&quot;</em> <br>
+— Bhagavad Gita
