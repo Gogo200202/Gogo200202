@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To get angry is like to revenge yourself for the guilt of others.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;Believe you can and you're halfway there.&quot;</em> <br>
+— Theodore Roosevelt
