@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who permits himself to tell a lie once, finds it much easier to do it the second time.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.&quot;</em> <br>
+— Pema Chodron
