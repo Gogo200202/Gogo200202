@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not all those who wander are lost.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Wisdom is doing now what you are going to be happy with later on.&quot;</em> <br>
+— Joyce Meyer
