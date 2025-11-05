@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The highest level of wisdom is when you not only accept but love adversity.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&quot;</em> <br>
+— Gilbert Chesterton
