@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;A heart is not judged by how much you love, but by how much you are loved by others.&quot;</em> <br>
+— Judy Garland
