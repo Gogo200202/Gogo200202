@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;If you put water into a cup, it becomes the cup.&quot;</em> <br>
+— Bruce Lee
