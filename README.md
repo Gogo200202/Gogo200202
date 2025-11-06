@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you put water into a cup, it becomes the cup.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;You're braver than you believe, and stronger than you seem, and smarter than you think.&quot;</em> <br>
+— A.A. Milne
