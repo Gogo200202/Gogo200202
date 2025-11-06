@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your goals are the road maps that guide you and show you what is possible for your life.&quot;</em> <br>
-— Les Brown
+<em>&quot;Comedy = tragedy + time.&quot;</em> <br>
+— Carol Burnett
