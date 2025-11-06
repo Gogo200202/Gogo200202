@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do the work you get rewarded. There are no shortcuts in life.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Happiness is an effect of doing what you love, not an end goal to be achieved.&quot;</em> <br>
+— Celestine Chua
