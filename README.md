@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have no methods; all I do is accept people as they are.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;A Quitter never wins - and - a Winner never quits.&quot;</em> <br>
+— Napoleon Hill
