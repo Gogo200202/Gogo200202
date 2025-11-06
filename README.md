@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're braver than you believe, and stronger than you seem, and smarter than you think.&quot;</em> <br>
-— A.A. Milne
+<em>&quot;If you do the work you get rewarded. There are no shortcuts in life.&quot;</em> <br>
+— Michael Jordan
