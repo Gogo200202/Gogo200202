@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men are equal; it is not birth but virtue that makes the difference.&quot;</em> <br>
-— Voltaire
+<em>&quot;Your goals are the road maps that guide you and show you what is possible for your life.&quot;</em> <br>
+— Les Brown
