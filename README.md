@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Comedy = tragedy + time.&quot;</em> <br>
-— Carol Burnett
+<em>&quot;I want the fishing rod, not the fish.&quot;</em> <br>
+— Yanni
