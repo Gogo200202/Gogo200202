@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Begin now to be what you will be hereafter.&quot;</em> <br>
-— St. Jerome
+<em>&quot;Change is hardest at the beginning, messiest in the middle and best at the end.&quot;</em> <br>
+— Robin Sharma
