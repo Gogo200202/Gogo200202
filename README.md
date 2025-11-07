@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Self-control is strength.&quot;</em> <br>
-— James Allen
+<em>&quot;Fools read fast. Geniuses reread.&quot;</em> <br>
+— Maxime Lagace
