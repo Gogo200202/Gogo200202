@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Expect the best, plan for the worst, and prepare to be surprised. &quot;</em> <br>
-— Denis Waitley
+<em>&quot;If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.&quot;</em> <br>
+— Ming-Dao Deng
