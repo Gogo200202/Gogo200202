@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fools read fast. Geniuses reread.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Maybe you are searching among the branches, for what only appears in the roots.&quot;</em> <br>
+— Rumi
