@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To seek is to suffer. To seek nothing is bliss.&quot;</em> <br>
-— Bodhidharma
+<em>&quot;When one does not have what one wants, one must want what one has.&quot;</em> <br>
+— Sigmund Freud
