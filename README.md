@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way out is through.&quot;</em> <br>
-— Robert Frost
+<em>&quot;Knowing your own darkness is the best method for dealing with the darknesses of other people.&quot;</em> <br>
+— Carl Jung
