@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to achieve greatness stop asking for permission.&quot;</em> <br>
-— Unknown
+<em>&quot;When you've got nothing, you've got nothing to lose.&quot;</em> <br>
+— Bob Dylan
