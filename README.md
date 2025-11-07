@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you've got nothing, you've got nothing to lose.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;He who cannot be a good follower cannot be a good leader.&quot;</em> <br>
+— Aristotle
