@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who cannot be a good follower cannot be a good leader.&quot;</em> <br>
-— Aristotle
+<em>&quot;Expect the best, plan for the worst, and prepare to be surprised. &quot;</em> <br>
+— Denis Waitley
