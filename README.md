@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To affect the quality of the day, that is the highest of arts.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Some people find fault like there is a reward for it.  &quot;</em> <br>
+— Zig Ziglar
