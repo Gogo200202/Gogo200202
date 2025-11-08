@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man who cannot tolerate small misfortunes can never accomplish great things.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;To affect the quality of the day, that is the highest of arts.&quot;</em> <br>
+— Henry David Thoreau
