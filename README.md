@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your chances of success in any undertaking can always be measured by your belief in yourself.&quot;</em> <br>
-— Robert Collier
+<em>&quot;The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.&quot;</em> <br>
+— Marcus Aurelius
