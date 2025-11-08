@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When one does not have what one wants, one must want what one has.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;For things to change, you have to change.&quot;</em> <br>
+— Jim Rohn
