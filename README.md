@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Logic is like the sword - those who appeal to it shall perish by it.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.&quot;</em> <br>
+— Deepak Chopra
