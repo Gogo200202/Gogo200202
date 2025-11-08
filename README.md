@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;When you reach the top of the mountain, keep climbing. &quot;</em> <br>
+— Zen Proverb
