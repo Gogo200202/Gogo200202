@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Being a good example is the best form of service.&quot;</em> <br>
+— Sathya Sai Baba
