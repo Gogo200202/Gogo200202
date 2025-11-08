@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you reach the top of the mountain, keep climbing. &quot;</em> <br>
-— Zen Proverb
+<em>&quot;Be - don't try to become &quot;</em> <br>
+— Osho
