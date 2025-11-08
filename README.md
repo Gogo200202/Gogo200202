@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be - don't try to become &quot;</em> <br>
-— Osho
+<em>&quot;You are the average of the five people you spend most time with.&quot;</em> <br>
+— Jim Rohn
