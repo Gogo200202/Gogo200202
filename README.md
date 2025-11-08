@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some people find fault like there is a reward for it.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;We don't stop playing because we grow old; we grow old because we stop playing.&quot;</em> <br>
+— George Bernard Shaw
