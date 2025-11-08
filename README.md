@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For the things we have to learn before we can do them, we learn by doing them.&quot;</em> <br>
-— Aristotle
+<em>&quot;Your chances of success in any undertaking can always be measured by your belief in yourself.&quot;</em> <br>
+— Robert Collier
