@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For things to change, you have to change.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Logic is like the sword - those who appeal to it shall perish by it.&quot;</em> <br>
+— Samuel Butler
