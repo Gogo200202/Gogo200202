@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&quot;</em> <br>
-— Dogen
+<em>&quot;A man who cannot tolerate small misfortunes can never accomplish great things.&quot;</em> <br>
+— Chinese Proverb
