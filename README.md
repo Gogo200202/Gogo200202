@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We don't stop playing because we grow old; we grow old because we stop playing.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;For the things we have to learn before we can do them, we learn by doing them.&quot;</em> <br>
+— Aristotle
