@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not follow the ideas of others, but learn to listen to the voice within yourself.&quot;</em> <br>
-— Dogen
+<em>&quot;Superstars think like superstars long before the fans or the press anoint them.&quot;</em> <br>
+— John Eliot
