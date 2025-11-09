@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is too important to be taken seriously.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Just do what must be done. This may not be happiness but it is greatness.&quot;</em> <br>
+— George Bernard Shaw
