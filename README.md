@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you've made a mistake, it's better just to laugh at it.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Life belongs to the living, and he who lives must be prepared for changes.&quot;</em> <br>
+— Johann Wolfgang von Goethe
