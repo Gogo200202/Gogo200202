@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Superstars think like superstars long before the fans or the press anoint them.&quot;</em> <br>
-— John Eliot
+<em>&quot;The desire for more positive experience is itself a negative experience.&quot;</em> <br>
+— Mark Manson
