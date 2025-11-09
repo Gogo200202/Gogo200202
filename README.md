@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&quot;</em> <br>
+— Nicolas Chamfort
