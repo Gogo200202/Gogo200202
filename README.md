@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be polite to all, but intimate with few.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Freedom from desire leads to inner peace.&quot;</em> <br>
+— Lao Tzu
