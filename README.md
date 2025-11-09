@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Rest in reason; move in passion.&quot;</em> <br>
+— Kahlil Gibran
