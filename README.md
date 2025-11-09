@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People don't care how much you know until they know how much you care.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
+— Vince Lombardi
