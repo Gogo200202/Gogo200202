@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just do what must be done. This may not be happiness but it is greatness.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;If you've made a mistake, it's better just to laugh at it.&quot;</em> <br>
+— Zen Proverb
