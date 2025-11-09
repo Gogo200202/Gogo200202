@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom from desire leads to inner peace.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.&quot;</em> <br>
+— Zen Proverb
