@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man with outward courage dares to die: a man with inner courage dares to live.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.&quot;</em> <br>
+— W. Clement Stone
