@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do every act of your life as if it were your last.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;As you think, you travel, and as you love, you attract.&quot;</em> <br>
+— James Allen
