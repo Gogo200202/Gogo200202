@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As you think, you travel, and as you love, you attract.&quot;</em> <br>
-— James Allen
+<em>&quot;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&quot;</em> <br>
+— Henry Ward Beecher
