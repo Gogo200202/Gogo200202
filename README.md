@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never allow someone to be your priority while allowing yourself to be their option.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Every moment is a fresh beginning.&quot;</em> <br>
+— T.S. Eliot
