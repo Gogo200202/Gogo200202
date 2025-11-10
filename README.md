@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
+— Heraclitus
