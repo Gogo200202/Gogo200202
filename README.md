@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who knows how to wait need make no concessions.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Do every act of your life as if it were your last.&quot;</em> <br>
+— Marcus Aurelius
