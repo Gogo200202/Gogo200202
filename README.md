@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Courage is knowing what not to fear.&quot;</em> <br>
+— Plato
