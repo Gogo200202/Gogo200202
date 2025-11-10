@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What the eye doesn't see and the mind doesn't know, doesn't exist.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Little by little, one travels far.&quot;</em> <br>
+— J.R.R. Tolkien
