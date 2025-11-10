@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Paths are made by walking.&quot;</em> <br>
-— Franz Kafka
+<em>&quot;He who knows how to wait need make no concessions.&quot;</em> <br>
+— Sigmund Freud
