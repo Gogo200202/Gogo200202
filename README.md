@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is knowing what not to fear.&quot;</em> <br>
-— Plato
+<em>&quot;Never allow someone to be your priority while allowing yourself to be their option.&quot;</em> <br>
+— Mark Twain
