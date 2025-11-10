@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
-— Heraclitus
+<em>&quot;What the eye doesn't see and the mind doesn't know, doesn't exist.&quot;</em> <br>
+— D. H. Lawrence
