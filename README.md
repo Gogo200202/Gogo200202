@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words are clothes that thoughts wear&quot;</em> <br>
-— Samuel Butler
+<em>&quot;Take into account that great love and great achievements involve great risk.&quot;</em> <br>
+— Dalai Lama
