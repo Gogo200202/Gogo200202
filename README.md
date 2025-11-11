@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more you know, the more you know you don't know.&quot;</em> <br>
-— Aristotle
+<em>&quot;With the new day comes new strength and new thoughts.&quot;</em> <br>
+— Eleanor Roosevelt
