@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Little by little, one travels far.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Words are clothes that thoughts wear&quot;</em> <br>
+— Samuel Butler
