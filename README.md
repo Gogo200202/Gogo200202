@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.&quot;</em> <br>
-— Wayne Dyer
+<em>&quot;You can do nothing to change the past, and the future will never come exactly as you plan or hope for.&quot;</em> <br>
+— Dan Millman
