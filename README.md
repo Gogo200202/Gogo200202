@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winners never quit and quitters never win.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;A crisis is an opportunity riding the dangerous wind.&quot;</em> <br>
+— Chinese Proverb
