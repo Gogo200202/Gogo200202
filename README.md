@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take into account that great love and great achievements involve great risk.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Winners never quit and quitters never win.&quot;</em> <br>
+— Vince Lombardi
