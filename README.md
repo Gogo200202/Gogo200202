@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A crisis is an opportunity riding the dangerous wind.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.&quot;</em> <br>
+— Og Mandino
