@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.&quot;</em> <br>
-— Og Mandino
+<em>&quot;When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.&quot;</em> <br>
+— Josh Waitzkin
