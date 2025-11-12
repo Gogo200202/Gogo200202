@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When I let go of what I am, I become what I might be.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;That some achieve great success is proof to all that others can achieve it as well.&quot;</em> <br>
+— Abraham Lincoln
