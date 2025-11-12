@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do what you feel in your heart to be right - for you'll be criticized anyway.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;It is your attitude, not your aptitude, that determines your altitude.&quot;</em> <br>
+— Zig Ziglar
