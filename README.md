@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is nothing more than a few simple disciplines practiced every day.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Public opinion is the worst of all opinions.&quot;</em> <br>
+— Nicolas Chamfort
