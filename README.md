@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you try to micromanage yourself all you're going to do is make yourself miserable.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Question everything. Learn something. Answer nothing.&quot;</em> <br>
+— Euripides
