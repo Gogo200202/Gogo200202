@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Focused, hard work is the real key to success.&quot;</em> <br>
-— John Carmack
+<em>&quot;Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. &quot;</em> <br>
+— Martin Luther
