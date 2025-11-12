@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Public opinion is the worst of all opinions.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
+— Huang Po
