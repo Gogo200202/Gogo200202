@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just throw away all thoughts of imaginary things, and stand firm in that which you are.&quot;</em> <br>
-— Kabir
+<em>&quot;You miss 100% of the shots you don't take.&quot;</em> <br>
+— Wayne Gretzky
