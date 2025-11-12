@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You miss 100% of the shots you don't take.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Do what you feel in your heart to be right - for you'll be criticized anyway.&quot;</em> <br>
+— Eleanor Roosevelt
