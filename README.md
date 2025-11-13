@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change your thoughts and you change your world.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.&quot;</em> <br>
+— Zig Ziglar
