@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope means hoping when everything seems hopeless.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&quot;</em> <br>
+— Pema Chodron
