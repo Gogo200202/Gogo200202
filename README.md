@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of success lies not in doing your own work, but in recognizing the right man to do it.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Don't settle, and don't struggle.&quot;</em> <br>
+— Naval Ravikant
