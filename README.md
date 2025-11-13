@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
+<em>&quot;We run to win, not just to be in the race.  &quot;</em> <br>
 — Vince Lombardi
