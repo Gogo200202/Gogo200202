@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never put off to tomorrow what you can do to-day.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;The secret of success lies not in doing your own work, but in recognizing the right man to do it.&quot;</em> <br>
+— Andrew Carnegie
