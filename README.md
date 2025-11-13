@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To create more positive results in your life, replace 'if only' with 'next time'.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;They who have conquered doubt and fear have conquered failure.&quot;</em> <br>
+— James Allen
