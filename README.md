@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't settle, and don't struggle.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Mind is the creator of everything. You should therefore guide it to create only good.&quot;</em> <br>
+— Paramahansa Yogananda
