@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;They who have conquered doubt and fear have conquered failure.&quot;</em> <br>
-— James Allen
+<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
+— Vince Lombardi
