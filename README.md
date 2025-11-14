@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What's right is what's left if you do everything else wrong.&quot;</em> <br>
-— Robin Williams
+<em>&quot;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&quot;</em> <br>
+— Arnold Schwarzenegger
