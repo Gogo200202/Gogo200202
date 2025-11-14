@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throw your heart over the bar and your body will follow.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;What's right is what's left if you do everything else wrong.&quot;</em> <br>
+— Robin Williams
