@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&quot;</em> <br>
+— William Faulkner
