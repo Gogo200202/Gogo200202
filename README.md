@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Insanity is relative. It depends on who has who locked in what cage.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Words used to attract the dull of wit are not to be relied on.&quot;</em> <br>
+— Huang Po
