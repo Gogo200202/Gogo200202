@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Each day your life grows a day shorter. Make every move count.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;From a certain point onward there is no longer any turning back. That is the point that must be reached.&quot;</em> <br>
+— Franz Kafka
