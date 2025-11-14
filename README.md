@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throw your heart over the fence and the rest will follow&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;The best way to understanding is a few good examples.&quot;</em> <br>
+— Isaac Newton
