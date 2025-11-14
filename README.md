@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.&quot;</em> <br>
+— Carl Jung
