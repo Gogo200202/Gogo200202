@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Throw your heart over the fence and the rest will follow&quot;</em> <br>
+— Norman Vincent Peale
