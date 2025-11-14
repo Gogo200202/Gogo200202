@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't spend major time on minor things.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Each day your life grows a day shorter. Make every move count.&quot;</em> <br>
+— Ming-Dao Deng
