@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Successful people are not without problems. They're simply people who've learned to solve their problems.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Each day provides it's own gifts.&quot;</em> <br>
+— Marcus Aurelius
