@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words used to attract the dull of wit are not to be relied on.&quot;</em> <br>
-— Huang Po
+<em>&quot;Don't spend major time on minor things.&quot;</em> <br>
+— Jim Rohn
