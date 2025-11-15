@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All animals except man know that the principal business of life is to enjoy it.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;The single biggest problem in communication is the illusion that it has taken place.&quot;</em> <br>
+— George Bernard Shaw
