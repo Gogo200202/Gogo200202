@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The single biggest problem in communication is the illusion that it has taken place.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Be like a postage stamp. Stick to it until you get there.&quot;</em> <br>
+— Bob Proctor
