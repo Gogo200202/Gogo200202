@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Failure is a prerequisite for great success. If you want success faster, double your rate of failure.&quot;</em> <br>
+— Brian Tracy
