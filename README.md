@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to achieve greatness stop asking for permission.&quot;</em> <br>
-— Unknown
+<em>&quot;Better the cottage where one is merry than the palace where one weeps.&quot;</em> <br>
+— Chinese Proverb
