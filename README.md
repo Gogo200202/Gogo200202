@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better the cottage where one is merry than the palace where one weeps.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;A mountain never yields to the wind no matter how strong it is.&quot;</em> <br>
+— Zen Proverb
