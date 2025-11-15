@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is a prerequisite for great success. If you want success faster, double your rate of failure.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.&quot;</em> <br>
+— Marcus Aurelius
