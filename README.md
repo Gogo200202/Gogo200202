@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;We can see through others only when we can see through ourselves.&quot;</em> <br>
+— Bruce Lee
