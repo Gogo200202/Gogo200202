@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can see through others only when we can see through ourselves.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;Circumstances do not make the man, they reveal him.&quot;</em> <br>
+— James Allen
