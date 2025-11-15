@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A mountain never yields to the wind no matter how strong it is.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;The mind is the limit.&quot;</em> <br>
+— Arnold Schwarzenegger
