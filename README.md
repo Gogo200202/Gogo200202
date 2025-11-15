@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Circumstances do not make the man, they reveal him.&quot;</em> <br>
-— James Allen
+<em>&quot;All animals except man know that the principal business of life is to enjoy it.&quot;</em> <br>
+— Samuel Butler
