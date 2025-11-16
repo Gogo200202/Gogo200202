@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can change our lives. We can do, have, and be exactly what we wish.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The great use of life is to spend it for something that will outlast it.&quot;</em> <br>
+— William James
