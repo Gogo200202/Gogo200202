@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I can stop one heart from breaking, I shall not live in vain.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;We can change our lives. We can do, have, and be exactly what we wish.&quot;</em> <br>
+— Tony Robbins
