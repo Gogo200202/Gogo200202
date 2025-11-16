@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The great use of life is to spend it for something that will outlast it.&quot;</em> <br>
-— William James
+<em>&quot;All religions, arts and sciences are branches of the same tree. &quot;</em> <br>
+— Albert Einstein
