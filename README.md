@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;We create the world and ourselves;&quot;</em> <br>
+— Ming-Dao Deng
