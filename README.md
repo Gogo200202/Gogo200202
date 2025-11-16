@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A warrior does not give up what he loves, he finds the love in what he does.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.&quot;</em> <br>
+— Earl Nightingale
