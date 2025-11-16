@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Never let the fear of striking out keep you from playing the game.&quot;</em> <br>
+— Babe Ruth
