@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All religions, arts and sciences are branches of the same tree. &quot;</em> <br>
-— Albert Einstein
+<em>&quot;Do not look for approval except for the consciousness of doing your best.&quot;</em> <br>
+— Andrew Carnegie
