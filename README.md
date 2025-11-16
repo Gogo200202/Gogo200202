@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No matter how tall the mountain is, it cannot block the sun.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.&quot;</em> <br>
+— Morihei Ueshiba
