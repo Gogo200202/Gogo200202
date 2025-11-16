@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The time is now, the place is here. Stay in the present.&quot;</em> <br>
-— Dan Millman
+<em>&quot;If I can stop one heart from breaking, I shall not live in vain.&quot;</em> <br>
+— Emily Dickinson
