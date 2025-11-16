@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;New beginnings are disguised as painful endings.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&quot;</em> <br>
+— Oprah Winfrey
