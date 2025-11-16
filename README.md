@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;A man with outward courage dares to die: a man with inner courage dares to live.&quot;</em> <br>
+— Lao Tzu
