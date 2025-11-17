@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep your face to the sunshine and you cannot see the shadows.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Take into account that great love and great achievements involve great risk.&quot;</em> <br>
+— Dalai Lama
