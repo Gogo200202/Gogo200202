@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is the worst thing about the present.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;Nothing can dim the light which shines from within.&quot;</em> <br>
+— Maya Angelou
