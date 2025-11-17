@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing can dim the light which shines from within.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Keep your face to the sunshine and you cannot see the shadows.&quot;</em> <br>
+— Helen Keller
