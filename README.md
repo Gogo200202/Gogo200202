@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can't help everyone, but everyone can help someone.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;Truth is not something outside to be discovered, it is something inside to be realized.&quot;</em> <br>
+— Osho
