@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be happy now, without reason - or you never will be at all.&quot;</em> <br>
-— Dan Millman
+<em>&quot;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &quot;</em> <br>
+— Wayne Dyer
