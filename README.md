@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never let the fear of striking out keep you from playing the game.&quot;</em> <br>
-— Babe Ruth
+<em>&quot;Sometimes you have to travel a long way to find what is near.&quot;</em> <br>
+— Paulo Coelho
