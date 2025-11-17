@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Truth is not something outside to be discovered, it is something inside to be realized.&quot;</em> <br>
-— Osho
+<em>&quot;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&quot;</em> <br>
+— Mark Manson
