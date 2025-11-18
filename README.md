@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't bother people for help without first trying to solve the problem yourself.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.&quot;</em> <br>
+— Norman Vincent Peale
