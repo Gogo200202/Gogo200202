@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&quot;</em> <br>
-— William Faulkner
+<em>&quot;The highest level of wisdom is when you not only accept but love adversity.&quot;</em> <br>
+— Maxime Lagace
