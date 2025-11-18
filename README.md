@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;Stay away from people who makes you feel like you are wasting their time.&quot;</em> <br>
+— Paulo Coelho
