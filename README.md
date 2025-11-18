@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let the beauty of what you love be what you do.&quot;</em> <br>
-— Rumi
+<em>&quot;Definiteness of purpose is the starting point of all achievement. &quot;</em> <br>
+— W. Clement Stone
