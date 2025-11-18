@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
-— Aristophanes
+<em>&quot;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&quot;</em> <br>
+— Denis Waitley
