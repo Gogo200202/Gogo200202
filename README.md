@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stay away from people who makes you feel like you are wasting their time.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&quot;</em> <br>
+— Rumi
