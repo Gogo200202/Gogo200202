@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&quot;</em> <br>
-— Rumi
+<em>&quot;The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.&quot;</em> <br>
+— Jim Rohn
