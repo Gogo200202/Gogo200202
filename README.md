@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who cannot change their minds cannot change anything.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.&quot;</em> <br>
+— Richard Bach
