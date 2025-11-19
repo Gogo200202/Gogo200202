@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.&quot;</em> <br>
-— Woody Allen
+<em>&quot;The biggest challenge after success is shutting up about it.&quot;</em> <br>
+— Criss Jami
