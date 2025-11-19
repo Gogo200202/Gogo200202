@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Who looks outside, dreams; who looks inside, awakes.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.&quot;</em> <br>
+— G.I. Gurdjieff
