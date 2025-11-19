@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can tell more about a person by what he says about others than you can by what others say about him.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;Never take your position for granted and never let any favors you receive go to your head.&quot;</em> <br>
+— Robert Greene
