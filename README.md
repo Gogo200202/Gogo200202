@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;You can tell more about a person by what he says about others than you can by what others say about him.&quot;</em> <br>
+— Audrey Hepburn
