@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.&quot;</em> <br>
-— G.I. Gurdjieff
+<em>&quot;There is nothing quite so tragic as a young cynic.&quot;</em> <br>
+— Maya Angelou
