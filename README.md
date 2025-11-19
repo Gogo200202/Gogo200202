@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is nothing quite so tragic as a young cynic.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;The more reasons you have for achieving your goal, the more determined you will become.&quot;</em> <br>
+— Brian Tracy
