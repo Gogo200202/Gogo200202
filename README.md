@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never take your position for granted and never let any favors you receive go to your head.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.&quot;</em> <br>
+— Woody Allen
