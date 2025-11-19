@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.&quot;</em> <br>
+— Ralph Marston
