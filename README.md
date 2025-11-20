@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;20 percent of your activities will account for 80 percent of your results.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Never confuse a single defeat with a final defeat.&quot;</em> <br>
+— F. Scott Fitzgerald
