@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man who dares to waste one hour of time has not discovered the value of life.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;If you do not conquer self, you will be conquered by self.&quot;</em> <br>
+— Napoleon Hill
