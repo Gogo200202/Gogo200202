@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.&quot;</em> <br>
-— Elon Musk
+<em>&quot;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&quot;</em> <br>
+— Naval Ravikant
