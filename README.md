@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never confuse a single defeat with a final defeat.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Character is doing what you don't want to do but know you should do.&quot;</em> <br>
+— Joyce Meyer
