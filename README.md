@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality, not the longevity, of one's life is what is important.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.&quot;</em> <br>
+— Steve Harvey
