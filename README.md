@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you truly expect something to be difficult, it will be.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;Life must be a constant education; one must learn everything, from speaking to dying.&quot;</em> <br>
+— Gustave Flaubert
