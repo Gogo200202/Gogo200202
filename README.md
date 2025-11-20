@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For your life to be great, your faith must be bigger than your fear.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;A man who dares to waste one hour of time has not discovered the value of life.&quot;</em> <br>
+— Charles Darwin
