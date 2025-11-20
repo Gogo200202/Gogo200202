@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you correct your mind, the rest of your life will fall into place.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;If you truly expect something to be difficult, it will be.&quot;</em> <br>
+— Peter A. Cohen
