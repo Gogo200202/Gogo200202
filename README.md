@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;If you correct your mind, the rest of your life will fall into place.&quot;</em> <br>
+— Lao Tzu
