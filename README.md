@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Lying can never save us from another lie.&quot;</em> <br>
+— Vaclav Havel
