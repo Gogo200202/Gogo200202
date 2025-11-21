@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Find your Light; They can't love you if they can't see you.&quot;</em> <br>
+— Bette Midler
