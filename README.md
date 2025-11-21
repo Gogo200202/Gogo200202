@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Find your Light; They can't love you if they can't see you.&quot;</em> <br>
-— Bette Midler
+<em>&quot;Do not fight with pigs - you will be smeared in mud but the pig will like it.&quot;</em> <br>
+— George Bernard Shaw
