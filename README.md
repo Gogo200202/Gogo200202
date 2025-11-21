@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;An intelligence test sometimes shows a man how smart he would have been not to have taken it.&quot;</em> <br>
+— Laurence J. Peter
