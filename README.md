@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
+<em>&quot;Happiness is not something ready made. It comes from your own actions.&quot;</em> <br>
 — Dalai Lama
