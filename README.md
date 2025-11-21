@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Turn your wounds into wisdom. &quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
+— Dalai Lama
