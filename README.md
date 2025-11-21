@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't earn loyalty in a day. You earn loyalty day-by-day.&quot;</em> <br>
-— Jeffrey Gitomer
+<em>&quot;Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.&quot;</em> <br>
+— Robert Kiyosaki
