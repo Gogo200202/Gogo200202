@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Lying can never save us from another lie.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Be willing to be a beginner every single morning.&quot;</em> <br>
+— Meister Eckhart
