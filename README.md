@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be willing to be a beginner every single morning.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.&quot;</em> <br>
+— Lily Tomlin
