@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is not something ready made. It comes from your own actions.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;It is useless to meet revenge with revenge; it will heal nothing.&quot;</em> <br>
+— J.R.R. Tolkien
