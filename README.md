@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An intelligence test sometimes shows a man how smart he would have been not to have taken it.&quot;</em> <br>
-— Laurence J. Peter
+<em>&quot;You don't earn loyalty in a day. You earn loyalty day-by-day.&quot;</em> <br>
+— Jeffrey Gitomer
