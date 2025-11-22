@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&quot;</em> <br>
+— Yanni
