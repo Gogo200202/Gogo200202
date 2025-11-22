@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The soul should always stand ajar, ready to welcome the ecstatic experience.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;The wisest men follow their own direction.&quot;</em> <br>
+— Euripides
