@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Truth is like the sun. You can shut it out for a time, but it ain't going away.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;Be where your enemy is not.&quot;</em> <br>
+— Sun Tzu
