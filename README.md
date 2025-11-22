@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&quot;</em> <br>
-— Yanni
+<em>&quot;Truth is like the sun. You can shut it out for a time, but it ain't going away.&quot;</em> <br>
+— Elvis Presley
