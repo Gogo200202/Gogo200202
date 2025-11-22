@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Animals don't hate, and we're supposed to be better than them.&quot;</em> <br>
+— Elvis Presley
