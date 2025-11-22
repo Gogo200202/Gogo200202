@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't let your failures define you. You have to let your failures teach you.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Keep your friends close, and your enemies closer.&quot;</em> <br>
+— Sun Tzu
