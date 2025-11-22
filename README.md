@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you are, be a good one.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Live in the sunshine, swim the sea, drink the wild air.&quot;</em> <br>
+— Ralph Waldo Emerson
