@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live in the sunshine, swim the sea, drink the wild air.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
+— Richard Bach
