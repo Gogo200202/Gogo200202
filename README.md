@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you spend too much time thinking about a thing, you'll never get it done. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&quot;</em> <br>
+— Eleanor Roosevelt
