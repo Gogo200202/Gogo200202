@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wisest men follow their own direction.&quot;</em> <br>
-— Euripides
+<em>&quot;The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. &quot;</em> <br>
+— St. Jerome
