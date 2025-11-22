@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep your friends close, and your enemies closer.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;If you spend too much time thinking about a thing, you'll never get it done. &quot;</em> <br>
+— Bruce Lee
