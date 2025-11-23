@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
+<em>&quot;Actions are the seeds of fate. Deeds grow into destiny.&quot;</em> <br>
 — Harry S. Truman
