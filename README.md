@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
+— Harry S. Truman
