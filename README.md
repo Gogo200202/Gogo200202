@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can have results or excuses, but not both.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
+— Mark Manson
