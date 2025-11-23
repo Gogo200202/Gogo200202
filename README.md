@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To achieve, you need thought. You have to know what you are doing and that's real power.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Admire as much as you can. Most people do not admire enough.&quot;</em> <br>
+— Vincent van Gogh
