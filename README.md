@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&quot;</em> <br>
+— Thomas Jefferson
