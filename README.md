@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;A leader is one who knows the way, goes the way, and shows the way.&quot;</em> <br>
+— Unknown
