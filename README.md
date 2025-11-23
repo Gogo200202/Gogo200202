@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
-— Mark Manson
+<em>&quot;To achieve, you need thought. You have to know what you are doing and that's real power.&quot;</em> <br>
+— Ayn Rand
