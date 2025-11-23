@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I skate to where the puck is going to be, not where it has been.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;You can have results or excuses, but not both.&quot;</em> <br>
+— Arnold Schwarzenegger
