@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Forget safety. Live where you fear to live.&quot;</em> <br>
+— Rumi
