@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have lived with several Zen masters -- all of them cats.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;True prayer has no set form.&quot;</em> <br>
+— Morihei Ueshiba
