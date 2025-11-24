@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;From a certain point onward there is no longer any turning back. That is the point that must be reached.&quot;</em> <br>
-— Franz Kafka
+<em>&quot;I have lived with several Zen masters -- all of them cats.&quot;</em> <br>
+— Eckhart Tolle
