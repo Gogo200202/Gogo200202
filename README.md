@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Supreme excellence consists of breaking the enemy's resistance without fighting.&quot;</em> <br>
+— Sun Tzu
