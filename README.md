@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Heroes don't need to talk about what they did.&quot;</em> <br>
-— W.P. Kinsella
+<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
+— Oprah Winfrey
