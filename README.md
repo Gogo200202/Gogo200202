@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Evil is whatever distracts. &quot;</em> <br>
+— Franz Kafka
