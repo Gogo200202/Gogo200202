@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
-— Woody Allen
+<em>&quot;Heroes don't need to talk about what they did.&quot;</em> <br>
+— W.P. Kinsella
