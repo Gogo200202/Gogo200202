@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every hour of every day is an unspeakably perfect miracle.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
+— Woody Allen
