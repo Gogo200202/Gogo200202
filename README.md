@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't have time to do it right, when will you have time to do it over?&quot;</em> <br>
-— John Wooden
+<em>&quot;Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.&quot;</em> <br>
+— Brian Tracy
