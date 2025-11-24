@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's very strange that the people you love are often the people you're most cruel to.&quot;</em> <br>
-— Kenneth Branagh
+<em>&quot;The less you talk about your shame, the more of it you have.&quot;</em> <br>
+— Mark Manson
