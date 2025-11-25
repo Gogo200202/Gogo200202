@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you talk about your shame, the more of it you have.&quot;</em> <br>
-— Mark Manson
+<em>&quot;To be of use to the world is the only way to be happy.&quot;</em> <br>
+— Hans Christian Andersen
