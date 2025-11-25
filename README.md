@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe in your infinite potential. Your only limitations are those you set upon yourself.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Each of us is a unique strand in the intricate web of life and here to make a contribution.&quot;</em> <br>
+— Deepak Chopra
