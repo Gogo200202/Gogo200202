@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.&quot;</em> <br>
+<em>&quot;Not everything that weighs you down is yours to carry.&quot;</em> <br>
 — Unknown
