@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life has the name of life, but in reality it is death.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Change happens when the pain of holding on becomes greater than the fear of letting go.&quot;</em> <br>
+— Spencer Johnson
