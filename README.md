@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The giving of love is an education in itself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;To know even one life has breathed easier because you have lived. This is to have succeeded.&quot;</em> <br>
+— Ralph Waldo Emerson
