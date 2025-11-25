@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To know even one life has breathed easier because you have lived. This is to have succeeded.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;I am who I am today because of the choices I made yesterday.&quot;</em> <br>
+— Eleanor Roosevelt
