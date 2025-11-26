@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise man can learn more from a foolish question than a fool can learn from a wise answer.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
+— Seneca
