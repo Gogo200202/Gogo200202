@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.&quot;</em> <br>
-— Kabir
+<em>&quot;I was wise enough to never grow up while fooling most people into believing I had. &quot;</em> <br>
+— Margaret Mead
