@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be royal in your own fashion: act like a king to be treated like one.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Either get busy living or get busy dying.&quot;</em> <br>
+— Stephen King
