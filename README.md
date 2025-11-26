@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is like stepping onto a boat which is about to sail out to sea and sink.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;All power is from within and therefore under our control.&quot;</em> <br>
+— Robert Collier
