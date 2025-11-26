@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Life is like a beautiful melody, only the lyrics are messed up.&quot;</em> <br>
+— Hans Christian Andersen
