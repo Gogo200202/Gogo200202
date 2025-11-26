@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The world would go on even without you. Don't take yourself so seriously.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;The moment you stop to think about whether you love someone, you've already stopped loving that person forever.&quot;</em> <br>
+— Carlos Ruiz Zafon
