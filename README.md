@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All power is from within and therefore under our control.&quot;</em> <br>
-— Robert Collier
+<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
+— Robert F. Kennedy
