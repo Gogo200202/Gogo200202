@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;The world would go on even without you. Don't take yourself so seriously.&quot;</em> <br>
+— Norman Vincent Peale
