@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
-— Seneca
+<em>&quot;No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.&quot;</em> <br>
+— Wayne Gretzky
