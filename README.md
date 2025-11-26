@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We meet ourselves time and again in a thousand disguises on the path of life.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Be royal in your own fashion: act like a king to be treated like one.&quot;</em> <br>
+— Robert Greene
