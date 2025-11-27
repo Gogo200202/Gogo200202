@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absorb what is useful, discard what is useless and add what is specifically your own.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&quot;</em> <br>
+— Tony Robbins
