@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What we know is a drop, what we don't know is an ocean. &quot;</em> <br>
-— Isaac Newton
+<em>&quot;To perceive is to suffer.&quot;</em> <br>
+— Aristotle
