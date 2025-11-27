@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way of success is the way of continuous pursuit of knowledge.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;The wise man reads both books and life itself.&quot;</em> <br>
+— Lin Yutang
