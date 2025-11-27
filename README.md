@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Arise, slay thy enemies, enjoy a prosperous kingdom.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Trust is the foundation of great leadership.&quot;</em> <br>
+— Lolly Daskal
