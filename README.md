@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have never in my life learned anything from any man who agreed with me.&quot;</em> <br>
-— Dudley Field Malone
+<em>&quot;The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.&quot;</em> <br>
+— Eckhart Tolle
