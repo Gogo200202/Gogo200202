@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A person hears only what they understand.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;Arise, slay thy enemies, enjoy a prosperous kingdom.&quot;</em> <br>
+— Bhagavad Gita
