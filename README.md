@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust is the foundation of great leadership.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;I have never in my life learned anything from any man who agreed with me.&quot;</em> <br>
+— Dudley Field Malone
