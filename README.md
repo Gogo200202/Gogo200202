@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To perceive is to suffer.&quot;</em> <br>
-— Aristotle
+<em>&quot;The way of success is the way of continuous pursuit of knowledge.&quot;</em> <br>
+— Napoleon Hill
