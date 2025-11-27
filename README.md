@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I was wise enough to never grow up while fooling most people into believing I had. &quot;</em> <br>
-— Margaret Mead
+<em>&quot;Instead of worrying about what you cannot control, shift your energy to what you can create.&quot;</em> <br>
+— Roy T. Bennett
