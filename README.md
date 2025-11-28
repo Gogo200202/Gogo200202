@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wise man reads both books and life itself.&quot;</em> <br>
-— Lin Yutang
+<em>&quot;Man is made by his belief. As he believes, so he is.&quot;</em> <br>
+— Bhagavad Gita
