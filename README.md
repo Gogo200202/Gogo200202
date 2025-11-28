@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.&quot;</em> <br>
-— Epictetus
+<em>&quot;Only in the agony of parting do we look into the depths of love.&quot;</em> <br>
+— George Eliot
