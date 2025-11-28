@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You purchase pain with all that joy can give and die of nothing but a rage to live.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;The moment you doubt whether you can fly, you cease for ever to be able to do it.&quot;</em> <br>
+— James Matthew Barrie
