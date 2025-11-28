@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will succeed because most people are lazy.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.&quot;</em> <br>
+— Sathya Sai Baba
