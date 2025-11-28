@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A golden cage is still just a cage.&quot;</em> <br>
-— Anita Krizzan
+<em>&quot;Pursue what catches your heart, not what catches your eyes.&quot;</em> <br>
+— Roy T. Bennett
