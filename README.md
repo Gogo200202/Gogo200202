@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The fear of death is more to be feared, than death itself.&quot;</em> <br>
+— Publilius Syrus
