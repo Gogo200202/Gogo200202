@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Doing what you love is the cornerstone of having abundance in your life. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Art is to console those who are broken by life.&quot;</em> <br>
+— Vincent van Gogh
