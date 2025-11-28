@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let making a living prevent you from making a life.&quot;</em> <br>
-— John Wooden
+<em>&quot;You purchase pain with all that joy can give and die of nothing but a rage to live.&quot;</em> <br>
+— Alexander Pope
