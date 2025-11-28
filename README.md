@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pursue what catches your heart, not what catches your eyes.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Doing what you love is the cornerstone of having abundance in your life. &quot;</em> <br>
+— Wayne Dyer
