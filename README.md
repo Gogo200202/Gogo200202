@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The fear of death is more to be feared, than death itself.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Don't let making a living prevent you from making a life.&quot;</em> <br>
+— John Wooden
