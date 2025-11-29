@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Of all men's miseries the bitterest is this: to know so much and to have control over nothing. &quot;</em> <br>
-— Herodotus
+<em>&quot;Health is the greatest of all possessions.&quot;</em> <br>
+— Jonathan Swift
