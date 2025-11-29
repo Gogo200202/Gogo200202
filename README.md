@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way we feel is the direct result of what we think.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&quot;</em> <br>
+— James Cameron
