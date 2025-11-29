@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Associate with people who are likely to improve you.  &quot;</em> <br>
-— Seneca
+<em>&quot;Laziness may appear attractive, but work gives satisfaction.&quot;</em> <br>
+— Anne Frank
