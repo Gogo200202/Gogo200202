@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A lie can travel half way around the world while the truth is putting on its shoes.&quot;</em> <br>
-— Mark Twain
+<em>&quot;May you find grace as you surrender to life. May you find happiness, as you stop seeking it.&quot;</em> <br>
+— Dan Millman
