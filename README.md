@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never give way to laziness.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Associate with people who are likely to improve you.  &quot;</em> <br>
+— Seneca
