@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&quot;</em> <br>
-— James Cameron
+<em>&quot;Love your enemies, for they tell you your faults.&quot;</em> <br>
+— Benjamin Franklin
