@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;However difficult life may seem, there is always something you can do and succeed at.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;Never give way to laziness.&quot;</em> <br>
+— Bhagavad Gita
