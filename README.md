@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trying to define yourself is like trying to bite your own teeth.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
+— Maxime Lagace
