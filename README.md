@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Everyday you can take a tiny step in the right direction.&quot;</em> <br>
+— Unknown
