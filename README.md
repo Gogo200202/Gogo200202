@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing external to you has any power over you.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Being entirely honest with oneself is a good exercise.&quot;</em> <br>
+— Sigmund Freud
