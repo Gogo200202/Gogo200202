@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can do nothing to change the past, and the future will never come exactly as you plan or hope for.&quot;</em> <br>
-— Dan Millman
+<em>&quot;You may forget with whom you laughed, but you will never forget with whom you wept.  &quot;</em> <br>
+— Kahlil Gibran
