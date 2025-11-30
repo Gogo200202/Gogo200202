@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Distant water does not put out a nearby fire.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Nothing external to you has any power over you.&quot;</em> <br>
+— Ralph Waldo Emerson
