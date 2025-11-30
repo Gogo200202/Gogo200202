@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We live only now. Everything else is either passed or is unknown.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Do something worth remembering.&quot;</em> <br>
+— Elvis Presley
