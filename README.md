@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Leaders spend 5% of their time on the problem &amp; 95% of their time on the solution. Get over it &amp; crush it!&quot;</em> <br>
+<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
 — Tony Robbins
