@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love your enemies, for they tell you your faults.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;You can do nothing to change the past, and the future will never come exactly as you plan or hope for.&quot;</em> <br>
+— Dan Millman
