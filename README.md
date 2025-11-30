@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You drown not by falling into a river, but by staying submerged in it.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Trying to define yourself is like trying to bite your own teeth.&quot;</em> <br>
+— Zen Proverb
