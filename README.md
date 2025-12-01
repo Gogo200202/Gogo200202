@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.&quot;</em> <br>
+— D. H. Lawrence
