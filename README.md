@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To live outside the law, you must be honest. &quot;</em> <br>
-— Bob Dylan
+<em>&quot;Boldness makes even the smallest animal dangerous.&quot;</em> <br>
+— Robert Greene
