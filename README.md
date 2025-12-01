@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Realize deeply that the present moment is all you ever have. &quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Life is too important to be taken seriously.&quot;</em> <br>
+— Oscar Wilde
