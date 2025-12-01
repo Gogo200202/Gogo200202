@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is hopeless; we must hope for everything.&quot;</em> <br>
-— Euripides
+<em>&quot;Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  &quot;</em> <br>
+— Jack Kerouac
