@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being entirely honest with oneself is a good exercise.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Live as if you were to die tomorrow. Learn as if you were to live forever.&quot;</em> <br>
+— Mahatma Gandhi
