@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is too important to be taken seriously.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;I would rather be hated for who I am than loved for who I'm not.  &quot;</em> <br>
+— Wayne Dyer
