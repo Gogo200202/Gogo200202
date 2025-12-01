@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The friendship that can cease has never been real. &quot;</em> <br>
-— St. Jerome
+<em>&quot;If the plan doesn't work, change the plan, but never the goal.&quot;</em> <br>
+— Unknown
