@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  &quot;</em> <br>
-— Jack Kerouac
+<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
+— Richard Bach
