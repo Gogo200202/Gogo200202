@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live as if you were to die tomorrow. Learn as if you were to live forever.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;Manifest plainness, embrace simplicity, reduce selfishness, have few desires.&quot;</em> <br>
+— Lao Tzu
