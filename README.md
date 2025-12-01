@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tis not too late to seek a newer world.&quot;</em> <br>
-— Heraclitus
+<em>&quot;To live outside the law, you must be honest. &quot;</em> <br>
+— Bob Dylan
