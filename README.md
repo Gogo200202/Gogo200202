@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I would rather be hated for who I am than loved for who I'm not.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Nothing is hopeless; we must hope for everything.&quot;</em> <br>
+— Euripides
