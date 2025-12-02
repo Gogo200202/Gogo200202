@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If it's not broken, tinker with it till you find out how it works.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;Life is really simple, but men insist on making it complicated. &quot;</em> <br>
+— Confucius
