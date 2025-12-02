@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are the average of the five people you spend the most time with.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;One day, in retrospect, the years of struggle will strike you as the most beautiful.&quot;</em> <br>
+— Sigmund Freud
