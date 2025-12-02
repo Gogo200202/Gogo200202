@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we know how to adapt, we end up being superior.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.&quot;</em> <br>
+— Alexander Graham Bell
