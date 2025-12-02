@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If there's a definition of freedom, I think it's this: living life on your terms.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;If it's not broken, tinker with it till you find out how it works.&quot;</em> <br>
+— Bob Proctor
