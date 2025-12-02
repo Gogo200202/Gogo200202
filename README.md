@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where the willingness is great, the difficulties cannot be great.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;If there's a definition of freedom, I think it's this: living life on your terms.&quot;</em> <br>
+— Kamal Ravikant
