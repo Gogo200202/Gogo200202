@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is really simple, but men insist on making it complicated. &quot;</em> <br>
-— Confucius
+<em>&quot;You are the average of the five people you spend the most time with.&quot;</em> <br>
+— Jim Rohn
