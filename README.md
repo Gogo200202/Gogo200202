@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;Life should be touched, not strangled.  &quot;</em> <br>
+— Ray Bradbury
