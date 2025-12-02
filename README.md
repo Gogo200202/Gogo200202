@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;She who loves roses must be patient and not cry out when she is pierced by thorns.&quot;</em> <br>
-— Kenji Miyazawa
+<em>&quot;Work is always an antidote to depression.&quot;</em> <br>
+— Eleanor Roosevelt
