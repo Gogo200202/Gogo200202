@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life should be touched, not strangled.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;He who cannot be a good follower cannot be a good leader.&quot;</em> <br>
+— Aristotle
