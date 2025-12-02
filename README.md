@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. &quot;</em> <br>
-— Martin Luther
+<em>&quot;If we know how to adapt, we end up being superior.&quot;</em> <br>
+— Ming-Dao Deng
