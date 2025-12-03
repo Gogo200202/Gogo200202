@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;The wise speak only of what they know.&quot;</em> <br>
+— J.R.R. Tolkien
