@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some people want it to happen, some wish it would happen, others make it happen.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Decide upon your major definite purpose in life and then organize all your activities around it.&quot;</em> <br>
+— Brian Tracy
