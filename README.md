@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mind is the creator of everything. You should therefore guide it to create only good.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Some people want it to happen, some wish it would happen, others make it happen.&quot;</em> <br>
+— Michael Jordan
