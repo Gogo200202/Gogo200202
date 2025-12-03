@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Cease striving. Then there will be transformation.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.&quot;</em> <br>
+— James Allen
