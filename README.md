@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wise speak only of what they know.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Absence makes the heart grow fonder.&quot;</em> <br>
+— Eleanor Roosevelt
