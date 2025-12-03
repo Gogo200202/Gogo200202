@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absence makes the heart grow fonder.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;The fastest way to change is to laugh at your own folly.&quot;</em> <br>
+— Spencer Johnson
