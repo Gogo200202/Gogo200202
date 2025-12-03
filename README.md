@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Insanity is relative. It depends on who has who locked in what cage.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.&quot;</em> <br>
+— Jon Kabat-Zinn
