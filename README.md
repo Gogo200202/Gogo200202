@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Action may not always bring happiness, but there is no happiness without action.&quot;</em> <br>
-— William James
+<em>&quot;A journey of a thousand miles must begin with a single step.&quot;</em> <br>
+— Lao Tzu
