@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perpetual optimism is a force multiplier.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Making your mark on the world is hard. If it were easy, everybody would do it.&quot;</em> <br>
+— Barack Obama
