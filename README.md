@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&quot;</em> <br>
-— Walt Disney
+<em>&quot;Do not use life to give life to death. Do not use death to bring death to life.&quot;</em> <br>
+— Zhuangzi
