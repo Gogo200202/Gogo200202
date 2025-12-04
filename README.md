@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&quot;</em> <br>
+— Steve Harvey
