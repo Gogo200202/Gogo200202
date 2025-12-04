@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not the size of the dog in the fight, it's the size of the fight in the dog.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Perpetual optimism is a force multiplier.&quot;</em> <br>
+— Colin Powell
