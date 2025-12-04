@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can do nothing to change the past, and the future will never come exactly as you plan or hope for.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Action may not always bring happiness, but there is no happiness without action.&quot;</em> <br>
+— William James
