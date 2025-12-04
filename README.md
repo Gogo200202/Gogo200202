@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Making your mark on the world is hard. If it were easy, everybody would do it.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Lost Time is never found again.&quot;</em> <br>
+— Benjamin Franklin
