@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&quot;</em> <br>
+— Walt Disney
