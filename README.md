@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you think you can do a thing or think you can't do a thing, you're right.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Some of us learn from other people's mistakes and the rest of us have to be other people.  &quot;</em> <br>
+— Zig Ziglar
