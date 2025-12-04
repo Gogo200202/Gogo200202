@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever your mind can conceive and believe, it can achieve.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Fools resist. The wise embrace.&quot;</em> <br>
+— Maxime Lagace
