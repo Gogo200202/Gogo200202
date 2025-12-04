@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some of us learn from other people's mistakes and the rest of us have to be other people.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;You can do nothing to change the past, and the future will never come exactly as you plan or hope for.&quot;</em> <br>
+— Dan Millman
