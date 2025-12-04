@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The man who removes a mountain begins by carrying away small stones.&quot;</em> <br>
-— William Faulkner
+<em>&quot;If you think you can do a thing or think you can't do a thing, you're right.&quot;</em> <br>
+— Henry Ford
