@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before you embark on a journey of revenge, dig two graves. &quot;</em> <br>
-— Confucius
+<em>&quot;Outstanding people have one thing in common: an absolute sense of mission.  &quot;</em> <br>
+— Zig Ziglar
