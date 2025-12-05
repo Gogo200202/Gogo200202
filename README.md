@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A journey of a thousand miles must begin with a single step.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&quot;</em> <br>
+— Harry S. Truman
