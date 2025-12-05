@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is nothing more than a few simple disciplines practiced every day.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Too many of us are not living our dreams because we are living our fears.&quot;</em> <br>
+— Les Brown
