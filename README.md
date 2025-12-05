@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take care of your cents: dollars will take care of themselves.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Trust is built and maintained by many small actions over time.&quot;</em> <br>
+— Lolly Daskal
