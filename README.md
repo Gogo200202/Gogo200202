@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Too many of us are not living our dreams because we are living our fears.&quot;</em> <br>
-— Les Brown
+<em>&quot;Luck is a matter of preparation meeting opportunity.&quot;</em> <br>
+— Oprah Winfrey
