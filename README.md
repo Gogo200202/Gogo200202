@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Outstanding people have one thing in common: an absolute sense of mission.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.&quot;</em> <br>
+— Jon Kabat-Zinn
