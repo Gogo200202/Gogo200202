@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.&quot;</em> <br>
+— Deepak Chopra
