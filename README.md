@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;The two most important days in your life are the day you are born and the day you find out why.&quot;</em> <br>
+— Mark Twain
