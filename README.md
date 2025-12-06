@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nourish the mind like you would your body. The mind cannot survive on junk food.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Belief creates the actual fact.&quot;</em> <br>
+— William James
