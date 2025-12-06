@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The right thing to do and the hard thing to do are usually the same.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Be happy now, without reason - or you never will be at all.&quot;</em> <br>
+— Dan Millman
