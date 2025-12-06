@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Belief creates the actual fact.&quot;</em> <br>
-— William James
+<em>&quot;You are the only problem you will ever have and you are the only solution.&quot;</em> <br>
+— Bob Proctor
