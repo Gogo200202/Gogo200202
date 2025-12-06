@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be happy now, without reason - or you never will be at all.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&quot;</em> <br>
+— Robert Frost
