@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If everyone is moving forward together, then success takes care of itself.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Real learning comes about when the competitive spirit has ceased.&quot;</em> <br>
+— Jiddu Krishnamurti
