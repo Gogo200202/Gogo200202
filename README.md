@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are the only problem you will ever have and you are the only solution.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;As a man thinketh in his heart, so shall he be.&quot;</em> <br>
+— James Allen
