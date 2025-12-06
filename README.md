@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Pleasure is always derived from something outside you, whereas joy arises from within. &quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Nourish the mind like you would your body. The mind cannot survive on junk food.&quot;</em> <br>
+— Brian Tracy
