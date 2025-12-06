@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As a man thinketh in his heart, so shall he be.&quot;</em> <br>
-— James Allen
+<em>&quot;If everyone is moving forward together, then success takes care of itself.&quot;</em> <br>
+— Henry Ford
