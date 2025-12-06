@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&quot;</em> <br>
-— Alan Watts
+<em>&quot;The best of us sometimes eat our words.  &quot;</em> <br>
+— Albus Dumbledore
