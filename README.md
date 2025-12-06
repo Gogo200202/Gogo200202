@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learning never exhausts the mind. &quot;</em> <br>
-— Leonardo da Vinci
+<em>&quot;Passion is born deaf and dumb.&quot;</em> <br>
+— Honore de Balzac
