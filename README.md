@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. &quot;</em> <br>
-— Lao Tzu
+<em>&quot;Normal is the average of deviance.&quot;</em> <br>
+— Rita Mae Brown
