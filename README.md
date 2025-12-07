@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Behind every beautiful thing, there's some kind of pain.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;You can tell more about a person by what he says about others than you can by what others say about him.&quot;</em> <br>
+— Audrey Hepburn
