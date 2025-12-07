@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Only when I fall do I get up again.&quot;</em> <br>
+— Vincent van Gogh
