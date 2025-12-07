@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Normal is the average of deviance.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Nothing like a health problem to turn up the contrast dial for the rest of life.&quot;</em> <br>
+— Naval Ravikant
