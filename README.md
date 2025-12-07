@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life belongs to the living, and he who lives must be prepared for changes.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;What people need and what they want may be very different.&quot;</em> <br>
+— Elbert Hubbard
