@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&quot;</em> <br>
-— Stephen King
+<em>&quot;Life belongs to the living, and he who lives must be prepared for changes.&quot;</em> <br>
+— Johann Wolfgang von Goethe
