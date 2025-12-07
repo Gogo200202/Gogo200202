@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can tell more about a person by what he says about others than you can by what others say about him.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.&quot;</em> <br>
+— Aristophanes
