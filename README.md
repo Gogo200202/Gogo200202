@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What people need and what they want may be very different.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. &quot;</em> <br>
+— Lao Tzu
