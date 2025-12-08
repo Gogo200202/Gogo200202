@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Turn your face to the sun, as flowers know how to do.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Always remember that you are absolutely unique. Just like everyone else. &quot;</em> <br>
+— Margaret Mead
