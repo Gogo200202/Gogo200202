@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People rarely succeed unless they have fun in what they are doing.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;It still holds true that man is most uniquely human when he turns obstacles into opportunities.&quot;</em> <br>
+— Eric Hoffer
