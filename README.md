@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It still holds true that man is most uniquely human when he turns obstacles into opportunities.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;Hold yourself responsible for a higher standard than anybody else expects of you.&quot;</em> <br>
+— Henry Ward Beecher
