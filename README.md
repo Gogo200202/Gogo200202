@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Smell the cheese often so you know when it is getting old.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Turn your face to the sun, as flowers know how to do.&quot;</em> <br>
+— Ming-Dao Deng
