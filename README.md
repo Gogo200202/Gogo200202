@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only difference between success and failure is the ability to take action.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;The merit of all things lies in their difficulty.&quot;</em> <br>
+— Alexandre Dumas
