@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&quot;</em> <br>
-— James Allen
+<em>&quot;It's not what you've got; it's what you do that makes the difference.&quot;</em> <br>
+— Celestine Chua
