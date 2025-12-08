@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It isn't what you do, but how you do it.&quot;</em> <br>
-— John Wooden
+<em>&quot;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&quot;</em> <br>
+— James Allen
