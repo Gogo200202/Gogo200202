@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always remember that you are absolutely unique. Just like everyone else. &quot;</em> <br>
-— Margaret Mead
+<em>&quot;People rarely succeed unless they have fun in what they are doing.&quot;</em> <br>
+— Dale Carnegie
