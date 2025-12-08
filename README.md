@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you are tough on yourself, life is going to be infinitely easier on you.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The only difference between success and failure is the ability to take action.&quot;</em> <br>
+— Alexander Graham Bell
