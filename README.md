@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hold yourself responsible for a higher standard than anybody else expects of you.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;When you are tough on yourself, life is going to be infinitely easier on you.  &quot;</em> <br>
+— Zig Ziglar
