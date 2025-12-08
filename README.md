@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are always your own best guru, your own best teacher, the answers are always inside you.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Leadership is solving problems&quot;</em> <br>
+— Colin Powell
