@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life may be full of pain but that's not an excuse to give up.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;The whole is greater than the sum of its parts.&quot;</em> <br>
+— Aristotle
