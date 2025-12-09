@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are patient in one moment of anger, you will escape a hundred days of sorrow. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;All know the way; few actually walk it. &quot;</em> <br>
+— Bodhidharma
