@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&quot;</em> <br>
-— Stephen King
+<em>&quot;Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.&quot;</em> <br>
+— Thich Nhat Hanh
