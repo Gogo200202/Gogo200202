@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have the ability, now apply yourself.&quot;</em> <br>
-— Benjamin Mays
+<em>&quot;Shoot for the moon, because even if you miss, you'll land among the stars.&quot;</em> <br>
+— Les Brown
