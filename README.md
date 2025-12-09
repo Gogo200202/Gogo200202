@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All know the way; few actually walk it. &quot;</em> <br>
-— Bodhidharma
+<em>&quot;Those who look for the bad in people will surely find it.&quot;</em> <br>
+— Abraham Lincoln
