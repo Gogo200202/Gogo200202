@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who look for the bad in people will surely find it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Your spirit is the true shield.&quot;</em> <br>
+— Morihei Ueshiba
