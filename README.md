@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What the caterpillar calls the end of the world, the master calls a butterfly.&quot;</em> <br>
-— Richard Bach
+<em>&quot;It is useless to meet revenge with revenge; it will heal nothing.&quot;</em> <br>
+— J.R.R. Tolkien
