@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The art of being wise is knowing what to overlook.&quot;</em> <br>
-— William James
+<em>&quot;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&quot;</em> <br>
+— Bhagavad Gita
