@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Your dream has to be bigger than your fear.&quot;</em> <br>
+— Steve Harvey
