@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Love is not about possession. Love is about appreciation.&quot;</em> <br>
+— Osho
