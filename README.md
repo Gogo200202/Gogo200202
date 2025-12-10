@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All men are equal before fish.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;The art of being wise is knowing what to overlook.&quot;</em> <br>
+— William James
