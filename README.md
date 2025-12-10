@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;He who violates another's honor loses his own.&quot;</em> <br>
+— Publilius Syrus
