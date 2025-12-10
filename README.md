@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Bloom where you are planted!&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;To the mind that is still, the whole universe surrenders.&quot;</em> <br>
+— Lao Tzu
