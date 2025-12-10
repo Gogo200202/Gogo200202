@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is not about possession. Love is about appreciation.&quot;</em> <br>
-— Osho
+<em>&quot;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&quot;</em> <br>
+— D. H. Lawrence
