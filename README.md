@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your dream has to be bigger than your fear.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
+— Maxime Lagace
