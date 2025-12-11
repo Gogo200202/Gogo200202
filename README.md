@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not ignore the passion that burns in you. Spend time to discover your gift.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.&quot;</em> <br>
+— Mark Manson
