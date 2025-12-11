@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything great that has ever happened to humanity has begun as a single thought in someone's mind.&quot;</em> <br>
-— Yanni
+<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
+— Albus Dumbledore
