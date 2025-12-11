@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Create each day anew.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Do not ignore the passion that burns in you. Spend time to discover your gift.&quot;</em> <br>
+— Steve Harvey
