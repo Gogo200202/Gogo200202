@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When things go wrong, don't go with them.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;Failure is the highway to success.&quot;</em> <br>
+— Og Mandino
