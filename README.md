@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;Everything great that has ever happened to humanity has begun as a single thought in someone's mind.&quot;</em> <br>
+— Yanni
