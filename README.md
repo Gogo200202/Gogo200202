@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Who you are is defined by what you're willing to struggle for.&quot;</em> <br>
-— Mark Manson
+<em>&quot;The more people you help become successful the more successful you become.&quot;</em> <br>
+— Steve Harvey
