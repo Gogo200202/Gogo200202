@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&quot;</em> <br>
+— Harry S. Truman
