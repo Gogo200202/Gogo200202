@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.&quot;</em> <br>
+— Roy T. Bennett
