@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We love the things we love for what they are.&quot;</em> <br>
-— Robert Frost
+<em>&quot;The cost of leadership is self-interest.&quot;</em> <br>
+— Simon Sinek
