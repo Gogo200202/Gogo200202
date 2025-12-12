@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A lie can travel half way around the world while the truth is putting on its shoes.&quot;</em> <br>
-— Mark Twain
+<em>&quot;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&quot;</em> <br>
+— Emily Dickinson
