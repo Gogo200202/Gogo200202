@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;Sometimes letting things go is an act of far greater power than defending or hanging on.&quot;</em> <br>
+— Eckhart Tolle
