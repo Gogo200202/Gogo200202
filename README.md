@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The dreamers are the saviors of the worlds.&quot;</em> <br>
-— James Allen
+<em>&quot;Attitude is a little thing that makes a big difference.&quot;</em> <br>
+— Winston Churchill
