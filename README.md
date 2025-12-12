@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be happy in the moment, that's enough. Each moment is all we need, not more.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&quot;</em> <br>
+— Maxime Lagace
