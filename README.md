@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes letting things go is an act of far greater power than defending or hanging on.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;When you are content to be simply yourself and don't compare or compete, everybody will respect you. &quot;</em> <br>
+— Lao Tzu
