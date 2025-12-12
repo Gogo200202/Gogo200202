@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Don't settle, and don't struggle.&quot;</em> <br>
+— Naval Ravikant
