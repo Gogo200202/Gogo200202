@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every experience is a lesson. Every loss is a gain.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.&quot;</em> <br>
+— Robert Kiyosaki
