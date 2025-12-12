@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't settle, and don't struggle.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;We love the things we love for what they are.&quot;</em> <br>
+— Robert Frost
