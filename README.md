@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Attitude is a little thing that makes a big difference.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Man's character is his fate.&quot;</em> <br>
+— Heraclitus
