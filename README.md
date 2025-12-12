@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man's character is his fate.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Be happy in the moment, that's enough. Each moment is all we need, not more.&quot;</em> <br>
+— Mother Teresa
