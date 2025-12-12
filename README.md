@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;A lie can travel half way around the world while the truth is putting on its shoes.&quot;</em> <br>
+— Mark Twain
