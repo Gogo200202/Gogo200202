@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is not a four letter word...but often your reaction to it is!&quot;</em> <br>
-— Jeffrey Gitomer
+<em>&quot;Life is 10% what happens to you and 90% how you react to it. &quot;</em> <br>
+— Charles Swindoll
