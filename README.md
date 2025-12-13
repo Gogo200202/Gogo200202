@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you stop questioning, you stop learning.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;I never dwell on what happened. You can't change it. Move forward.&quot;</em> <br>
+— Joan Rivers
