@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Unhappiness enters through a door that has been left open.&quot;</em> <br>
+— Zen Proverb
