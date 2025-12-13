@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why fit in when you were born to stand out?&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;When you stop questioning, you stop learning.&quot;</em> <br>
+— Lolly Daskal
