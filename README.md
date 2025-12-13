@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is really work unless you would rather be doing something else. &quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;Why fit in when you were born to stand out?&quot;</em> <br>
+— Dr. Seuss
