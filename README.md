@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.&quot;</em> <br>
-— Nikola Tesla
+<em>&quot;If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.&quot;</em> <br>
+— Celestine Chua
