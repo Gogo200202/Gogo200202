@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I never dwell on what happened. You can't change it. Move forward.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;The big thing is to make a winning effort. I'm not obsessed with wins.&quot;</em> <br>
+— Morgan Wootten
