@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you try to impress, the more peaceful you can be.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;There can be no deep disappointment where there is not deep love.&quot;</em> <br>
+— Martin Luther King, Jr.
