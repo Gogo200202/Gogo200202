@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The Truth is realized in an instant; the Act is practiced step by step.&quot;</em> <br>
-— Seungsahn
+<em>&quot;Admire as much as you can. Most people do not admire enough.&quot;</em> <br>
+— Vincent van Gogh
