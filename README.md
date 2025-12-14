@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The less you try to impress, the more peaceful you can be.&quot;</em> <br>
+— Maxime Lagace
