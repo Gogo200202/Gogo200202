@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is the price that life exacts for granting peace.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;The Truth is realized in an instant; the Act is practiced step by step.&quot;</em> <br>
+— Seungsahn
