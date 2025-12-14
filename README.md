@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't look for meaning in the words. Listen to the silences.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Courage is resistance to fear, mastery of fear - not absence of fear.&quot;</em> <br>
+— Mark Twain
