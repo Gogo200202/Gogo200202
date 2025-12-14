@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must accept finite disappointment, but never lose infinite hope.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;The man who removes a mountain begins by carrying away small stones.&quot;</em> <br>
+— William Faulkner
