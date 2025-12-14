@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are free, and that is why you are lost. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;Your business is not to 'get somewhere' - it is to be here.&quot;</em> <br>
+— Dan Millman
