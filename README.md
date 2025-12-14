@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The man who removes a mountain begins by carrying away small stones.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Courage is the price that life exacts for granting peace.&quot;</em> <br>
+— Amelia Earhart
