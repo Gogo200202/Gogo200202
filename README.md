@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where words fail, music speaks.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;You are free, and that is why you are lost. &quot;</em> <br>
+— Franz Kafka
