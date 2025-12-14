@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Smile, breathe and go slowly.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Life is simply what our feelings do to us.&quot;</em> <br>
+— Honore de Balzac
