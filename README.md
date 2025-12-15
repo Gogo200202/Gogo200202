@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What worries you, masters you.&quot;</em> <br>
-— John Locke
+<em>&quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;</em> <br>
+— Robert Greene
