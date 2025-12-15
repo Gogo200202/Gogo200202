@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;</em> <br>
-— Robert Greene
+<em>&quot;There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.&quot;</em> <br>
+— Denis Waitley
