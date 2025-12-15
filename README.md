@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no shortcuts to any place worth going. &quot;</em> <br>
-— Beverly Sills
+<em>&quot;It's not whether you get knocked down, its whether you get back up.&quot;</em> <br>
+— Vince Lombardi
