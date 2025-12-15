@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not what happens to you, but how you react to it that matters.&quot;</em> <br>
-— Epictetus
+<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
+— Heraclitus
