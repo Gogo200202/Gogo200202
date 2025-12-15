@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
+— Nicolas Chamfort
