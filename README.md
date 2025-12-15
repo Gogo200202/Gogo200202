@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.&quot;</em> <br>
-— Denis Waitley
+<em>&quot;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&quot;</em> <br>
+— Pema Chodron
