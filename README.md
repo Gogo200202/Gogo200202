@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&quot;</em> <br>
+— Sathya Sai Baba
