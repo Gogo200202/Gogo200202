@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Admire as much as you can. Most people do not admire enough.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
+— Kahlil Gibran
