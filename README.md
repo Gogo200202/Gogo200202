@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Creativity is intelligence having fun.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;When the root is strong, the fruit is sweet.&quot;</em> <br>
+— Bob Marley
