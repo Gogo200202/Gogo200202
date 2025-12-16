@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wisdom of life consists in the elimination of the nonessentials.&quot;</em> <br>
-— Lin Yutang
+<em>&quot;Outstanding people have one thing in common: an absolute sense of mission.  &quot;</em> <br>
+— Zig Ziglar
