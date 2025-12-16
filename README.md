@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To accomplish big things, I am convinced you must first dream big dreams.&quot;</em> <br>
-— Conrad Hilton
+<em>&quot;Creativity is intelligence having fun.&quot;</em> <br>
+— Albert Einstein
