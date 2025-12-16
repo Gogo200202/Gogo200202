@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams have only one owner at a time. That's why dreamers are lonely.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Often in the real world, it's not the smart that get ahead, but the bold.&quot;</em> <br>
+— Robert Kiyosaki
