@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way to predict the future is to create it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;We are most nearly ourselves when we achieve the seriousness of the child at play.&quot;</em> <br>
+— Heraclitus
