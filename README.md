@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One must be poor to know the luxury of giving.&quot;</em> <br>
-— George Eliot
+<em>&quot;Dreams have only one owner at a time. That's why dreamers are lonely.&quot;</em> <br>
+— William Faulkner
