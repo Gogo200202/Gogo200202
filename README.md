@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;The best way to predict the future is to create it.&quot;</em> <br>
+— Abraham Lincoln
