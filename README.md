@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are most nearly ourselves when we achieve the seriousness of the child at play.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&quot;</em> <br>
+— Herbert Hoover
