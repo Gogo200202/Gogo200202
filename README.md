@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;Men are disturbed not by things, but by the view which they take of them.&quot;</em> <br>
+— Epictetus
