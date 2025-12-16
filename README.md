@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Outstanding people have one thing in common: an absolute sense of mission.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Be happy now, without reason - or you never will be at all.&quot;</em> <br>
+— Dan Millman
