@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When the root is strong, the fruit is sweet.&quot;</em> <br>
-— Bob Marley
+<em>&quot;The best way to not feel hopeless is to get up and do something.&quot;</em> <br>
+— Barack Obama
