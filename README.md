@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Often in the real world, it's not the smart that get ahead, but the bold.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Be happy now, without reason - or you never will be at all.&quot;</em> <br>
+— Dan Millman
