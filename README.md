@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&quot;</em> <br>
+— Og Mandino
