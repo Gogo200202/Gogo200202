@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Your work is to discover your work and then, with all your heart, to give yourself to it.&quot;</em> <br>
+— Buddha
