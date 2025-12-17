@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We have a choice everyday regarding the attitude we will embrace for that day.&quot;</em> <br>
-— Charles Swindoll
+<em>&quot;Everything will be ok in the end. If it's not ok, it's not the end.&quot;</em> <br>
+— John Lennon
