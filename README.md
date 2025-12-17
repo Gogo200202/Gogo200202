@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Humans and prosperity never endure side by side for long.&quot;</em> <br>
-— Herodotus
+<em>&quot;Our greatest glory is not in never falling but in rising every time we fall.&quot;</em> <br>
+— Confucius
