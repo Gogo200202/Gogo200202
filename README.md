@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is the expression of one's values.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Peace is letting it be. Letting life flow, letting emotions flow through you.&quot;</em> <br>
+— Kamal Ravikant
