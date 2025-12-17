@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are not stuck where you are unless you decide to be.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;The educated differ from the uneducated as much as the living differ from the dead.&quot;</em> <br>
+— Aristotle
