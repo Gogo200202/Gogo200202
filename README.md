@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peace is letting it be. Letting life flow, letting emotions flow through you.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;You are not stuck where you are unless you decide to be.  &quot;</em> <br>
+— Wayne Dyer
