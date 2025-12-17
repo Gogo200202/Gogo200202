@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Open your mind before your mouth.&quot;</em> <br>
-— Aristophanes
+<em>&quot;We have a choice everyday regarding the attitude we will embrace for that day.&quot;</em> <br>
+— Charles Swindoll
