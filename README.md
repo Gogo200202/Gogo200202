@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
+— Carlos Ruiz Zafon
