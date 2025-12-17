@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The educated differ from the uneducated as much as the living differ from the dead.&quot;</em> <br>
-— Aristotle
+<em>&quot;Humans and prosperity never endure side by side for long.&quot;</em> <br>
+— Herodotus
