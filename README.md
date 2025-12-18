@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The truth is not for all men, but for those who seek it.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Realistic people do not accomplish extraordinary things.&quot;</em> <br>
+— John Eliot
