@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By words the mind is winged.&quot;</em> <br>
-— Aristophanes
+<em>&quot;At the center of your being you have the answer; you know who you are and you know what you want.&quot;</em> <br>
+— Lao Tzu
