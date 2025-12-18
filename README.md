@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  &quot;</em> <br>
-— Jack Kerouac
+<em>&quot;I wasn't brave, I just didn't have time to be scared.&quot;</em> <br>
+— Amelia Earhart
