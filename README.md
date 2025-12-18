@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We have to live life with a sense of urgency so not a minute is wasted.&quot;</em> <br>
-— Les Brown
+<em>&quot;By words the mind is winged.&quot;</em> <br>
+— Aristophanes
