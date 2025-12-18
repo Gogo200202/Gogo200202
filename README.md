@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let your mind stop you.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Only by acceptance of the past, can you alter it.&quot;</em> <br>
+— T.S. Eliot
