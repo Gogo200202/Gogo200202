@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only by acceptance of the past, can you alter it.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Curiosity is the most powerful thing you own.&quot;</em> <br>
+— James Cameron
