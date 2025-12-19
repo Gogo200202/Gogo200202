@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can have results or excuses, but not both.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Trust your instincts: my first reaction is almost invariably the right one.  &quot;</em> <br>
+— Estee Lauder
