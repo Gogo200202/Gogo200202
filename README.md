@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;That some achieve great success is proof to all that others can achieve it as well.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Man is made by his belief. As he believes, so he is.&quot;</em> <br>
+— Bhagavad Gita
