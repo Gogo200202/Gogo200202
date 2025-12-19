@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remember the entrance to the sanctuary is inside you.&quot;</em> <br>
-— Rumi
+<em>&quot;You can have results or excuses, but not both.&quot;</em> <br>
+— Arnold Schwarzenegger
