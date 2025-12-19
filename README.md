@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fiction is the truth inside the lie.&quot;</em> <br>
-— Stephen King
+<em>&quot;There are no shortcuts to any place worth going.&quot;</em> <br>
+— Beverly Sills
