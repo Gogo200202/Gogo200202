@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust your instincts: my first reaction is almost invariably the right one.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;Every day is an opportunity to a make a new happy ending.&quot;</em> <br>
+— Jonathan Swift
