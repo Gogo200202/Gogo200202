@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything has beauty but not everyone sees it.&quot;</em> <br>
-— Confucius
+<em>&quot;Fiction is the truth inside the lie.&quot;</em> <br>
+— Stephen King
