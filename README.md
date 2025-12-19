@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no shortcuts to any place worth going.&quot;</em> <br>
-— Beverly Sills
+<em>&quot;That some achieve great success is proof to all that others can achieve it as well.&quot;</em> <br>
+— Abraham Lincoln
