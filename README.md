@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't earn loyalty in a day. You earn loyalty day-by-day.&quot;</em> <br>
-— Jeffrey Gitomer
+<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
+— Josh Waitzkin
