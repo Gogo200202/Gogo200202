@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn to value yourself, which means: fight for your happiness.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;If you do the work you get rewarded. There are no shortcuts in life.&quot;</em> <br>
+— Michael Jordan
