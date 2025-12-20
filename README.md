@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If there's a definition of freedom, I think it's this: living life on your terms.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Death walks faster than the wind and never returns what he has taken.&quot;</em> <br>
+— Hans Christian Andersen
