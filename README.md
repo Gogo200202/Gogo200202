@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Without the rain there would be no rainbow.&quot;</em> <br>
+— Gilbert Chesterton
