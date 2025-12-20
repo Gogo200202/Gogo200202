@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We love the things we love for what they are.&quot;</em> <br>
-— Robert Frost
+<em>&quot;If you can't, you must. If you must, you can.&quot;</em> <br>
+— Tony Robbins
