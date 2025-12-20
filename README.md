@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every great change is preceded by chaos.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;We love the things we love for what they are.&quot;</em> <br>
+— Robert Frost
