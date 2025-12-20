@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do the work you get rewarded. There are no shortcuts in life.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;If there's a definition of freedom, I think it's this: living life on your terms.&quot;</em> <br>
+— Kamal Ravikant
