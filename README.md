@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best mind-altering drug is the truth.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Every great change is preceded by chaos.&quot;</em> <br>
+— Deepak Chopra
