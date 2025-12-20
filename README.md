@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throw your heart over the fence and the rest will follow&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;You don't earn loyalty in a day. You earn loyalty day-by-day.&quot;</em> <br>
+— Jeffrey Gitomer
