@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People who avoid failure also avoid success.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Throw your heart over the fence and the rest will follow&quot;</em> <br>
+— Norman Vincent Peale
