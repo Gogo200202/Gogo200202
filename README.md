@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are not the drop in the ocean, but the ocean in the drop.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;The strongest and sweetest songs yet remain to be sung.&quot;</em> <br>
+— Walt Whitman
