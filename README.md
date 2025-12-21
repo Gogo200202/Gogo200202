@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death walks faster than the wind and never returns what he has taken.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;The power to make and break habits and learning how to do that is really important.&quot;</em> <br>
+— Naval Ravikant
