@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is not the absence of problems, it's the ability to deal with them.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Never fear quarrels, but seek hazardous adventures.&quot;</em> <br>
+— Alexandre Dumas
