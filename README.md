@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't cry because it's over. Smile because it happened.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;This is such a short and precious life that it's really important that you don't spend it being unhappy.&quot;</em> <br>
+— Naval Ravikant
