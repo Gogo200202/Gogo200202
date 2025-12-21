@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The power to make and break habits and learning how to do that is really important.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;You are not the drop in the ocean, but the ocean in the drop.&quot;</em> <br>
+— Deepak Chopra
