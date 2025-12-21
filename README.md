@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never fear quarrels, but seek hazardous adventures.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Always do what is right. It will gratify half of mankind and astound the other.&quot;</em> <br>
+— Mark Twain
