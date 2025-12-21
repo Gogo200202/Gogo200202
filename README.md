@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The strongest and sweetest songs yet remain to be sung.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;The two most powerful warriors are patience and time.&quot;</em> <br>
+— Leo Tolstoy
