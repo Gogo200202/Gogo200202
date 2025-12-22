@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To love means loving the unlovable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;You don't need anybody to tell you who you are or what you are. You are what you are!&quot;</em> <br>
+— John Lennon
