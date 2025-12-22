@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's more to life than being a passenger.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;It's the job that's never started that takes the longest to finish.&quot;</em> <br>
+— J.R.R. Tolkien
