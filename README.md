@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
-— Huang Po
+<em>&quot;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&quot;</em> <br>
+— Winston Churchill
