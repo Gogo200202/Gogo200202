@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men do not attract which they want but that which they are.&quot;</em> <br>
-— James Allen
+<em>&quot;Think and wonder, wonder and think.&quot;</em> <br>
+— Dr. Seuss
