@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. &quot;</em> <br>
-— St. Jerome
+<em>&quot;I no doubt deserved my enemies, but I don't believe I deserved my friends.&quot;</em> <br>
+— Walt Whitman
