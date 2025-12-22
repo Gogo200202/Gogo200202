@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;You are not only responsible for what you say, but also for what you do not say. &quot;</em> <br>
+— Martin Luther
