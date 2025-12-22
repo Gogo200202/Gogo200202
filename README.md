@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;The reward of suffering is experience.&quot;</em> <br>
+— Harry S. Truman
