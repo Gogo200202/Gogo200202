@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Have the courage to follow your heart and intuition. They somehow know what you truly want to become.&quot;</em> <br>
+— Steve Jobs
