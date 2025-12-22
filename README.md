@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Think and wonder, wonder and think.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;There's more to life than being a passenger.&quot;</em> <br>
+— Amelia Earhart
