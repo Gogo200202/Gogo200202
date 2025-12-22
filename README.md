@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's the job that's never started that takes the longest to finish.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
+— Wayne Dyer
