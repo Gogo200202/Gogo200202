@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loving thoughts and actions are clearly beneficial for our physical and mental health.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Confidence is like a dragon where, for every head cut off, two more heads grow back.&quot;</em> <br>
+— Criss Jami
