@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If the plan doesn't work, change the plan, but never the goal.&quot;</em> <br>
-— Unknown
+<em>&quot;It's possible in ways both large or small to make a difference in someone's life.&quot;</em> <br>
+— Yanni
