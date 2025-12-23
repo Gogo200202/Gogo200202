@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To perceive is to suffer.&quot;</em> <br>
-— Aristotle
+<em>&quot;Your past does not equal your future.&quot;</em> <br>
+— Tony Robbins
