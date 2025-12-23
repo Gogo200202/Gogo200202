@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your past does not equal your future.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Your work is to discover your work and then, with all your heart, to give yourself to it.&quot;</em> <br>
+— Buddha
