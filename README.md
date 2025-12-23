@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way we feel is the direct result of what we think.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;To perceive is to suffer.&quot;</em> <br>
+— Aristotle
