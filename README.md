@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Real growth comes through intense, difficult, and challenging situations.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Not everything that weighs you down is yours to carry.&quot;</em> <br>
+— Unknown
