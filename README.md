@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's possible in ways both large or small to make a difference in someone's life.&quot;</em> <br>
-— Yanni
+<em>&quot;Real growth comes through intense, difficult, and challenging situations.&quot;</em> <br>
+— Kamal Ravikant
