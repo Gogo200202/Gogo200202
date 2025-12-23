@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Do not believe that you will reach your destination without leaving the shore. &quot;</em> <br>
+— Chinese Proverb
