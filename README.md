@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I no doubt deserved my enemies, but I don't believe I deserved my friends.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;It is the greatest of all mistakes to do nothing because you can only do little; do something.&quot;</em> <br>
+— Sydney Smith
