@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I'd rather welcome change than cling to the past.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Don't give up the fight, Stand up for your rights.&quot;</em> <br>
+— Bob Marley
