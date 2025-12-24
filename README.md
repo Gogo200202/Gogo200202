@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Lust, anger and greed are the three gates to self-destructive hell.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;A fool sees himself as another, but a wise man sees others as himself.&quot;</em> <br>
+— Dogen
