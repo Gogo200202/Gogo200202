@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;I'd rather welcome change than cling to the past.&quot;</em> <br>
+— Robert Kiyosaki
