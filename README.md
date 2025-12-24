@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Self-control is strength.&quot;</em> <br>
-— James Allen
+<em>&quot;Only in the agony of parting do we look into the depths of love.&quot;</em> <br>
+— George Eliot
