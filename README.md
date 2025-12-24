@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A fool sees himself as another, but a wise man sees others as himself.&quot;</em> <br>
-— Dogen
+<em>&quot;The more you extend kindness to yourself, the more it will become your automatic response to others.&quot;</em> <br>
+— Wayne Dyer
