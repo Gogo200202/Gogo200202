@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are most nearly ourselves when we achieve the seriousness of the child at play.&quot;</em> <br>
-— Heraclitus
+<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
+— Chinese Proverb
