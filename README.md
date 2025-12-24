@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What is planted in each person's soul will sprout.  &quot;</em> <br>
-— Rumi
+<em>&quot;Lust, anger and greed are the three gates to self-destructive hell.&quot;</em> <br>
+— Bhagavad Gita
