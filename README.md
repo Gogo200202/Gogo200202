@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The businessman's tool is value.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;If you want work well done, select a busy man; the other kind has no time.&quot;</em> <br>
+— Elbert Hubbard
