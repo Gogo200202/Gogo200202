@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The heart that gives, gathers.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;It all depends on what you choose to believe.&quot;</em> <br>
+— Spencer Johnson
