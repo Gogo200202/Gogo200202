@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest adventure you can ever take is to live the life of your dreams. &quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;If you believe you can, you can. If you believe you can't, then, well you can't.&quot;</em> <br>
+— Celestine Chua
