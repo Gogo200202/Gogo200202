@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The best mind-altering drug is the truth.&quot;</em> <br>
+— Lily Tomlin
