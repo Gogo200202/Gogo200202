@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&quot;</em> <br>
+— Paramahansa Yogananda
