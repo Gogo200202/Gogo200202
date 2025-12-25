@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Age is a very high price to pay for maturity.&quot;</em> <br>
-— William James
+<em>&quot;If you are unable to find the truth right where you are, where else do you expect to find it?&quot;</em> <br>
+— Dogen
