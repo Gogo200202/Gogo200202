@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best mind-altering drug is the truth.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;We must learn to live together as brothers or perish together as fools.&quot;</em> <br>
+— Martin Luther King, Jr.
