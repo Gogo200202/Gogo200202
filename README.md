@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are unable to find the truth right where you are, where else do you expect to find it?&quot;</em> <br>
-— Dogen
+<em>&quot;Live life as though nobody is watching, and express yourself as though everyone is listening.&quot;</em> <br>
+— Nelson Mandela
