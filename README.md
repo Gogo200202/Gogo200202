@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live life as though nobody is watching, and express yourself as though everyone is listening.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.&quot;</em> <br>
+— Charles Spurgeon
