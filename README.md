@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must learn to live together as brothers or perish together as fools.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&quot;</em> <br>
+— Paramahansa Yogananda
