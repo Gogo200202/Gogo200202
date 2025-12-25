@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Age is a very high price to pay for maturity.&quot;</em> <br>
+— William James
