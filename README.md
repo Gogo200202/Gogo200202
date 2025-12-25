@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By the practice of meditation, you will find that you are carrying within your heart a portable paradise.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;The biggest adventure you can ever take is to live the life of your dreams. &quot;</em> <br>
+— Oprah Winfrey
