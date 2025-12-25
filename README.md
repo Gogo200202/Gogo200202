@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you believe you can, you can. If you believe you can't, then, well you can't.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;The heart that gives, gathers.&quot;</em> <br>
+— Lao Tzu
