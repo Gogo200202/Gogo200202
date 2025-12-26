@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enjoy when you can, and endure when you must.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;No grand idea was ever born in a conference, but a lot of foolish ideas have died there.&quot;</em> <br>
+— F. Scott Fitzgerald
