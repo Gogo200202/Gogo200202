@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a constant series of opportunities.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Never waste a minute of your precious life thinking about people you don't like.&quot;</em> <br>
+— Celestine Chua
