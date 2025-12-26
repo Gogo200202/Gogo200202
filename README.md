@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&quot;</em> <br>
-— Unknown
+<em>&quot;Whether you have a problem in your life or not depends upon your own attitude, your own understanding.&quot;</em> <br>
+— Shunryu Suzuki
