@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your chances of success in any undertaking can always be measured by your belief in yourself.&quot;</em> <br>
-— Robert Collier
+<em>&quot;People don't care how much you know until they know how much you care.&quot;</em> <br>
+— Theodore Roosevelt
