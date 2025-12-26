@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
-— Euripides
+<em>&quot;Presents are made for the pleasure of who gives them, not the merits of who receives them.&quot;</em> <br>
+— Carlos Ruiz Zafon
