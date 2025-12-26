@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do good, live in the most positive and joyful way possible every day.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Your chances of success in any undertaking can always be measured by your belief in yourself.&quot;</em> <br>
+— Robert Collier
