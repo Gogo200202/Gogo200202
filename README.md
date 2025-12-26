@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;Enjoy when you can, and endure when you must.&quot;</em> <br>
+— Johann Wolfgang von Goethe
