@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life can be wonderful if you're not afraid of it.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
+— Euripides
