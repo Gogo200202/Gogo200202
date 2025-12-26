@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.&quot;</em> <br>
-— Socrates
+<em>&quot;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&quot;</em> <br>
+— Unknown
