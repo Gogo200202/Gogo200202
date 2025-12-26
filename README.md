@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you've got nothing, you've got nothing to lose.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;Life can be wonderful if you're not afraid of it.&quot;</em> <br>
+— Charlie Chaplin
