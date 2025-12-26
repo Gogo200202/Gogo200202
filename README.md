@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always focus on the front windshield and not the rear view mirror.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Sometimes adversity is what you need to face in order to become successful.&quot;</em> <br>
+— Zig Ziglar
