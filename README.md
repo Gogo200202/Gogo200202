@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The price of inaction is far greater than the cost of making a mistake.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. &quot;</em> <br>
+— Nikola Tesla
