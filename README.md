@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;No matter what happens in life, never lose sight of who you are.&quot;</em> <br>
+— Yanni
