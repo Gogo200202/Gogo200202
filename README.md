@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;Success is liking yourself, liking what you do, and liking how you do it.&quot;</em> <br>
+— Maya Angelou
