@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I pay attention to every minute of the day.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;The heart wants what it wants. There's no logic. &quot;</em> <br>
+— Woody Allen
