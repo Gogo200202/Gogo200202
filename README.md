@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes adversity is what you need to face in order to become successful.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&quot;</em> <br>
+— Brian Tracy
