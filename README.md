@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Desire for the fruits of work must never be your motive in working.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;I succeeded by saying what everyone else is thinking.&quot;</em> <br>
+— Joan Rivers
