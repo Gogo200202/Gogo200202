@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your only limitations are those you set up in your mind or permit others to set up for you.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Those who are possessed by nothing possess everything.&quot;</em> <br>
+— Morihei Ueshiba
