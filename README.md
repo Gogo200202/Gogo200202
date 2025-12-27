@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep your dreams, you never know when you might need them.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.&quot;</em> <br>
+— Spencer Johnson
