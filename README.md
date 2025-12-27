@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I succeeded by saying what everyone else is thinking.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;I pay attention to every minute of the day.&quot;</em> <br>
+— Steve Harvey
