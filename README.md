@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is liking yourself, liking what you do, and liking how you do it.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Keep your dreams, you never know when you might need them.&quot;</em> <br>
+— Carlos Ruiz Zafon
