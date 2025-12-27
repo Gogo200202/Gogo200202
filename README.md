@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No matter what happens in life, never lose sight of who you are.&quot;</em> <br>
-— Yanni
+<em>&quot;Desire for the fruits of work must never be your motive in working.&quot;</em> <br>
+— Bhagavad Gita
