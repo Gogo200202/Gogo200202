@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Art is the signature of civilizations. &quot;</em> <br>
-— Beverly Sills
+<em>&quot;The price of inaction is far greater than the cost of making a mistake.&quot;</em> <br>
+— Meister Eckhart
