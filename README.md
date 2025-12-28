@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;The giving of love is an education in itself.&quot;</em> <br>
+— Eleanor Roosevelt
