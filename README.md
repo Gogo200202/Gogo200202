@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is the power of thought that gives man power over nature.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.&quot;</em> <br>
+— Deepak Chopra
