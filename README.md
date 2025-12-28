@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where there's life, there's hope.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;If you truly expect something to be difficult, it will be.&quot;</em> <br>
+— Peter A. Cohen
