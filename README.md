@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Anyone who has ever made anything of importance was disciplined.&quot;</em> <br>
+— Andrew Hendrixson
