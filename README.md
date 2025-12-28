@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you truly expect something to be difficult, it will be.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.&quot;</em> <br>
+— Ming-Dao Deng
