@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.&quot;</em> <br>
+— Thich Nhat Hanh
