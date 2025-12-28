@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;It is the power of thought that gives man power over nature.&quot;</em> <br>
+— Hans Christian Andersen
