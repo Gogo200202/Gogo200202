@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.&quot;</em> <br>
+— Elvis Presley
