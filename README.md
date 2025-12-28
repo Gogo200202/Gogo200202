@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let your learning lead to knowledge. Let your learning lead to action.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&quot;</em> <br>
+— Oprah Winfrey
