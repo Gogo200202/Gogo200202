@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is no more uncertain than the present.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;No need to hurry. No need to sparkle. No need to be anybody but oneself.&quot;</em> <br>
+— Virginia Woolf
