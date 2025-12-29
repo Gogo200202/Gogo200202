@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Setting goals is the first step in turning the invisible into the visible.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;There is nothing in the world so irresistibly contagious as laughter and good humor.&quot;</em> <br>
+— Charles Dickens
