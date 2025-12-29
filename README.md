@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Preoccupied with a single leaf you won't see the tree.&quot;</em> <br>
-— Unknown
+<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
+— Leo Tolstoy
