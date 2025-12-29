@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always be a first rate version of yourself and not a second rate version of someone else.&quot;</em> <br>
-— Judy Garland
+<em>&quot;If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.&quot;</em> <br>
+— Roy T. Bennett
