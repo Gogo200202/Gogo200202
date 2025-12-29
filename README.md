@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No need to hurry. No need to sparkle. No need to be anybody but oneself.&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;Setting goals is the first step in turning the invisible into the visible.&quot;</em> <br>
+— Tony Robbins
