@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In spite of everything, I shall rise again.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;If you want something then you lose everything. If you don't want anything then you already have everything.&quot;</em> <br>
+— Seungsahn
