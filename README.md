@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wherever you are is the entry point.&quot;</em> <br>
-— Kabir
+<em>&quot;In spite of everything, I shall rise again.&quot;</em> <br>
+— Vincent van Gogh
