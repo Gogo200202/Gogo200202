@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.&quot;</em> <br>
+— Theodore Roosevelt
