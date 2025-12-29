@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is an effect of doing what you love, not an end goal to be achieved.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Change is never easy, but always possible.&quot;</em> <br>
+— Barack Obama
