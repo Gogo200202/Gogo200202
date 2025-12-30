@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A good teacher opens the door for you, but you must enter the room by yourself.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&quot;</em> <br>
+— Peter Drucker
