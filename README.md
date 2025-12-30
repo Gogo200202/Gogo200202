@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Do not believe that you will reach your destination without leaving the shore. &quot;</em> <br>
+— Chinese Proverb
