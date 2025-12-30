@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Given the choice between the experience of pain and nothing, I would choose pain.&quot;</em> <br>
+— William Faulkner
