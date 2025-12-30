@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life's too mysterious to take too serious.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&quot;</em> <br>
+— Nicolas Chamfort
