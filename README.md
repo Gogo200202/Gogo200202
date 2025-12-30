@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;Hope is not a strategy. Luck is not a factor. Fear is not an option.&quot;</em> <br>
+— James Cameron
