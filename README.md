@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Only put off until tomorrow what you are willing to die having left undone.&quot;</em> <br>
+— Pablo Picasso
