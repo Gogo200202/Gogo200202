@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change your thoughts and you change your world.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;The farther backward you can look, the farther forward you are likely to see.&quot;</em> <br>
+— Winston Churchill
