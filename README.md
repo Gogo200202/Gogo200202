@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The sun shines upon good and bad alike.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;You can't make someone feel good about themselves until you feel good about yourself.&quot;</em> <br>
+— Robin Sharma
