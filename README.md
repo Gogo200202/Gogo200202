@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Given the choice between the experience of pain and nothing, I would choose pain.&quot;</em> <br>
-— William Faulkner
+<em>&quot;A good teacher opens the door for you, but you must enter the room by yourself.&quot;</em> <br>
+— Zen Proverb
