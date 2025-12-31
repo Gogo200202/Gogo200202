@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make no small plans for they have no power to stir the soul.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;I'm an optimist by choice not by stupidity.&quot;</em> <br>
+— Yanni
