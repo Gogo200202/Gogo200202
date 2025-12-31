@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you spend too much time thinking about a thing, you'll never get it done. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.&quot;</em> <br>
+— Elon Musk
