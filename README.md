@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A poet should be so crafty with words that he is envied even for his pains.&quot;</em> <br>
-— Criss Jami
+<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
+— Mark Manson
