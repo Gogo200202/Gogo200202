@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I didn't get there by wishing for it or hoping for it, but by working for it.&quot;</em> <br>
-— Estee Lauder
+<em>&quot;You Create Your Own Present By What You Give Your Attention To Today.&quot;</em> <br>
+— Spencer Johnson
