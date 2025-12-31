@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nourish the mind like you would your body. The mind cannot survive on junk food.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
+— Steve Harvey
