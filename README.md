@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I'm an optimist by choice not by stupidity.&quot;</em> <br>
-— Yanni
+<em>&quot;Whatever your heart clings to and confides in, that is really your God.&quot;</em> <br>
+— Martin Luther
