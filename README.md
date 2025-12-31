@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have never let my schooling interfere with my education.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Make no small plans for they have no power to stir the soul.&quot;</em> <br>
+— Niccolo Machiavelli
