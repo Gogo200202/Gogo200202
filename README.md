@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;A poet should be so crafty with words that he is envied even for his pains.&quot;</em> <br>
+— Criss Jami
