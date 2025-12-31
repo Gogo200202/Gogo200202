@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowing is not enough, we must apply. Willing is not enough, we must do.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;Nourish the mind like you would your body. The mind cannot survive on junk food.&quot;</em> <br>
+— Brian Tracy
