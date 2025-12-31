@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make each day your masterpiece.&quot;</em> <br>
-— John Wooden
+<em>&quot;If you spend too much time thinking about a thing, you'll never get it done. &quot;</em> <br>
+— Bruce Lee
