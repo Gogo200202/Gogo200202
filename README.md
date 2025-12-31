@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
-— Mark Manson
+<em>&quot;I didn't get there by wishing for it or hoping for it, but by working for it.&quot;</em> <br>
+— Estee Lauder
