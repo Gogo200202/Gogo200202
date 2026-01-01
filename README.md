@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's better to dance than to march through life.&quot;</em> <br>
-— Yoko Ono
+<em>&quot;You can start changing our world for the better daily, no matter how small the action.&quot;</em> <br>
+— Nelson Mandela
