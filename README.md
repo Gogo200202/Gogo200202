@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A person hears only what they understand.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;We ordinary people must forge our own beauty.&quot;</em> <br>
+— Kenji Miyazawa
