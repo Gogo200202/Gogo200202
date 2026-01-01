@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear, uncertainty, and discomfort are your compasses toward growth.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Do not look for approval except for the consciousness of doing your best.&quot;</em> <br>
+— Andrew Carnegie
