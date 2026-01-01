@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Experience is a comb which nature gives us when we are bald. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;It's better to dance than to march through life.&quot;</em> <br>
+— Yoko Ono
