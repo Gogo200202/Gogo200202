@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not look for approval except for the consciousness of doing your best.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Wise people, even though all laws were abolished, would still lead the same life.&quot;</em> <br>
+— Aristophanes
