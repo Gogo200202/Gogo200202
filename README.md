@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;We must have strong minds, ready to accept facts as they are.&quot;</em> <br>
+— Harry S. Truman
