@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A different result requires doing something different.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Experience is a comb which nature gives us when we are bald. &quot;</em> <br>
+— Chinese Proverb
