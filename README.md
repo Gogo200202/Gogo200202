@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We ordinary people must forge our own beauty.&quot;</em> <br>
-— Kenji Miyazawa
+<em>&quot;Absorb what is useful, discard what is not, add what is uniquely your own.&quot;</em> <br>
+— Bruce Lee
