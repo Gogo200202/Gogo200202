@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't learn to do, but learn in doing.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;Be kind whenever possible. It is always possible.&quot;</em> <br>
+— Dalai Lama
