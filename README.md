@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absorb what is useful, discard what is not, add what is uniquely your own.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;When you reach the top of the mountain, keep climbing. &quot;</em> <br>
+— Zen Proverb
