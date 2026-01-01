@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must have strong minds, ready to accept facts as they are.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;Don't learn to do, but learn in doing.&quot;</em> <br>
+— Samuel Butler
