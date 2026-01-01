@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wise people, even though all laws were abolished, would still lead the same life.&quot;</em> <br>
-— Aristophanes
+<em>&quot;A person hears only what they understand.&quot;</em> <br>
+— Johann Wolfgang von Goethe
