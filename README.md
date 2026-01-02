@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no secrets to success. It is the result of preparation, hard work, learning from failure.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Just get out and do it. You will be very, very glad that you did.&quot;</em> <br>
+— Christopher McCandless
