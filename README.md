@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.&quot;</em> <br>
-— Confucius
+<em>&quot;Any idea, plan, or purpose may be placed in the mind through repetition of thought.&quot;</em> <br>
+— Napoleon Hill
