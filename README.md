@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only when one allows themself the right to die, do they then give yourself the permission to live.&quot;</em> <br>
-— C. Sean McGee
+<em>&quot;There are no secrets to success. It is the result of preparation, hard work, learning from failure.&quot;</em> <br>
+— Colin Powell
