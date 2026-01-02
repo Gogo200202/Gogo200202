@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who are easily shocked should be shocked more often.&quot;</em> <br>
-— Mae West
+<em>&quot;Nothing brings down walls as surely as acceptance.&quot;</em> <br>
+— Deepak Chopra
