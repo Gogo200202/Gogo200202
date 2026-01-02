@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is the true magic carpet.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;If your happiness depends on what somebody else does, I guess you do have a problem.&quot;</em> <br>
+— Richard Bach
