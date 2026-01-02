@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just get out and do it. You will be very, very glad that you did.&quot;</em> <br>
+<em>&quot;Life and the simple beauty of it is too good to pass up.&quot;</em> <br>
 — Christopher McCandless
