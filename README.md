@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes a change of perspective is all it takes to see the light.&quot;</em> <br>
-— Dan Brown
+<em>&quot;Unless a man is master of his soul, all other kinds of mastery amount to little.&quot;</em> <br>
+— Theodore Roosevelt
