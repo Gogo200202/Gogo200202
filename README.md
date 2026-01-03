@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make your mind your own business.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;I believe that one of life's greatest risks is never daring to risk.&quot;</em> <br>
+— Oprah Winfrey
