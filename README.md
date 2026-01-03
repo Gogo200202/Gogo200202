@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sorrow is how we learn to love.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&quot;</em> <br>
+— Audrey Hepburn
