@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is only one thing that makes a dream impossible to achieve: the fear of failure.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;The only way round is through.&quot;</em> <br>
+— Robert Frost
