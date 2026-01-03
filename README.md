@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you believe with feeling becomes your reality. &quot;</em> <br>
-— Brian Tracy
+<em>&quot;If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.&quot;</em> <br>
+— T.S. Eliot
