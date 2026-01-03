@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What do we live for, if it is not to make life less difficult for each other?&quot;</em> <br>
-— George Eliot
+<em>&quot;Because of your smile, you make life more beautiful.&quot;</em> <br>
+— Thich Nhat Hanh
