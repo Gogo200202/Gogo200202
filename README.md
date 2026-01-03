@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Associate with people who are likely to improve you.  &quot;</em> <br>
-— Seneca
+<em>&quot;Whatever you believe with feeling becomes your reality. &quot;</em> <br>
+— Brian Tracy
