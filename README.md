@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The power of human thought grows exponentially with the number of minds that share that thought.&quot;</em> <br>
-— Dan Brown
+<em>&quot;There is only one thing that makes a dream impossible to achieve: the fear of failure.&quot;</em> <br>
+— Paulo Coelho
