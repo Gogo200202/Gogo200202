@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even when a friend does something you do not like, he continues to be your friend. &quot;</em> <br>
-— Genghis Khan
+<em>&quot;Open your mind before your mouth.&quot;</em> <br>
+— Aristophanes
