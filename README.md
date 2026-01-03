@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not about what it is, it's about what it can become.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Failure is a prerequisite for great success. If you want success faster, double your rate of failure.&quot;</em> <br>
+— Brian Tracy
