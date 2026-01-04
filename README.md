@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowing yourself is the beginning of all wisdom.&quot;</em> <br>
-— Aristotle
+<em>&quot;This is such a short and precious life that it's really important that you don't spend it being unhappy.&quot;</em> <br>
+— Naval Ravikant
