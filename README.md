@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Relax. Nothing is under control.&quot;</em> <br>
-— Adi Da Samraj
+<em>&quot;If we have no peace, it is because we have forgotten that we belong to each other.&quot;</em> <br>
+— Mother Teresa
