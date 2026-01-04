@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The truth is simple. If it was complicated, everyone would understand it.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;An investment in knowledge pays the best interest.&quot;</em> <br>
+— Benjamin Franklin
