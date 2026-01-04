@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The dead receive more flowers than the living because regret is stronger than gratitude.&quot;</em> <br>
-— Anne Frank
+<em>&quot;Don't stumble over something that's behind you.&quot;</em> <br>
+— Steve Harvey
