@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't stumble over something that's behind you.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Knowing yourself is the beginning of all wisdom.&quot;</em> <br>
+— Aristotle
