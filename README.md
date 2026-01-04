@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;This is such a short and precious life that it's really important that you don't spend it being unhappy.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;The truth is simple. If it was complicated, everyone would understand it.&quot;</em> <br>
+— Walt Whitman
