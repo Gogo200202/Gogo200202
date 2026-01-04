@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not whether you get knocked down, its whether you get back up.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;The dead receive more flowers than the living because regret is stronger than gratitude.&quot;</em> <br>
+— Anne Frank
