@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let not your mind run on what you lack as much as on what you have already.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&quot;</em> <br>
+— Naval Ravikant
