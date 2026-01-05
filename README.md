@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Chop your own wood and it will warm you twice. &quot;</em> <br>
+— Henry Ford
