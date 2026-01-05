@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who laughs at himself never runs out of things to laugh at.&quot;</em> <br>
-— Epictetus
+<em>&quot;Don't ever save anything for a special occasion. Being alive is the special occasion.&quot;</em> <br>
+— Mary Engelbreit
