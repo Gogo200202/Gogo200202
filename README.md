@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whether you think you can or think you can't – you are right.&quot;</em> <br>
-— Henry Ford
+<em>&quot;If anything is worth doing, do it with all your heart.&quot;</em> <br>
+— Buddha
