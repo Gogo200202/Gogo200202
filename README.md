@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A heart is not judged by how much you love, but by how much you are loved by others.&quot;</em> <br>
-— Judy Garland
+<em>&quot;Let not your mind run on what you lack as much as on what you have already.&quot;</em> <br>
+— Marcus Aurelius
