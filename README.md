@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thinking is the hardest work there is, which is probably the reason why so few engage in it.&quot;</em> <br>
-— Henry Ford
+<em>&quot;The only way round is through.&quot;</em> <br>
+— Robert Frost
