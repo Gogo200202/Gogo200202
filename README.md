@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;You have within you right now, everything you need to deal with whatever the world can throw at you.&quot;</em> <br>
+— Brian Tracy
