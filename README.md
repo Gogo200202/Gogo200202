@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If anything is worth doing, do it with all your heart.&quot;</em> <br>
-— Buddha
+<em>&quot;We don't stop playing because we grow old; we grow old because we stop playing.&quot;</em> <br>
+— George Bernard Shaw
