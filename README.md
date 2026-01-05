@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't ever save anything for a special occasion. Being alive is the special occasion.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;A heart is not judged by how much you love, but by how much you are loved by others.&quot;</em> <br>
+— Judy Garland
