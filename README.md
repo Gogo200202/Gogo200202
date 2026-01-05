@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way round is through.&quot;</em> <br>
-— Robert Frost
+<em>&quot;What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.&quot;</em> <br>
+— T.S. Eliot
