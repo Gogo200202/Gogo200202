@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.&quot;</em> <br>
+— Zen Proverb
