@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All you need is passion. If you have a passion for something, you'll create the talent.&quot;</em> <br>
-— Yanni
+<em>&quot;All human beings can alter their lives by altering their attitudes.&quot;</em> <br>
+— Andrew Carnegie
