@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If the only prayer you ever say in your entire life is thank you, it will be enough.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.&quot;</em> <br>
+— Joan Rivers
