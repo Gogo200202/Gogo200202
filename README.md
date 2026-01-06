@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You have within you right now, everything you need to deal with whatever the world can throw at you.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Walk slowly but never walk backward.&quot;</em> <br>
+— Unknown
