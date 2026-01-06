@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is merely the name for the desire and pursuit of the whole.&quot;</em> <br>
-— Aristophanes
+<em>&quot;The wisdom of life consists in the elimination of the nonessentials.&quot;</em> <br>
+— Lin Yutang
