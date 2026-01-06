@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Today you are you, that is truer than true. There is no one alive who is you-er than you.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Realize deeply that the present moment is all you ever have. &quot;</em> <br>
+— Eckhart Tolle
