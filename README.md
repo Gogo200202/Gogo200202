@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not why the addiction but why the pain.&quot;</em> <br>
-— Gabor Mate
+<em>&quot;Raise your words, not voice. It is rain that grows flowers, not thunder.&quot;</em> <br>
+— Rumi
