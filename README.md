@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The difference between impossible and possible is a willing heart.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;To forgive means pardoning the unpardonable.&quot;</em> <br>
+— Gilbert Chesterton
