@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Constantly think about how you could be doing things better.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Always turn a negative situation into a positive situation.&quot;</em> <br>
+— Michael Jordan
