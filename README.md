@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To forgive means pardoning the unpardonable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.&quot;</em> <br>
+— Henry Ward Beecher
