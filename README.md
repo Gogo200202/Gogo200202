@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be able to forget means sanity.&quot;</em> <br>
-— Jack London
+<em>&quot;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&quot;</em> <br>
+— Sonia Ricotti
