@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Opportunity is missed by most people because it is dressed in overalls and looks like work.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Productize your perspective.&quot;</em> <br>
+— Jack Butcher
