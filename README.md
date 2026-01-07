@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;Character is the result of two things: mental attitude and the way we spend our time.&quot;</em> <br>
+— Elbert Hubbard
