@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let us always meet each other with smile, for the smile is the beginning of love.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;If they wrote it to make money, don't read it.&quot;</em> <br>
+— Naval Ravikant
