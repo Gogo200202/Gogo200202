@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Productize your perspective.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.&quot;</em> <br>
+— Dan Millman
