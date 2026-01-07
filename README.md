@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always turn a negative situation into a positive situation.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Act as if what you do makes a difference. It does.&quot;</em> <br>
+— William James
