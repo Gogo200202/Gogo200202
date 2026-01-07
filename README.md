@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;The difference between impossible and possible is a willing heart.&quot;</em> <br>
+— Lolly Daskal
