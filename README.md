@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Constantly think about how you could be doing things better.&quot;</em> <br>
+— Elon Musk
