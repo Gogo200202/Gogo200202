@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take responsibility of your own happiness, never put it in other people's hands.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Stress happens when the mind resists what is.&quot;</em> <br>
+— Dan Millman
