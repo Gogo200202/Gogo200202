@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The future is the worst thing about the present.&quot;</em> <br>
+— Gustave Flaubert
