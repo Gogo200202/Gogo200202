@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't make things happen then things will happen to you.&quot;</em> <br>
-— Robert Collier
+<em>&quot;Take responsibility of your own happiness, never put it in other people's hands.&quot;</em> <br>
+— Roy T. Bennett
