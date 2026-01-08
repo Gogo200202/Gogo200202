@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is always risk, so learn to manage risk instead of avoiding it.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Age is a very high price to pay for maturity.&quot;</em> <br>
+— William James
