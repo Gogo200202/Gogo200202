@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It doesn't matter where you are, you are nowhere compared to where you can go.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;Our truest life is when we are in dreams awake.&quot;</em> <br>
+— Henry David Thoreau
