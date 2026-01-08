@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Great things are not accomplished by those who yield to trends and fads and popular opinion.&quot;</em> <br>
+— Jack Kerouac
