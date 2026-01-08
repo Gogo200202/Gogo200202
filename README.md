@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is the worst thing about the present.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
+— Lao Tzu
