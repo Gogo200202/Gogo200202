@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Gratitude is the fairest blossom which springs from the soul.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Normal is the average of deviance.&quot;</em> <br>
+— Rita Mae Brown
