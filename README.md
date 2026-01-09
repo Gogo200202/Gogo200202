@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
-— Woody Allen
+<em>&quot;There is peace even in the storm.&quot;</em> <br>
+— Vincent van Gogh
