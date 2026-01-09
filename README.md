@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death smiles at us all. All we can do is smile back.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;A different result requires doing something different.&quot;</em> <br>
+— Gary Keller
