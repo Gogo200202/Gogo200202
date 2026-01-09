@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Science can flourish only in an atmosphere of free speech. &quot;</em> <br>
-— Albert Einstein
+<em>&quot;The smallest of actions is always better than the noblest of intentions.&quot;</em> <br>
+— Robin Sharma
