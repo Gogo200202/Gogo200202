@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The man who moved the mountain was the one who began carrying away the smallest stones.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;The most wasted day of all is that on which we have not laughed.&quot;</em> <br>
+— Nicolas Chamfort
