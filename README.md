@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am thankful to all who said no to me. It is because of them that I'm doing it myself.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Life is about not knowing and then doing something anyway.&quot;</em> <br>
+— Mark Manson
