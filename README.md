@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is peace even in the storm.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
+— Seneca
