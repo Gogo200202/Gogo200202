@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
-— Seneca
+<em>&quot;Death smiles at us all. All we can do is smile back.&quot;</em> <br>
+— Marcus Aurelius
