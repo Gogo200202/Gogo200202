@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is about not knowing and then doing something anyway.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Talent is luck. The important thing in life is courage.&quot;</em> <br>
+— Woody Allen
