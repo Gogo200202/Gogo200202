@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most wasted day of all is that on which we have not laughed.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Gratitude is the fairest blossom which springs from the soul.&quot;</em> <br>
+— Henry Ward Beecher
