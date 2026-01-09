@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is simply the opportunity to begin again, this time more intelligently.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Science can flourish only in an atmosphere of free speech. &quot;</em> <br>
+— Albert Einstein
