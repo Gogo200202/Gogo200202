@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If a thing is worth doing, it is worth doing badly.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Life without love is like a tree without blossoms or fruit.&quot;</em> <br>
+— Kahlil Gibran
