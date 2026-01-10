@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is within the reach of just about everyone.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Big people don't make people feel small.&quot;</em> <br>
+— Robin Sharma
