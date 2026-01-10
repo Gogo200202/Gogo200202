@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Eighty percent of success is showing up. &quot;</em> <br>
-— Woody Allen
+<em>&quot;To seek is to suffer. To seek nothing is bliss.&quot;</em> <br>
+— Bodhidharma
