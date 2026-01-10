@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
+— Sathya Sai Baba
