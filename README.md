@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. &quot;</em> <br>
-— W. Clement Stone
+<em>&quot;Success is within the reach of just about everyone.&quot;</em> <br>
+— Lolly Daskal
