@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most people spend more time and energy going around problems than in trying to solve them. &quot;</em> <br>
-— Henry Ford
+<em>&quot;The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.&quot;</em> <br>
+— Deepak Chopra
