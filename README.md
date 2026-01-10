@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All leaders are readers.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Strategy is a commodity, execution is an art.&quot;</em> <br>
+— Peter Drucker
