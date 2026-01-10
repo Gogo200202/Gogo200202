@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To seek is to suffer. To seek nothing is bliss.&quot;</em> <br>
-— Bodhidharma
+<em>&quot;Most people spend more time and energy going around problems than in trying to solve them. &quot;</em> <br>
+— Henry Ford
