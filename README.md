@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life without love is like a tree without blossoms or fruit.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.&quot;</em> <br>
+— D. H. Lawrence
