@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Strategy is a commodity, execution is an art.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;If a thing is worth doing, it is worth doing badly.&quot;</em> <br>
+— Gilbert Chesterton
