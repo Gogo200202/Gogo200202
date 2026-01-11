@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do one thing every day that scares you.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;An un-examined life is not worth living.&quot;</em> <br>
+— Socrates
