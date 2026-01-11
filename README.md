@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Do one thing every day that scares you.&quot;</em> <br>
+— Eleanor Roosevelt
