@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is and will ever remain an equation incapable of solution, but it contains certain known factors. &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
+— Audrey Hepburn
