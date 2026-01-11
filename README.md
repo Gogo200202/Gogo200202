@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you're the only sane person, you look like the only insane person.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Forget safety. Live where you fear to live.&quot;</em> <br>
+— Rumi
