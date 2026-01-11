@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Life is and will ever remain an equation incapable of solution, but it contains certain known factors. &quot;</em> <br>
+— Nikola Tesla
