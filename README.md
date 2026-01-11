@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change yourself and you have done your part in changing the world.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.&quot;</em> <br>
+— Sun Tzu
