@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whenever people agree with me I always feel I must be wrong.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;The pursuit of mastery bears gifts. &quot;</em> <br>
+— Gary Keller
