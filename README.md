@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;A zen master's life is one continuous mistake.&quot;</em> <br>
+— Dogen
