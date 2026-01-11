@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pursuit of mastery bears gifts. &quot;</em> <br>
-— Gary Keller
+<em>&quot;When the world pushes you to your knees, you're in the perfect position to pray.&quot;</em> <br>
+— Rumi
