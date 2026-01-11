@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An un-examined life is not worth living.&quot;</em> <br>
-— Socrates
+<em>&quot;To lose your temper is only useful once a year.&quot;</em> <br>
+— Colin R. Davis
