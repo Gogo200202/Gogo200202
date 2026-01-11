@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To lose your temper is only useful once a year.&quot;</em> <br>
-— Colin R. Davis
+<em>&quot;A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.&quot;</em> <br>
+— Charles Dickens
