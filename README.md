@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't listen to the person who has the answers; listen to the person who has the questions.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;It's necessary to get the losers out of your life if you want to live your dream.&quot;</em> <br>
+— Les Brown
