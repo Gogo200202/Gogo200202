@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only when one allows themself the right to die, do they then give yourself the permission to live.&quot;</em> <br>
-— C. Sean McGee
+<em>&quot;Life is the dancer and you are the dance.&quot;</em> <br>
+— Eckhart Tolle
