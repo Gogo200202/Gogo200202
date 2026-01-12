@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The primary cause of unhappiness is never the situation but your thoughts about it.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;The dream is free, but the hustle is sold separately.&quot;</em> <br>
+— Steve Harvey
