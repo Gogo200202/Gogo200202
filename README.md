@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&quot;</em> <br>
+— Zig Ziglar
