@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The dream is free, but the hustle is sold separately.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;A good character is the best tombstone. Carve your name on hearts, not on marble.&quot;</em> <br>
+— Charles Spurgeon
