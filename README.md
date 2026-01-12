@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is impossible. The word itself says 'I'm possible!'&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;There is no value in anything until it is finished. &quot;</em> <br>
+— Genghis Khan
