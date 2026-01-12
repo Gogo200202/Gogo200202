@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no value in anything until it is finished. &quot;</em> <br>
-— Genghis Khan
+<em>&quot;Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.&quot;</em> <br>
+— Norman Vincent Peale
