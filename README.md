@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A good character is the best tombstone. Carve your name on hearts, not on marble.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;Don't listen to the person who has the answers; listen to the person who has the questions.&quot;</em> <br>
+— Albert Einstein
