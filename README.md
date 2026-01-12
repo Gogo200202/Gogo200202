@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't settle, and don't struggle.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;The quicker you let go of old cheese, the sooner you find new cheese.&quot;</em> <br>
+— Spencer Johnson
