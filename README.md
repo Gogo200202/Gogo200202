@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
-— Unknown
+<em>&quot;Only when one allows themself the right to die, do they then give yourself the permission to live.&quot;</em> <br>
+— C. Sean McGee
