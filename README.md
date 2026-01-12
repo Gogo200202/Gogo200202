@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quicker you let go of old cheese, the sooner you find new cheese.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Successful people ask better questions, and as a result, they get better answers.&quot;</em> <br>
+— Tony Robbins
