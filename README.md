@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Successful people ask better questions, and as a result, they get better answers.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
+— Unknown
