@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live calmly. The time will come when the flowers bloom by themselves.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Life is not a problem to be solved, but a reality to be experienced.&quot;</em> <br>
+— Soren Kierkegaard
