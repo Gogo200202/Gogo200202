@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Your time is limited, so don't waste it living someone elses. life.&quot;</em> <br>
+— Steve Jobs
