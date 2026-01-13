@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Shoot for the moon. Even if you miss, you'll land among the stars.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;We must cultivate our garden. &quot;</em> <br>
+— Voltaire
