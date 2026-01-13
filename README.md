@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Human beings can alter their lives by altering their attitudes of mind.&quot;</em> <br>
-— William James
+<em>&quot;It's the possibility of having a dream come true that makes life interesting.&quot;</em> <br>
+— Paulo Coelho
