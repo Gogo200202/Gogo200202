@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your time is limited, so don't waste it living someone elses. life.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
+— Sathya Sai Baba
