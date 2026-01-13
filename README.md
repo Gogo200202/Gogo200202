@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Art is the signature of civilizations. &quot;</em> <br>
+— Beverly Sills
