@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Becoming a great leader doesn't mean being perfect. it means living with your imperfections.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Shoot for the moon. Even if you miss, you'll land among the stars.&quot;</em> <br>
+— Norman Vincent Peale
