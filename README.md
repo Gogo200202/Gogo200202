@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's the possibility of having a dream come true that makes life interesting.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Ask no questions, and you'll be told no lies.&quot;</em> <br>
+— Charles Dickens
