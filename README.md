@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're on earth. There's no cure for that.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Life is one long process of getting tired.&quot;</em> <br>
+— Samuel Butler
