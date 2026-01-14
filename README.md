@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you take responsibility for yourself you will develop a hunger to accomplish your dream.&quot;</em> <br>
-— Les Brown
+<em>&quot;Life is simply what our feelings do to us.&quot;</em> <br>
+— Honore de Balzac
