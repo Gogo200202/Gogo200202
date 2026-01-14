@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is simply what our feelings do to us.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;He who cheats the earth will be cheated by the earth.&quot;</em> <br>
+— Chinese Proverb
