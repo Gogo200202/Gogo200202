@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A Rolling Stone Gathers No Moss.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Loss is nothing else but change and change is nature's delight.&quot;</em> <br>
+— Marcus Aurelius
