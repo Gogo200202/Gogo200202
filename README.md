@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&quot;</em> <br>
-— Criss Jami
+<em>&quot;The glow of one warm thought is to me worth more than money.&quot;</em> <br>
+— Thomas Jefferson
