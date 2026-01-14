@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is easier than fault finding.&quot;</em> <br>
-— Og Mandino
+<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
+— Herman Melville
