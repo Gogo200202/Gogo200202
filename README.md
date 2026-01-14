@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you've never eaten while crying you don t know what life tastes like.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;You're on earth. There's no cure for that.&quot;</em> <br>
+— Samuel Beckett
