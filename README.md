@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
-— Herman Melville
+<em>&quot;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&quot;</em> <br>
+— Criss Jami
