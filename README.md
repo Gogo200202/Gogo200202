@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who cheats the earth will be cheated by the earth.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Nothing is easier than fault finding.&quot;</em> <br>
+— Og Mandino
