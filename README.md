@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The glow of one warm thought is to me worth more than money.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Judge a man by his questions rather than his answers.&quot;</em> <br>
+— Voltaire
