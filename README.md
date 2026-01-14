@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loss is nothing else but change and change is nature's delight.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.&quot;</em> <br>
+— Carl Jung
