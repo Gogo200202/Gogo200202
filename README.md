@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not to be pursued, it is to be attracted by the person you become.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Others can stop you temporarily - you are the only one who can do it permanently.&quot;</em> <br>
+— Zig Ziglar
