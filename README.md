@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is the true magic carpet.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.&quot;</em> <br>
+— Paramahansa Yogananda
