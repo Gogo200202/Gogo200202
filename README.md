@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I've always lived in the moment.&quot;</em> <br>
-— Yanni
+<em>&quot;Nature is pleased with simplicity. And nature is no dummy.&quot;</em> <br>
+— Isaac Newton
