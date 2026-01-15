@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We forge the chains we wear in life.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
+— Heraclitus
