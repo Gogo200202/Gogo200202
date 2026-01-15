@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The strongest and sweetest songs yet remain to be sung.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&quot;</em> <br>
+— Maxime Lagace
