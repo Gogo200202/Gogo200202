@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;We forge the chains we wear in life.&quot;</em> <br>
+— Charles Dickens
