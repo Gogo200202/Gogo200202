@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talk sense to a fool and he calls you foolish.&quot;</em> <br>
-— Euripides
+<em>&quot;Take into account that great love and great achievements involve great risk.&quot;</em> <br>
+— Dalai Lama
