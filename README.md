@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
-— Heraclitus
+<em>&quot;The strength of a wall is neither greater nor less than the courage of the men who defend it. &quot;</em> <br>
+— Genghis Khan
