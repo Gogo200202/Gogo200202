@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Others can stop you temporarily - you are the only one who can do it permanently.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;People who bite the hand that feeds them usually lick the boot that kicks them.&quot;</em> <br>
+— Eric Hoffer
