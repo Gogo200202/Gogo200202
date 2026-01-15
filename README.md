@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Imagination is the true magic carpet.&quot;</em> <br>
+— Norman Vincent Peale
