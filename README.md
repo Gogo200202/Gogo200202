@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our joy does not have to be based on our circumstances.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;I am not the outcome. I am never the result. I am only the effort.&quot;</em> <br>
+— Kamal Ravikant
