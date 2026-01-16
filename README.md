@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes you have to travel a long way to find what is near.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.&quot;</em> <br>
+— John Tukey
