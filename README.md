@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Small men think they are small; great men never know they are great. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;An investment in knowledge pays the best interest.&quot;</em> <br>
+— Benjamin Franklin
