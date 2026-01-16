@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An investment in knowledge pays the best interest.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Every day is an opportunity to a make a new happy ending.&quot;</em> <br>
+— Jonathan Swift
