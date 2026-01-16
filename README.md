@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're on earth. There's no cure for that.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Sometimes you have to travel a long way to find what is near.&quot;</em> <br>
+— Paulo Coelho
