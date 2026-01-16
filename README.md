@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot teach a crab to walk straight.&quot;</em> <br>
-— Aristophanes
+<em>&quot;If you do what you've always done, you'll get what you've always gotten.&quot;</em> <br>
+— Tony Robbins
