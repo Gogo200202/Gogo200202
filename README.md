@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People who bite the hand that feeds them usually lick the boot that kicks them.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;You cannot teach a crab to walk straight.&quot;</em> <br>
+— Aristophanes
