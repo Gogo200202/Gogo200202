@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wise man reads both books and life itself.&quot;</em> <br>
-— Lin Yutang
+<em>&quot;Small men think they are small; great men never know they are great. &quot;</em> <br>
+— Chinese Proverb
