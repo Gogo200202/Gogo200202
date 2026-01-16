@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The difference between winning and losing is most often not quitting.&quot;</em> <br>
-— Walt Disney
+<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
+— Leo Tolstoy
