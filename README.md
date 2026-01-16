@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I pay attention to every minute of the day.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.&quot;</em> <br>
+— Dr. Seuss
