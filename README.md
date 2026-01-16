@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do what you've always done, you'll get what you've always gotten.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The wise man reads both books and life itself.&quot;</em> <br>
+— Lin Yutang
