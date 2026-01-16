@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;None of us can change our yesterdays but all of us can change our tomorrows.&quot;</em> <br>
+— Colin Powell
