@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is often safer to be in chains than to be free. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;Everything you've ever wanted is on the other side of fear.&quot;</em> <br>
+— Brian Tracy
