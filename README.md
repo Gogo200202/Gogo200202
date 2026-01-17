@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
+— Carlos Ruiz Zafon
