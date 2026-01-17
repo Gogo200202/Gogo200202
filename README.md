@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Over time, loneliness gets inside you and doesn't go away.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Be willing to be a beginner every single morning.&quot;</em> <br>
+— Meister Eckhart
