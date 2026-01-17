@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&quot;</em> <br>
+— Franklin D. Roosevelt
