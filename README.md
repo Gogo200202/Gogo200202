@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your business is not to 'get somewhere' - it is to be here.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Life is the dancer and you are the dance.&quot;</em> <br>
+— Eckhart Tolle
