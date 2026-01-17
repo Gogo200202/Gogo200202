@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To love means loving the unlovable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;It is often safer to be in chains than to be free. &quot;</em> <br>
+— Franz Kafka
