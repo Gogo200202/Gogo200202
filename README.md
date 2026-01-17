@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever happens always happens on time.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.&quot;</em> <br>
+— Criss Jami
