@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do all things with love.&quot;</em> <br>
-— Og Mandino
+<em>&quot;If we will be quiet and ready enough, we shall find compensation in every disappointment.&quot;</em> <br>
+— Henry David Thoreau
