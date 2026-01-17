@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything you've ever wanted is on the other side of fear.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.&quot;</em> <br>
+— Norman Vincent Peale
