@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If we will be quiet and ready enough, we shall find compensation in every disappointment.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Whatever happens always happens on time.&quot;</em> <br>
+— Zen Proverb
