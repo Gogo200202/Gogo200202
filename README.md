@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Never waste a minute of your precious life thinking about people you don't like.&quot;</em> <br>
+— Celestine Chua
