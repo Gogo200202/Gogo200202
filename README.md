@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A dream doesn't become reality through magic it takes sweat, determination and hard work.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
+— Jack Butcher
