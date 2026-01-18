@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&quot;</em> <br>
+— Heraclitus
