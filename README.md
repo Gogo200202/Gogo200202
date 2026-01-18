@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Create each day anew.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Every day do something that will inch you closer to a better tomorrow.&quot;</em> <br>
+— Unknown
