@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;When it is dark enough, you can see the stars.&quot;</em> <br>
+— Ralph Waldo Emerson
