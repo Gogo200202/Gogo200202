@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day do something that will inch you closer to a better tomorrow.&quot;</em> <br>
-— Unknown
+<em>&quot;Rivers know this: there is no hurry. We shall get there some day.&quot;</em> <br>
+— A.A. Milne
