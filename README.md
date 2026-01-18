@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The man who moved the mountain was the one who began carrying away the smallest stones.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Opportunity comes when you continually push forward.&quot;</em> <br>
+— Sonia Ricotti
