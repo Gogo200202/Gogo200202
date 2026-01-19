@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to make God laugh, tell him about your plans. &quot;</em> <br>
-— Woody Allen
+<em>&quot;I would rather be hated for who I am than loved for who I'm not.  &quot;</em> <br>
+— Wayne Dyer
