@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pen is the tongue of the mind. &quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;It's not what we do once in a while that shapes our lives, but what we do consistently.&quot;</em> <br>
+— Tony Robbins
