@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not what we do once in a while that shapes our lives, but what we do consistently.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Nothing is more real than nothing.&quot;</em> <br>
+— Samuel Beckett
