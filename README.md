@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams provide nourishment for the soul, just as a meal does for the body.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
+— Audrey Hepburn
