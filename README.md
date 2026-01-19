@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is more real than nothing.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;You can't let your failures define you. You have to let your failures teach you.&quot;</em> <br>
+— Barack Obama
