@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always seek out the seed of triumph in every adversity.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.&quot;</em> <br>
+— Alexander Pope
