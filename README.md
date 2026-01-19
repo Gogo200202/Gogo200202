@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your purpose will be clear only when you listen to your heart.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Every time we liberate a woman, we liberate a man. &quot;</em> <br>
+— Margaret Mead
