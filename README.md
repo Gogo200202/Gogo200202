@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Lost Time is never found again.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Rest in reason; move in passion.&quot;</em> <br>
+— Kahlil Gibran
