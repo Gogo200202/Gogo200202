@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When at last you are come to the ocean of happiness, do not go back thirsty.&quot;</em> <br>
-— Kabir
+<em>&quot;You don't need a weatherman to know which way the wind blows.&quot;</em> <br>
+— Bob Dylan
