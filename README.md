@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is getting what you want... Happiness is wanting what you get.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Any idea, plan, or purpose may be placed in the mind through repetition of thought.&quot;</em> <br>
+— Napoleon Hill
