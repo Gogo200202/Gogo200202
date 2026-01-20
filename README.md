@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Rest in reason; move in passion.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;When at last you are come to the ocean of happiness, do not go back thirsty.&quot;</em> <br>
+— Kabir
