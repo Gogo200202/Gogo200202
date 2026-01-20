@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No grand idea was ever born in a conference, but a lot of foolish ideas have died there.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Trust thyself: every heart vibrates to that iron string.&quot;</em> <br>
+— Ralph Waldo Emerson
