@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The price of inaction is far greater than the cost of making a mistake.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.&quot;</em> <br>
+— Eric Hoffer
