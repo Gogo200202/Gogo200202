@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Any idea, plan, or purpose may be placed in the mind through repetition of thought.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;The price of inaction is far greater than the cost of making a mistake.&quot;</em> <br>
+— Meister Eckhart
