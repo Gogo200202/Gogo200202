@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;It is better to change an opinion than to persist in a wrong one.&quot;</em> <br>
+— Socrates
