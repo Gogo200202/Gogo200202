@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't need a weatherman to know which way the wind blows.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.&quot;</em> <br>
+— Kamal Ravikant
