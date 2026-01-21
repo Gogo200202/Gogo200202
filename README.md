@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The truly rich men are the ones who have health, loved ones and a work they love.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Life is love and love is life.&quot;</em> <br>
+— Elvis Presley
