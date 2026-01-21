@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peace is letting it be. Letting life flow, letting emotions flow through you.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Hold yourself responsible for a higher standard than anybody else expects of you.&quot;</em> <br>
+— Henry Ward Beecher
