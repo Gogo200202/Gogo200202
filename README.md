@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The real meditation is how you live your life.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;You are the only real obstacle in your path to a fulfilling life.&quot;</em> <br>
+— Les Brown
