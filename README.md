@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is not a problem to be solved, but a reality to be experienced.&quot;</em> <br>
-— Soren Kierkegaard
+<em>&quot;Peace is letting it be. Letting life flow, letting emotions flow through you.&quot;</em> <br>
+— Kamal Ravikant
