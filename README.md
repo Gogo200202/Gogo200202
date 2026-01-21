@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hold yourself responsible for a higher standard than anybody else expects of you.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.&quot;</em> <br>
+— Alfred Adler
