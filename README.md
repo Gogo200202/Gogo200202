@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You already have every characteristic necessary for success if you recognize, claim, develop and use them.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Discontent is the first necessity of progress.&quot;</em> <br>
+— Thomas Edison
