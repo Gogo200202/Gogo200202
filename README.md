@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;The truly rich men are the ones who have health, loved ones and a work they love.&quot;</em> <br>
+— Maxime Lagace
