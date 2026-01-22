@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is an option, fear is not.&quot;</em> <br>
-— James Cameron
+<em>&quot;Not how long, but how well you have lived is the main thing.&quot;</em> <br>
+— Seneca
