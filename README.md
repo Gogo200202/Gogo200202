@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Youth has no age.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Work out your own salvation. Do not depend on others.&quot;</em> <br>
+— Buddha
