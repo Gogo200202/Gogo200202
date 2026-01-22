@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If fear is too strong, the genius is suppressed.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The way to get started is to quit talking and begin doing.&quot;</em> <br>
+— Walt Disney
