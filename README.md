@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can, you should, and if you're brave enough to start, you will.&quot;</em> <br>
-— Stephen King
+<em>&quot;If you care about someone enough, you'll always be there for them no matter what.&quot;</em> <br>
+— Roy T. Bennett
