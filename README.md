@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you care about someone enough, you'll always be there for them no matter what.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The best teacher is experience and not through someone's distorted point of view.&quot;</em> <br>
+— Jack Kerouac
