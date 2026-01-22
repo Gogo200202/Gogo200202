@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time doesn't heal emotional pain, you need to learn how to let go.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Never close your lips to those whom you have already opened your heart.&quot;</em> <br>
+— Charles Dickens
