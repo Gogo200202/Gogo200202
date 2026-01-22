@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&quot;</em> <br>
+— Unknown
