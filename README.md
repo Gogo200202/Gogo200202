@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best teacher is experience and not through someone's distorted point of view.&quot;</em> <br>
-— Jack Kerouac
+<em>&quot;Time doesn't heal emotional pain, you need to learn how to let go.&quot;</em> <br>
+— Roy T. Bennett
