@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way to get started is to quit talking and begin doing.&quot;</em> <br>
-— Walt Disney
+<em>&quot;FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.&quot;</em> <br>
+— Zig Ziglar
