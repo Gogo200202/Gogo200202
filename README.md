@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.&quot;</em> <br>
+— Kamal Ravikant
