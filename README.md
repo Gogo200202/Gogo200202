@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you think the world is withholding from you, you are withholding from the world.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Actions are the seeds of fate. Deeds grow into destiny.&quot;</em> <br>
+— Harry S. Truman
