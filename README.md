@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise man will be master of his mind, a fool will be its slave.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Whatever you think the world is withholding from you, you are withholding from the world.&quot;</em> <br>
+— Eckhart Tolle
