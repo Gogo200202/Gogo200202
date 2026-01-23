@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winners don't Quit. That's why they Win.&quot;</em> <br>
-— Unknown
+<em>&quot;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&quot;</em> <br>
+— Honore de Balzac
