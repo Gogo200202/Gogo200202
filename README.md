@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Actions are the seeds of fate. Deeds grow into destiny.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.&quot;</em> <br>
+— Morihei Ueshiba
