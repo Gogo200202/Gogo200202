@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.&quot;</em> <br>
+— Anita Krizzan
