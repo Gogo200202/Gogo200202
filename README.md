@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
+— Eric Hoffer
