@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never say never, because limits, like fears, are often just an illusion.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Great things happen to those who don't stop believing, trying, learning, and being grateful.&quot;</em> <br>
+— Roy T. Bennett
