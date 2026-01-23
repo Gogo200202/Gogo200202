@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&quot;</em> <br>
-— Stephen King
+<em>&quot;Throw your heart over the bar and your body will follow.&quot;</em> <br>
+— Norman Vincent Peale
