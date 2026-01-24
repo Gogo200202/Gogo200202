@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep your friends close, and your enemies closer.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;You become a worrier by practicing worry. You become free of worry by practicing the opposite.&quot;</em> <br>
+— Norman Vincent Peale
