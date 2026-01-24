@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only reason to be alive is to enjoy it.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Either write something worth reading or do something worth writing.&quot;</em> <br>
+— Benjamin Franklin
