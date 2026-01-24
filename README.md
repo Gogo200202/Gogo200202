@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enjoy life. There's plenty of time to be dead.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Don't blame others. it won't make you a better person.&quot;</em> <br>
+— Lolly Daskal
