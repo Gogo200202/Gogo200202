@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Keep your friends close, and your enemies closer.&quot;</em> <br>
+— Sun Tzu
