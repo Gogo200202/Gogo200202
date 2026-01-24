@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Reversing your treatment of the man you have wronged is better than asking his forgiveness.&quot;</em> <br>
+— Elbert Hubbard
