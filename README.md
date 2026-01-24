@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You become a worrier by practicing worry. You become free of worry by practicing the opposite.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Your life does not get better by chance, it gets better by change.&quot;</em> <br>
+— Jim Rohn
