@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be able to forget means sanity.&quot;</em> <br>
-— Jack London
+<em>&quot;Confuse them with your silence and amaze them with your actions.&quot;</em> <br>
+— Unknown
