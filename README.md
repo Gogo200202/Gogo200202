@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't blame others. it won't make you a better person.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;The only reason to be alive is to enjoy it.&quot;</em> <br>
+— Rita Mae Brown
