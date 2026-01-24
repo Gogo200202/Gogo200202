@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your life does not get better by chance, it gets better by change.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Enjoy life. There's plenty of time to be dead.&quot;</em> <br>
+— Hans Christian Andersen
