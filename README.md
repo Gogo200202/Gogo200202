@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't have anything worthwhile without difficulties.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;To be able to forget means sanity.&quot;</em> <br>
+— Jack London
