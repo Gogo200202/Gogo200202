@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are what you believe in. You become that which you believe you can become.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.&quot;</em> <br>
+— Richard Bach
