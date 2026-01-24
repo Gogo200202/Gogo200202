@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A Penny Saved is a Penny Earned&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;You can't have anything worthwhile without difficulties.&quot;</em> <br>
+— Harry S. Truman
