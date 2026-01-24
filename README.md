@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Either write something worth reading or do something worth writing.&quot;</em> <br>
+<em>&quot;A Penny Saved is a Penny Earned&quot;</em> <br>
 — Benjamin Franklin
