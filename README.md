@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throw your heart over the bar and your body will follow.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Time is more valuable than money. You can get more money, but you cannot get more time.&quot;</em> <br>
+— Jim Rohn
