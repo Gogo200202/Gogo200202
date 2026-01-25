@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more perfect a person is on the outside, the more demons they have on the inside.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Never do things others can do and will do if there are things others cannot do or will not do.&quot;</em> <br>
+— Amelia Earhart
