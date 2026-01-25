@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;It is easier to fight for one's principles than to live up to them. &quot;</em> <br>
+— Alfred Adler
