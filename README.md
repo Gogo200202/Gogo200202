@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I would rather be a little nobody, then to be an evil somebody.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;The only thing more frustrating than slanderers is those foolish enough to listen to them.&quot;</em> <br>
+— Criss Jami
