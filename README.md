@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Every poem should remind the reader that they are going to die.&quot;</em> <br>
+— Edgar Allan Poe
