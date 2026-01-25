@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Supreme excellence consists of breaking the enemy's resistance without fighting.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Persistence is very important. You should not give up unless you are forced to give up.&quot;</em> <br>
+— Elon Musk
