@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no path to Love. Love is the path.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Given the choice between the experience of pain and nothing, I would choose pain.&quot;</em> <br>
+— William Faulkner
