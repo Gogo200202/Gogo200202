@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing more frustrating than slanderers is those foolish enough to listen to them.&quot;</em> <br>
-— Criss Jami
+<em>&quot;There is no path to Love. Love is the path.&quot;</em> <br>
+— Dan Millman
