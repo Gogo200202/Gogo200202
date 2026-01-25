@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
+— Og Mandino
