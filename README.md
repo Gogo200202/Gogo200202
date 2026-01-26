@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't know where you're going, you will probably end up somewhere else.&quot;</em> <br>
-— Laurence J. Peter
+<em>&quot;People who say it cannot be done should not interrupt those who are doing it.&quot;</em> <br>
+— George Bernard Shaw
