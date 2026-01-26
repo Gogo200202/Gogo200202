@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not the love you make. It's the love you give. &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;Knowledge isn't power until it is applied.&quot;</em> <br>
+— Dale Carnegie
