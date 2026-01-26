@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hold yourself responsible for a higher standard than anybody else expects of you.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.&quot;</em> <br>
+— Sigmund Freud
