@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Give a girl the right shoes, and she can conquer the world.&quot;</em> <br>
-— Bette Midler
+<em>&quot;No one can hurt you without your consent.&quot;</em> <br>
+— Eleanor Roosevelt
