@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowledge isn't power until it is applied.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.&quot;</em> <br>
+— Elbert Hubbard
