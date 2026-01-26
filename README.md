@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you see yourself as prosperous, you will be.&quot;</em> <br>
-— Robert Collier
+<em>&quot;The quality, not the longevity, of one's life is what is important.&quot;</em> <br>
+— Martin Luther King, Jr.
