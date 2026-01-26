@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can have the mind or you can have the moment.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Hold yourself responsible for a higher standard than anybody else expects of you.&quot;</em> <br>
+— Henry Ward Beecher
