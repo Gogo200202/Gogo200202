@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;If we will be quiet and ready enough, we shall find compensation in every disappointment.&quot;</em> <br>
+— Henry David Thoreau
