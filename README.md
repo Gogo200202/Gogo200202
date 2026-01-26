@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The people who succeed are irrationally passionate about something.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.&quot;</em> <br>
+— Eckhart Tolle
