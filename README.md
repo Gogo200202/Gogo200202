@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who attain the middle Dominate the whole.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;The more knowledge you have, the more you're free to rely on your instincts.&quot;</em> <br>
+— Arnold Schwarzenegger
