@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more knowledge you have, the more you're free to rely on your instincts.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Life moves on and so should we.&quot;</em> <br>
+— Spencer Johnson
