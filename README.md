@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let the silly little dramas of each day get you down. For you are here to do great things.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;It's easy to be a critic, but being a doer requires effort, risk, and change.  &quot;</em> <br>
+— Wayne Dyer
