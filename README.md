@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's easy to be a critic, but being a doer requires effort, risk, and change.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Knowledge isn't power until it is applied.&quot;</em> <br>
+— Dale Carnegie
