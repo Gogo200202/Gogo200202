@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The thing about smart people is that they seem like crazy people to dumb people.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
+— Rumi
