@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I've always lived in the moment.&quot;</em> <br>
-— Yanni
+<em>&quot;Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.&quot;</em> <br>
+— Sonia Ricotti
