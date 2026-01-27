@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;Be thankful for everything that happens in your life; it's all an experience.&quot;</em> <br>
+— Roy T. Bennett
