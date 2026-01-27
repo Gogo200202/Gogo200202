@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowledge isn't power until it is applied.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. &quot;</em> <br>
+— Henry Ford
