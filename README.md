@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do something to move yourself toward your major goal every day.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
+— Shahir Zag
