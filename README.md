@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Among the things you can give and still keep are your word, a smile, and a grateful heart.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The goal of an artist is to create the definitive work that cannot be surpassed.&quot;</em> <br>
+— George Bernard Shaw
