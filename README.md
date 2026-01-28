@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless a man is master of his soul, all other kinds of mastery amount to little.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Live and act within the limit of your knowledge and keep expanding it to the limit of your life.&quot;</em> <br>
+— Ayn Rand
