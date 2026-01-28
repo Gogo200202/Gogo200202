@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The goal of an artist is to create the definitive work that cannot be surpassed.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Do something to move yourself toward your major goal every day.&quot;</em> <br>
+— Brian Tracy
