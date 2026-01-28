@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only by attracting the best people will you accomplish great deeds.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Unless a man is master of his soul, all other kinds of mastery amount to little.&quot;</em> <br>
+— Theodore Roosevelt
