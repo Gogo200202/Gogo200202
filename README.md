@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You never know when a moment and a few sincere words can have an impact on a life.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Only by attracting the best people will you accomplish great deeds.&quot;</em> <br>
+— Colin Powell
