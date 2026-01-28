@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
+<em>&quot;Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.&quot;</em> <br>
 — Rumi
