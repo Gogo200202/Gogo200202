@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you chase two rabbits, you catch none.&quot;</em> <br>
-— Confucius
+<em>&quot;There is no significance in life without struggle.&quot;</em> <br>
+— Lolly Daskal
