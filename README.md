@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't just sit there. Do something. The answers will follow.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Don't let the behavior of others destroy your inner peace.&quot;</em> <br>
+— Dalai Lama
