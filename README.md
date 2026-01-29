@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No great mind has ever existed without a touch of madness.&quot;</em> <br>
-— Aristotle
+<em>&quot;Take care of your cents: dollars will take care of themselves.&quot;</em> <br>
+— Thomas Jefferson
