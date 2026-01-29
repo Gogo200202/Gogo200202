@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take care of your cents: dollars will take care of themselves.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;However difficult life may seem, there is always something you can do and succeed at.&quot;</em> <br>
+— Stephen Hawking
