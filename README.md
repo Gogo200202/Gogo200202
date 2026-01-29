@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't Let Yesterday Take Up Too Much Of Today.&quot;</em> <br>
-— Will Rogers
+<em>&quot;Until we can manage time, we can manage nothing else.&quot;</em> <br>
+— Peter Drucker
