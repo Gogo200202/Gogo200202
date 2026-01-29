@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;To be fully alive is to feel that everything is possible.&quot;</em> <br>
+— Eric Hoffer
