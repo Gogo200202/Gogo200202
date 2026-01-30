@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Listen to what you know instead of what you fear.&quot;</em> <br>
-— Richard Bach
+<em>&quot;What's the point in being smart enough to read, if everything you read makes you dumb?&quot;</em> <br>
+— C. Sean McGee
