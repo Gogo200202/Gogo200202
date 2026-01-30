@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take care of your body. It's the only place you have to live.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;There's a very deep connection among human beings. All we have to do is open our minds to it.&quot;</em> <br>
+— Yanni
