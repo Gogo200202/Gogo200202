@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What's the point in being smart enough to read, if everything you read makes you dumb?&quot;</em> <br>
-— C. Sean McGee
+<em>&quot;Success is built sequentially. It's one thing at a time.&quot;</em> <br>
+— Gary Keller
