@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without education, we are in a horrible and deadly danger of taking educated people seriously.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Listen to what you know instead of what you fear.&quot;</em> <br>
+— Richard Bach
