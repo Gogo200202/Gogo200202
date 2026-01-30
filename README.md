@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words can only have a positive effect on others if and when they are ready to listen.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
+— Charles Darwin
