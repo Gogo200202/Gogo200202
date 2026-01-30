@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Boldness makes even the smallest animal dangerous.&quot;</em> <br>
-— Robert Greene
+<em>&quot;We create the world and ourselves;&quot;</em> <br>
+— Ming-Dao Deng
