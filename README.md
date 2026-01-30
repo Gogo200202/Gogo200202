@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;The only way to 'find out if it will work out' is to do it.&quot;</em> <br>
+— Simon Sinek
