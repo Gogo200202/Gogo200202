@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stop acting so small. You are the universe in ecstatic motion.&quot;</em> <br>
-— Rumi
+<em>&quot;The ego wants comfort and certainty. The soul wants to live fully.&quot;</em> <br>
+— Maxime Lagace
