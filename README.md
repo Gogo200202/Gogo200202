@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's a very deep connection among human beings. All we have to do is open our minds to it.&quot;</em> <br>
-— Yanni
+<em>&quot;There are two things a person should never be angry at, what they can help, and what they cannot.&quot;</em> <br>
+— Plato
