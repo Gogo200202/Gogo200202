@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The reward of suffering is experience.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;When we have our body and mind in order, everything else will exist in the right place, in the right way.&quot;</em> <br>
+— Shunryu Suzuki
