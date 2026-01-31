@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless someone truly has the power to say no, they never truly have the power to say yes.&quot;</em> <br>
-— Dan Millman
+<em>&quot;The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.&quot;</em> <br>
+— Kamal Ravikant
