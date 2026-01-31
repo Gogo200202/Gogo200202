@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be happy now, without reason - or you never will be at all.&quot;</em> <br>
-— Dan Millman
+<em>&quot;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&quot;</em> <br>
+— Alan Watts
