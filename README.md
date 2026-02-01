@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It does not matter how slowly you go so long as you do not stop.&quot;</em> <br>
-— Confucius
+<em>&quot;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&quot;</em> <br>
+— Denis Waitley
