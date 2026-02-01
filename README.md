@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who can, does.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;The way to love anything is to realize that it may be lost.&quot;</em> <br>
+— Gilbert Chesterton
