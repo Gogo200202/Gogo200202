@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is easier than fault finding.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
+— Unknown
