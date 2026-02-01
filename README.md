@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You must either modify your dreams or magnify your skills.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;On the other side of the clouds is a bright blue sky.&quot;</em> <br>
+— Unknown
