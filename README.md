@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&quot;</em> <br>
-— Denis Waitley
+<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
+— Kahlil Gibran
