@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Nothing is easier than fault finding.&quot;</em> <br>
+— Og Mandino
