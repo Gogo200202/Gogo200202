@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
+<em>&quot;Preoccupied with a single leaf you won't see the tree.&quot;</em> <br>
 — Unknown
