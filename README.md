@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&quot;</em> <br>
-— George Eliot
+<em>&quot;The successful warrior is the average man, with laser-like focus.&quot;</em> <br>
+— Bruce Lee
