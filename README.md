@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The successful warrior is the average man, with laser-like focus.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.&quot;</em> <br>
+— Theodore Roosevelt
