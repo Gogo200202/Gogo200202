@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way to love anything is to realize that it may be lost.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;It does not matter how slowly you go so long as you do not stop.&quot;</em> <br>
+— Confucius
