@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One of the first signs of the beginning of understanding is the wish to die. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;You must either modify your dreams or magnify your skills.&quot;</em> <br>
+— Jim Rohn
