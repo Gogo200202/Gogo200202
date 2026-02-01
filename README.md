@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Preoccupied with a single leaf you won't see the tree.&quot;</em> <br>
+<em>&quot;Life is ten percent what you experience and ninety percent how you respond to it.&quot;</em> <br>
 — Unknown
