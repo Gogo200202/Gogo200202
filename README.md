@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;On the other side of the clouds is a bright blue sky.&quot;</em> <br>
-— Unknown
+<em>&quot;He who can, does.&quot;</em> <br>
+— George Bernard Shaw
