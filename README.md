@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You need to be doing fewer things for more effect instead of doing more things with side effects.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Failure is not fatal, but failure to change might be.&quot;</em> <br>
+— John Wooden
