@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most people spend more time and energy going around problems than in trying to solve them. &quot;</em> <br>
-— Henry Ford
+<em>&quot;Giving back involves a certain amount of giving up.&quot;</em> <br>
+— Colin Powell
