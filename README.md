@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We can either add to our character each day, or we can fritter away our energies in distractions.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&quot;</em> <br>
+— William Faulkner
