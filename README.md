@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being wrong opens us up to the possibility of change.&quot;</em> <br>
-— Mark Manson
+<em>&quot;We can either add to our character each day, or we can fritter away our energies in distractions.&quot;</em> <br>
+— Ming-Dao Deng
