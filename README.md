@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is not fatal, but failure to change might be.&quot;</em> <br>
-— John Wooden
+<em>&quot;Most people spend more time and energy going around problems than in trying to solve them. &quot;</em> <br>
+— Henry Ford
