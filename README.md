@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fallacies do not cease to be fallacies because they become fashions.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Never confuse a single defeat with a final defeat.&quot;</em> <br>
+— F. Scott Fitzgerald
