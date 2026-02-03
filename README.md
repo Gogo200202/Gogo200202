@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;There is no one giant step that does it. It's a lot of little steps.&quot;</em> <br>
+— Peter A. Cohen
