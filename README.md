@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The older you get, the better you get. Unless you're a banana.&quot;</em> <br>
-— Betty White
+<em>&quot;Life is about not knowing and then doing something anyway.&quot;</em> <br>
+— Mark Manson
