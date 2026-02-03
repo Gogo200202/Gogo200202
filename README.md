@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Saying nothing sometimes says the most.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.&quot;</em> <br>
+— Kahlil Gibran
