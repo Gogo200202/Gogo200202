@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is about not knowing and then doing something anyway.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.&quot;</em> <br>
+— Billie Jean King
