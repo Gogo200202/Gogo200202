@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Paths are made by walking.&quot;</em> <br>
-— Franz Kafka
+<em>&quot;He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.&quot;</em> <br>
+— Miguel de Cervantes
