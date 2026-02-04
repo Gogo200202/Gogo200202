@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.&quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;You become stronger with every problem you face and every obstacle you overcome.&quot;</em> <br>
+— Celestine Chua
