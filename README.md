@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be thankful for everything that happens in your life; it's all an experience.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Don't look for meaning in the words. Listen to the silences.&quot;</em> <br>
+— Samuel Beckett
