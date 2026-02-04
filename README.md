@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The weak can never forgive. Forgiveness is the attribute of the strong.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;Productize your perspective.&quot;</em> <br>
+— Jack Butcher
