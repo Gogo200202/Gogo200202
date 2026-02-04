@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Productize your perspective.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Every second you have on this planet is very precious and it's your responsibility that you're happy.&quot;</em> <br>
+— Naval Ravikant
