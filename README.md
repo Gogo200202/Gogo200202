@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A thing must be loved before it is lovable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;The weak can never forgive. Forgiveness is the attribute of the strong.&quot;</em> <br>
+— Mahatma Gandhi
