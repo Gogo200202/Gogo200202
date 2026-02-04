@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;Be thankful for everything that happens in your life; it's all an experience.&quot;</em> <br>
+— Roy T. Bennett
