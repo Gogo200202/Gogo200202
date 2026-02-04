@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You become stronger with every problem you face and every obstacle you overcome.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.&quot;</em> <br>
+— Colin Powell
