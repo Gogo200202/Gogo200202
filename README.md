@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Do anything, but let it produce joy.&quot;</em> <br>
+— Walt Whitman
