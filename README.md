@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything that irritates us about others.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Ability is a poor man's wealth.&quot;</em> <br>
+— John Wooden
