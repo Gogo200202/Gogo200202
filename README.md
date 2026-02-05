@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Heaven is right where you are standing.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Those who attain the middle Dominate the whole.&quot;</em> <br>
+— Ming-Dao Deng
