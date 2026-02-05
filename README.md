@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Belief creates the actual fact.&quot;</em> <br>
-— William James
+<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
+— Thomas Edison
