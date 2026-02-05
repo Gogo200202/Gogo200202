@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who attain the middle Dominate the whole.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Imagination is everything. It is the preview of life's coming attractions.&quot;</em> <br>
+— Albert Einstein
