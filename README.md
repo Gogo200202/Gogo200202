@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;It is never too late to be what you might have been.&quot;</em> <br>
+— George Eliot
