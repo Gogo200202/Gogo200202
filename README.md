@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;At the end of the day, let there be no excuses, no explanations, no regrets.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Death walks faster than the wind and never returns what he has taken.&quot;</em> <br>
+— Hans Christian Andersen
