@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What you get by achieving your goals is not as important as what you become by achieving your goals.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;</em> <br>
+— Dale Carnegie
