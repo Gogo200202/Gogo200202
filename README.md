@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you are able to employ your will always for constructive purposes, you become the controller of your destiny.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;If you need inspiration, don't do it.&quot;</em> <br>
+— Elon Musk
