@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Death walks faster than the wind and never returns what he has taken.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &quot;</em> <br>
+— Jack London
