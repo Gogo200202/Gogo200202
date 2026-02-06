@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &quot;</em> <br>
-— Jack London
+<em>&quot;When you are able to employ your will always for constructive purposes, you become the controller of your destiny.&quot;</em> <br>
+— Paramahansa Yogananda
