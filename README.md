@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't seek, don't avoid, don't expect. Take what comes and be happy.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.&quot;</em> <br>
+— Criss Jami
