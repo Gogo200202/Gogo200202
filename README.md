@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Character is the result of two things: mental attitude and the way we spend our time.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. &quot;</em> <br>
+— George Washington
