@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Integrity is the ability to stand by an idea.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Don't seek, don't avoid, don't expect. Take what comes and be happy.&quot;</em> <br>
+— Maxime Lagace
