@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Peace begins with a smile.&quot;</em> <br>
+— Mother Teresa
