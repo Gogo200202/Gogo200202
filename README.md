@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;With self-discipline, almost anything is possible.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;We forge the chains we wear in life.&quot;</em> <br>
+— Charles Dickens
