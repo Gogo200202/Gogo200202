@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Alone we can do so little; together we can do so much.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&quot;</em> <br>
+— Betty White
