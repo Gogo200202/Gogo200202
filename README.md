@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I want the fishing rod, not the fish.&quot;</em> <br>
-— Yanni
+<em>&quot;Trust in dreams, for in them is the hidden gate to eternity.  &quot;</em> <br>
+— Kahlil Gibran
