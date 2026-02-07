@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is never too late to be what you might have been.&quot;</em> <br>
-— George Eliot
+<em>&quot;I want the fishing rod, not the fish.&quot;</em> <br>
+— Yanni
