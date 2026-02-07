@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Heart is what separates the good from the great.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;To improve is to change, so to be perfect is to change often.&quot;</em> <br>
+— Winston Churchill
