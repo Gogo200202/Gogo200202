@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&quot;</em> <br>
-— Betty White
+<em>&quot;Heart is what separates the good from the great.&quot;</em> <br>
+— Michael Jordan
