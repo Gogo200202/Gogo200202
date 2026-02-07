@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To improve is to change, so to be perfect is to change often.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;It's the little things done consistently over time, straight from your heart, that have the greatest impact.&quot;</em> <br>
+— Unknown
