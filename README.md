@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best fighter is never angry.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;The shoe that fits one person pinches another; there is no recipe for living that suits all cases.&quot;</em> <br>
+— Carl Jung
