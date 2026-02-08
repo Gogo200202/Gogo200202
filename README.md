@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enjoy every minute of life. Never second-guess life.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Failure is simply the opportunity to begin again, this time more intelligently.&quot;</em> <br>
+— Henry Ford
