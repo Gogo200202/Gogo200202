@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;All men who have achieved great things have been great dreamers. &quot;</em> <br>
+— Orison Swett Marden
