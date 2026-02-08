@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Age is a very high price to pay for maturity.&quot;</em> <br>
-— William James
+<em>&quot;Enjoy every minute of life. Never second-guess life.&quot;</em> <br>
+— Michael Jordan
