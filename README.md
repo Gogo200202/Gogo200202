@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is simply the opportunity to begin again, this time more intelligently.&quot;</em> <br>
-— Henry Ford
+<em>&quot;You can never get enough of what you don't need to make you happy.&quot;</em> <br>
+— Eric Hoffer
