@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live simply, expect little, give much.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;A mistake is only an error, it becomes a mistake when you fail to correct it.&quot;</em> <br>
+— John Lennon
