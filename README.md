@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Work for something because it is good, not just because it stands a chance to succeed.&quot;</em> <br>
+— Vaclav Havel
