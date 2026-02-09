@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to light a single candle than to curse the darkness.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&quot;</em> <br>
+— Mark Manson
