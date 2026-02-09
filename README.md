@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Work for something because it is good, not just because it stands a chance to succeed.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;In three words I can sum up everything I've learned about life: it goes on.&quot;</em> <br>
+— Robert Frost
