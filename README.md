@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The joy of life comes from our encounters with new experiences.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Everything you've ever wanted is on the other side of fear.&quot;</em> <br>
+— George Addair
