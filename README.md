@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything you've ever wanted is on the other side of fear.&quot;</em> <br>
-— George Addair
+<em>&quot;Just because something isn't a lie does not mean that it isn't deceptive.&quot;</em> <br>
+— Criss Jami
