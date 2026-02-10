@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winners don't Quit. That's why they Win.&quot;</em> <br>
-— Unknown
+<em>&quot;If you see yourself as prosperous, you will be.&quot;</em> <br>
+— Robert Collier
