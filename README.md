@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
+— Robert F. Kennedy
