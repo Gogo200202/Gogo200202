@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just because something isn't a lie does not mean that it isn't deceptive.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.&quot;</em> <br>
+— Charles Dickens
