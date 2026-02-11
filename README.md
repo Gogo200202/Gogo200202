@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take interest and even delight in doing the small things well.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;If you truly love Nature, you will find beauty everywhere. &quot;</em> <br>
+— Vincent van Gogh
