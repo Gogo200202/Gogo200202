@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Greatest success comes just one step beyond the point at which defeat overtakes you.&quot;</em> <br>
-— Unknown
+<em>&quot;If you want something you've never had you must be willing to do something you've never done.&quot;</em> <br>
+— Thomas Jefferson
