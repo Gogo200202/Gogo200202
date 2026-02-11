@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want something you've never had you must be willing to do something you've never done.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Generosity is giving more than you can, and pride is taking less than you need.&quot;</em> <br>
+— Kahlil Gibran
