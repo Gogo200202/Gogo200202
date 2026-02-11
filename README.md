@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Generosity is giving more than you can, and pride is taking less than you need.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;It's easy to be a critic, but being a doer requires effort, risk, and change.  &quot;</em> <br>
+— Wayne Dyer
