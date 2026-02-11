@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's easy to be a critic, but being a doer requires effort, risk, and change.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.&quot;</em> <br>
+— Jonathan Swift
