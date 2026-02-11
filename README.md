@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you truly love Nature, you will find beauty everywhere. &quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Always be a first-rate version of yourself, instead of a second-rate version of someone else.&quot;</em> <br>
+— Judy Garland
