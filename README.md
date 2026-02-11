@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Live the moment for the moment.&quot;</em> <br>
+— Michael Jordan
