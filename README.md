@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;It matters not what someone is born, but what they grow to be.&quot;</em> <br>
+— Albus Dumbledore
