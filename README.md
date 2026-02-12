@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Surround yourself only with people who are going to take you higher.&quot;</em> <br>
+— Oprah Winfrey
