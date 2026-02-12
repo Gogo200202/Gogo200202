@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never lose hope. Storms make people stronger and never last forever.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&quot;</em> <br>
+— Robert F. Kennedy
