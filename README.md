@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;Many roads lead to the path, but basically there are only two: reason and practice. &quot;</em> <br>
+— Bodhidharma
