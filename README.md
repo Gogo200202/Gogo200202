@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take responsibility of your own happiness, never put it in other people's hands.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Being a good example is the best form of service.&quot;</em> <br>
+— Sathya Sai Baba
