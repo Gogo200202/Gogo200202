@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Never lose hope. Storms make people stronger and never last forever.&quot;</em> <br>
+— Roy T. Bennett
