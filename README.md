@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We meet ourselves time and again in a thousand disguises on the path of life.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Keep your face always toward the sunshine -  shadows will fall behind you.&quot;</em> <br>
+— Walt Whitman
