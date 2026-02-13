@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't allow your mind to tell your heart what to do. The mind gives up easily.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;We meet ourselves time and again in a thousand disguises on the path of life.&quot;</em> <br>
+— Carl Jung
