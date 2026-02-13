@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.&quot;</em> <br>
-— Socrates
+<em>&quot;To seek greatness is the only righteous vengeance.&quot;</em> <br>
+— Criss Jami
