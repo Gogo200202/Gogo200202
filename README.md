@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more something threatens your identity, the more you will avoid it.&quot;</em> <br>
-— Mark Manson
+<em>&quot;The greatest value of a picture is when it forces us to notice what we never expected to see.&quot;</em> <br>
+— John Tukey
