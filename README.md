@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Health is the greatest of all possessions.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;Don't try to steer the river.&quot;</em> <br>
+— Deepak Chopra
