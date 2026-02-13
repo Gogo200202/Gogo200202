@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't try to steer the river.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;I am always doing that which I can not do, in order that I may learn how to do it.&quot;</em> <br>
+— Pablo Picasso
