@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep your face always toward the sunshine -  shadows will fall behind you.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;If you put water into a cup, it becomes the cup.&quot;</em> <br>
+— Bruce Lee
