@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Some people don't like change, but you need to embrace change if the alternative is disaster.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Every failure brings with it the seed of an equivalent success.&quot;</em> <br>
+— Napoleon Hill
