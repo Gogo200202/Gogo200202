@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe you can and you will be halfway there.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.&quot;</em> <br>
+— Barack Obama
