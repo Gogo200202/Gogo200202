@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are all different. Don't judge, understand instead.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Wake up and smile! Wake up and be grateful!&quot;</em> <br>
+— Steve Harvey
