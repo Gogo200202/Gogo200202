@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are now, and you do become, what you think about.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;People will forget what you said, people will forget what you did, but people will never forget how you made them feel.&quot;</em> <br>
+— Maya Angelou
