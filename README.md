@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;To plant a garden is to believe in tomorrow.  &quot;</em> <br>
+— Audrey Hepburn
