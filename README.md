@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It ain't where you start in life, it's where you end up, and what you did along the way.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Success is liking yourself, liking what you do, and liking how you do it.&quot;</em> <br>
+— Maya Angelou
