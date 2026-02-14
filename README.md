@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wake up and smile! Wake up and be grateful!&quot;</em> <br>
-— Steve Harvey
+<em>&quot;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&quot;</em> <br>
+— Zig Ziglar
