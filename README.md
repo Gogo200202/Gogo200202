@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Some people don't like change, but you need to embrace change if the alternative is disaster.&quot;</em> <br>
+— Elon Musk
