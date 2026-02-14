@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People will forget what you said, people will forget what you did, but people will never forget how you made them feel.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;It ain't where you start in life, it's where you end up, and what you did along the way.&quot;</em> <br>
+— Colin Powell
