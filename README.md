@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is when what you think, what you say, and what you do are in harmony.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;Embody what you teach, and teach only what you have embodied.&quot;</em> <br>
+— Dan Millman
