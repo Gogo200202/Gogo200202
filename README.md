@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&quot;</em> <br>
-— James Allen
+<em>&quot;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&quot;</em> <br>
+— Abraham Lincoln
