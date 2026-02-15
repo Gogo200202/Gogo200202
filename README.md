@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Realistic people do not accomplish extraordinary things.&quot;</em> <br>
-— John Eliot
+<em>&quot;It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.&quot;</em> <br>
+— Albus Dumbledore
