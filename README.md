@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.&quot;</em> <br>
+— Lily Tomlin
