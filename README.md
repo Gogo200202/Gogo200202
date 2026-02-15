@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot have a positive life and a negative mind.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Trying to define yourself is like trying to bite your own teeth.&quot;</em> <br>
+— Alan Watts
