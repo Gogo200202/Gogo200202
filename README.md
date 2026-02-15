@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you repeat a mistake, it is not a mistake anymore: it is a decision.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;You give but little when you give of your possessions. It is when you give of yourself that you truly give.&quot;</em> <br>
+— Kahlil Gibran
