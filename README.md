@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Embody what you teach, and teach only what you have embodied.&quot;</em> <br>
-— Dan Millman
+<em>&quot;You cannot have a positive life and a negative mind.&quot;</em> <br>
+— Joyce Meyer
