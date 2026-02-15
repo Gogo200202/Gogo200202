@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You give but little when you give of your possessions. It is when you give of yourself that you truly give.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Happiness is when what you think, what you say, and what you do are in harmony.&quot;</em> <br>
+— Mahatma Gandhi
