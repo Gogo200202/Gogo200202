@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without the confidence, nothing can be accomplished.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Do not fight with pigs - you will be smeared in mud but the pig will like it.&quot;</em> <br>
+— George Bernard Shaw
