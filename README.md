@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trying to define yourself is like trying to bite your own teeth.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Poverty and hardship are created by false thinking.&quot;</em> <br>
+— Bodhidharma
