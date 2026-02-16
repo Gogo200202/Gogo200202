@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;Memory is the scribe of the soul.&quot;</em> <br>
+— Aristotle
