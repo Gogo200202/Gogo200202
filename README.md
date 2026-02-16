@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;We never know the love of a parent till we become parents ourselves.&quot;</em> <br>
+— Henry Ward Beecher
