@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Poverty and hardship are created by false thinking.&quot;</em> <br>
-— Bodhidharma
+<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
+— Billie Jean King
