@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man is free who is not master of himself.&quot;</em> <br>
-— Epictetus
+<em>&quot;People spend too much time doing and not enough time thinking about what they should be doing.&quot;</em> <br>
+— Naval Ravikant
