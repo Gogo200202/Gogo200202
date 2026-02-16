@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no self-discovery without pain and loss.&quot;</em> <br>
-— Anita Krizzan
+<em>&quot;Attitude, not aptitude, determines altitude.  &quot;</em> <br>
+— Zig Ziglar
