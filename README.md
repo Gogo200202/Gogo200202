@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;Successful people appreciate where they have come from, but they don't let their past set the tone for their future.&quot;</em> <br>
+— Steve Harvey
