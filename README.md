@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;Progress lies not in enhancing what is, but in advancing toward what will be.&quot;</em> <br>
+— Kahlil Gibran
