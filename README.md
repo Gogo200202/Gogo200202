@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Memory is the scribe of the soul.&quot;</em> <br>
-— Aristotle
+<em>&quot;No man is free who is not master of himself.&quot;</em> <br>
+— Epictetus
