@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We never know the love of a parent till we become parents ourselves.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Dreams provide nourishment for the soul, just as a meal does for the body.&quot;</em> <br>
+— Paulo Coelho
