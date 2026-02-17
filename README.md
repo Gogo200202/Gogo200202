@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure is feedback. Learn from it and move on.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;If you look for perfection, you'll never be content.&quot;</em> <br>
+— Leo Tolstoy
