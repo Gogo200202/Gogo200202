@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your problem isn't the problem. Your reaction is the problem.&quot;</em> <br>
-— Unknown
+<em>&quot;Failure is feedback. Learn from it and move on.&quot;</em> <br>
+— Jack Butcher
