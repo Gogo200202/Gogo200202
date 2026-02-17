@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What lies behind us and what lies before us are tiny matters compared to what lies within us.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Success is a poor teacher.&quot;</em> <br>
+— Robert Kiyosaki
