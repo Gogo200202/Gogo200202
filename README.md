@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&quot;</em> <br>
-— Betty White
+<em>&quot;FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.&quot;</em> <br>
+— Zig Ziglar
