@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every blessing ignored becomes a curse.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Your problem isn't the problem. Your reaction is the problem.&quot;</em> <br>
+— Unknown
