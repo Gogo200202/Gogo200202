@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&quot;</em> <br>
+— Betty White
