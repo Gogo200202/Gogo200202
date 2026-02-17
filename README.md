@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dreams provide nourishment for the soul, just as a meal does for the body.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
+— Og Mandino
