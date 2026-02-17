@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you look for perfection, you'll never be content.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;The essence of the Way is detachment.&quot;</em> <br>
+— Bodhidharma
