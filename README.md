@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;He who hesitates is a damned fool.&quot;</em> <br>
+— Mae West
