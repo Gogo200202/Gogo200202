@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;If you want something then you lose everything. If you don't want anything then you already have everything.&quot;</em> <br>
+— Seungsahn
