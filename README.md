@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who hesitates is a damned fool.&quot;</em> <br>
-— Mae West
+<em>&quot;The journey, not the destination matters.&quot;</em> <br>
+— T.S. Eliot
