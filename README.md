@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.&quot;</em> <br>
+— Alexander Graham Bell
