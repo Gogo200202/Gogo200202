@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Selfishness and greed, individual or national, cause most of our troubles.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;Throw me to the wolves and I will return leading the pack.  &quot;</em> <br>
+— Seneca
