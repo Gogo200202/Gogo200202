@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want something then you lose everything. If you don't want anything then you already have everything.&quot;</em> <br>
-— Seungsahn
+<em>&quot;The more you like yourself, the less you are like anyone else, which makes you unique.&quot;</em> <br>
+— Walt Disney
