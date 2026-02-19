@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to keep your memories, you first have to live them.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;Judge a man by his questions rather than his answers.&quot;</em> <br>
+— Voltaire
