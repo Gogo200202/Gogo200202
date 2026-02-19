@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who knows best knows how little he knows.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;The opportunity of defeating the enemy is provided by the enemy himself.&quot;</em> <br>
+— Sun Tzu
