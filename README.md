@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn from the rejection and turn it into an opportunity!&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;When you realize you've made a mistake, take immediate steps to correct it.&quot;</em> <br>
+— Dalai Lama
