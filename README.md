@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When one does not have what one wants, one must want what one has.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Success is a consequence and must not be a goal.&quot;</em> <br>
+— Gustave Flaubert
