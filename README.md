@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The purpose of life is to contribute in some way to making things better.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;He who permits himself to tell a lie once, finds it much easier to do it the second time.&quot;</em> <br>
+— Thomas Jefferson
