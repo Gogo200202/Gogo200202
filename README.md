@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To avoid criticism, do nothing, say nothing, and be nothing.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
+— Tony Robbins
