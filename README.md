@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Someday death will take us to another star.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Don't let someone elses. opinion become your reality.&quot;</em> <br>
+— Les Brown
