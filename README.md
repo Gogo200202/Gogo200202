@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The salvation of the world lies in the human heart.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;The biggest challenge after success is shutting up about it.&quot;</em> <br>
+— Criss Jami
