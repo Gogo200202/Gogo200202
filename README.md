@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men trust their ears less than their eyes.&quot;</em> <br>
-— Herodotus
+<em>&quot;Knowing yourself is the beginning of all wisdom.&quot;</em> <br>
+— Aristotle
