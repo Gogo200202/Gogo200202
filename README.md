@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;In the end, it's not the years in your life that count. It's the life in your years.&quot;</em> <br>
+— Abraham Lincoln
