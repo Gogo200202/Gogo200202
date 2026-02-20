@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let someone elses. opinion become your reality.&quot;</em> <br>
-— Les Brown
+<em>&quot;Change is not a four letter word...but often your reaction to it is!&quot;</em> <br>
+— Jeffrey Gitomer
