@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To some degree, you control your life by controlling your time.&quot;</em> <br>
-— Conrad Hilton
+<em>&quot;Men trust their ears less than their eyes.&quot;</em> <br>
+— Herodotus
