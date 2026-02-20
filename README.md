@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The biggest challenge after success is shutting up about it.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Before preparing to improve the world, first look around your own home three times. &quot;</em> <br>
+— Chinese Proverb
