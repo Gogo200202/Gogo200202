@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be angry is to revenge the faults of others on ourselves.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;Integrity is telling myself the truth. And honesty is telling the truth to other people.&quot;</em> <br>
+— Spencer Johnson
