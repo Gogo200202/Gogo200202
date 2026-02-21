@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you pray for rain, be prepared to deal with some mud.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Mistake is a mistake only if you make it twice.&quot;</em> <br>
+— Robin Sharma
