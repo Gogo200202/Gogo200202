@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not think you will necessarily be aware of your own enlightenment.&quot;</em> <br>
-— Dogen
+<em>&quot;I think self-awareness is probably the most important thing towards being a champion. &quot;</em> <br>
+— Billie Jean King
