@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wisdom of life consists in the elimination of the nonessentials.&quot;</em> <br>
-— Lin Yutang
+<em>&quot;The degree of responsibility you take for your life determines how much change you can create in it.&quot;</em> <br>
+— Celestine Chua
