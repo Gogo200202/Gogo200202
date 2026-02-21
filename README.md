@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;The single most powerful asset we all have is our mind.&quot;</em> <br>
+— Robert Kiyosaki
