@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Mistake is a mistake only if you make it twice.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Do not think you will necessarily be aware of your own enlightenment.&quot;</em> <br>
+— Dogen
