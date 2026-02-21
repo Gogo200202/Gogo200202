@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The single most powerful asset we all have is our mind.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The best dreams happen when you're awake.&quot;</em> <br>
+— Cherie Gilderbloom
