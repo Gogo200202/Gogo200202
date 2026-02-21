@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;The wisdom of life consists in the elimination of the nonessentials.&quot;</em> <br>
+— Lin Yutang
