@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Integrity is telling myself the truth. And honesty is telling the truth to other people.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;If you're brave enough to say goodbye, life will reward you with a new hello.&quot;</em> <br>
+— Paulo Coelho
