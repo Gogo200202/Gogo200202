@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The degree of responsibility you take for your life determines how much change you can create in it.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;If you want to know what God thinks about money just look at the people He gives it to.&quot;</em> <br>
+— Alexander Pope
