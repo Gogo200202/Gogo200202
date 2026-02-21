@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're brave enough to say goodbye, life will reward you with a new hello.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&quot;</em> <br>
+— Peter Drucker
