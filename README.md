@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best dreams happen when you're awake.&quot;</em> <br>
-— Cherie Gilderbloom
+<em>&quot;Nothing can dim the light which shines from within.&quot;</em> <br>
+— Maya Angelou
