@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
-— Aristotle
+<em>&quot;The moment you doubt whether you can fly, you cease for ever to be able to do it.&quot;</em> <br>
+— James Matthew Barrie
