@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.&quot;</em> <br>
+— Harry S. Truman
