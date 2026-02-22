@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Logic is like the sword - those who appeal to it shall perish by it.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;You cannot always control what goes on outside. But you can always control what goes on inside. &quot;</em> <br>
+— Wayne Dyer
