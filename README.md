@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
-— Herman Melville
+<em>&quot;Do your duty and a little more and the future will take care of itself.&quot;</em> <br>
+— Andrew Carnegie
