@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anxiety is the dizziness of freedom.&quot;</em> <br>
-— Soren Kierkegaard
+<em>&quot;Logic is like the sword - those who appeal to it shall perish by it.&quot;</em> <br>
+— Samuel Butler
