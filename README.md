@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The moment you doubt whether you can fly, you cease for ever to be able to do it.&quot;</em> <br>
-— James Matthew Barrie
+<em>&quot;You can have the mind or you can have the moment.&quot;</em> <br>
+— Naval Ravikant
