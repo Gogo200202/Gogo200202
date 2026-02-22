@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot always control what goes on outside. But you can always control what goes on inside. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;The temptation to give up is strongest just before victory.&quot;</em> <br>
+— Zen Proverb
