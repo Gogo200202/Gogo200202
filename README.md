@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're on earth. There's no cure for that.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
+— Aristotle
