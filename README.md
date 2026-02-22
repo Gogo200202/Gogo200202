@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to know what God thinks about money just look at the people He gives it to.&quot;</em> <br>
-— Alexander Pope
+<em>&quot;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&quot;</em> <br>
+— Eleanor Roosevelt
