@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do your duty and a little more and the future will take care of itself.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&quot;</em> <br>
+— Deepak Chopra
