@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Discipline is the mark of intelligent living.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Wisdom is the oneness of mind that guides and permeates all things.&quot;</em> <br>
+— Heraclitus
