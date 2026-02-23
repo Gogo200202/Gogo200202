@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We forge the chains we wear in life.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Discipline is the mark of intelligent living.&quot;</em> <br>
+— Sathya Sai Baba
