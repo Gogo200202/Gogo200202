@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wisdom is the oneness of mind that guides and permeates all things.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.&quot;</em> <br>
+— Andrew Carnegie
