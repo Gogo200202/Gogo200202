@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The universe doesn't allow perfection.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;Receive without pride, let go without attachment.&quot;</em> <br>
+— Marcus Aurelius
