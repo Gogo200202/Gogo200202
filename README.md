@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Education breeds confidence. Confidence breeds hope. Hope breeds peace.&quot;</em> <br>
+— Confucius
