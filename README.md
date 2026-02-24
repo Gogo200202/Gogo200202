@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.&quot;</em> <br>
-— Epictetus
+<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
+— Alfred Adler
