@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Know the rules well, so you can break them effectively.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Life's too mysterious to take too serious.&quot;</em> <br>
+— Mary Engelbreit
