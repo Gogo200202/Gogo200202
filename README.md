@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never waste a minute of your precious life thinking about people you don't like.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
+— Gilbert Chesterton
