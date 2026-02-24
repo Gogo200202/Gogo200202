@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Invisible things are the only realities.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;It doesn't matter how much you want. What really matters is how much you want it.&quot;</em> <br>
+— Ralph Marston
