@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The giving of love is an education in itself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Never waste a minute of your precious life thinking about people you don't like.&quot;</em> <br>
+— Celestine Chua
