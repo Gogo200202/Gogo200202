@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Education breeds confidence. Confidence breeds hope. Hope breeds peace.&quot;</em> <br>
-— Confucius
+<em>&quot;Appear weak when you are strong, and strong when you are weak.&quot;</em> <br>
+— Sun Tzu
