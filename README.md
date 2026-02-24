@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life's too mysterious to take too serious.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Invisible things are the only realities.&quot;</em> <br>
+— Edgar Allan Poe
