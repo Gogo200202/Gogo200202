@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.&quot;</em> <br>
+— Epictetus
