@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.&quot;</em> <br>
-— G.I. Gurdjieff
+<em>&quot;Our deeds determine us, as much as we determine our deeds.&quot;</em> <br>
+— George Eliot
