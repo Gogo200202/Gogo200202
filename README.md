@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our deeds determine us, as much as we determine our deeds.&quot;</em> <br>
-— George Eliot
+<em>&quot;Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.&quot;</em> <br>
+— Yanni
