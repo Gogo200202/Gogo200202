@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more I want to get something done, the less I call it work.&quot;</em> <br>
-— Richard Bach
+<em>&quot;There is no path to Happiness. Happiness is the path.&quot;</em> <br>
+— Dan Millman
