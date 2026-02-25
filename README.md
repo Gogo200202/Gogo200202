@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Wishing to be friends is quick work, but friendship is a slow ripening fruit.&quot;</em> <br>
+— Aristotle
