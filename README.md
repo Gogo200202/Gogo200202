@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am not the outcome. I am never the result. I am only the effort.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Time is more valuable than money. You can get more money, but you cannot get more time.&quot;</em> <br>
+— Jim Rohn
