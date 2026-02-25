@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no path to Happiness. Happiness is the path.&quot;</em> <br>
-— Dan Millman
+<em>&quot;At the end of the day, let there be no excuses, no explanations, no regrets.&quot;</em> <br>
+— Steve Maraboli
