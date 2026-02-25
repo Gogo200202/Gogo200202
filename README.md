@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wishing to be friends is quick work, but friendship is a slow ripening fruit.&quot;</em> <br>
-— Aristotle
+<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
+— Mark Manson
