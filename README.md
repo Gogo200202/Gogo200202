@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
-— Mark Manson
+<em>&quot;I am not the outcome. I am never the result. I am only the effort.&quot;</em> <br>
+— Kamal Ravikant
