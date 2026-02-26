@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way to 'find out if it will work out' is to do it.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;If you've never eaten while crying you don t know what life tastes like.&quot;</em> <br>
+— Johann Wolfgang von Goethe
