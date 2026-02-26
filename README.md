@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.&quot;</em> <br>
+— Amelia Earhart
