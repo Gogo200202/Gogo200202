@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.&quot;</em> <br>
-— Yanni
+<em>&quot;There is no greatness where there is not simplicity, goodness, and truth.&quot;</em> <br>
+— Leo Tolstoy
