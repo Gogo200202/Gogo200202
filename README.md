@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.&quot;</em> <br>
+— F. Scott Fitzgerald
