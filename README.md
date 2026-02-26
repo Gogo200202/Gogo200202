@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;My guiding principle is this: Guilt is never to be doubted. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.&quot;</em> <br>
+— Steve Maraboli
