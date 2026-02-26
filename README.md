@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are ever the smartest person in the room, you are in the wrong room.&quot;</em> <br>
-— C. Sean McGee
+<em>&quot;Things may come to those who wait, but only the things left by those who hustle.&quot;</em> <br>
+— Abraham Lincoln
