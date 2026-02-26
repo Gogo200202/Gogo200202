@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is useless to attempt to reason a man out of a thing he was never reasoned into.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;The only way to 'find out if it will work out' is to do it.&quot;</em> <br>
+— Simon Sinek
