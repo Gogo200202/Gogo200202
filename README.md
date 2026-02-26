@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no greatness where there is not simplicity, goodness, and truth.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&quot;</em> <br>
+— Alan Watts
