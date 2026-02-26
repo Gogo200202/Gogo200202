@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;The nearer a man comes to a calm mind, the closer he is to strength.&quot;</em> <br>
+— Marcus Aurelius
