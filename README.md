@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Things may come to those who wait, but only the things left by those who hustle.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;It is useless to attempt to reason a man out of a thing he was never reasoned into.&quot;</em> <br>
+— Jonathan Swift
