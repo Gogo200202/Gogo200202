@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You may delay, but time will not.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;If you are ever the smartest person in the room, you are in the wrong room.&quot;</em> <br>
+— C. Sean McGee
