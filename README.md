@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The nearer a man comes to a calm mind, the closer he is to strength.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;You may delay, but time will not.&quot;</em> <br>
+— Benjamin Franklin
