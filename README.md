@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&quot;</em> <br>
-— Criss Jami
+<em>&quot;It's much better to do good in a way that no one knows anything about it.&quot;</em> <br>
+— Leo Tolstoy
