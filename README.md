@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An ounce of performance is worth pounds of promises.&quot;</em> <br>
-— Mae West
+<em>&quot;The heart wants what it wants. There's no logic. &quot;</em> <br>
+— Woody Allen
