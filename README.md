@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Learn from the rejection and turn it into an opportunity!&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;People seldom do what they believe in. They do what is convenient, then repent.&quot;</em> <br>
+— Bob Dylan
