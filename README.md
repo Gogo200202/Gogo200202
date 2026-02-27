@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Act as if what you do makes a difference. It does.&quot;</em> <br>
+— William James
