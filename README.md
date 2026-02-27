@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People seldom do what they believe in. They do what is convenient, then repent.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;If I can stop one heart from breaking, I shall not live in vain.&quot;</em> <br>
+— Emily Dickinson
