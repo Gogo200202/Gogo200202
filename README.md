@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The heart wants what it wants. There's no logic. &quot;</em> <br>
-— Woody Allen
+<em>&quot;Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.&quot;</em> <br>
+— Elvis Presley
