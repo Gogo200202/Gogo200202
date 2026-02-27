@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Act as if what you do makes a difference. It does.&quot;</em> <br>
-— William James
+<em>&quot;I dream my painting and I paint my dream.&quot;</em> <br>
+— Vincent van Gogh
