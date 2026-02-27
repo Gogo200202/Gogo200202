@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I dream my painting and I paint my dream.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;A goal is a dream with a deadline.&quot;</em> <br>
+— Napoleon Hill
