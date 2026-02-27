@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Real learning comes about when the competitive spirit has ceased.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&quot;</em> <br>
+— Criss Jami
