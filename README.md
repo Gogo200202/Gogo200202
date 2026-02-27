@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A goal is a dream with a deadline.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;If you can't, you must. If you must, you can.&quot;</em> <br>
+— Tony Robbins
