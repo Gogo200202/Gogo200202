@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I can stop one heart from breaking, I shall not live in vain.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;An ounce of performance is worth pounds of promises.&quot;</em> <br>
+— Mae West
