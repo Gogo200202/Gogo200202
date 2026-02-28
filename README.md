@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;The quality of your life is determined by the quality of your thoughts.&quot;</em> <br>
+— Unknown
