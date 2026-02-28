@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowing yourself is the beginning of all wisdom.&quot;</em> <br>
-— Aristotle
+<em>&quot;Be brave. Take risks. Nothing can substitute experience.&quot;</em> <br>
+— Paulo Coelho
