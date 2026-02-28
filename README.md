@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I alone cannot change the world, but I can cast a stone across the waters to create many ripples.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;The less you talk about your shame, the more of it you have.&quot;</em> <br>
+— Mark Manson
