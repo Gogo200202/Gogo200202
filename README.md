@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you talk about your shame, the more of it you have.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Everyone is a moon, and has a dark side which he never shows to anybody.&quot;</em> <br>
+— Mark Twain
