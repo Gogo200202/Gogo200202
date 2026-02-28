@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality of your life is determined by the quality of your thoughts.&quot;</em> <br>
-— Unknown
+<em>&quot;The act of taking the first step is what separates the winners from the losers.&quot;</em> <br>
+— Brian Tracy
