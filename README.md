@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can't, you must. If you must, you can.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Knowing yourself is the beginning of all wisdom.&quot;</em> <br>
+— Aristotle
