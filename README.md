@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you pray for rain, be prepared to deal with some mud.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.&quot;</em> <br>
+— Deepak Chopra
