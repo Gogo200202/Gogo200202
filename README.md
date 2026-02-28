@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The less you try to impress, the more peaceful you can be.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;I alone cannot change the world, but I can cast a stone across the waters to create many ripples.&quot;</em> <br>
+— Mother Teresa
