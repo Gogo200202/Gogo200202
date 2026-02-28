@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be brave. Take risks. Nothing can substitute experience.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Whatever your mind can conceive and believe, it can achieve.&quot;</em> <br>
+— Napoleon Hill
