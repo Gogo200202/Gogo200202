@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone is a moon, and has a dark side which he never shows to anybody.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Changing minds is harder than finding people who already agree.&quot;</em> <br>
+— Jack Butcher
