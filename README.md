@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be polite to all, but intimate with few.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.&quot;</em> <br>
+— Josh Waitzkin
