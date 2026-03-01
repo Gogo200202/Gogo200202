@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;The best way to find yourself is to lose yourself in the service of others.&quot;</em> <br>
+— Mahatma Gandhi
