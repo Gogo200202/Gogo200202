@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way to find yourself is to lose yourself in the service of others.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&quot;</em> <br>
+— Franklin D. Roosevelt
