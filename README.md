@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.&quot;</em> <br>
+— Ayn Rand
