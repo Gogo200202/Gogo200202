@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of getting ahead is getting started.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Be polite to all, but intimate with few.&quot;</em> <br>
+— Thomas Jefferson
