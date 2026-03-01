@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way to change others' minds is with affection, and not anger.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&quot;</em> <br>
+— Maxime Lagace
