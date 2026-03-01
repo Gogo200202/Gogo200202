@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;If you can change your mind, you can change your life.&quot;</em> <br>
+— William James
