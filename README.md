@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;Any game becomes important when you know and love the players.&quot;</em> <br>
+— W.P. Kinsella
