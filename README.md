@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All problems are illusions of the mind.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Wherever you are, it's the place you need to be.&quot;</em> <br>
+— Maxime Lagace
