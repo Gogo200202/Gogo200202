@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Any game becomes important when you know and love the players.&quot;</em> <br>
-— W.P. Kinsella
+<em>&quot;Life is love and love is life.&quot;</em> <br>
+— Elvis Presley
