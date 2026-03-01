@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can change your mind, you can change your life.&quot;</em> <br>
-— William James
+<em>&quot;The way to change others' minds is with affection, and not anger.&quot;</em> <br>
+— Dalai Lama
