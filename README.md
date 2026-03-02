@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no mistakes in life, only lessons.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Don't spend time beating on a wall, hoping to transform it into a door.&quot;</em> <br>
+— Coco Chanel
