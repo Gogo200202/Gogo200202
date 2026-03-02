@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Someday death will take us to another star.&quot;</em> <br>
+— Vincent van Gogh
