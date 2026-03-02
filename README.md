@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most people fail in life because they major in minor things.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;It's your life-but only if you make it so.&quot;</em> <br>
+— Eleanor Roosevelt
