@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't spend time beating on a wall, hoping to transform it into a door.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;Silence is a source of great strength.&quot;</em> <br>
+— Lao Tzu
