@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your only limitations are those you set up in your mind or permit others to set up for you.&quot;</em> <br>
-— Og Mandino
+<em>&quot;The greatest value of a picture is when it forces us to notice what we never expected to see.&quot;</em> <br>
+— John Tukey
