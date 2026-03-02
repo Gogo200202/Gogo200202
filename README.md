@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An ounce of performance is worth pounds of promises.&quot;</em> <br>
-— Mae West
+<em>&quot;To do two things at once is to do neither.&quot;</em> <br>
+— Publilius Syrus
