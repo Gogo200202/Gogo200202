@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's your life-but only if you make it so.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;An ounce of performance is worth pounds of promises.&quot;</em> <br>
+— Mae West
