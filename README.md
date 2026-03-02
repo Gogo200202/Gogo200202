@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is a source of great strength.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.&quot;</em> <br>
+— Kahlil Gibran
