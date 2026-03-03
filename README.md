@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;Success is going from failure to failure without losing your enthusiasm&quot;</em> <br>
+— Winston Churchill
