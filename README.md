@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is going from failure to failure without losing your enthusiasm&quot;</em> <br>
-— Winston Churchill
+<em>&quot;Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.&quot;</em> <br>
+— Naval Ravikant
