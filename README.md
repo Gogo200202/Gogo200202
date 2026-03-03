@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Creativity is intelligence having fun.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&quot;</em> <br>
+— Paramahansa Yogananda
