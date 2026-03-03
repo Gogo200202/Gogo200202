@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always forgive your enemies - nothing annoys them so much. &quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Anything becomes interesting if you look at it long enough..&quot;</em> <br>
+— Gustave Flaubert
