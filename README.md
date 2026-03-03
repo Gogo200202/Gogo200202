@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The power of human thought grows exponentially with the number of minds that share that thought.&quot;</em> <br>
-— Dan Brown
+<em>&quot;Make no small plans for they have no power to stir the soul.&quot;</em> <br>
+— Niccolo Machiavelli
