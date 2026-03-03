@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who are easily shocked should be shocked more often.&quot;</em> <br>
-— Mae West
+<em>&quot;Each of us is a unique strand in the intricate web of life and here to make a contribution.&quot;</em> <br>
+— Deepak Chopra
