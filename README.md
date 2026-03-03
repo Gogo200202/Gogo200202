@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anything becomes interesting if you look at it long enough..&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;The power of human thought grows exponentially with the number of minds that share that thought.&quot;</em> <br>
+— Dan Brown
