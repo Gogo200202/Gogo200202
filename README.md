@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&quot;</em> <br>
-— Morihei Ueshiba
+<em>&quot;The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. &quot;</em> <br>
+— Orison Swett Marden
