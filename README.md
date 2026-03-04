@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;It is far easier to start something than it is to finish it.&quot;</em> <br>
+— Amelia Earhart
