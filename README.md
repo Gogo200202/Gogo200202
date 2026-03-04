@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take care of your body. It's the only place you have to live.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&quot;</em> <br>
+— Bette Midler
