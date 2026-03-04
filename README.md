@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never settle for the crumbs of life.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Things may come to those who wait, but only the things left by those who hustle.&quot;</em> <br>
+— Abraham Lincoln
