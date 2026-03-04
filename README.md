@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&quot;</em> <br>
-— Alan Watts
+<em>&quot;It is indeed a radical act of love just to sit down and be quiet for a time by yourself.&quot;</em> <br>
+— Jon Kabat-Zinn
