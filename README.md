@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Your next step is simple. You are the first domino.&quot;</em> <br>
+— Gary Keller
