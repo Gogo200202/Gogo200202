@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What do we live for if not to make life less difficult for each other?&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&quot;</em> <br>
+— Unknown
