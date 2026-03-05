@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Many roads lead to the path, but basically there are only two: reason and practice. &quot;</em> <br>
-— Bodhidharma
+<em>&quot;Time doesn't heal emotional pain, you need to learn how to let go.&quot;</em> <br>
+— Roy T. Bennett
