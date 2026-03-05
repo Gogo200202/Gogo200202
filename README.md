@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are people who have money and people who are rich.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.&quot;</em> <br>
+— Ralph Waldo Emerson
