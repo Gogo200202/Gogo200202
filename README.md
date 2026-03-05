@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your next step is simple. You are the first domino.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Success is the sum of small efforts, repeated day in and day out.&quot;</em> <br>
+— Robert Collier
