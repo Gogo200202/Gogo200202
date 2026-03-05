@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time doesn't heal emotional pain, you need to learn how to let go.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences &quot;</em> <br>
+— Nikola Tesla
