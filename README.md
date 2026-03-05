@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
-— Buddha
+<em>&quot;There are people who have money and people who are rich.&quot;</em> <br>
+— Coco Chanel
