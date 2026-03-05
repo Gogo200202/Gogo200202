@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We need never be ashamed of our tears.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
+— Buddha
