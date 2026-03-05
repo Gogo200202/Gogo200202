@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is the sum of small efforts, repeated day in and day out.&quot;</em> <br>
-— Robert Collier
+<em>&quot;What do we live for if not to make life less difficult for each other?&quot;</em> <br>
+— T.S. Eliot
