@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The world would go on even without you. Don't take yourself so seriously.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.&quot;</em> <br>
+— Henry Ward Beecher
