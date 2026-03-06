@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man sees in the world what he carries in his heart.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;It is the greatest of all mistakes to do nothing because you can only do little; do something.&quot;</em> <br>
+— Sydney Smith
