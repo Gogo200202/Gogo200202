@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Successful people appreciate where they have come from, but they don't let their past set the tone for their future.&quot;</em> <br>
+— Steve Harvey
