@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Originality is the fine art of remembering what you hear but forgetting where you heard it. &quot;</em> <br>
-— Laurence J. Peter
+<em>&quot;The world would go on even without you. Don't take yourself so seriously.&quot;</em> <br>
+— Norman Vincent Peale
