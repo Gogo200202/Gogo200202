@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever happens always happens on time.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Originality is the fine art of remembering what you hear but forgetting where you heard it. &quot;</em> <br>
+— Laurence J. Peter
