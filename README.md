@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;A man sees in the world what he carries in his heart.&quot;</em> <br>
+— Johann Wolfgang von Goethe
