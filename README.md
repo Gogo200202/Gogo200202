@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;You may be disappointed if you fail, but you are doomed if you don't try.&quot;</em> <br>
+— Beverly Sills
