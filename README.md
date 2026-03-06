@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.&quot;</em> <br>
+— Bob Proctor
