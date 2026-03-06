@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is the greatest of all mistakes to do nothing because you can only do little; do something.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot;</em> <br>
+— Roy T. Bennett
