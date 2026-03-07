@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great acts are made up of small deeds.&quot;</em> <br>
+<em>&quot;If you correct your mind, the rest of your life will fall into place.&quot;</em> <br>
 — Lao Tzu
