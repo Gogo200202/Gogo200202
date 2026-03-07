@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence is consistency of thinking about what is possible and how to make it possible.&quot;</em> <br>
-— John Eliot
+<em>&quot;Constantly think about how you could be doing things better.&quot;</em> <br>
+— Elon Musk
