@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Until we can manage time, we can manage nothing else.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Happiness must be grown in one's own garden.&quot;</em> <br>
+— Mary Engelbreit
