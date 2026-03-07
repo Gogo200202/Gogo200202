@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You know you are on the road to success if you would do your job and not be paid for it.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;I would rather be a little nobody, then to be an evil somebody.&quot;</em> <br>
+— Abraham Lincoln
