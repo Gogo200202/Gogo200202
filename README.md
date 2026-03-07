@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wise men speak because they have something to say; Fools because they have to say something.&quot;</em> <br>
-— Plato
+<em>&quot;You know you are on the road to success if you would do your job and not be paid for it.&quot;</em> <br>
+— Oprah Winfrey
