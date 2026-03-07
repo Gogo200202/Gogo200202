@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All problems are interpersonal relationship problems.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Until we can manage time, we can manage nothing else.&quot;</em> <br>
+— Peter Drucker
