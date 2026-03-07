@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Attitude, not aptitude, determines altitude.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Live your life and forget your age.&quot;</em> <br>
+— Norman Vincent Peale
