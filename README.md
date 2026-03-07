@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness must be grown in one's own garden.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
+— Sydney Smith
