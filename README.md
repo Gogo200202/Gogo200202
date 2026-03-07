@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is 10% what happens to you and 90% how you react to it. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;When you're the only sane person, you look like the only insane person.&quot;</em> <br>
+— Criss Jami
