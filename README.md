@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Constantly think about how you could be doing things better.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Life is 10% what happens to you and 90% how you react to it. &quot;</em> <br>
+— Charles Swindoll
