@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live your life and forget your age.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Great acts are made up of small deeds.&quot;</em> <br>
+— Lao Tzu
