@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Projecting your mind into a successful situation is the most powerful means to achieve goals.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;We have no more right to consume happiness without producing it than to consume wealth without producing it.&quot;</em> <br>
+— George Bernard Shaw
