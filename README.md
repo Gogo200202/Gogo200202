@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will face many defeats in life, but never let yourself be defeated.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;You can only be afraid of what you think you know.&quot;</em> <br>
+— Jiddu Krishnamurti
