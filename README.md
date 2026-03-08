@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Decide whether or not the goal is worth the risks involved. If it is, stop worrying.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;You will face many defeats in life, but never let yourself be defeated.&quot;</em> <br>
+— Maya Angelou
