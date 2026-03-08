@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.&quot;</em> <br>
+— Jack Butcher
