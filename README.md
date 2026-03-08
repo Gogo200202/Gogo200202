@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stress happens when the mind resists what is.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
+— Gilbert Chesterton
