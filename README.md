@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can only be afraid of what you think you know.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Intelligence is the ability to adapt to change.&quot;</em> <br>
+— Stephen Hawking
