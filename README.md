@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;We have more possibilities available in each moment than we realize.&quot;</em> <br>
+— Thich Nhat Hanh
