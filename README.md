@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not look for approval except for the consciousness of doing your best.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Projecting your mind into a successful situation is the most powerful means to achieve goals.  &quot;</em> <br>
+— Estee Lauder
