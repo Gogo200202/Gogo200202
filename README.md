@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.&quot;</em> <br>
+— Celestine Chua
