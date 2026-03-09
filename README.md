@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By changing nothing, nothing changes.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Don't shortchange yourself when it comes to investing in your own better future.&quot;</em> <br>
+— Jim Rohn
