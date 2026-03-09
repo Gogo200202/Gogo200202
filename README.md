@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not pray for an easy life, pray for the strength to endure a difficult one.  &quot;</em> <br>
-— Bruce Lee
+<em>&quot;Life is a gift. Never forget to enjoy and bask in every moment you are in.&quot;</em> <br>
+— Celestine Chua
