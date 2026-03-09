@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a gift. Never forget to enjoy and bask in every moment you are in.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
+— Henry David Thoreau
