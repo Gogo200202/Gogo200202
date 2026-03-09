@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live as if you were to die tomorrow. Learn as if you were to live forever.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;The biggest challenge after success is shutting up about it.&quot;</em> <br>
+— Criss Jami
