@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The successful warrior is the average man, with laser-like focus.&quot;</em> <br>
+— Bruce Lee
