@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An intelligent person hires people who are more intelligent than he is.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Everything has beauty but not everyone sees it.&quot;</em> <br>
+— Confucius
