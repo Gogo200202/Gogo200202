@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face &amp; solve them now!&quot;</em> <br>
-— Tony Robbins
+<em>&quot;An intelligent person hires people who are more intelligent than he is.&quot;</em> <br>
+— Robert Kiyosaki
