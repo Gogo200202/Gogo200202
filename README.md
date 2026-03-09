@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In all chaos there is a cosmos, in all disorder a secret order.&quot;</em> <br>
-— Carl Jung
+<em>&quot;The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face &amp; solve them now!&quot;</em> <br>
+— Tony Robbins
