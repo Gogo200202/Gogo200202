@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't shortchange yourself when it comes to investing in your own better future.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;The best way out is always through.&quot;</em> <br>
+— Robert Frost
