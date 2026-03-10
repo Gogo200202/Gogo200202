@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;You can often change your circumstances by changing your attitude.&quot;</em> <br>
+— Eleanor Roosevelt
