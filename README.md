@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's more to life than being a passenger.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;You don't know who is important to you until you actually lose them.&quot;</em> <br>
+— Mahatma Gandhi
