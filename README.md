@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&quot;</em> <br>
+— Tony Robbins
