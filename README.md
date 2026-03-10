@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
+— Gilbert Chesterton
