@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can often change your circumstances by changing your attitude.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Even though you are on the right track - you will get run over if you just sit there.&quot;</em> <br>
+— Will Rogers
