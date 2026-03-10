@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be not afraid of growing slowly, be afraid only of standing still. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Happiness is the meaning and the purpose of life, the whole aim and end of human existence.&quot;</em> <br>
+— Aristotle
