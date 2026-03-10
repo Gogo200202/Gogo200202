@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time you enjoy wasting, was not wasted.&quot;</em> <br>
-— John Lennon
+<em>&quot;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&quot;</em> <br>
+— Martin Luther King, Jr.
