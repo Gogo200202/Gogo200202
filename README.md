@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Identification with our mind causes thought to become compulsive.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Chase your passion, not your pension. &quot;</em> <br>
+— Denis Waitley
