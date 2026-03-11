@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is easier to fight for one's principles than to live up to them. &quot;</em> <br>
-— Alfred Adler
+<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
+— Euripides
