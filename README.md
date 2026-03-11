@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Who you are is defined by what you're willing to struggle for.&quot;</em> <br>
-— Mark Manson
+<em>&quot;Listening well is as powerful as talking well, and is also as essential to true conversation.&quot;</em> <br>
+— Chinese Proverb
