@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Opportunity comes when you continually push forward.&quot;</em> <br>
+— Sonia Ricotti
