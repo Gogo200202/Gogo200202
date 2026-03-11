@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Argue for your limitations and sure enough, they're yours.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Patience is a bitter plant, but its fruit is sweet.&quot;</em> <br>
+— Chinese Proverb
