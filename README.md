@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust thyself: every heart vibrates to that iron string.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.&quot;</em> <br>
+— Eleanor Roosevelt
