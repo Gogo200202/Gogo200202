@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing has more strength than dire necessity.&quot;</em> <br>
-— Euripides
+<em>&quot;Who you are is defined by what you're willing to struggle for.&quot;</em> <br>
+— Mark Manson
