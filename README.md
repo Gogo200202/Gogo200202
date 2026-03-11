@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let your learning lead to knowledge. Let your learning lead to action.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Trust thyself: every heart vibrates to that iron string.&quot;</em> <br>
+— Ralph Waldo Emerson
