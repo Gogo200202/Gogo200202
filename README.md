@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is often safer to be in chains than to be free. &quot;</em> <br>
-— Franz Kafka
+<em>&quot;Loving thoughts and actions are clearly beneficial for our physical and mental health.&quot;</em> <br>
+— Dalai Lama
