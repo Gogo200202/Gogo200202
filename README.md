@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're really truthful with yourself, it's a wonderful guidance.  &quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.&quot;</em> <br>
+— Ming-Dao Deng
