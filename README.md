@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today.&quot;</em> <br>
+— Steve Maraboli
