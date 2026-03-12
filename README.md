@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is the meaning and the purpose of life, the whole aim and end of human existence.&quot;</em> <br>
-— Aristotle
+<em>&quot;If you're really truthful with yourself, it's a wonderful guidance.  &quot;</em> <br>
+— Charlie Chaplin
