@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People spend too much time doing and not enough time thinking about what they should be doing.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Happiness is the meaning and the purpose of life, the whole aim and end of human existence.&quot;</em> <br>
+— Aristotle
