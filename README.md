@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Among the things you can give and still keep are your word, a smile, and a grateful heart.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;All animals except man know that the principal business of life is to enjoy it.&quot;</em> <br>
+— Samuel Butler
