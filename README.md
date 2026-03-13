@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;What we know is a drop, what we don't know is an ocean. &quot;</em> <br>
+— Isaac Newton
