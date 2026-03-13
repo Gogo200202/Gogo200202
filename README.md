@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What we know is a drop, what we don't know is an ocean. &quot;</em> <br>
-— Isaac Newton
+<em>&quot;A Penny Saved is a Penny Earned&quot;</em> <br>
+— Benjamin Franklin
