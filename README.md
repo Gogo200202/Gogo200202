@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;There are dark shadows on the earth, but its lights are stronger in the contrast.&quot;</em> <br>
+— Charles Dickens
