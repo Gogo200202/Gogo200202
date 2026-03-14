@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you want to be honored by others, you learn to honor them first.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Your only limitations are those you set up in your mind or permit others to set up for you.&quot;</em> <br>
+— Og Mandino
