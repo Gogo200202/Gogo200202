@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The measure of who we are is what we do with what we have.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;If there is a book that you want to read, but it hasn't been written yet, then you must write it.&quot;</em> <br>
+— Toni Morrison
