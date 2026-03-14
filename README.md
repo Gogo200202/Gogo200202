@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;At first dreams seem impossible, then improbable, then inevitable.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;You are free, and that is why you are lost.&quot;</em> <br>
+— Franz Kafka
