@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more people you help become successful the more successful you become.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;The mind is the limit.&quot;</em> <br>
+— Arnold Schwarzenegger
