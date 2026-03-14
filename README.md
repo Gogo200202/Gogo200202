@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The mind is the limit.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Why fit in when you were born to stand out?&quot;</em> <br>
+— Dr. Seuss
