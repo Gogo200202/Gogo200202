@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &quot;</em> <br>
-— Seneca
+<em>&quot;Nothing will work unless you do.&quot;</em> <br>
+— Maya Angelou
