@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &quot;</em> <br>
+— Seneca
