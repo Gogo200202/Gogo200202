@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;The more people you help become successful the more successful you become.&quot;</em> <br>
+— Steve Harvey
