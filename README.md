@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing will work unless you do.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Every man is guilty of all the good he did not do. &quot;</em> <br>
+— Voltaire
