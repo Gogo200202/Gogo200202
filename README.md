@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Yesterday is gone. Tomorrow has not yet come. We have only today.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;When you want to be honored by others, you learn to honor them first.&quot;</em> <br>
+— Sathya Sai Baba
