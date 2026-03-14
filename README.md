@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every man is guilty of all the good he did not do. &quot;</em> <br>
-— Voltaire
+<em>&quot;At first dreams seem impossible, then improbable, then inevitable.&quot;</em> <br>
+— Christopher Reeve
