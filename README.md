@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why fit in when you were born to stand out?&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;The measure of who we are is what we do with what we have.&quot;</em> <br>
+— Vince Lombardi
