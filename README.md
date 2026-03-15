@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness must be grown in one's own garden.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Within every desire is the mechanics of its fulfillment.&quot;</em> <br>
+— Deepak Chopra
