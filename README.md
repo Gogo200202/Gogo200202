@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you want something in life, you just gotta reach out and grab it.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Never to suffer would never to have been blessed.&quot;</em> <br>
+— Edgar Allan Poe
