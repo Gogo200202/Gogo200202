@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't try to be young. Just open your mind. Stay interested in stuff.&quot;</em> <br>
-— Betty White
+<em>&quot;When you want something in life, you just gotta reach out and grab it.&quot;</em> <br>
+— Christopher McCandless
