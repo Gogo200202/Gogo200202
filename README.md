@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anyone telling you it's pointless to share your perspective is sharing their perspective.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;We make a living by what we get, but we make a life by what we give.&quot;</em> <br>
+— Unknown
