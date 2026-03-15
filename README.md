@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We make a living by what we get, but we make a life by what we give.&quot;</em> <br>
-— Unknown
+<em>&quot;You're only given a little spark of madness. You mustn't lose it.&quot;</em> <br>
+— Robin Williams
