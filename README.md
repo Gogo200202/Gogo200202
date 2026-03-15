@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;It is easier to fight for one's principles than to live up to them. &quot;</em> <br>
+— Alfred Adler
