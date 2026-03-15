@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being ignorant is not so much a shame, as being unwilling to learn.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Don't try to be young. Just open your mind. Stay interested in stuff.&quot;</em> <br>
+— Betty White
