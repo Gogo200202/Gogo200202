@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Within every desire is the mechanics of its fulfillment.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Realize deeply that the present moment is all you ever have. &quot;</em> <br>
+— Eckhart Tolle
