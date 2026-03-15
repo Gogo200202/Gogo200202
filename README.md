@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If there is a book that you want to read, but it hasn't been written yet, then you must write it.&quot;</em> <br>
-— Toni Morrison
+<em>&quot;There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.&quot;</em> <br>
+— Alexandre Dumas
