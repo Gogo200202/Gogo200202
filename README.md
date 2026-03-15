@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never to suffer would never to have been blessed.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;Happiness must be grown in one's own garden.&quot;</em> <br>
+— Mary Engelbreit
