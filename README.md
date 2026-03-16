@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Today I begin a new life. I will greet this day with love in my heart.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Plants grow weak without wind.&quot;</em> <br>
+— Maxime Lagace
