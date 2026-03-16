@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You live by what you thrill to, and there's the end of it.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Any game becomes important when you know and love the players.&quot;</em> <br>
+— W.P. Kinsella
