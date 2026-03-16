@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Today I begin a new life. I will greet this day with love in my heart.&quot;</em> <br>
+— Og Mandino
