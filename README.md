@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's the unknown we fear when we look upon death and darkness, nothing more.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;Even though you are on the right track - you will get run over if you just sit there.&quot;</em> <br>
+— Will Rogers
