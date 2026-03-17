@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I wasn't brave, I just didn't have time to be scared.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Don't wait for the right opportunity: create it.&quot;</em> <br>
+— George Bernard Shaw
