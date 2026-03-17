@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A tiger doesn't lose sleep over the opinion of sheep.&quot;</em> <br>
-— Shahir Zag
+<em>&quot;I wasn't brave, I just didn't have time to be scared.&quot;</em> <br>
+— Amelia Earhart
