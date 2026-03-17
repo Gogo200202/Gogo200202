@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If no one ever broke the rules, then we'd never advance.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;It's the unknown we fear when we look upon death and darkness, nothing more.&quot;</em> <br>
+— Albus Dumbledore
