@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.&quot;</em> <br>
-— W. Clement Stone
+<em>&quot;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&quot;</em> <br>
+— Bhagavad Gita
