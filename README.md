@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.&quot;</em> <br>
+— Criss Jami
