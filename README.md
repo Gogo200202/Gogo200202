@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The fewer the words, the better the prayer.&quot;</em> <br>
-— Martin Luther
+<em>&quot;Identify your problems, but give your power and energy to solutions.&quot;</em> <br>
+— Tony Robbins
