@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Be thankful for everything that happens in your life; it's all an experience.&quot;</em> <br>
+— Roy T. Bennett
