@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life has no limitations except the ones you make.&quot;</em> <br>
-— Les Brown
+<em>&quot;Walk towards the sunshine, and the shadows will fall behind you.&quot;</em> <br>
+— Mary Engelbreit
