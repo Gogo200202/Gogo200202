@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Throughout this life, you can never be certain of living long enough to take another breath.&quot;</em> <br>
-— Huang Po
+<em>&quot;If you don't know, the thing to do is not to get scared, but to learn.&quot;</em> <br>
+— Ayn Rand
