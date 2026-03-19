@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't bother people for help without first trying to solve the problem yourself.&quot;</em> <br>
-— Colin Powell
+<em>&quot;The future depends on what you do today. &quot;</em> <br>
+— Mahatma Gandhi
