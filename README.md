@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Everyday is a second chance.&quot;</em> <br>
+— Unknown
