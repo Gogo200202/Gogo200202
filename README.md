@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Walk towards the sunshine, and the shadows will fall behind you.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.&quot;</em> <br>
+— Jiddu Krishnamurti
