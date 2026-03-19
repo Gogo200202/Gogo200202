@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyday is a second chance.&quot;</em> <br>
-— Unknown
+<em>&quot;Sometimes letting things go is an act of far greater power than defending or hanging on.&quot;</em> <br>
+— Eckhart Tolle
