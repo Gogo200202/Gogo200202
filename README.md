@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't know, the thing to do is not to get scared, but to learn.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Life has no limitations except the ones you make.&quot;</em> <br>
+— Les Brown
