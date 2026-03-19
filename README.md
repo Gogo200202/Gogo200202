@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;Superstars think like superstars long before the fans or the press anoint them.&quot;</em> <br>
+— John Eliot
