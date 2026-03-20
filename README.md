@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man must use what he has, not hope for what is not.&quot;</em> <br>
-— G.I. Gurdjieff
+<em>&quot;We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences &quot;</em> <br>
+— Nikola Tesla
