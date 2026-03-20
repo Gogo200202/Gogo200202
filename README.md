@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;The outer conditions of a person's life will always be found to reflect their inner beliefs.&quot;</em> <br>
+— James Allen
