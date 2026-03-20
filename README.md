@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no accidents... there is only some purpose that we haven't yet understood.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;The heart wants what it wants. There's no logic. &quot;</em> <br>
+— Woody Allen
