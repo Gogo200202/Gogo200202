@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyday you can take a tiny step in the right direction.&quot;</em> <br>
-— Unknown
+<em>&quot;There are no accidents... there is only some purpose that we haven't yet understood.&quot;</em> <br>
+— Deepak Chopra
