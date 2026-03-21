@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be brave to stand for what you believe in even if you stand alone.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Man should fear never beginning to live.&quot;</em> <br>
+— Marcus Aurelius
