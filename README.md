@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A little progress each day adds up to big results.&quot;</em> <br>
-— Unknown
+<em>&quot;Our view of the world is truly shaped by what we decide to hear.&quot;</em> <br>
+— William James
