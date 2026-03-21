@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We learn to walk by falling down. If we never fell down, we would never walk.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;You don't need a weatherman to know which way the wind blows.&quot;</em> <br>
+— Bob Dylan
