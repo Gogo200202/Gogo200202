@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wish it were easier, wish you were better.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;The act of taking the first step is what separates the winners from the losers.&quot;</em> <br>
+— Brian Tracy
