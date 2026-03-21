@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Children are our greatest natural resource.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&quot;</em> <br>
+— Ming-Dao Deng
