@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is the absence of judgment.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;We learn to walk by falling down. If we never fell down, we would never walk.&quot;</em> <br>
+— Robert Kiyosaki
