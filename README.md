@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&quot;</em> <br>
-— Charles Darwin
+<em>&quot;Happiness is not something ready made. It comes from your own actions.&quot;</em> <br>
+— Dalai Lama
