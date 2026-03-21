@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A leader leads by example, not by force.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Be brave to stand for what you believe in even if you stand alone.&quot;</em> <br>
+— Roy T. Bennett
