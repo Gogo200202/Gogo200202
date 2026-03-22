@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
-— Seneca
+<em>&quot;Emancipate yourself from mental slavery, none but ourselves can free our mind.&quot;</em> <br>
+— Bob Marley
