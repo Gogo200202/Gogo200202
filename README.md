@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Follow the man who seeks the truth; run from the man who has found it.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Luck is what happens when preparation meets opportunity.  &quot;</em> <br>
+— Seneca
