@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot find peace by avoiding life.&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.&quot;</em> <br>
+— Elvis Presley
