@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not whether you get knocked down, its whether you get back up.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;The world only exists in your eyes. You can make it as big or as small as you want.&quot;</em> <br>
+— F. Scott Fitzgerald
