@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can easily judge the character of a man by how he treats those who can do nothing for him.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;In order to be irreplaceable one must always be different.&quot;</em> <br>
+— Coco Chanel
