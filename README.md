@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;You cannot find peace by avoiding life.&quot;</em> <br>
+— Virginia Woolf
