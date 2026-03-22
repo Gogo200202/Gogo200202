@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most important single ingredient in the formula of success is knowing how to get along with people.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;It's not whether you get knocked down, its whether you get back up.&quot;</em> <br>
+— Vince Lombardi
