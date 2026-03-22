@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Emancipate yourself from mental slavery, none but ourselves can free our mind.&quot;</em> <br>
-— Bob Marley
+<em>&quot;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&quot;</em> <br>
+— Eleanor Roosevelt
