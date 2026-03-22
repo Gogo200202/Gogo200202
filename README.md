@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not look for a sanctuary in anyone except your self.&quot;</em> <br>
-— Buddha
+<em>&quot;You can easily judge the character of a man by how he treats those who can do nothing for him.&quot;</em> <br>
+— Johann Wolfgang von Goethe
