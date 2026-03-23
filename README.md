@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To travel is to be alive, but to get somewhere is to be dead.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Surround yourself only with people who are going to take you higher.&quot;</em> <br>
+— Oprah Winfrey
