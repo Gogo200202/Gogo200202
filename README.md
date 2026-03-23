@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;You cannot change your destination overnight but you can change your direction overnight.&quot;</em> <br>
+— Jim Rohn
