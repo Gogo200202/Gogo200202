@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great minds are always feared by lesser minds.&quot;</em> <br>
-— Dan Brown
+<em>&quot;I will not walk backward in life.&quot;</em> <br>
+— J.R.R. Tolkien
