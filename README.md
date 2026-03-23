@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot change your destination overnight but you can change your direction overnight.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Great minds are always feared by lesser minds.&quot;</em> <br>
+— Dan Brown
