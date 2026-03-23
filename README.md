@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Night is a more quiet time to work. It aids thought.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;If you cannot understand something, then you have understood it incorrectly.&quot;</em> <br>
+— Kabir
