@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only way to make sense out of change is to plunge into it, move with it, and join the dance.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Not all of us can do great things. But we can do small things with great love.&quot;</em> <br>
+— Mother Teresa
