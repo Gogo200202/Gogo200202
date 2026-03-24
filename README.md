@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not all of us can do great things. But we can do small things with great love.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;It isn't what you do, but how you do it.&quot;</em> <br>
+— John Wooden
