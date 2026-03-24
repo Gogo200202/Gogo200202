@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;The most important thing in communication is to hear what isn't being said.&quot;</em> <br>
+— Peter Drucker
