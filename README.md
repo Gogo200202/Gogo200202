@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;You are the only real obstacle in your path to a fulfilling life.&quot;</em> <br>
+— Les Brown
