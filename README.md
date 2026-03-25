@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I'm an optimist by choice not by stupidity.&quot;</em> <br>
-— Yanni
+<em>&quot;A leader is one who knows the way, goes the way, and shows the way.&quot;</em> <br>
+— Unknown
