@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man is made by his belief. As he believes, so he is.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;When I let go of what I am, I become what I might be.&quot;</em> <br>
+— Lao Tzu
