@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Man is made by his belief. As he believes, so he is.&quot;</em> <br>
+— Bhagavad Gita
