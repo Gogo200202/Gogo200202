@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When I let go of what I am, I become what I might be.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.&quot;</em> <br>
+— Sun Tzu
