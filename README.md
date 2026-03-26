@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anyone who reads a book with a sense of obligation does not understand the art of reading.&quot;</em> <br>
-— Lin Yutang
+<em>&quot;If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.&quot;</em> <br>
+— Unknown
