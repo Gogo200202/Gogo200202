@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're only given a little spark of madness. You mustn't lose it.&quot;</em> <br>
-— Robin Williams
+<em>&quot;Anyone who reads a book with a sense of obligation does not understand the art of reading.&quot;</em> <br>
+— Lin Yutang
