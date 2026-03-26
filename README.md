@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Correct what you can. Learn from what you can't.&quot;</em> <br>
-— Toni Morrison
+<em>&quot;Blessed is he who expects nothing, for he shall never be disappointed.&quot;</em> <br>
+— Alexander Pope
