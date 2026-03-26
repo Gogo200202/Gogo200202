@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To become what you are not, behave as you do not.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Don't be afraid that you do not know something. Be afraid of not learning about it.&quot;</em> <br>
+— Zen Proverb
