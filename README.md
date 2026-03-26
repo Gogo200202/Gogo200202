@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be afraid that you do not know something. Be afraid of not learning about it.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.&quot;</em> <br>
+— John Wooden
