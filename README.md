@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The purpose of life is the life of purpose.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;To become what you are not, behave as you do not.&quot;</em> <br>
+— T.S. Eliot
