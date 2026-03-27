@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In life you need either inspiration or desperation.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The act of taking the first step is what separates the winners from the losers.&quot;</em> <br>
+— Brian Tracy
