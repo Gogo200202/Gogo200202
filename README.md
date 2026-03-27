@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The act of taking the first step is what separates the winners from the losers.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;It's not how much we give but how much love we put into giving.&quot;</em> <br>
+— Mother Teresa
