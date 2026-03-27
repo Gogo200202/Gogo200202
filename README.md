@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust your instincts: my first reaction is almost invariably the right one.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;You get paid in direct proportion to the difficulty of problems you solve.&quot;</em> <br>
+— Elon Musk
