@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.&quot;</em> <br>
-— John Wooden
+<em>&quot;If you believe you can, you can. If you believe you can't, then, well you can't.&quot;</em> <br>
+— Celestine Chua
