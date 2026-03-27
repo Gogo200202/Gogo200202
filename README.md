@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You get paid in direct proportion to the difficulty of problems you solve.&quot;</em> <br>
-— Elon Musk
+<em>&quot;A needle is not sharp at both ends. &quot;</em> <br>
+— Chinese Proverb
