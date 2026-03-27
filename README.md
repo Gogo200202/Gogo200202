@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not how much we give but how much love we put into giving.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;When something comes from within, when it is a part of you, you have no choice but to live it, to express it.&quot;</em> <br>
+— Kamal Ravikant
