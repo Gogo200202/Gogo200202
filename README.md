@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tall oaks grow from little acorns.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Loyalty and friendship are the most precious possessions a man can have.&quot;</em> <br>
+— Herbert Hoover
