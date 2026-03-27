@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you believe you can, you can. If you believe you can't, then, well you can't.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;The older you get, the better you get. Unless you're a banana.&quot;</em> <br>
+— Betty White
