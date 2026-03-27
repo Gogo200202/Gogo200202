@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When something comes from within, when it is a part of you, you have no choice but to live it, to express it.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Tall oaks grow from little acorns.&quot;</em> <br>
+— Andrew Carnegie
