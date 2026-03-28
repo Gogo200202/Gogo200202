@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is hard to fail, but it is worse never to have tried to succeed.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Choose a job you love, and you will never have to work a day in your life. &quot;</em> <br>
+— Confucius
