@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot control the behavior of others, but you can always choose how you respond to it.&quot;</em> <br>
+<em>&quot;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&quot;</em> <br>
 — Roy T. Bennett
