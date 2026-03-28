@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;It's not whether you get knocked down, its whether you get back up.&quot;</em> <br>
+— Vince Lombardi
