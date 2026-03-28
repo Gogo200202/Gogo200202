@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If your mind is empty, it is always ready for anything, it is open to everything.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;Even the finest sword plunged into salt water will eventually rust.&quot;</em> <br>
+— Sun Tzu
