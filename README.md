@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;If you don't know where you're going, you will probably end up somewhere else.&quot;</em> <br>
+— Laurence J. Peter
