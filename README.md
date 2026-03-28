@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Choose a job you love, and you will never have to work a day in your life. &quot;</em> <br>
-— Confucius
+<em>&quot;You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.&quot;</em> <br>
+— Zig Ziglar
