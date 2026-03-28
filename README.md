@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;It is hard to fail, but it is worse never to have tried to succeed.&quot;</em> <br>
+— Theodore Roosevelt
