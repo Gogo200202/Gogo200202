@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Observe things as they are and don't pay attention to other people.&quot;</em> <br>
-— Huang Po
+<em>&quot;To arrive at the simplest truth requires years of contemplation.&quot;</em> <br>
+— Isaac Newton
