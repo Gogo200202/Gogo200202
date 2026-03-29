@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Decide what your truth is. Then live it.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&quot;</em> <br>
+— Amelia Earhart
