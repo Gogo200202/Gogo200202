@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only lost cause is one we give up on before we enter the struggle.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Avoiding danger is no safer in the long run than exposure.&quot;</em> <br>
+— Helen Keller
