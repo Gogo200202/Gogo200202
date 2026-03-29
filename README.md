@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Numbing the pain for a while will make it worse when you finally feel it.&quot;</em> <br>
-— Albus Dumbledore
+<em>&quot;Rivers know this: there is no hurry. We shall get there some day.&quot;</em> <br>
+— A.A. Milne
