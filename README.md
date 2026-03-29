@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Avoiding danger is no safer in the long run than exposure.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Those who look for the bad in people will surely find it.&quot;</em> <br>
+— Abraham Lincoln
