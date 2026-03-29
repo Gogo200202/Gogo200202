@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
+— Maxime Lagace
