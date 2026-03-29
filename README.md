@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To arrive at the simplest truth requires years of contemplation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;There are more people who wish to be loved than there are who are willing to love. &quot;</em> <br>
+— Nicolas Chamfort
