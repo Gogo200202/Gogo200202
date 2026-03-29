@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who look for the bad in people will surely find it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Decide what your truth is. Then live it.&quot;</em> <br>
+— Kamal Ravikant
