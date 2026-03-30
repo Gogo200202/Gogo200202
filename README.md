@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's necessary to get the losers out of your life if you want to live your dream.&quot;</em> <br>
-— Les Brown
+<em>&quot;If you correct your mind, the rest of your life will fall into place.&quot;</em> <br>
+— Lao Tzu
