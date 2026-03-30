@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is your attitude, not your aptitude, that determines your altitude.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Success comes to those who become success conscious.&quot;</em> <br>
+— Napoleon Hill
