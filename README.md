@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success comes to those who become success conscious.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Genius is patience.&quot;</em> <br>
+— Isaac Newton
