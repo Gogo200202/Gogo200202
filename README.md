@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a gift. Never forget to enjoy and bask in every moment you are in.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;It's necessary to get the losers out of your life if you want to live your dream.&quot;</em> <br>
+— Les Brown
