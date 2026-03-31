@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;What is a friend? A single soul dwelling in two bodies.&quot;</em> <br>
+— Aristotle
