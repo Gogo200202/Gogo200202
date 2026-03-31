@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We have more possibilities available in each moment than we realize.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
+— Buddha
