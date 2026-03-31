@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be a good animal, true to your instincts.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Comedy = tragedy + time.&quot;</em> <br>
+— Carol Burnett
