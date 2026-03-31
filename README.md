@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&quot;</em> <br>
+— Dalai Lama
