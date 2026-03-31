@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do something worth remembering.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&quot;</em> <br>
+— Steve Maraboli
