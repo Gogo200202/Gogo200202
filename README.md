@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no fear for one whose mind is not filled with desires.&quot;</em> <br>
-— Buddha
+<em>&quot;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&quot;</em> <br>
+— Winston Churchill
