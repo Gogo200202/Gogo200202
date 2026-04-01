@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I can live without money, but I cannot live without love.&quot;</em> <br>
-— Judy Garland
+<em>&quot;At every moment where language can't go, that's your mind.&quot;</em> <br>
+— Bodhidharma
