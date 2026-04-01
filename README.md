@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;At every moment where language can't go, that's your mind.&quot;</em> <br>
-— Bodhidharma
+<em>&quot;Anyone telling you it's pointless to share your perspective is sharing their perspective.&quot;</em> <br>
+— Jack Butcher
