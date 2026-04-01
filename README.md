@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;When you reach the end of your rope, tie a knot in it and hang on.&quot;</em> <br>
+— Franklin D. Roosevelt
