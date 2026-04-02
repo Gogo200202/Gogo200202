@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you try, you might get exactly what you want. If you don't, you don't.&quot;</em> <br>
-— Unknown
+<em>&quot;Your dream has to be bigger than your fear.&quot;</em> <br>
+— Steve Harvey
