@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The least deviation from truth will be multiplied later.&quot;</em> <br>
-— Aristotle
+<em>&quot;If you try, you might get exactly what you want. If you don't, you don't.&quot;</em> <br>
+— Unknown
