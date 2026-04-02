@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no second chances in life, except to feel remorse.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;I'd rather welcome change than cling to the past.&quot;</em> <br>
+— Robert Kiyosaki
