@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I dream my painting and I paint my dream.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.&quot;</em> <br>
+— Gurbaksh Chahal
