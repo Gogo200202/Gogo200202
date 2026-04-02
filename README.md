@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our happiness depends on the habit of mind we cultivate.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Our greatest fears lie in anticipation.&quot;</em> <br>
+— Honore de Balzac
