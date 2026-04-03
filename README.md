@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your dream has to be bigger than your fear.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&quot;</em> <br>
+— Joyce Meyer
