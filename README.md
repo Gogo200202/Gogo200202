@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The people who succeed are irrationally passionate about something.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Life is the dancer and you are the dance.&quot;</em> <br>
+— Eckhart Tolle
