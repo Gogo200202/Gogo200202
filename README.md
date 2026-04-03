@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is the dancer and you are the dance.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Even in the grave, all is not lost.&quot;</em> <br>
+— Edgar Allan Poe
