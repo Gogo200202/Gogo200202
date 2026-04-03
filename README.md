@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Many of life's failures are people who did not realize how close they were to success when they gave up.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Open your mind before your mouth.&quot;</em> <br>
+— Aristophanes
