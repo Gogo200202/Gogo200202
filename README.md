@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom lies in being bold.&quot;</em> <br>
-— Robert Frost
+<em>&quot;Many of life's failures are people who did not realize how close they were to success when they gave up.&quot;</em> <br>
+— Thomas Edison
