@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Open your mind before your mouth.&quot;</em> <br>
-— Aristophanes
+<em>&quot;When you win, say nothing, when you lose say less.&quot;</em> <br>
+— Wayne Gretzky
