@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make failure your teacher, not your undertaker.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Management is doing things right; leadership is doing the right things.&quot;</em> <br>
+— Peter Drucker
