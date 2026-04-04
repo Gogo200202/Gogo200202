@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing can dim the light which shines from within.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;It is not the knowing that is difficult, but the doing. &quot;</em> <br>
+— Chinese Proverb
