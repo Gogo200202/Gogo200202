@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not conquer self, you will be conquered by self.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;A warrior does not give up what he loves, he finds the love in what he does.&quot;</em> <br>
+— Dan Millman
