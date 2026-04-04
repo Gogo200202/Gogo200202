@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Definitions belong to the definers, not the defined.&quot;</em> <br>
-— Toni Morrison
+<em>&quot;Happiness is only real when shared.&quot;</em> <br>
+— Christopher McCandless
