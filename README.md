@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not the knowing that is difficult, but the doing. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Thoughts become things. If you see it in your mind, you will hold it in your hand.&quot;</em> <br>
+— Bob Proctor
