@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Weeds are flowers too, once you get to know them.&quot;</em> <br>
-— A.A. Milne
+<em>&quot;Force has no place where there is need of skill. &quot;</em> <br>
+— Herodotus
