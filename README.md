@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A warrior does not give up what he loves, he finds the love in what he does.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Anything becomes interesting if you look at it long enough..&quot;</em> <br>
+— Gustave Flaubert
