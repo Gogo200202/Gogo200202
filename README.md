@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Force has no place where there is need of skill. &quot;</em> <br>
-— Herodotus
+<em>&quot;If you do not conquer self, you will be conquered by self.&quot;</em> <br>
+— Napoleon Hill
