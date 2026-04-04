@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When at last you are come to the ocean of happiness, do not go back thirsty.&quot;</em> <br>
-— Kabir
+<em>&quot;Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. &quot;</em> <br>
+— George Washington
