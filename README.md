@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is only real when shared.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
+— Herman Melville
