@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I would rather be a little nobody, then to be an evil somebody.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Successful people are not without problems. They're simply people who've learned to solve their problems.&quot;</em> <br>
+— Earl Nightingale
