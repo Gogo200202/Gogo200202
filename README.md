@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What you resist, persists.&quot;</em> <br>
-— Carl Jung
+<em>&quot;When you win, say nothing, when you lose say less.&quot;</em> <br>
+— Wayne Gretzky
