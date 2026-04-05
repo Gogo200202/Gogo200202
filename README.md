@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Men do not attract which they want but that which they are.&quot;</em> <br>
+— James Allen
