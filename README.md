@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you win, say nothing, when you lose say less.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Change yourself and you have done your part in changing the world.&quot;</em> <br>
+— Paramahansa Yogananda
