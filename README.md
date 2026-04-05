@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Any fool can turn a blind eye but who knows what the ostrich sees in the sand.&quot;</em> <br>
-— Samuel Beckett
+<em>&quot;Keep your eyes on the stars, but remember to keep your feet on the ground.&quot;</em> <br>
+— Theodore Roosevelt
