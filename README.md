@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change yourself and you have done your part in changing the world.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;To do two things at once is to do neither.&quot;</em> <br>
+— Publilius Syrus
