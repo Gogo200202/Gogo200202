@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thoughts become things. If you see it in your mind, you will hold it in your hand.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.&quot;</em> <br>
+— Dan Millman
