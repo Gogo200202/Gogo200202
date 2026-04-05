@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;True life is lived when tiny changes occur.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Words are the clothing of our thoughts.&quot;</em> <br>
+— Jonathan Swift
