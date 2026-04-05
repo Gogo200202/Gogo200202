@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men do not attract which they want but that which they are.&quot;</em> <br>
-— James Allen
+<em>&quot;The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.&quot;</em> <br>
+— Brian Tracy
