@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear is your worst enemy. Risk is your best friend.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;Life is love and love is life.&quot;</em> <br>
+— Elvis Presley
