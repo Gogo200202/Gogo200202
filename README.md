@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Words are the clothing of our thoughts.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;For all evils there are two remedies - time and silence.&quot;</em> <br>
+— Alexandre Dumas
