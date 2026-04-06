@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People rarely succeed unless they have fun in what they are doing.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;Be brave. Take risks. Nothing can substitute experience.&quot;</em> <br>
+— Paulo Coelho
