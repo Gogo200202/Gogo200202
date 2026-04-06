@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be brave. Take risks. Nothing can substitute experience.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Happiness is only real, when shared.&quot;</em> <br>
+— Christopher McCandless
