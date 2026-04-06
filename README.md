@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be thankful for everything that happens in your life; it's all an experience.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;People rarely succeed unless they have fun in what they are doing.&quot;</em> <br>
+— Dale Carnegie
