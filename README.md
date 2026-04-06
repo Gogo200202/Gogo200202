@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For all evils there are two remedies - time and silence.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Fear is your worst enemy. Risk is your best friend.&quot;</em> <br>
+— Gurbaksh Chahal
