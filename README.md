@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;The biggest challenge after success is shutting up about it.&quot;</em> <br>
+— Criss Jami
