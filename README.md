@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Be thankful for everything that happens in your life; it's all an experience.&quot;</em> <br>
+— Roy T. Bennett
