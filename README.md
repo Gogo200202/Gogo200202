@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Working hard for something we don't care about is called stress: Working hard for something we love is called passion.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;We must learn to live together as brothers or perish together as fools.&quot;</em> <br>
+— Martin Luther King, Jr.
