@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am always doing what I cannot do yet, in order to learn how to do it.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
+— Anne Wilson Schaef
