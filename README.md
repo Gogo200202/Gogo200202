@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just because something isn't a lie does not mean that it isn't deceptive.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Working hard for something we don't care about is called stress: Working hard for something we love is called passion.&quot;</em> <br>
+— Simon Sinek
