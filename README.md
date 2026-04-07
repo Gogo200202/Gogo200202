@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Worry is a waste of emotional reserve.&quot;</em> <br>
+— Ayn Rand
