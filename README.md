@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do you have the patience to wait until your mud settles and the water is clear?&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Just because something isn't a lie does not mean that it isn't deceptive.&quot;</em> <br>
+— Criss Jami
