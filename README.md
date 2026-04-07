@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trusting our intuition often saves us from disaster. &quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;Do you have the patience to wait until your mud settles and the water is clear?&quot;</em> <br>
+— Lao Tzu
