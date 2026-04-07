@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must learn to live together as brothers or perish together as fools.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.&quot;</em> <br>
+— Wayne Gretzky
