@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The nearer a man comes to a calm mind, the closer he is to strength.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The privilege of a lifetime is to become who you truly are.&quot;</em> <br>
+— Carl Jung
