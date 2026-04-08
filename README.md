@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Worry is a waste of emotional reserve.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;The nearer a man comes to a calm mind, the closer he is to strength.&quot;</em> <br>
+— Marcus Aurelius
