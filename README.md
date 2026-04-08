@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;There is no truth. There is only perception.&quot;</em> <br>
+— Gustave Flaubert
