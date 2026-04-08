@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Like it or not, this moment is all we really have to work with.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.&quot;</em> <br>
+— Dale Carnegie
