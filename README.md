@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The privilege of a lifetime is to become who you truly are.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Like it or not, this moment is all we really have to work with.&quot;</em> <br>
+— Jon Kabat-Zinn
