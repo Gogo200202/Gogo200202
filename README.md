@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&quot;</em> <br>
-— Socrates
+<em>&quot;Life is a gift. Never forget to enjoy and bask in every moment you are in.&quot;</em> <br>
+— Celestine Chua
