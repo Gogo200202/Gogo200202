@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no truth. There is only perception.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.&quot;</em> <br>
+— T.S. Eliot
