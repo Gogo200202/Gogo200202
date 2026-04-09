@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can see it in your mind, you can hold it in your mind.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Change is never easy, but always possible.&quot;</em> <br>
+— Barack Obama
