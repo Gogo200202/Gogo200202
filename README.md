@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing worse than being blind is having sight but no vision.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Quiet people have the loudest minds.&quot;</em> <br>
+— Stephen Hawking
