@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Quiet people have the loudest minds.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;If you can see it in your mind, you can hold it in your mind.&quot;</em> <br>
+— Steve Harvey
