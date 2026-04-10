@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life must be a constant education; one must learn everything, from speaking to dying.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&quot;</em> <br>
+— Josh Waitzkin
