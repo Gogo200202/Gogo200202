@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I have lived with several Zen masters -- all of them cats.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Make each day a new horizon.&quot;</em> <br>
+— Christopher McCandless
