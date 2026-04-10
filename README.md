@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I'm not afraid of death, but I'm in no hurry to die.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&quot;</em> <br>
+— Ronald Reagan
