@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;I have lived with several Zen masters -- all of them cats.&quot;</em> <br>
+— Eckhart Tolle
