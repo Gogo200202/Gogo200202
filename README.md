@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success does not consist in never making mistakes but in never making the same one a second time.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Change is hardest at the beginning, messiest in the middle and best at the end.&quot;</em> <br>
+— Robin Sharma
