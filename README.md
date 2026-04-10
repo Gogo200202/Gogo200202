@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An intelligent person hires people who are more intelligent than he is.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Success does not consist in never making mistakes but in never making the same one a second time.&quot;</em> <br>
+— George Bernard Shaw
