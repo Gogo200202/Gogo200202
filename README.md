@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make each day a new horizon.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;An intelligent person hires people who are more intelligent than he is.&quot;</em> <br>
+— Robert Kiyosaki
