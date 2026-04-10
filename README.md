@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are the only real obstacle in your path to a fulfilling life.&quot;</em> <br>
-— Les Brown
+<em>&quot;Life must be a constant education; one must learn everything, from speaking to dying.&quot;</em> <br>
+— Gustave Flaubert
