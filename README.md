@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your mind is infinite, it's your doubts that are limiting.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The positive thinker sees the invisible, feels the intangible, and achieves the impossible.&quot;</em> <br>
+— Winston Churchill
