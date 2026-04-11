@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The positive thinker sees the invisible, feels the intangible, and achieves the impossible.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;The day is for honest men, the night for thieves.&quot;</em> <br>
+— Euripides
