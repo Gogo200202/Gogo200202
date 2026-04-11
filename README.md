@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wish it were easier, wish you were better.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;When you have to make a choice and don't make it, that is in itself a choice.&quot;</em> <br>
+— William James
