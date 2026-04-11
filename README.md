@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In nature there is no alienation. Everything belongs.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&quot;</em> <br>
+— Dale Carnegie
