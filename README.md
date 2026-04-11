@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Guilt is perhaps the most painful companion of death.&quot;</em> <br>
+— Coco Chanel
