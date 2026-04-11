@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Guilt is perhaps the most painful companion of death.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&quot;</em> <br>
+— Bette Midler
