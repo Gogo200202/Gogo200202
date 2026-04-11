@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The day is for honest men, the night for thieves.&quot;</em> <br>
-— Euripides
+<em>&quot;Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.&quot;</em> <br>
+— Colin Powell
