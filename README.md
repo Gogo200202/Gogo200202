@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;None but ourselves can free our minds.&quot;</em> <br>
-— Bob Marley
+<em>&quot;In nature there is no alienation. Everything belongs.&quot;</em> <br>
+— Ming-Dao Deng
