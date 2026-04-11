@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&quot;</em> <br>
-— Bette Midler
+<em>&quot;None but ourselves can free our minds.&quot;</em> <br>
+— Bob Marley
