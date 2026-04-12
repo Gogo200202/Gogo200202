@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every man gotta right to decide his own destiny.&quot;</em> <br>
-— Bob Marley
+<em>&quot;Believe you can and you're halfway there.&quot;</em> <br>
+— Theodore Roosevelt
