@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only place success comes before work is in the dictionary.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Behind every cloud is another cloud.&quot;</em> <br>
+— Judy Garland
