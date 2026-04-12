@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Behind every cloud is another cloud.&quot;</em> <br>
-— Judy Garland
+<em>&quot;True prayer has no set form.&quot;</em> <br>
+— Morihei Ueshiba
