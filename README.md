@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's necessary to get the losers out of your life if you want to live your dream.&quot;</em> <br>
-— Les Brown
+<em>&quot;The best dreams happen when you're awake.&quot;</em> <br>
+— Cherie Gilderbloom
