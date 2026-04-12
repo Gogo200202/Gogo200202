@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not all of us can do great things. But we can do small things with great love.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;The only place success comes before work is in the dictionary.&quot;</em> <br>
+— Vince Lombardi
