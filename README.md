@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe you can and you're halfway there.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Either you choose to stay in the shallow end of the pool or you go out into the ocean.&quot;</em> <br>
+— Christopher Reeve
