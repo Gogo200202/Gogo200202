@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Even the smallest person can change the course of the future.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Problems remain as problems because people are busy defending them rather than finding solutions.&quot;</em> <br>
+— Celestine Chua
