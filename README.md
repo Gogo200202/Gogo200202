@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You're braver than you believe, and stronger than you seem, and smarter than you think.&quot;</em> <br>
-— A.A. Milne
+<em>&quot;If you look for perfection, you'll never be content.&quot;</em> <br>
+— Leo Tolstoy
