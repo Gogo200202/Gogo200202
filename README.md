@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you look for perfection, you'll never be content.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;If you run you stand a chance of losing, but if you don't run you've already lost.&quot;</em> <br>
+— Barack Obama
