@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A dead thing can go with the stream, but only a living thing can go against it.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;You're braver than you believe, and stronger than you seem, and smarter than you think.&quot;</em> <br>
+— A.A. Milne
