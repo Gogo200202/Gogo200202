@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Associate with people who are likely to improve you.  &quot;</em> <br>
-— Seneca
+<em>&quot;When you lose your desire for things that do not matter, you will be free.&quot;</em> <br>
+— Morihei Ueshiba
