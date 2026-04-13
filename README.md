@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The moment you stop to think about whether you love someone, you've already stopped loving that person forever.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Associate with people who are likely to improve you.  &quot;</em> <br>
+— Seneca
