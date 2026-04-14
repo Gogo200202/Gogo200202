@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The person who cannot control his words shows that he cannot control himself.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Absurdity is the ecstasy of intellectualism.&quot;</em> <br>
+— Criss Jami
