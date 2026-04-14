@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is never easy, but always possible.&quot;</em> <br>
-— Barack Obama
+<em>&quot;The best way out is always through.&quot;</em> <br>
+— Robert Frost
