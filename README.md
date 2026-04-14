@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way out is always through.&quot;</em> <br>
-— Robert Frost
+<em>&quot;If the only prayer you ever say in your entire life is thank you, it will be enough.&quot;</em> <br>
+— Meister Eckhart
