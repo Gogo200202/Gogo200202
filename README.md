@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You don't know who is important to you until you actually lose them.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;The person who cannot control his words shows that he cannot control himself.&quot;</em> <br>
+— Robert Greene
