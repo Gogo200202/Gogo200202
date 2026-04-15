@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you quit once it becomes a habit.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;In the midst of chaos, there is also opportunity.&quot;</em> <br>
+— Sun Tzu
