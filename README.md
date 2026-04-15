@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the midst of chaos, there is also opportunity.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Do not look for a sanctuary in anyone except your self.&quot;</em> <br>
+— Buddha
