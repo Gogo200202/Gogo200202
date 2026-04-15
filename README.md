@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Absurdity is the ecstasy of intellectualism.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Life is but one dream flowing into another.&quot;</em> <br>
+— Ming-Dao Deng
