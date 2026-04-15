@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness cannot be traveled to, owned, earned, worn or consumed.&quot;</em> <br>
-— Denis Waitley
+<em>&quot;Raise your words, not voice. It is rain that grows flowers, not thunder.&quot;</em> <br>
+— Rumi
