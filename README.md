@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Raise your words, not voice. It is rain that grows flowers, not thunder.&quot;</em> <br>
-— Rumi
+<em>&quot;Challenge yourself to find the good and beautiful thing inside of everyone.&quot;</em> <br>
+— Mark Manson
