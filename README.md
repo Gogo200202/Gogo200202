@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not look for a sanctuary in anyone except your self.&quot;</em> <br>
-— Buddha
+<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
+— T.S. Eliot
