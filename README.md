@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Happiness cannot be traveled to, owned, earned, worn or consumed.&quot;</em> <br>
+— Denis Waitley
