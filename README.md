@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where we fall are the stepping-stones for our journey.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&quot;</em> <br>
+— Sydney Smith
