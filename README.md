@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;There are no shortcuts to any place worth going.&quot;</em> <br>
+— Beverly Sills
