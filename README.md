@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing can survive without food. Everything we consume acts either to heal us or to poison us.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&quot;</em> <br>
+— Brian Tracy
