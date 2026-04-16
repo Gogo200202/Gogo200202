@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When angry count to ten before you speak. If very angry, count to one hundred.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&quot;</em> <br>
+— Eleanor Roosevelt
