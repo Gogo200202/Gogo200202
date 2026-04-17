@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest work that kindness does to others is that it makes them kind themselves.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Find the game where you can win, and then commit your life to playing it; and play to win.&quot;</em> <br>
+— Robert Kiyosaki
