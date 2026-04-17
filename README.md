@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All know that the drop merges into the ocean, but few know that the ocean merges into the drop.&quot;</em> <br>
-— Kabir
+<em>&quot;Do not take life too seriously. You will never get out of it alive.&quot;</em> <br>
+— Elbert Hubbard
