@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is what happens to you while you're busy making other plans.&quot;</em> <br>
-— John Lennon
+<em>&quot;Life has more imagination than we carry in our dreams.&quot;</em> <br>
+— Christopher Columbus
