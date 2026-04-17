@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Find the game where you can win, and then commit your life to playing it; and play to win.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Judge your success by what you had to give up in order to get it.&quot;</em> <br>
+— Dalai Lama
