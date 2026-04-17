@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I dream my painting and I paint my dream.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Instead of thinking outside the box, get rid of the box.&quot;</em> <br>
+— Deepak Chopra
