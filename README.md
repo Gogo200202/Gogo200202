@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Judge your success by what you had to give up in order to get it.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;All know that the drop merges into the ocean, but few know that the ocean merges into the drop.&quot;</em> <br>
+— Kabir
