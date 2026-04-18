@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Write to help yourself, publish to help others.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Man invented language to satisfy his deep need to complain.&quot;</em> <br>
+— Lily Tomlin
