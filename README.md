@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&quot;</em> <br>
+— Bhagavad Gita
