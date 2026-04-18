@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is a difference between giving directions and giving direction.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&quot;</em> <br>
+— Albert Einstein
