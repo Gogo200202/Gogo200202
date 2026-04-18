@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man invented language to satisfy his deep need to complain.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Either you choose to stay in the shallow end of the pool or you go out into the ocean.&quot;</em> <br>
+— Christopher Reeve
