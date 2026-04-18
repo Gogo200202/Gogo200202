@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;From a certain point onward there is no longer any turning back. That is the point that must be reached.&quot;</em> <br>
+— Franz Kafka
