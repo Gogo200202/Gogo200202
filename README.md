@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being wrong opens us up to the possibility of change.&quot;</em> <br>
-— Mark Manson
+<em>&quot;The wiser you get, the less you care to look like a fool.&quot;</em> <br>
+— Maxime Lagace
