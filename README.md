@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The happiest people in the world are those who feel absolutely terrific about themselves.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;The quality, not the longevity, of one's life is what is important.&quot;</em> <br>
+— Martin Luther King, Jr.
