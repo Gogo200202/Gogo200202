@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is the progressive realization of a worthy goal or ideal.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Unless someone truly has the power to say no, they never truly have the power to say yes.&quot;</em> <br>
+— Dan Millman
