@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Receive without complaint, Work with fate.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Success is the progressive realization of a worthy goal or ideal.&quot;</em> <br>
+— Earl Nightingale
