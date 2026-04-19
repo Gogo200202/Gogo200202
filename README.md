@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The enemy is a very good teacher.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;The best dreams happen when you're awake.&quot;</em> <br>
+— Cherie Gilderbloom
