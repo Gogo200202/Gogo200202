@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wiser you get, the less you care to look like a fool.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Anything you may hold firmly in your imagination can be yours.&quot;</em> <br>
+— William James
