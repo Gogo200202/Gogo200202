@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.&quot;</em> <br>
+— Maxime Lagace
