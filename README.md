@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Being wrong opens us up to the possibility of change.&quot;</em> <br>
+— Mark Manson
