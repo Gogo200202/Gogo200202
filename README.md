@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless someone truly has the power to say no, they never truly have the power to say yes.&quot;</em> <br>
-— Dan Millman
+<em>&quot;I try more and more to be myself, caring relatively little whether people approve or disapprove.&quot;</em> <br>
+— Vincent van Gogh
