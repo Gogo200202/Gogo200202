@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quality, not the longevity, of one's life is what is important.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.&quot;</em> <br>
+— Elon Musk
