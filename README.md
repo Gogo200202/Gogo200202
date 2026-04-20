@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Work as though you would live forever, and live as though you would die today. Go another mile.&quot;</em> <br>
+— Og Mandino
