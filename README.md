@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone you meet is fighting a battle you know nothing about. Be kind. Always.&quot;</em> <br>
-— Robin Williams
+<em>&quot;Optimism, when applied to your life, develops strength and peace within you.&quot;</em> <br>
+— Norman Vincent Peale
