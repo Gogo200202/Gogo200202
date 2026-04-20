@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unless you're ashamed of yourself now and then, you're not honest.&quot;</em> <br>
-— William Faulkner
+<em>&quot;Everyone you meet is fighting a battle you know nothing about. Be kind. Always.&quot;</em> <br>
+— Robin Williams
