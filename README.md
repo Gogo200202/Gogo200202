@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Unless you're ashamed of yourself now and then, you're not honest.&quot;</em> <br>
+— William Faulkner
