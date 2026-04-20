@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you think the world is withholding from you, you are withholding from the world.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.&quot;</em> <br>
+— George Bernard Shaw
