@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Work as though you would live forever, and live as though you would die today. Go another mile.&quot;</em> <br>
-— Og Mandino
+<em>&quot;You will face many defeats in life, but never let yourself be defeated.&quot;</em> <br>
+— Maya Angelou
