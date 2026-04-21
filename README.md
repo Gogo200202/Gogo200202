@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.&quot;</em> <br>
-— John Tukey
+<em>&quot;When one does not have what one wants, one must want what one has.&quot;</em> <br>
+— Sigmund Freud
