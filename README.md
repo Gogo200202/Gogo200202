@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&quot;</em> <br>
-— G.I. Gurdjieff
+<em>&quot;We all give up great expectations along the way.&quot;</em> <br>
+— Carlos Ruiz Zafon
