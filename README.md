@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make failure your teacher, not your undertaker.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Life belongs to the living, and he who lives must be prepared for changes.&quot;</em> <br>
+— Johann Wolfgang von Goethe
