@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing brings down walls as surely as acceptance.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;Animals don't hate, and we're supposed to be better than them.&quot;</em> <br>
+— Elvis Presley
