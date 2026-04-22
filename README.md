@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;We never know the love of a parent till we become parents ourselves.&quot;</em> <br>
+— Henry Ward Beecher
