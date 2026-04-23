@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is the expression of one's values.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Many roads lead to the path, but basically there are only two: reason and practice. &quot;</em> <br>
+— Bodhidharma
