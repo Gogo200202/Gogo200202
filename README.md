@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Animals don't hate, and we're supposed to be better than them.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
+— Leo Tolstoy
