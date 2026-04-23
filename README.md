@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you do not change direction, you may end up where you are heading.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.&quot;</em> <br>
+— Socrates
