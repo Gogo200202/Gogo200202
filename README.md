@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Respect was invented to cover the empty place where love should be.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;In youth we run into difficulties. In old age difficulties run into us. &quot;</em> <br>
+— Beverly Sills
