@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;As you love yourself, life loves you back.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Love is the expression of one's values.&quot;</em> <br>
+— Ayn Rand
