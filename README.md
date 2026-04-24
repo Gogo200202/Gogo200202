@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The whole of life, from the moment you are born to the moment you die, is a process of learning.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.&quot;</em> <br>
+— Criss Jami
