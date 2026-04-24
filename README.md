@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is an essence of when you are fearless, you become more creative.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;It is not titles that honour men, but men that honour titles.&quot;</em> <br>
+— Niccolo Machiavelli
