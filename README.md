@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who can make you believe absurdities can make you commit atrocities. &quot;</em> <br>
-— Voltaire
+<em>&quot;The heart wants what it wants - or else it does not care.&quot;</em> <br>
+— Emily Dickinson
