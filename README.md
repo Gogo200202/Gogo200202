@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Selfishness and greed, individual or national, cause most of our troubles.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;By perseverance the snail reached the ark.&quot;</em> <br>
+— Charles Spurgeon
