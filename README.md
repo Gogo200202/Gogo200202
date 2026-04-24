@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is not titles that honour men, but men that honour titles.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;Those who can make you believe absurdities can make you commit atrocities. &quot;</em> <br>
+— Voltaire
