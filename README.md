@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The energy of the mind is the essence of life.&quot;</em> <br>
-— Aristotle
+<em>&quot;Do not bite at the bait of pleasure, till you know there is no hook beneath it.&quot;</em> <br>
+— Thomas Jefferson
