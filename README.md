@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Although the world is full of suffering, it is also full of the overcoming of it.&quot;</em> <br>
-— Helen Keller
+<em>&quot;The energy of the mind is the essence of life.&quot;</em> <br>
+— Aristotle
