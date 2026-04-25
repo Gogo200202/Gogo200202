@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Question everything. Learn something. Answer nothing.&quot;</em> <br>
-— Euripides
+<em>&quot;Far more crucial than what we know or do not know is what we do not want to know.&quot;</em> <br>
+— Eric Hoffer
