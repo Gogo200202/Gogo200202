@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not bite at the bait of pleasure, till you know there is no hook beneath it.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Outstanding people have one thing in common: an absolute sense of mission.  &quot;</em> <br>
+— Zig Ziglar
