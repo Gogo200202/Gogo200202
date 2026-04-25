@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is never final, failure is never fatal. It's courage that counts.&quot;</em> <br>
-— John Wooden
+<em>&quot;If you are unable to find the truth right where you are, where else do you expect to find it?&quot;</em> <br>
+— Dogen
