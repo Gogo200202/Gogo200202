@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Outstanding people have one thing in common: an absolute sense of mission.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Success is never final, failure is never fatal. It's courage that counts.&quot;</em> <br>
+— John Wooden
