@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By perseverance the snail reached the ark.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;The best fighter is never angry.&quot;</em> <br>
+— Lao Tzu
