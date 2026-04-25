@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you are unable to find the truth right where you are, where else do you expect to find it?&quot;</em> <br>
-— Dogen
+<em>&quot;Life itself is the most wonderful fairy tale.&quot;</em> <br>
+— Hans Christian Andersen
