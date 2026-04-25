@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Although the world is full of suffering, it is also full of the overcoming of it.&quot;</em> <br>
+— Helen Keller
