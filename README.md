@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Far more crucial than what we know or do not know is what we do not want to know.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;The way we feel is the direct result of what we think.&quot;</em> <br>
+— Peter A. Cohen
