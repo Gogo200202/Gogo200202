@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.&quot;</em> <br>
-— Epictetus
+<em>&quot;All you need is passion. If you have a passion for something, you'll create the talent.&quot;</em> <br>
+— Yanni
