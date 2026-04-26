@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winners don't Quit. That's why they Win.&quot;</em> <br>
-— Unknown
+<em>&quot;People do not decide their futures, they decide their habits and their habits decide their futures.&quot;</em> <br>
+— Gary Keller
