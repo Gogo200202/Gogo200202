@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is easier than fault finding.&quot;</em> <br>
-— Og Mandino
+<em>&quot;If you think adventure is dangerous, try routine; it is lethal.&quot;</em> <br>
+— Paulo Coelho
