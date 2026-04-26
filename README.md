@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way to get started is to quit talking and begin doing.&quot;</em> <br>
-— Walt Disney
+<em>&quot;The idea of ourselves is our escape from the fact of what we really are.&quot;</em> <br>
+— Jiddu Krishnamurti
