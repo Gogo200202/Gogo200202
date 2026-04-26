@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;You are never too old to become younger.&quot;</em> <br>
+— Mae West
