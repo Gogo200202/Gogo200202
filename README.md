@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People do not decide their futures, they decide their habits and their habits decide their futures.&quot;</em> <br>
-— Gary Keller
+<em>&quot;The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. &quot;</em> <br>
+— Charles Swindoll
