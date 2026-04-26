@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life itself is the most wonderful fairy tale.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Winners don't Quit. That's why they Win.&quot;</em> <br>
+— Unknown
