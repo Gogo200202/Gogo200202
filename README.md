@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life has more imagination than we carry in our dreams.&quot;</em> <br>
-— Christopher Columbus
+<em>&quot;The way to get started is to quit talking and begin doing.&quot;</em> <br>
+— Walt Disney
