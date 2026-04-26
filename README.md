@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Life has more imagination than we carry in our dreams.&quot;</em> <br>
+— Christopher Columbus
