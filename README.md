@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are never too old to become younger.&quot;</em> <br>
-— Mae West
+<em>&quot;Nothing is easier than fault finding.&quot;</em> <br>
+— Og Mandino
