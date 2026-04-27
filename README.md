@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No one ever is defeated until defeat has been accepted as a reality.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;To a mind that is still, the entire universe surrenders.&quot;</em> <br>
+— Zhuangzi
