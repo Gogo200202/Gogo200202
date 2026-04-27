@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To a mind that is still, the entire universe surrenders.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;When the fish is caught we pay no more attention to the trap.&quot;</em> <br>
+— Huang Po
