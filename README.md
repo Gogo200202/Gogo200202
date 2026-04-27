@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything flows, nothing stands still.&quot;</em> <br>
-— Heraclitus
+<em>&quot;It is impossible for a man to learn what he thinks he already knows.&quot;</em> <br>
+— Epictetus
