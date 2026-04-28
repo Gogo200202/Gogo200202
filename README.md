@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Keep your eyes on the stars, but remember to keep your feet on the ground.&quot;</em> <br>
+— Theodore Roosevelt
