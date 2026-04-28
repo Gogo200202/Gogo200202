@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of getting ahead is getting started.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Instead of worrying about what you cannot control, shift your energy to what you can create.&quot;</em> <br>
+— Roy T. Bennett
