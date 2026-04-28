@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep your eyes on the stars, but remember to keep your feet on the ground.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.&quot;</em> <br>
+— Ming-Dao Deng
