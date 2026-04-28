@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;People think about what they don't want and attract more of the same.&quot;</em> <br>
+— Unknown
