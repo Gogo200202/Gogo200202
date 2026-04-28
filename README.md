@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Instead of worrying about what you cannot control, shift your energy to what you can create.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;If you can't explain it simply, you don't understand it well enough.&quot;</em> <br>
+— Albert Einstein
