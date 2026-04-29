@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Empty your mind, be formless, shapeless, like water.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;Someday death will take us to another star.&quot;</em> <br>
+— Vincent van Gogh
