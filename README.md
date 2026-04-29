@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wishing to be friends is quick work, but friendship is a slow ripening fruit.&quot;</em> <br>
-— Aristotle
+<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
+— Herman Melville
