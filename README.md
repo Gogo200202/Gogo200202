@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not why the addiction but why the pain.&quot;</em> <br>
-— Gabor Mate
+<em>&quot;Better a diamond with a flaw than a pebble without one.&quot;</em> <br>
+— Chinese Proverb
