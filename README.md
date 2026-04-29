@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Enjoy every minute of life. Never second-guess life.&quot;</em> <br>
+— Michael Jordan
