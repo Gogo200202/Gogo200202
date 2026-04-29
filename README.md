@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Peaceful is the one who expects nothing.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Empty your mind, be formless, shapeless, like water.&quot;</em> <br>
+— Bruce Lee
