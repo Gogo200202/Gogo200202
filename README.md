@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;True it is, we only hate those whom we do not know.&quot;</em> <br>
+— Andrew Carnegie
