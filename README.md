@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Until you make the unconscious conscious, it will direct your life and you will call it fate.&quot;</em> <br>
-— Carl Jung
+<em>&quot;When angry count to ten before you speak. If very angry, count to one hundred.&quot;</em> <br>
+— Thomas Jefferson
