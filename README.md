@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better a diamond with a flaw than a pebble without one.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;All our dreams can come true, if we have the courage to pursue them.&quot;</em> <br>
+— Walt Disney
