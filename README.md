@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who look for the bad in people will surely find it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;All I can do is be me, whoever that is.&quot;</em> <br>
+— Bob Dylan
