@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Care about what other people think and you will always be their prisoner.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Everybody's life is either rewarding or an example.&quot;</em> <br>
+— Tony Robbins
