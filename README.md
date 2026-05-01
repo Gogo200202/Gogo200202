@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everybody's life is either rewarding or an example.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The chief enemy of creativity is good sense.&quot;</em> <br>
+— Pablo Picasso
