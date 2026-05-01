@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The chief enemy of creativity is good sense.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;The best way to understanding is a few good examples.&quot;</em> <br>
+— Isaac Newton
