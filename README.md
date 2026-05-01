@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way to understanding is a few good examples.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;Opportunities multiply as they are seized.&quot;</em> <br>
+— Sun Tzu
