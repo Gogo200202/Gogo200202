@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For fast-acting relief try slowing down.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Any fool can paint a picture, but it takes a wise man to be able to sell it.&quot;</em> <br>
+— Samuel Butler
