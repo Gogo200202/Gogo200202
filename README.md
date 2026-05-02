@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most important thing in communication is to hear what isn't being said.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;Your mind is infinite, it's your doubts that are limiting.&quot;</em> <br>
+— Robert Kiyosaki
