@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every great change is preceded by chaos.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.&quot;</em> <br>
+— Bob Proctor
