@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Learning is a weightless treasure you can always carry easily.&quot;</em> <br>
+— Chinese Proverb
