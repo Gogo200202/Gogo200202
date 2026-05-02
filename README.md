@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go confidently in the direction of your dreams! Live the life you've imagined.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Every great change is preceded by chaos.&quot;</em> <br>
+— Deepak Chopra
