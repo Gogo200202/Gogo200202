@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The birth of the mind is the death of the senses.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Loyalty and friendship are the most precious possessions a man can have.&quot;</em> <br>
+— Herbert Hoover
