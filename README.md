@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not doing it is certainly the best way to not getting it.  &quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Imagination is the true magic carpet.&quot;</em> <br>
+— Norman Vincent Peale
