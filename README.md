@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination is the true magic carpet.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;Experience is a comb which nature gives us when we are bald. &quot;</em> <br>
+— Chinese Proverb
