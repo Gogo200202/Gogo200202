@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live, travel, adventure, bless, and don't be sorry.  &quot;</em> <br>
-— Jack Kerouac
+<em>&quot;Not doing it is certainly the best way to not getting it.  &quot;</em> <br>
+— Wayne Gretzky
