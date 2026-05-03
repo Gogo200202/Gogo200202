@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your mind is infinite, it's your doubts that are limiting.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Live, travel, adventure, bless, and don't be sorry.  &quot;</em> <br>
+— Jack Kerouac
