@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loyalty and friendship are the most precious possessions a man can have.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;To find yourself, think for yourself.&quot;</em> <br>
+— Socrates
