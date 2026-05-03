@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To find yourself, think for yourself.&quot;</em> <br>
-— Socrates
+<em>&quot;The heart wants what it wants - or else it does not care.&quot;</em> <br>
+— Emily Dickinson
