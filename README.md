@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Start each day with a positive thought and a grateful heart.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;We can't help everyone, but everyone can help someone.&quot;</em> <br>
+— Ronald Reagan
