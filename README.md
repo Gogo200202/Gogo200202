@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Quiet people have the loudest minds.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;The birth of the mind is the death of the senses.&quot;</em> <br>
+— Dan Millman
