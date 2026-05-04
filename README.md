@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every man desires to live long, but no man wishes to be old.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;A change is brought about because ordinary people do extraordinary things.&quot;</em> <br>
+— Barack Obama
