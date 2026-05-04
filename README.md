@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope and fear come from feeling that we lack something; they come from a sense of poverty.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;A comfort zone is a beautiful place, but nothing ever grows there.&quot;</em> <br>
+— Unknown
