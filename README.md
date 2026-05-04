@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Darkness is the absence of light.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
+— Henry David Thoreau
