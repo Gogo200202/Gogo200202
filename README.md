@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Hope and fear come from feeling that we lack something; they come from a sense of poverty.&quot;</em> <br>
+— Pema Chodron
