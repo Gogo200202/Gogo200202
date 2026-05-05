@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything has its beauty, but not everyone sees it. &quot;</em> <br>
-— Confucius
+<em>&quot;The question isn't who is going to let me; it's who is going to stop me.&quot;</em> <br>
+— Ayn Rand
