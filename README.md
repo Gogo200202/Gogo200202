@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The question isn't who is going to let me; it's who is going to stop me.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;The meaning of life is to find your gift. The purpose of life is to give it away.&quot;</em> <br>
+— Pablo Picasso
