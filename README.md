@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&quot;</em> <br>
+— Naval Ravikant
