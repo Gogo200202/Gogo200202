@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our happiness depends on the habit of mind we cultivate.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;There is a wisdom of the head, and there is a wisdom of the heart.&quot;</em> <br>
+— Charles Dickens
