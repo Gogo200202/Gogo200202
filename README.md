@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Great things happen to those who don't stop believing, trying, learning, and being grateful.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The eyes of others our prisons; their thoughts our cages.&quot;</em> <br>
+— Virginia Woolf
