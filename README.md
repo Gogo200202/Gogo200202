@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are born from a quiet sleep, and we die to a calm awakening&quot;</em> <br>
-— Zhuangzi
+<em>&quot;The two most powerful warriors are patience and time.&quot;</em> <br>
+— Leo Tolstoy
