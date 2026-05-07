@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In youth we run into difficulties. In old age difficulties run into us. &quot;</em> <br>
-— Beverly Sills
+<em>&quot;We are born from a quiet sleep, and we die to a calm awakening&quot;</em> <br>
+— Zhuangzi
