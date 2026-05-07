@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The two most powerful warriors are patience and time.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Awakening is possible only for those who seek it and want it.&quot;</em> <br>
+— G.I. Gurdjieff
