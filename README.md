@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The eyes of others our prisons; their thoughts our cages.&quot;</em> <br>
-— Virginia Woolf
+<em>&quot;In youth we run into difficulties. In old age difficulties run into us. &quot;</em> <br>
+— Beverly Sills
