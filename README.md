@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Circumstances rule men; men do not rule circumstances. &quot;</em> <br>
-— Herodotus
+<em>&quot;Showing off is the fool's idea of glory. &quot;</em> <br>
+— Bruce Lee
