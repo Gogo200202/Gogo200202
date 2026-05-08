@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All great truths begin as blasphemies.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Stop wasting time looking at someone else's reality while doing nothing about yours.&quot;</em> <br>
+— Steve Harvey
