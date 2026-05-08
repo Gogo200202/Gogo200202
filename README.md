@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Showing off is the fool's idea of glory. &quot;</em> <br>
-— Bruce Lee
+<em>&quot;Don't be pushed by your problems; be led by your dreams.&quot;</em> <br>
+— Unknown
