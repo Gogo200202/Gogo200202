@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Stop wasting time looking at someone else's reality while doing nothing about yours.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;So we beat on, boats against the current, borne back ceaselessly into the past.&quot;</em> <br>
+— F. Scott Fitzgerald
