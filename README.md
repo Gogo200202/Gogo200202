@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;So we beat on, boats against the current, borne back ceaselessly into the past.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Experience is simply the name we give our mistakes. &quot;</em> <br>
+— Oscar Wilde
