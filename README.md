@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never do things others can do and will do if there are things others cannot do or will not do.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;If you have to be in a soap opera try not to be cast in the worst role.&quot;</em> <br>
+— Judy Garland
