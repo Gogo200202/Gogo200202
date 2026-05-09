@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anxiety is the dizziness of freedom.&quot;</em> <br>
-— Soren Kierkegaard
+<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
+— Chinese Proverb
