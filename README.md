@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.&quot;</em> <br>
-— Bob Marley
+<em>&quot;Fear not the path of Truth for the lack of People walking on it.&quot;</em> <br>
+— Robert F. Kennedy
