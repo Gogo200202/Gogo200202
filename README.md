@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Instead of being intimidated by the limitations, be inspired to find new ways around them.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
+— Vince Lombardi
