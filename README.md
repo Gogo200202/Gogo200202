@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Listening well is as powerful as talking well, and is also as essential to true conversation.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &quot;</em> <br>
+— Orison Swett Marden
