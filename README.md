@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
+— Wayne Dyer
