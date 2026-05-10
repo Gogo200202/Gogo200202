@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Making your mark on the world is hard. If it were easy, everybody would do it.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Instead of being intimidated by the limitations, be inspired to find new ways around them.&quot;</em> <br>
+— Ralph Marston
