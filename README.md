@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Judgments prevent us from seeing the good that lies beyond appearances.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;Making your mark on the world is hard. If it were easy, everybody would do it.&quot;</em> <br>
+— Barack Obama
