@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.&quot;</em> <br>
+— Zen Proverb
