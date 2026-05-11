@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whenever you find yourself on the side of the majority, it is time to reform.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Tall oaks grow from little acorns.&quot;</em> <br>
+— Andrew Carnegie
