@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It all depends on what you choose to believe.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&quot;</em> <br>
+— Andrew Carnegie
