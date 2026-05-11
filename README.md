@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tall oaks grow from little acorns.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;The ladder of success is best climbed by stepping on the rungs of opportunity.&quot;</em> <br>
+— Ayn Rand
