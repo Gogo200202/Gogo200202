@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;There is no result without struggle, there is no struggle without sacrifice.&quot;</em> <br>
+— Me
