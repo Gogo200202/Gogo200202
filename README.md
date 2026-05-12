@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is no result without struggle, there is no struggle without sacrifice.&quot;</em> <br>
-— Me
+<em>&quot;The person who never made a mistake never tried anything new.&quot;</em> <br>
+— Albert Einstein
