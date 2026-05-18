@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Laziness may appear attractive, but work gives satisfaction.&quot;</em> <br>
-— Anne Frank
+<em>&quot;If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.&quot;</em> <br>
+— Martin Luther King, Jr.
