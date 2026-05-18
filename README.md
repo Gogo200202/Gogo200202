@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;You cannot control the behavior of others, but you can always choose how you respond to it.&quot;</em> <br>
+— Roy T. Bennett
