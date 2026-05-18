@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The person who never made a mistake never tried anything new.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;Believe you can and you're halfway there.&quot;</em> <br>
+— Theodore Roosevelt
