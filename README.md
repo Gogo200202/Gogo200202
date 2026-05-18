@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faults are yours to fix, not to curse.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Laziness may appear attractive, but work gives satisfaction.&quot;</em> <br>
+— Anne Frank
