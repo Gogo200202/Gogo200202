@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe you can and you're halfway there.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Faults are yours to fix, not to curse.&quot;</em> <br>
+— Colin Powell
