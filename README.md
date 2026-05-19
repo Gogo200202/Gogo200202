@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By words the mind is winged.&quot;</em> <br>
-— Aristophanes
+<em>&quot;There is no result without struggle, there is no struggle without sacrifice.&quot;</em> <br>
+— Me
