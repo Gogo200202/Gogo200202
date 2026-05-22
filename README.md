@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;When you love someone, you love the person as they are, and not as you'd like them to be.&quot;</em> <br>
+— Leo Tolstoy
