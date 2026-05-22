@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who is not contented with what he has, would not be contented with what he would like to have.&quot;</em> <br>
-— Socrates
+<em>&quot;Success is not how high you have climbed, but how you make a positive difference to the world.&quot;</em> <br>
+— Roy T. Bennett
