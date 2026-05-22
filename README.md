@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not how high you have climbed, but how you make a positive difference to the world.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.&quot;</em> <br>
+— Jim Rohn
