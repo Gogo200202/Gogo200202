@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I am not what happened to me, I am what I choose to become.&quot;</em> <br>
-— Carl Jung
+<em>&quot;It's possible in ways both large or small to make a difference in someone's life.&quot;</em> <br>
+— Yanni
