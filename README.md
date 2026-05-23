@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where your talents and the needs of the world cross, there lies your vocation.&quot;</em> <br>
-— Aristotle
+<em>&quot;Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. &quot;</em> <br>
+— Miguel de Cervantes
