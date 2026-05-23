@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;People who say it cannot be done should not interrupt those who are doing it.&quot;</em> <br>
+— George Bernard Shaw
