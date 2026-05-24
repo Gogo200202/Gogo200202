@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live, travel, adventure, bless, and don't be sorry.&quot;</em> <br>
-— Jack Kerouac
+<em>&quot;It is impossible for a man to learn what he thinks he already knows.&quot;</em> <br>
+— Epictetus
