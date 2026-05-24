@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The right thing to do and the hard thing to do are usually the same.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.&quot;</em> <br>
+— George Bernard Shaw
