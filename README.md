@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You get in life what you have the courage to ask for.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Strive for excellence, not perfection, because we don't live in a perfect world.&quot;</em> <br>
+— Joyce Meyer
