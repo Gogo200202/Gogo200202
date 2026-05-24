@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Strive for excellence, not perfection, because we don't live in a perfect world.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Not all of us can do great things. But we can do small things with great love.&quot;</em> <br>
+— Mother Teresa
