@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. &quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;The right thing to do and the hard thing to do are usually the same.&quot;</em> <br>
+— Steve Maraboli
