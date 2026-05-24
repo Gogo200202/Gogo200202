@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;You get in life what you have the courage to ask for.&quot;</em> <br>
+— Oprah Winfrey
