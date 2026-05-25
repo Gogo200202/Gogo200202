@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything is in your own heart.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Meditate. It won't be fun but it will surface what you need to deal with.&quot;</em> <br>
+— Naval Ravikant
