@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man is affected not by events but by the view he takes of them.&quot;</em> <br>
-— Seneca
+<em>&quot;Everything is in your own heart.&quot;</em> <br>
+— Thich Nhat Hanh
