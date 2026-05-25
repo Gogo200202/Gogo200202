@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are two things a person should never be angry at, what they can help, and what they cannot.&quot;</em> <br>
-— Plato
+<em>&quot;Man is affected not by events but by the view he takes of them.&quot;</em> <br>
+— Seneca
