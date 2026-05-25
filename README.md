@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you reach the end of your rope, tie a knot in it and hang on.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;There are two things a person should never be angry at, what they can help, and what they cannot.&quot;</em> <br>
+— Plato
