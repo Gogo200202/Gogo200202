@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Meditate. It won't be fun but it will surface what you need to deal with.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&quot;</em> <br>
+— Arnold Schwarzenegger
