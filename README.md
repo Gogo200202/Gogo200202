@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Inner peace is when you realize that, in the end, nothing matters.&quot;</em> <br>
+— Maxime Lagace
