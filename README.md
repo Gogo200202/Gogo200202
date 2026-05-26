@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Inner peace is when you realize that, in the end, nothing matters.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;We shape clay into a pot, but it is the emptiness inside that holds whatever we want.&quot;</em> <br>
+— Lao Tzu
