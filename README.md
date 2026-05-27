@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Begin now to be what you will be hereafter.&quot;</em> <br>
-— St. Jerome
+<em>&quot;People learn from their failures. Seldom do they learn anything from success.&quot;</em> <br>
+— Ryan Holiday
