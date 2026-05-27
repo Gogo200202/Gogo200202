@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Being a good example is the best form of service.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;One always begins to forgive a place as soon as it's left behind.&quot;</em> <br>
+— Charles Dickens
