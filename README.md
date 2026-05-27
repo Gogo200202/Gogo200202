@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Debt is the slavery of the free.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
+— Steve Harvey
