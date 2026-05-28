@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thought is so cunning, so clever, that it distorts everything for its own convenience.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;I succeeded by saying what everyone else is thinking.&quot;</em> <br>
+— Joan Rivers
