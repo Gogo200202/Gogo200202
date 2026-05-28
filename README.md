@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I succeeded by saying what everyone else is thinking.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;The harder you work, the harder it is to surrender.&quot;</em> <br>
+— Vince Lombardi
