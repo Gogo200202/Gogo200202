@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not stop thinking of life as an adventure.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;It is during our darkest moments that we must focus to see the light.&quot;</em> <br>
+— Aristotle
