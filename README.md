@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All I can do is be me, whoever that is.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;If you care about someone enough, you'll always be there for them no matter what.&quot;</em> <br>
+— Roy T. Bennett
