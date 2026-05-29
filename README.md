@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you care about someone enough, you'll always be there for them no matter what.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Believe that life is worth living and your belief will help create the fact.&quot;</em> <br>
+— William James
