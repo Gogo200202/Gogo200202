@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never give up work. Work gives you meaning and purpose and life is empty without it.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;All I can do is be me, whoever that is.&quot;</em> <br>
+— Bob Dylan
