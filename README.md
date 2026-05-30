@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Aim for the moon. If you miss, you may hit a star.&quot;</em> <br>
-— W. Clement Stone
+<em>&quot;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&quot;</em> <br>
+— Robert Greene
