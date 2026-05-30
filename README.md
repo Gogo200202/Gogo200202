@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Quality is not an act, it is a habit.&quot;</em> <br>
-— Aristotle
+<em>&quot;Once you learn to quit, it becomes a habit.&quot;</em> <br>
+— Vince Lombardi
