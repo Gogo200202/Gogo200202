@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want work well done, select a busy man; the other kind has no time.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Man must use what he has, not hope for what is not.&quot;</em> <br>
+— G.I. Gurdjieff
