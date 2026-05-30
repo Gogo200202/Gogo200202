@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything has its beauty, but not everyone sees it.&quot;</em> <br>
-— Confucius
+<em>&quot;Till it has loved, no man or woman can become itself.&quot;</em> <br>
+— Emily Dickinson
