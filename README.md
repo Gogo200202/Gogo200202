@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Concentrated power has always been the enemy of liberty.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;If you want work well done, select a busy man; the other kind has no time.&quot;</em> <br>
+— Elbert Hubbard
