@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Till it has loved, no man or woman can become itself.&quot;</em> <br>
-— Emily Dickinson
+<em>&quot;Quality is not an act, it is a habit.&quot;</em> <br>
+— Aristotle
