@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Winning isn't always championships.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.&quot;</em> <br>
+— Charles Dickens
