@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Dream big and dare to fail.&quot;</em> <br>
-— Norman Vaughan
+<em>&quot;Your heart is the size of an ocean. Go find yourself in its hidden depths.&quot;</em> <br>
+— Rumi
