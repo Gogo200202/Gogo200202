@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;The best dreams happen when you're awake.&quot;</em> <br>
+— Cherie Gilderbloom
