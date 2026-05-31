@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Success is good at any age, but the sooner you find it, the longer you will enjoy it.&quot;</em> <br>
+— Napoleon Hill
