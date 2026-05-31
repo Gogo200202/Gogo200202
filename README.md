@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your heart is the size of an ocean. Go find yourself in its hidden depths.&quot;</em> <br>
-— Rumi
+<em>&quot;Winning isn't always championships.&quot;</em> <br>
+— Michael Jordan
