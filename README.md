@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Each problem has a positive side.&quot;</em> <br>
+— Og Mandino
