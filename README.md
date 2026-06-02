@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Each problem has a positive side.&quot;</em> <br>
-— Og Mandino
+<em>&quot;You use a glass mirror to see your face; you use works of art to see your soul.&quot;</em> <br>
+— George Bernard Shaw
