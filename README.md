@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.&quot;</em> <br>
+— Eckhart Tolle
