@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not go where the path may lead, go instead where there is no path and leave a trail.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;Expectations ruin relationships.&quot;</em> <br>
+— Neale Donald Walsch
