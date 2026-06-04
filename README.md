@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&quot;</em> <br>
-— Socrates
+<em>&quot;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&quot;</em> <br>
+— Eric Hoffer
