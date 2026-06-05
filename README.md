@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fools talk, cowards are silent, wise men listen.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;In order for you to be the BEST you can be for others, first you must be BEST for yourself.&quot;</em> <br>
+— Jeffrey Gitomer
