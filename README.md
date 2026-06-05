@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;Do your duty and a little more and the future will take care of itself.&quot;</em> <br>
+— Andrew Carnegie
