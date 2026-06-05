@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's much better to do good in a way that no one knows anything about it.&quot;</em> <br>
-— Leo Tolstoy
+<em>&quot;Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.&quot;</em> <br>
+— Kahlil Gibran
