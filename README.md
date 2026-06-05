@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Fools talk, cowards are silent, wise men listen.&quot;</em> <br>
+— Carlos Ruiz Zafon
