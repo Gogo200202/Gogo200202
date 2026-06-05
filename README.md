@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The sun shines upon good and bad alike.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;It's much better to do good in a way that no one knows anything about it.&quot;</em> <br>
+— Leo Tolstoy
