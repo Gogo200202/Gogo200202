@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Coming together is a beginning, staying together is progress, and working together is success.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Most great people have achieved their greatest success just one step beyond their greatest failure.&quot;</em> <br>
+— Napoleon Hill
