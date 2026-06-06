@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To some degree, you control your life by controlling your time.&quot;</em> <br>
-— Conrad Hilton
+<em>&quot;If you truly love Nature, you will find beauty everywhere.&quot;</em> <br>
+— Vincent van Gogh
