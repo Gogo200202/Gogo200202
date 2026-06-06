@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Difficult and meaningful will always bring more satisfaction than easy and meaningless.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Investing in yourself is the best investment you will ever make.&quot;</em> <br>
+— Robin Sharma
