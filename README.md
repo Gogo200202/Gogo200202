@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you truly love Nature, you will find beauty everywhere.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Coming together is a beginning, staying together is progress, and working together is success.&quot;</em> <br>
+— Henry Ford
