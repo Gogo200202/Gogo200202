@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most great people have achieved their greatest success just one step beyond their greatest failure.&quot;</em> <br>
+<em>&quot;A goal is a dream with a deadline.&quot;</em> <br>
 — Napoleon Hill
