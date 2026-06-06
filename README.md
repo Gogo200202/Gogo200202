@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A goal is a dream with a deadline.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Difficult and meaningful will always bring more satisfaction than easy and meaningless.&quot;</em> <br>
+— Maxime Lagace
