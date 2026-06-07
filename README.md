@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wait for extraordinary opportunities. Seize common occasions and make them great.&quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;The less you talk about your shame, the more of it you have.&quot;</em> <br>
+— Mark Manson
