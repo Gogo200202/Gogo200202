@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more perfect a person is on the outside, the more demons they have on the inside.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Don't wait for extraordinary opportunities. Seize common occasions and make them great.&quot;</em> <br>
+— Orison Swett Marden
