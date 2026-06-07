@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thinking is difficult, that's why most people judge.&quot;</em> <br>
-— Carl Jung
+<em>&quot;What the eye doesn't see and the mind doesn't know, doesn't exist.&quot;</em> <br>
+— D. H. Lawrence
