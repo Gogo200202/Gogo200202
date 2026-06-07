@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The person who says something is impossible should not interrupt the person who is doing it.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Thinking is difficult, that's why most people judge.&quot;</em> <br>
+— Carl Jung
