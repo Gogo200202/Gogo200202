@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must learn to live together as brothers or perish together as fools.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;The person who says something is impossible should not interrupt the person who is doing it.&quot;</em> <br>
+— Chinese Proverb
