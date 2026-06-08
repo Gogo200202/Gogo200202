@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no ordinary moments.&quot;</em> <br>
-— Dan Millman
+<em>&quot;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&quot;</em> <br>
+— Barack Obama
