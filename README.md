@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&quot;</em> <br>
+— Sydney Smith
