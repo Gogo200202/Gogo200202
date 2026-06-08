@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Animals don't hate, and we're supposed to be better than them.&quot;</em> <br>
-— Elvis Presley
+<em>&quot;Make improvements, not excuses. Seek respect, not attention.&quot;</em> <br>
+— Roy T. Bennett
