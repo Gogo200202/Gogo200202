@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;Understanding that rests in what it does not understand is the finest.&quot;</em> <br>
+— Zhuangzi
