@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The ego wants comfort and certainty. The soul wants to live fully.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;If life were predictable it would cease to be life, and be without flavor.&quot;</em> <br>
+— Eleanor Roosevelt
