@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most people achieved their greatest success one step beyond what looked like their greatest failure.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;The ego wants comfort and certainty. The soul wants to live fully.&quot;</em> <br>
+— Maxime Lagace
