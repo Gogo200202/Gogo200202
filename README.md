@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing that results in human progress is achieved with unanimous consent.&quot;</em> <br>
-— Christopher Columbus
+<em>&quot;Most people achieved their greatest success one step beyond what looked like their greatest failure.&quot;</em> <br>
+— Brian Tracy
