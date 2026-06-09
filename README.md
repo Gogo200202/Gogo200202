@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is particularly hard if you divide it into small jobs.&quot;</em> <br>
-— Henry Ford
+<em>&quot;The only thing worse than being blind is having sight but no vision.&quot;</em> <br>
+— Helen Keller
