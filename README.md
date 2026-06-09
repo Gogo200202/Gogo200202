@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make improvements, not excuses. Seek respect, not attention.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Nothing that results in human progress is achieved with unanimous consent.&quot;</em> <br>
+— Christopher Columbus
