@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not final, failure is not fatal: it is the courage to continue that counts.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.&quot;</em> <br>
+— Colin R. Davis
