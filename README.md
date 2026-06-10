@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.&quot;</em> <br>
-— Colin R. Davis
+<em>&quot;We have more possibilities available in each moment than we realize.&quot;</em> <br>
+— Thich Nhat Hanh
