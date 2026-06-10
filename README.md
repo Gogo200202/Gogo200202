@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only thing worse than being blind is having sight but no vision.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Success is not final, failure is not fatal: it is the courage to continue that counts.&quot;</em> <br>
+— Winston Churchill
