@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;New beginnings are disguised as painful endings.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;The most wasted day of all is that on which we have not laughed.&quot;</em> <br>
+— Nicolas Chamfort
