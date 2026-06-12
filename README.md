@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let someone elses. opinion become your reality.&quot;</em> <br>
-— Les Brown
+<em>&quot;Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.&quot;</em> <br>
+— Gary Keller
