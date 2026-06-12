@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The wisest men follow their own direction.&quot;</em> <br>
-— Euripides
+<em>&quot;Don't let someone elses. opinion become your reality.&quot;</em> <br>
+— Les Brown
