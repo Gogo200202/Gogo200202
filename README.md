@@ -1,4 +1,4 @@
-### Good night 😴
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The most wasted day of all is that on which we have not laughed.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;To seek greatness is the only righteous vengeance.&quot;</em> <br>
+— Criss Jami
