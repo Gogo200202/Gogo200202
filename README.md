@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To seek greatness is the only righteous vengeance.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Those who are possessed by nothing possess everything.&quot;</em> <br>
+— Morihei Ueshiba
