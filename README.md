@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man should fear never beginning to live.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Only when you can be extremely pliable and soft can you be extremely hard and strong.&quot;</em> <br>
+— Zen Proverb
