@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unlike the stomach, the brain doesn't alert you when it's empty.&quot;</em> <br>
-— Arabic Proverb
+<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
+— Jack Butcher
