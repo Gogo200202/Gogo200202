@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to see things just as they are, then you yourself must practice just as you are.&quot;</em> <br>
-— Dogen
+<em>&quot;He who wishes to be obeyed must know how to command.&quot;</em> <br>
+— Niccolo Machiavelli
