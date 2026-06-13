@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Information changes your mind. Action changes your circumstances.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Man should fear never beginning to live.&quot;</em> <br>
+— Marcus Aurelius
