@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who wishes to be obeyed must know how to command.&quot;</em> <br>
-— Niccolo Machiavelli
+<em>&quot;If you're really truthful with yourself, it's a wonderful guidance.&quot;</em> <br>
+— Charlie Chaplin
