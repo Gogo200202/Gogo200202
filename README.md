@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you're really truthful with yourself, it's a wonderful guidance.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;A poet should be so crafty with words that he is envied even for his pains.&quot;</em> <br>
+— Criss Jami
