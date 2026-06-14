@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.&quot;</em> <br>
+— Jon Kabat-Zinn
