@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success does not consist in never making mistakes but in never making the same one a second time.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.&quot;</em> <br>
+— Josh Waitzkin
