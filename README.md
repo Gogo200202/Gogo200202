@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.&quot;</em> <br>
+— Wayne Dyer
