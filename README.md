@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
-— Robert F. Kennedy
+<em>&quot;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&quot;</em> <br>
+— Nelson Mandela
