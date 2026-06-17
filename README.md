@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;Every one of us is the sum total of his own thoughts.&quot;</em> <br>
+— Earl Nightingale
