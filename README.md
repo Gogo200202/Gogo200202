@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Everything you've ever wanted is on the other side of fear.&quot;</em> <br>
+— Brian Tracy
