@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;The soul is neither born, and nor does it die.&quot;</em> <br>
+— Bhagavad Gita
