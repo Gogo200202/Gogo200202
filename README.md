@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every one of us is the sum total of his own thoughts.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.&quot;</em> <br>
+— Paramahansa Yogananda
