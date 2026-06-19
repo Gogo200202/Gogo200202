@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Things turn out best for the people who make the best of the way things turn out.&quot;</em> <br>
-— John Wooden
+<em>&quot;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&quot;</em> <br>
+— James Allen
