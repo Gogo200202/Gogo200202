@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;We are all self-made, but only the successful will admit it.&quot;</em> <br>
+— Earl Nightingale
