@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't let the noise of others' opinions drown out your own inner voice.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.&quot;</em> <br>
+— Maya Angelou
