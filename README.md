@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&quot;</em> <br>
-— William James
+<em>&quot;Life is and will ever remain an equation incapable of solution, but it contains certain known factors.&quot;</em> <br>
+— Nikola Tesla
