@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Showing off is the fool's idea of glory.&quot;</em> <br>
+— Bruce Lee
