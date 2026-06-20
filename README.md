@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Showing off is the fool's idea of glory.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;When I let go of what I am, I become what I might be.&quot;</em> <br>
+— Lao Tzu
