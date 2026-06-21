@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The final mystery is oneself.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Get busy living, or get busy dying.&quot;</em> <br>
+— Stephen King
