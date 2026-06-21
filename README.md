@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are most nearly ourselves when we achieve the seriousness of the child at play.&quot;</em> <br>
-— Heraclitus
+<em>&quot;A single dream is more powerful than a thousand realities.&quot;</em> <br>
+— J.R.R. Tolkien
