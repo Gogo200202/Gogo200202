@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day passes whether you participate or not.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Talk to someone about themselves and they'll listen for hours.&quot;</em> <br>
+— Dale Carnegie
