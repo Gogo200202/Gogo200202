@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Talk to someone about themselves and they'll listen for hours.&quot;</em> <br>
-— Dale Carnegie
+<em>&quot;The grass is greener where you water it.&quot;</em> <br>
+— Neil Barringham
