@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Get busy living, or get busy dying.&quot;</em> <br>
-— Stephen King
+<em>&quot;Every day passes whether you participate or not.&quot;</em> <br>
+— Ming-Dao Deng
