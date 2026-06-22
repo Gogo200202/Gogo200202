@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience expands your options. If you insist on immediate gratification, your choices are severely limited.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny.&quot;</em> <br>
+— Jeff Booth
