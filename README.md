@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest of empires, is the empire over one's self.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Truth is the offspring of silence and meditation.&quot;</em> <br>
+— Isaac Newton
