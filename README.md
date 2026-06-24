@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Before preparing to improve the world, first look around your own home three times.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Nothing is hopeless; we must hope for everything.&quot;</em> <br>
+— Euripides
