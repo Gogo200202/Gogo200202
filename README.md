@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We need a backbone, not a wishbone.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Out of your vulnerabilities will come your strength.&quot;</em> <br>
+— Sigmund Freud
