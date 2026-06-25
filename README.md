@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Treat everyone with politeness and kindness, not because they are nice, but because you are.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;It's not how much money you make, it's how much money you keep.&quot;</em> <br>
+— Robert Kiyosaki
