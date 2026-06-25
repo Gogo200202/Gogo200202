@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The truth is simple. If it was complicated, everyone would understand it.&quot;</em> <br>
-— Walt Whitman
+<em>&quot;People tend to complicate their own lives, as if living weren't already complicated enough.&quot;</em> <br>
+— Carlos Ruiz Zafon
