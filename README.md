@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The golden opportunity you are seeking is within yourself.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Today is the oldest you've ever been, and the youngest you'll ever be again.&quot;</em> <br>
+— Eleanor Roosevelt
