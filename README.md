@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The goal of an artist is to create the definitive work that cannot be surpassed.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Always try to be a little kinder than necessary.&quot;</em> <br>
+— James Matthew Barrie
