@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Love is not about possession. Love is about appreciation.&quot;</em> <br>
-— Osho
+<em>&quot;If you change the way you look at things, the things you look at change.&quot;</em> <br>
+— Wayne Dyer
