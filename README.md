@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you change the way you look at things, the things you look at change.&quot;</em> <br>
-— Wayne Dyer
+<em>&quot;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&quot;</em> <br>
+— Shunryu Suzuki
