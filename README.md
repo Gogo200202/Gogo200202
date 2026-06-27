@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Failure will never overtake me if my determination to succeed is strong enough.&quot;</em> <br>
+— Og Mandino
