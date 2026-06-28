@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;</em> <br>
-— Robert Greene
+<em>&quot;There is no such thing as a great talent without great willpower.&quot;</em> <br>
+— Honore de Balzac
