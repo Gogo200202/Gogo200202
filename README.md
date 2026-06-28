@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;The joy of life comes from our encounters with new experiences.&quot;</em> <br>
+— Christopher McCandless
