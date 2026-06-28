@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;At every moment where language can't go, that's your mind.&quot;</em> <br>
+— Bodhidharma
