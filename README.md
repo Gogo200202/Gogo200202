@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage Is a Love Affair with the Unknown&quot;</em> <br>
-— Osho
+<em>&quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;</em> <br>
+— Robert Greene
