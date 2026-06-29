@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Tradition is the illusion of permanence.&quot;</em> <br>
-— Woody Allen
+<em>&quot;Embrace the life you have and stop wishing that you could be someone else.&quot;</em> <br>
+— Joyce Meyer
