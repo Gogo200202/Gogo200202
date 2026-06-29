@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Embrace the life you have and stop wishing that you could be someone else.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Not all of us can do great things. But we can do small things with great love.&quot;</em> <br>
+— Mother Teresa
