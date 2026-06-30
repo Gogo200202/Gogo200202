@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Keep smiling, because life is a beautiful thing and there's so much to smile about.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;A comfort zone is a beautiful place, but nothing ever grows there.&quot;</em> <br>
+— Unknown
