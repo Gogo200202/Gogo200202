@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you want something in life, you just gotta reach out and grab it.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;There is nothing better than the encouragement of a good friend.&quot;</em> <br>
+— David Brinkley
