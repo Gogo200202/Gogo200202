@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Becoming a great leader doesn't mean being perfect. it means living with your imperfections.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Be confident, not certain.&quot;</em> <br>
+— Eleanor Roosevelt
