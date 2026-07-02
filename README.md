@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wait for the right opportunity: create it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Character is doing what you don't want to do but know you should do.&quot;</em> <br>
+— Joyce Meyer
