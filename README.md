@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Character is doing what you don't want to do but know you should do.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;The river that flows in you also flows in me.&quot;</em> <br>
+— Kabir
