@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be confident, not certain.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Don't wait for the right opportunity: create it.&quot;</em> <br>
+— George Bernard Shaw
