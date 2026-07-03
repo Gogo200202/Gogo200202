@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.&quot;</em> <br>
-— Socrates
+<em>&quot;The person who cannot control his words shows that he cannot control himself.&quot;</em> <br>
+— Robert Greene
