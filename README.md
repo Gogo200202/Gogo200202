@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your mind will make you rich or poor, depending on the use you put to it.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;The two most important days in your life are the day you are born and the day you find out why.&quot;</em> <br>
+— Mark Twain
