@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The river that flows in you also flows in me.&quot;</em> <br>
-— Kabir
+<em>&quot;How you think when you lose determines how long it will be until you win.&quot;</em> <br>
+— Gilbert Chesterton
