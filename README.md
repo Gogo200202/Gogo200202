@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can often change your circumstances by changing your attitude.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Pain results from a judgment you have made about a thing. Remove the judgment and the pain disappears.&quot;</em> <br>
+— Neale Donald Walsch
