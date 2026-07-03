@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Friendship is one of the most tangible things in a world which offers fewer and fewer supports.&quot;</em> <br>
-— Kenneth Branagh
+<em>&quot;You can often change your circumstances by changing your attitude.&quot;</em> <br>
+— Eleanor Roosevelt
