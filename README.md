@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The only reason to be alive is to enjoy it.&quot;</em> <br>
+— Rita Mae Brown
