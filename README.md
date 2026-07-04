@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make your mind your own business.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.&quot;</em> <br>
+— Roy T. Bennett
