@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Freedom itself demands discomfort.&quot;</em> <br>
-— Mark Manson
+<em>&quot;We will outstretch the hand if you unclench your fist.&quot;</em> <br>
+— Barack Obama
