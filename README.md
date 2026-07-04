@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The two most important days in your life are the day you are born and the day you find out why.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Freedom itself demands discomfort.&quot;</em> <br>
+— Mark Manson
