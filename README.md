@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only reason to be alive is to enjoy it.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Life is a constant series of opportunities.&quot;</em> <br>
+— Ming-Dao Deng
