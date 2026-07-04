@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We will outstretch the hand if you unclench your fist.&quot;</em> <br>
-— Barack Obama
+<em>&quot;There will always be suffering. But we must not suffer over the suffering.&quot;</em> <br>
+— Alan Watts
