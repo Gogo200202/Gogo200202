@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There will always be suffering. But we must not suffer over the suffering.&quot;</em> <br>
-— Alan Watts
+<em>&quot;Many a man has failed because he had his wishbone where his backbone should have been.&quot;</em> <br>
+— Ronald Reagan
