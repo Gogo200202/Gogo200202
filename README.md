@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Many a man has failed because he had his wishbone where his backbone should have been.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&quot;</em> <br>
+— Henry Ward Beecher
