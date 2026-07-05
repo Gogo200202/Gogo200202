@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Today I begin a new life. I will greet this day with love in my heart.&quot;</em> <br>
-— Og Mandino
+<em>&quot;I am who I am today because of the choices I made yesterday.&quot;</em> <br>
+— Eleanor Roosevelt
