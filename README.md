@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Today I begin a new life. I will greet this day with love in my heart.&quot;</em> <br>
+— Og Mandino
