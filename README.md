@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Be kind, for everyone you meet is fighting a harder battle.&quot;</em> <br>
+— Plato
