@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He suffers more than necessary, who suffers before it is necessary.&quot;</em> <br>
-— Seneca
+<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
+— Dalai Lama
