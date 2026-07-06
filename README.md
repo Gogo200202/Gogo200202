@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;By failing to prepare, you are preparing to fail.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Things may come to those who wait, but only the things left by those who hustle.&quot;</em> <br>
+— Abraham Lincoln
