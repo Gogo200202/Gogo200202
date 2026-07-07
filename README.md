@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Faith is taking the first step even when you don't see the whole staircase.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;Good entrepreneurs don't fail because they stay at it.&quot;</em> <br>
+— Naval Ravikant
