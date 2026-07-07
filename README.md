@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Good entrepreneurs don't fail because they stay at it.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;When asked, how do you write? I invariably answer, one word at a time.&quot;</em> <br>
+— Stephen King
