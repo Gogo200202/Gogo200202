@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be confident, not certain.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Because of your smile, you make life more beautiful.&quot;</em> <br>
+— Thich Nhat Hanh
