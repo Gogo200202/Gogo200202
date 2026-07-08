@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Be confident, not certain.&quot;</em> <br>
+— Eleanor Roosevelt
