@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is indeed a radical act of love just to sit down and be quiet for a time by yourself.&quot;</em> <br>
-— Jon Kabat-Zinn
+<em>&quot;The dream is free, but the hustle is sold separately.&quot;</em> <br>
+— Steve Harvey
