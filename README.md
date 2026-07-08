@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You only live once, but if you do it right, once is enough.&quot;</em> <br>
-— Mae West
+<em>&quot;I am always doing what I cannot do yet, in order to learn how to do it.&quot;</em> <br>
+— Vincent van Gogh
