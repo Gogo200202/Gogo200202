@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loyalty and friendship are the most precious possessions a man can have.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;You purchase pain with all that joy can give and die of nothing but a rage to live.&quot;</em> <br>
+— Alexander Pope
