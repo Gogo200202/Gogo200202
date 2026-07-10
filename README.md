@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Old age is like everything else. To make a success of it, you've got to start young.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;There are only encounters in history. There are no accidents.&quot;</em> <br>
+— Pablo Picasso
