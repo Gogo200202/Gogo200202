@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our stories may be singular, but our destination is shared.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Don't give up on your dreams, or your dreams will give up on you.&quot;</em> <br>
+— John Wooden
