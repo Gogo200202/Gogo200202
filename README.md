@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;True friendship ought never to conceal what it thinks.&quot;</em> <br>
-— St. Jerome
+<em>&quot;Do not stop thinking of life as an adventure.&quot;</em> <br>
+— Eleanor Roosevelt
