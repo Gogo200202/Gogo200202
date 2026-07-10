@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If ever you feel like an animal among men, be a lion.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Our stories may be singular, but our destination is shared.&quot;</em> <br>
+— Barack Obama
