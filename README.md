@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't give up on your dreams, or your dreams will give up on you.&quot;</em> <br>
-— John Wooden
+<em>&quot;True friendship ought never to conceal what it thinks.&quot;</em> <br>
+— St. Jerome
