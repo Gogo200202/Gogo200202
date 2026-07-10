@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are only encounters in history. There are no accidents.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;If ever you feel like an animal among men, be a lion.&quot;</em> <br>
+— Criss Jami
