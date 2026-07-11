@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What people say, what people do, and what they say they do are entirely different things.&quot;</em> <br>
-— Margaret Mead
+<em>&quot;Everyone thinks of changing the world, but no one thinks of changing himself.&quot;</em> <br>
+— Leo Tolstoy
