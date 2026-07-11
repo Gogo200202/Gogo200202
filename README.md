@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing is impossible. The word itself says 'I'm possible!'&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;What people say, what people do, and what they say they do are entirely different things.&quot;</em> <br>
+— Margaret Mead
