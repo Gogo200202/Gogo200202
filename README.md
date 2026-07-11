@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man with outward courage dares to die: a man with inner courage dares to live.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.&quot;</em> <br>
+— Eleanor Roosevelt
