@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every second you have on this planet is very precious and it's your responsibility that you're happy.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Enthusiasm makes up for a host of deficiencies.&quot;</em> <br>
+— Barack Obama
