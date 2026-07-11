@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not stop thinking of life as an adventure.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;A man with outward courage dares to die: a man with inner courage dares to live.&quot;</em> <br>
+— Lao Tzu
