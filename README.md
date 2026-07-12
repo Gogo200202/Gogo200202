@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Enthusiasm makes up for a host of deficiencies.&quot;</em> <br>
-— Barack Obama
+<em>&quot;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&quot;</em> <br>
+— D. H. Lawrence
