@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.&quot;</em> <br>
+— Charles Dickens
