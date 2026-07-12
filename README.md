@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never trust he who trusts everyone.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;One beam, no matter how big, cannot support an entire house on its own.&quot;</em> <br>
+— Chinese Proverb
