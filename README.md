@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One beam, no matter how big, cannot support an entire house on its own.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;To be haunted by past failures or satisfied with past successes is to arrest forward motion.&quot;</em> <br>
+— Conrad Hilton
