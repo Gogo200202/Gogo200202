@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To be haunted by past failures or satisfied with past successes is to arrest forward motion.&quot;</em> <br>
-— Conrad Hilton
+<em>&quot;Man is made by his belief. As he believes, so he is.&quot;</em> <br>
+— Bhagavad Gita
