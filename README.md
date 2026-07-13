@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Guilt is perhaps the most painful companion of death.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;Do every act of your life as if it were your last.&quot;</em> <br>
+— Marcus Aurelius
