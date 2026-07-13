@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Confidence is like a dragon where, for every head cut off, two more heads grow back.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Be brave enough to suck at something new.&quot;</em> <br>
+— Unknown
