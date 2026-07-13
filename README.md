@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why compare yourself with others? No one in the entire world can do a better job of being you than you.&quot;</em> <br>
-— Unknown
+<em>&quot;Before anything else, preparation is the key to success.&quot;</em> <br>
+— Alexander Graham Bell
