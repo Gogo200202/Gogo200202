@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our stories may be singular, but our destination is shared.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Guilt is perhaps the most painful companion of death.&quot;</em> <br>
+— Coco Chanel
