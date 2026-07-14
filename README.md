@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can start changing our world for the better daily, no matter how small the action.&quot;</em> <br>
-— Nelson Mandela
+<em>&quot;Often in the real world, it's not the smart that get ahead, but the bold.&quot;</em> <br>
+— Robert Kiyosaki
