@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Champions keep playing until they get it right.&quot;</em> <br>
-— Billie Jean King
+<em>&quot;Those who realize their folly are not true fools.&quot;</em> <br>
+— Zhuangzi
