@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&quot;</em> <br>
-— Benjamin Mays
+<em>&quot;You can start changing our world for the better daily, no matter how small the action.&quot;</em> <br>
+— Nelson Mandela
