@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
-— Herman Melville
+<em>&quot;We ordinary people must forge our own beauty.&quot;</em> <br>
+— Kenji Miyazawa
