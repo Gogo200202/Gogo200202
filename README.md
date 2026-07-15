@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We learn to walk by falling down. If we never fell down, we would never walk.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&quot;</em> <br>
+— Robin Sharma
