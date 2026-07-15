@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who realize their folly are not true fools.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;The world would go on even without you. Don't take yourself so seriously.&quot;</em> <br>
+— Norman Vincent Peale
