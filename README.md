@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is during our darkest moments that we must focus to see the light.&quot;</em> <br>
-— Aristotle
+<em>&quot;How much pain they have cost us, the evils which have never happened.&quot;</em> <br>
+— Thomas Jefferson
