@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&quot;</em> <br>
-— Robert Collier
+<em>&quot;Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.&quot;</em> <br>
+— Bob Marley
