@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The road to success and the road to failure are almost exactly the same.&quot;</em> <br>
-— Colin R. Davis
+<em>&quot;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&quot;</em> <br>
+— Robert Collier
