@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Duty makes us do things well, but love makes us do them beautifully.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;The older you get the stronger the wind gets - and it's always in your face.&quot;</em> <br>
+— Pablo Picasso
