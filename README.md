@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing important is learned; it is simply remembered.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;It's the job that's never started that takes the longest to finish.&quot;</em> <br>
+— J.R.R. Tolkien
