@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;How much pain they have cost us, the evils which have never happened.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.&quot;</em> <br>
+— Benjamin Mays
