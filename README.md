@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In order to attain the impossible, one must attempt the absurd.&quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;Nothing important is learned; it is simply remembered.&quot;</em> <br>
+— Carlos Ruiz Zafon
