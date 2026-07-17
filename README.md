@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.&quot;</em> <br>
-— Benjamin Mays
+<em>&quot;As a matter of fact is an expression that precedes many an expression that isn't.&quot;</em> <br>
+— Laurence J. Peter
