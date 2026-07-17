@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The older you get the stronger the wind gets - and it's always in your face.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;In order to attain the impossible, one must attempt the absurd.&quot;</em> <br>
+— Miguel de Cervantes
