@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Creative people are often found either disagreeable or intimidating by mediocrities.&quot;</em> <br>
-— Criss Jami
+<em>&quot;It takes real work to grasp what is invisible to just about everyone else.&quot;</em> <br>
+— Ryan Holiday
