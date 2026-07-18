@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To forgive means pardoning the unpardonable.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Creative people are often found either disagreeable or intimidating by mediocrities.&quot;</em> <br>
+— Criss Jami
