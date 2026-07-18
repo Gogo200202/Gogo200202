@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Gratitude is the fairest blossom which springs from the soul.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;But better die than live mechanically a life that is a repetition of repetitions.&quot;</em> <br>
+— D. H. Lawrence
