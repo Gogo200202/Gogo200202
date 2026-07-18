@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your gift is something that you can do innately better than anything else.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;He who hesitates is a damned fool.&quot;</em> <br>
+— Mae West
