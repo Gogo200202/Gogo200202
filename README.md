@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It takes real work to grasp what is invisible to just about everyone else.&quot;</em> <br>
-— Ryan Holiday
+<em>&quot;Intuition is the ear of the soul.&quot;</em> <br>
+— Neale Donald Walsch
