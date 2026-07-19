@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I must also have a dark side if I am to be whole.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Every man is guilty of all the good he did not do.&quot;</em> <br>
+— Voltaire
