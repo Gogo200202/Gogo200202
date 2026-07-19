@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Surround yourself only with people who are going to take you higher.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Successful people do what unsuccessful people are not willing to do.&quot;</em> <br>
+— Jim Rohn
