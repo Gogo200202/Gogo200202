@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure comes from ego, greed, envy, fear, and imitation.&quot;</em> <br>
-— Warren Buffett
+<em>&quot;The time is always right to do what is right.&quot;</em> <br>
+— Martin Luther King, Jr.
