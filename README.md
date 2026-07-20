@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Take away love and our earth is a tomb.&quot;</em> <br>
-— Robert Browning
+<em>&quot;The highest form of ignorance is when you reject something you don't know anything about.&quot;</em> <br>
+— Wayne Dyer
