@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Time you enjoy wasting, was not wasted.&quot;</em> <br>
-— John Lennon
+<em>&quot;There are no second chances in life, except to feel remorse.&quot;</em> <br>
+— Carlos Ruiz Zafon
