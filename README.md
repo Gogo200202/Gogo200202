@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When you've got nothing, you've got nothing to lose.&quot;</em> <br>
-— Bob Dylan
+<em>&quot;The most important battle is one to conquer yourself.&quot;</em> <br>
+— Yanni
