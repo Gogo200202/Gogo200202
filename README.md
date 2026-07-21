@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The thing about smart people is that they seem like crazy people to dumb people.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;Better late than never.&quot;</em> <br>
+— Spencer Johnson
