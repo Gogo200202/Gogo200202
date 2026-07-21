@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better late than never.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;The secret of success lies not in doing your own work, but in recognizing the right man to do it.&quot;</em> <br>
+— Andrew Carnegie
