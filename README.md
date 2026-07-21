@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing like a health problem to turn up the contrast dial for the rest of life.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;The thing about smart people is that they seem like crazy people to dumb people.&quot;</em> <br>
+— Stephen Hawking
