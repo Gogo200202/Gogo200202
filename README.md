@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To belittle, you have to be little.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;All human beings can alter their lives by altering their attitudes.&quot;</em> <br>
+— Andrew Carnegie
