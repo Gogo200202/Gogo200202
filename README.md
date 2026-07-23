@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I will not walk backward in life.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Wealth consists not in having great possessions, but in having few wants.&quot;</em> <br>
+— Epictetus
