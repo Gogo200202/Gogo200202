@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be yourself; everyone else is already taken.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Creativity is intelligence having fun.&quot;</em> <br>
+— Albert Einstein
