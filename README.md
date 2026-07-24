@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Art, like morality, consists of drawing the line somewhere.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;At first dreams seem impossible, then improbable, then inevitable.&quot;</em> <br>
+— Christopher Reeve
