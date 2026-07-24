@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness is not a goal...it's a by-product of a life well lived.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;I've always lived in the moment.&quot;</em> <br>
+— Yanni
