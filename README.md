@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Your vision will become clear only when you can look into your own heart.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Happiness is not a goal...it's a by-product of a life well lived.&quot;</em> <br>
+— Eleanor Roosevelt
