@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&quot;</em> <br>
+— Ronald Reagan
