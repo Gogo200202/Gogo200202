@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.&quot;</em> <br>
-— Osho
+<em>&quot;Do not believe that you will reach your destination without leaving the shore.&quot;</em> <br>
+— Chinese Proverb
