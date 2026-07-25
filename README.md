@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
-— Og Mandino
+<em>&quot;A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.&quot;</em> <br>
+— Osho
