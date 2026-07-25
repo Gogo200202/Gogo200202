@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more we value things, the less we value ourselves.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;No amount of regretting can change the past, and no amount of worrying can change the future.&quot;</em> <br>
+— Roy T. Bennett
