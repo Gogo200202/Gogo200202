@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No amount of regretting can change the past, and no amount of worrying can change the future.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;You may be disappointed if you fail, but you are doomed if you don't try.&quot;</em> <br>
+— Beverly Sills
