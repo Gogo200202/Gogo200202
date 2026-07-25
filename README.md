@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;At first dreams seem impossible, then improbable, then inevitable.&quot;</em> <br>
-— Christopher Reeve
+<em>&quot;The more we value things, the less we value ourselves.&quot;</em> <br>
+— Bruce Lee
