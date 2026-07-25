@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not believe that you will reach your destination without leaving the shore.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;I am always doing what I cannot do yet, in order to learn how to do it.&quot;</em> <br>
+— Vincent van Gogh
