@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;You're never too old for anything.&quot;</em> <br>
+— Betty White
