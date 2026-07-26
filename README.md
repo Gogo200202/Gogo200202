@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One always begins to forgive a place as soon as it's left behind.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;When you judge another, you do not define them, you define yourself&quot;</em> <br>
+— Wayne Dyer
