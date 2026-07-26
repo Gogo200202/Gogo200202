@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The best way out is always through.&quot;</em> <br>
-— Robert Frost
+<em>&quot;As mortals, we're ruled by conditions, not by ourselves.&quot;</em> <br>
+— Bodhidharma
