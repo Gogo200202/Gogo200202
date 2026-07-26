@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Simple words, repeated daily, can change your life.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Unlike the stomach, the brain doesn't alert you when it's empty.&quot;</em> <br>
+— Arabic Proverb
