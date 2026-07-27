@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In order to be walked over, you have to be lying down.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Most of us will do anything to avoid facing ourselves.&quot;</em> <br>
+— Lolly Daskal
