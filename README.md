@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most of us will do anything to avoid facing ourselves.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Chop your own wood and it will warm you twice.&quot;</em> <br>
+— Henry Ford
