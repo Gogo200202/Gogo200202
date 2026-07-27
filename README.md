@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unlike the stomach, the brain doesn't alert you when it's empty.&quot;</em> <br>
-— Arabic Proverb
+<em>&quot;Trust in dreams, for in them is the hidden gate to eternity.&quot;</em> <br>
+— Kahlil Gibran
