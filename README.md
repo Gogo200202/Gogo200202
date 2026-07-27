@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Trust in dreams, for in them is the hidden gate to eternity.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Be the silent watcher of your thoughts and behavior. You are beneath the thinker.&quot;</em> <br>
+— Eckhart Tolle
