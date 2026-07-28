@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success on the outside means nothing unless you also have success within.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;When at last you are come to the ocean of happiness, do not go back thirsty.&quot;</em> <br>
+— Kabir
