@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.&quot;</em> <br>
-— Wayne Gretzky
+<em>&quot;Life is like a beautiful melody, only the lyrics are messed up.&quot;</em> <br>
+— Hans Christian Andersen
