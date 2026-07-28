@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Often in the real world, it's not the smart that get ahead, but the bold.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.&quot;</em> <br>
+— Thomas Jefferson
