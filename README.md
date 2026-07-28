@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Learn only how to avoid seeking for and attaching yourselves to anything.&quot;</em> <br>
+— Huang Po
