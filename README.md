@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no limitations to the mind except those we acknowledge...&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Those who are possessed by nothing possess everything.&quot;</em> <br>
+— Morihei Ueshiba
