@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is like a beautiful melody, only the lyrics are messed up.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;There are no limitations to the mind except those we acknowledge...&quot;</em> <br>
+— Napoleon Hill
