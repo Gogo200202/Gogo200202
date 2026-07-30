@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Beauty is not in the face; beauty is a light in the heart.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;The power of human thought grows exponentially with the number of minds that share that thought.&quot;</em> <br>
+— Dan Brown
