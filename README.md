@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.&quot;</em> <br>
-— Mark Manson
+<em>&quot;The greatest step towards a life of simplicity is to learn to let go.&quot;</em> <br>
+— Steve Maraboli
