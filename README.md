@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more acquaintances you have, the less you know them.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.&quot;</em> <br>
+— Thomas Edison
