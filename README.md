@@ -1,4 +1,4 @@
-### Good night 😴
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I alone cannot change the world, but I can cast a stone across the waters to create many ripples.&quot;</em> <br>
-— Mother Teresa
+<em>&quot;Life is simply what our feelings do to us.&quot;</em> <br>
+— Honore de Balzac
