@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is simply what our feelings do to us.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;Be not afraid of growing slowly, be afraid only of standing still.&quot;</em> <br>
+— Chinese Proverb
