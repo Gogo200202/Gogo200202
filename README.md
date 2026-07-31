@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;Difficult and meaningful will always bring more satisfaction than easy and meaningless.&quot;</em> <br>
+— Maxime Lagace
