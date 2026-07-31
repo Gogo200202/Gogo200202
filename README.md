@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be not afraid of growing slowly, be afraid only of standing still.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.&quot;</em> <br>
+— Voltaire
