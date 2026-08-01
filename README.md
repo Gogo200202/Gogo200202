@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Adventure is worthwhile in itself.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.&quot;</em> <br>
+— Oprah Winfrey
