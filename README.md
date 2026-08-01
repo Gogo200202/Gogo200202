@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;In matters of style, swim with the current; in matters of principle, stand like a rock.&quot;</em> <br>
+— Thomas Jefferson
