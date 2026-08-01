@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be not afraid of growing slowly, be afraid only of standing still.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&quot;</em> <br>
+— Sathya Sai Baba
