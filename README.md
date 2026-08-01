@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.&quot;</em> <br>
-— Voltaire
+<em>&quot;If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.&quot;</em> <br>
+— Elon Musk
