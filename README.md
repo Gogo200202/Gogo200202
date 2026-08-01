@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.&quot;</em> <br>
+— George Washington
