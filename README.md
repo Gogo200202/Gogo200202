@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fishing is much more than fish.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;People are not disturbed by things, but by the views they take of them.&quot;</em> <br>
+— Epictetus
