@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People are not disturbed by things, but by the views they take of them.&quot;</em> <br>
-— Epictetus
+<em>&quot;The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.&quot;</em> <br>
+— Winston Churchill
