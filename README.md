@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be brave enough to suck at something new.&quot;</em> <br>
-— Unknown
+<em>&quot;Circumstances do not make the man, they reveal him.&quot;</em> <br>
+— James Allen
