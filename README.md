@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything begins with an idea.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Wisdom is the oneness of mind that guides and permeates all things.&quot;</em> <br>
+— Heraclitus
