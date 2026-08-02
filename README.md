@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Circumstances do not make the man, they reveal him.&quot;</em> <br>
-— James Allen
+<em>&quot;Fishing is much more than fish.&quot;</em> <br>
+— Herbert Hoover
