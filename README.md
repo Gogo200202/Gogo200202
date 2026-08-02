@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The pursuit of mastery bears gifts.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Life becomes easier and more beautiful when we can see the good in other people.&quot;</em> <br>
+— Roy T. Bennett
