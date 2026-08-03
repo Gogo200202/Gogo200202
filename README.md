@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I defeat my enemies when I make them my friends.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Life is a long lesson in humility.&quot;</em> <br>
+— James Matthew Barrie
