@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot control the behavior of others, but you can always choose how you respond to it.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Not everything that weighs you down is yours to carry.&quot;</em> <br>
+— Unknown
