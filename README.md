@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.&quot;</em> <br>
-— Bhagavad Gita
+<em>&quot;Care about what other people think and you will always be their prisoner.&quot;</em> <br>
+— Lao Tzu
