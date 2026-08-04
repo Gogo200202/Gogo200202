@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not everything that weighs you down is yours to carry.&quot;</em> <br>
-— Unknown
+<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
+— Og Mandino
