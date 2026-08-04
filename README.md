@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Even if you're sure you can win, be careful that you can live with what you lose.&quot;</em> <br>
+— Gary Keller
