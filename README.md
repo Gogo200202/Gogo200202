@@ -1,4 +1,4 @@
-### Good night 😴
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything has beauty but not everyone sees it.&quot;</em> <br>
-— Confucius
+<em>&quot;I must also have a dark side if I am to be whole.&quot;</em> <br>
+— Carl Jung
