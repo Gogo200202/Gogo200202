@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is easier to put leather on the soles of one's feet than cover the world with leather.&quot;</em> <br>
-— Tibetan Proverb
+<em>&quot;If everyone is moving forward together, then success takes care of itself.&quot;</em> <br>
+— Henry Ford
