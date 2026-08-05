@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If everyone is moving forward together, then success takes care of itself.&quot;</em> <br>
-— Henry Ford
+<em>&quot;See what you're doing wrong, laugh at it, change and do better.&quot;</em> <br>
+— Spencer Johnson
