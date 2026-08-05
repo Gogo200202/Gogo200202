@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Have a vision. Be demanding.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Men do not attract which they want but that which they are.&quot;</em> <br>
+— James Allen
