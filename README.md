@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men do not attract which they want but that which they are.&quot;</em> <br>
-— James Allen
+<em>&quot;When you're at the end of your rope, tie a knot and hold on.&quot;</em> <br>
+— Theodore Roosevelt
