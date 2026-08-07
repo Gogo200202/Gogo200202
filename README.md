@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No tree, it is said, can grow to heaven unless its roots reach down to hell.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Many people spend more time looking at their failures than focusing on their successes.&quot;</em> <br>
+— Lolly Daskal
