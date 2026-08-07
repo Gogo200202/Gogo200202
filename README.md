@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be a good animal, true to your instincts.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Change happens when the pain of holding on becomes greater than the fear of letting go.&quot;</em> <br>
+— Spencer Johnson
