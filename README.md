@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We must accept finite disappointment, but never lose infinite hope.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;Success usually comes to those who are too busy to be looking for it.&quot;</em> <br>
+— Colin R. Davis
