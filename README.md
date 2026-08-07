@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be a master of change rather than a victim of change.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Be a good animal, true to your instincts.&quot;</em> <br>
+— D. H. Lawrence
