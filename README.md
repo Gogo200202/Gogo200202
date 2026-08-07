@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success usually comes to those who are too busy to be looking for it.&quot;</em> <br>
-— Colin R. Davis
+<em>&quot;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&quot;</em> <br>
+— Chinese Proverb
