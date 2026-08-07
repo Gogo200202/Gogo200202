@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Patience expands your options. If you insist on immediate gratification, your choices are severely limited.&quot;</em> <br>
+— Ralph Marston
