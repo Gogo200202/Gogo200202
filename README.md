@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change happens when the pain of holding on becomes greater than the fear of letting go.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;The sun is new each day.&quot;</em> <br>
+— Heraclitus
