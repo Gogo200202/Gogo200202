@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.&quot;</em> <br>
+— George Lorimer
