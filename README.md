@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Expect the best, plan for the worst, and prepare to be surprised.&quot;</em> <br>
-— Denis Waitley
+<em>&quot;May you find grace as you surrender to life. May you find happiness, as you stop seeking it.&quot;</em> <br>
+— Dan Millman
