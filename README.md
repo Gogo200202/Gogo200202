@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I have seen further than others, it is by standing upon the shoulders of giants.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.&quot;</em> <br>
+— Socrates
