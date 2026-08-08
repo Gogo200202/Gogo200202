@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
-— Og Mandino
+<em>&quot;In all chaos there is a cosmos, in all disorder a secret order.&quot;</em> <br>
+— Carl Jung
