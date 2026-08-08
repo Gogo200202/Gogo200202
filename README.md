@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only lost cause is one we give up on before we enter the struggle.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Expect the best, plan for the worst, and prepare to be surprised.&quot;</em> <br>
+— Denis Waitley
