@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's always to soon to quit!&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;If I have seen further than others, it is by standing upon the shoulders of giants.&quot;</em> <br>
+— Isaac Newton
