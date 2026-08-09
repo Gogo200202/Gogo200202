@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never settle for the crumbs of life.&quot;</em> <br>
-— Og Mandino
+<em>&quot;You will not do incredible things without an incredible dream.&quot;</em> <br>
+— John Eliot
