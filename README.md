@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;All we have to decide is what to do with the time that is given to us.&quot;</em> <br>
+— J.R.R. Tolkien
