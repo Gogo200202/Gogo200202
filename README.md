@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are dark shadows on the earth, but its lights are stronger in the contrast.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now.&quot;</em> <br>
+— Ryan Holiday
