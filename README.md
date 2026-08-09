@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The sun is new each day.&quot;</em> <br>
-— Heraclitus
+<em>&quot;A wise person should have money in their head, but not in their heart.&quot;</em> <br>
+— Jonathan Swift
