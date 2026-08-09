@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All we have to decide is what to do with the time that is given to us.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;The sun is new each day.&quot;</em> <br>
+— Heraclitus
