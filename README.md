@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.&quot;</em> <br>
-— George Lorimer
+<em>&quot;There are dark shadows on the earth, but its lights are stronger in the contrast.&quot;</em> <br>
+— Charles Dickens
