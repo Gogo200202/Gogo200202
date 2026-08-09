@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You will not do incredible things without an incredible dream.&quot;</em> <br>
-— John Eliot
+<em>&quot;To achieve, you need thought. You have to know what you are doing and that's real power.&quot;</em> <br>
+— Ayn Rand
