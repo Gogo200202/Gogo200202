@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.&quot;</em> <br>
-— Colin Powell
+<em>&quot;Ripe fruit falls by itself - but it doesn't fall in your mouth.&quot;</em> <br>
+— Chinese Proverb
