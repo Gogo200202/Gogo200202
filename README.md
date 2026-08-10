@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Someday death will take us to another star.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
+— Rumi
