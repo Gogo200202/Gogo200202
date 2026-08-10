@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
-— Rumi
+<em>&quot;Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.&quot;</em> <br>
+— James Matthew Barrie
