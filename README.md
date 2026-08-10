@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&quot;</em> <br>
-— Peter Drucker
+<em>&quot;The obstacle in the path becomes the path.&quot;</em> <br>
+— Ryan Holiday
