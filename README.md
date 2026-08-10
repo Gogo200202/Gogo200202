@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;Greatness comes from living with purpose and passion.&quot;</em> <br>
+— Ralph Marston
