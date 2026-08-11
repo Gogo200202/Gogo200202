@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of getting ahead is getting started.&quot;</em> <br>
-— Mark Twain
+<em>&quot;To raise your consciousness, surround yourself with people of higher consciousness.&quot;</em> <br>
+— Celestine Chua
