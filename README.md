@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success comes from knowing that you did your best to become the best that you are capable of becoming.&quot;</em> <br>
-— John Wooden
+<em>&quot;Each day your life grows a day shorter. Make every move count.&quot;</em> <br>
+— Ming-Dao Deng
