@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;The universe doesn't allow perfection.&quot;</em> <br>
+— Stephen Hawking
