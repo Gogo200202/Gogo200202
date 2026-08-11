@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Each day your life grows a day shorter. Make every move count.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&quot;</em> <br>
+— Joyce Meyer
