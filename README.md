@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;She who loves roses must be patient and not cry out when she is pierced by thorns.&quot;</em> <br>
+— Kenji Miyazawa
