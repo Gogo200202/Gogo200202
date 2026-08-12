@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is truth that liberates, not your effort to be free.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Normality is a paved road: It's comfortable to walk, but no flowers grow on it.&quot;</em> <br>
+— Vincent van Gogh
