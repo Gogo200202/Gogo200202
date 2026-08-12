@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man is happy who does not think himself so.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.&quot;</em> <br>
+— Arnold Schwarzenegger
