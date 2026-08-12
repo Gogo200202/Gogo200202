@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Growth is in a series of mistakes. That's the only way you learn.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Better late than never.&quot;</em> <br>
+— Spencer Johnson
