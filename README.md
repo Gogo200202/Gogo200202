@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Normality is a paved road: It's comfortable to walk, but no flowers grow on it.&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;The older you get, the better you get. Unless you're a banana.&quot;</em> <br>
+— Betty White
