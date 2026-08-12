@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;Life is trying things to see if they work.&quot;</em> <br>
+— Ray Bradbury
