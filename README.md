@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;She who loves roses must be patient and not cry out when she is pierced by thorns.&quot;</em> <br>
-— Kenji Miyazawa
+<em>&quot;Be regular and orderly in your life, so that you may be violent and original in your work.&quot;</em> <br>
+— Gustave Flaubert
