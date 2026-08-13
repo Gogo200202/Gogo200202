@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is all about mistakes. It is constant change and growth.&quot;</em> <br>
-— Neale Donald Walsch
+<em>&quot;Avoiding failure is to avoid progress.&quot;</em> <br>
+— Unknown
