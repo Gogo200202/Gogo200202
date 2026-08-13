@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Man is affected not by events but by the view he takes of them.&quot;</em> <br>
-— Seneca
+<em>&quot;The more you trust yourself, the less you compare yourself to others.&quot;</em> <br>
+— Roy T. Bennett
