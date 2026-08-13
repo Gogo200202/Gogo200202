@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Wherever you are, and whatever you do, be in love.&quot;</em> <br>
-— Rumi
+<em>&quot;She who loves roses must be patient and not cry out when she is pierced by thorns.&quot;</em> <br>
+— Kenji Miyazawa
