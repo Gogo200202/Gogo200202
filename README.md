@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The more you trust yourself, the less you compare yourself to others.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Fools read fast. Geniuses reread.&quot;</em> <br>
+— Maxime Lagace
