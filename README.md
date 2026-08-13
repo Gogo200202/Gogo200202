@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.&quot;</em> <br>
-— John D. Rockefeller
+<em>&quot;Man is affected not by events but by the view he takes of them.&quot;</em> <br>
+— Seneca
