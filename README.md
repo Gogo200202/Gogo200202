@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest mistake you can make in life is to be continually fearing you will make one.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Adults are just children who earn money.&quot;</em> <br>
+— Kenneth Branagh
