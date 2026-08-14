@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fools read fast. Geniuses reread.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;What most people need to learn in life is how to love people and use things instead of using people and loving things.&quot;</em> <br>
+— Unknown
