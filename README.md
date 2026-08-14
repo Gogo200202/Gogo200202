@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never trust he who trusts everyone.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.&quot;</em> <br>
+— Ming-Dao Deng
