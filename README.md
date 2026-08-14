@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What most people need to learn in life is how to love people and use things instead of using people and loving things.&quot;</em> <br>
-— Unknown
+<em>&quot;Don't risk what is important to you, to get what is not important to you.&quot;</em> <br>
+— Warren Buffett
