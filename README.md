@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Unlike the stomach, the brain doesn't alert you when it's empty.&quot;</em> <br>
-— Arabic Proverb
+<em>&quot;Our greatest fears lie in anticipation.&quot;</em> <br>
+— Honore de Balzac
