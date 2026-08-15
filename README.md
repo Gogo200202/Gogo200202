@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;Faith means believing the unbelievable.&quot;</em> <br>
+— Gilbert Chesterton
