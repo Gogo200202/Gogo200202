@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The degree of responsibility you take for your life determines how much change you can create in it.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Better than the young man's knowledge is the old man's experience.&quot;</em> <br>
+— Tibetan Proverb
