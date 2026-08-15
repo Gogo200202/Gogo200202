@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better than the young man's knowledge is the old man's experience.&quot;</em> <br>
-— Tibetan Proverb
+<em>&quot;Unlike the stomach, the brain doesn't alert you when it's empty.&quot;</em> <br>
+— Arabic Proverb
