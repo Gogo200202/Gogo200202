@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our greatest fears lie in anticipation.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;It is in changing that we find purpose.&quot;</em> <br>
+— Heraclitus
