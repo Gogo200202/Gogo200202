@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Children are our greatest natural resource.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;Life is much more successfully looked at from a single window.&quot;</em> <br>
+— F. Scott Fitzgerald
