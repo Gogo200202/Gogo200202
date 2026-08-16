@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only those who do nothing at all make no mistakes.&quot;</em> <br>
-— Unknown
+<em>&quot;If what you're doing is not your passion, you have nothing to lose.&quot;</em> <br>
+— Celestine Chua
