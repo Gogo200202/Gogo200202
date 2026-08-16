@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our view of the world is truly shaped by what we decide to hear.&quot;</em> <br>
-— William James
+<em>&quot;Who can say for sure that one will live to see tomorrow.&quot;</em> <br>
+— Tibetan Proverb
