@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make each day your masterpiece.&quot;</em> <br>
-— John Wooden
+<em>&quot;Don't let the silly little dramas of each day get you down. For you are here to do great things.&quot;</em> <br>
+— Ralph Marston
