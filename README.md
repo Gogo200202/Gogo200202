@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.&quot;</em> <br>
-— Unknown
+<em>&quot;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&quot;</em> <br>
+— Sathya Sai Baba
