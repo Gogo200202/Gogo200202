@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In all chaos there is a cosmos, in all disorder a secret order.&quot;</em> <br>
-— Carl Jung
+<em>&quot;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&quot;</em> <br>
+— Heraclitus
