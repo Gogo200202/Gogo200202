@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is much more successfully looked at from a single window.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Our view of the world is truly shaped by what we decide to hear.&quot;</em> <br>
+— William James
