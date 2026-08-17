@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What have you done today to make someone else happy?&quot;</em> <br>
-— Deepam Chaterjee
+<em>&quot;Sometimes you have to lose all you have to find out who you truly are.&quot;</em> <br>
+— Roy T. Bennett
