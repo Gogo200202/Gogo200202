@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is too important to be taken seriously.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;What have you done today to make someone else happy?&quot;</em> <br>
+— Deepam Chaterjee
