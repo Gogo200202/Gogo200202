@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Whatever you are, be a good one.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;Failure is just information and an opportunity to change your course.&quot;</em> <br>
+— Oprah Winfrey
