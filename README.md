@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;The attempt to escape from pain, is what creates more pain.&quot;</em> <br>
+— Gabor Mate
