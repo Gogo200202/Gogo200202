@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not allow your inner doubts to keep you from achieving what you can do.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Never let the fear of striking out keep you from playing the game.&quot;</em> <br>
+— Babe Ruth
