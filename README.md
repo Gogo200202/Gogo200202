@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You may delay, but time will not.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.&quot;</em> <br>
+— Albert Einstein
