@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our stories may be singular, but our destination is shared.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Go for it now. The future is promised to no one.&quot;</em> <br>
+— Wayne Dyer
