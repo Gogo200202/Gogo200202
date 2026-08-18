@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There's no next time. It's now or never.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.&quot;</em> <br>
+— Gurbaksh Chahal
