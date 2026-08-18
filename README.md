@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you cannot understand something, then you have understood it incorrectly.&quot;</em> <br>
-— Kabir
+<em>&quot;Just get out and do it. You will be very, very glad that you did.&quot;</em> <br>
+— Christopher McCandless
