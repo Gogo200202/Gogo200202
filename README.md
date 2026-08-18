@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The attempt to escape from pain, is what creates more pain.&quot;</em> <br>
-— Gabor Mate
+<em>&quot;No man ever steps in the same river twice, for it's not the same river and he's not the same man.&quot;</em> <br>
+— Heraclitus
