@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go for it now. The future is promised to no one.&quot;</em> <br>
-— Wayne Dyer
+<em>&quot;If you cannot understand something, then you have understood it incorrectly.&quot;</em> <br>
+— Kabir
