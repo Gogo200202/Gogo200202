@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Failure means you've now learned another valuable lesson that pushes you one step closer to success.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;Our stories may be singular, but our destination is shared.&quot;</em> <br>
+— Barack Obama
