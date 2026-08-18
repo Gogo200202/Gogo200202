@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Opportunities multiply as they are seized.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Success is an iceberg.&quot;</em> <br>
+— Unknown
