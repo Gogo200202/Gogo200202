@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No man ever steps in the same river twice, for it's not the same river and he's not the same man.&quot;</em> <br>
-— Heraclitus
+<em>&quot;There's no next time. It's now or never.&quot;</em> <br>
+— Celestine Chua
