@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't wait for the right opportunity: create it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Exceptional thinkers ignore their critics and go about their business making history.&quot;</em> <br>
+— John Eliot
