@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a process. We are a process. The universe is a process.&quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;Forgive yourself for your faults and your mistakes and move on.&quot;</em> <br>
+— Les Brown
