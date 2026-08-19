@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The friend is the man who knows all about you, and still likes you.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Do not regret the past. Look to the future.&quot;</em> <br>
+— Soyen Shaku
