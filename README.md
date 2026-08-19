@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is what you make it. Always has been, always will be.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;A friend to all is a friend to none.&quot;</em> <br>
+— Aristotle
