@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The friend is the man who knows all about you, and still likes you.&quot;</em> <br>
+— Elbert Hubbard
