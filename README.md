@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not stop thinking of life as an adventure.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Life is a process. We are a process. The universe is a process.&quot;</em> <br>
+— Anne Wilson Schaef
