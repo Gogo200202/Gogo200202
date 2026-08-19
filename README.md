@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The key to success is to focus our conscious mind on things we desire not things we fear.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;A dream doesn't become reality through magic it takes sweat, determination and hard work.&quot;</em> <br>
+— Colin Powell
