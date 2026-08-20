@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do the difficult things while they are easy and do the great things while they are small.&quot;</em> <br>
-— Lao Tzu
+<em>&quot;Only by acceptance of the past, can you alter it.&quot;</em> <br>
+— T.S. Eliot
