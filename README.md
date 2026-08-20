@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Only by acceptance of the past, can you alter it.&quot;</em> <br>
-— T.S. Eliot
+<em>&quot;When a man is penalized for honesty he learns to lie.&quot;</em> <br>
+— Criss Jami
