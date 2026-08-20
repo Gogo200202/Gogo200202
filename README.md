@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never argue with ignorance. It only leads to frustration.&quot;</em> <br>
-— Unknown
+<em>&quot;The more you feed your mind with positive thoughts, the more you can attract great things into your life.&quot;</em> <br>
+— Roy T. Bennett
