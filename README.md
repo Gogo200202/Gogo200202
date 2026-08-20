@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When a man is penalized for honesty he learns to lie.&quot;</em> <br>
-— Criss Jami
+<em>&quot;Just do the best you can. No one can do more than that.&quot;</em> <br>
+— John Wooden
