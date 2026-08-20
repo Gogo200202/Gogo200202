@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The future depends on what you do today.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;Excellence is not an exception, it is a prevailing attitude.&quot;</em> <br>
+— Colin Powell
