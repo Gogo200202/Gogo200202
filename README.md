@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.&quot;</em> <br>
-— Dan Millman
+<em>&quot;There are few reasons for telling the truth, but for lying the number is infinite.&quot;</em> <br>
+— Carlos Ruiz Zafon
