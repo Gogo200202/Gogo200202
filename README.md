@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Happiness must be grown in one's own garden.&quot;</em> <br>
-— Mary Engelbreit
+<em>&quot;Don't be afraid that you do not know something. Be afraid of not learning about it.&quot;</em> <br>
+— Zen Proverb
