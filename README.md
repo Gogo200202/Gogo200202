@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We are all like the bright moon, we still have our darker side.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;The first step is to establish that something is possible; then probability will occur.&quot;</em> <br>
+— Elon Musk
