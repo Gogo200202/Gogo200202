@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are few reasons for telling the truth, but for lying the number is infinite.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Many of life's failures are people who did not realize how close they were to success when they gave up.&quot;</em> <br>
+— Thomas Edison
