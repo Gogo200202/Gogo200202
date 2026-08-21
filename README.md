@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Excellence is not an exception, it is a prevailing attitude.&quot;</em> <br>
-— Colin Powell
+<em>&quot;It is far easier to start something than it is to finish it.&quot;</em> <br>
+— Amelia Earhart
