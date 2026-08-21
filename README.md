@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never feel shame for trying and failing, for he who has never failed is he who has never tried.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Don't spend time beating on a wall, hoping to transform it into a door.&quot;</em> <br>
+— Coco Chanel
