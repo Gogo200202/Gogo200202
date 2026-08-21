@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first step is to establish that something is possible; then probability will occur.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
+— Marilyn Monroe
