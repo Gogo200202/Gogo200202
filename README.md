@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't spend time beating on a wall, hoping to transform it into a door.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;We are all like the bright moon, we still have our darker side.&quot;</em> <br>
+— Kahlil Gibran
