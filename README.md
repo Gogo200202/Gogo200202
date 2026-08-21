@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;It is not uncommon for people to spend their whole life waiting to start living.&quot;</em> <br>
+— Eckhart Tolle
