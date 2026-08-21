@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't be afraid that you do not know something. Be afraid of not learning about it.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Never feel shame for trying and failing, for he who has never failed is he who has never tried.&quot;</em> <br>
+— Og Mandino
