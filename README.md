@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fears are nothing more than a state of mind.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;He who laughs at himself never runs out of things to laugh at.&quot;</em> <br>
+— Epictetus
