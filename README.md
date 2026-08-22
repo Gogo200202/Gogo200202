@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I begin with an idea and then it becomes something else.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;It is better to point out your own mistakes than have somebody else do it.&quot;</em> <br>
+— Warren Buffett
