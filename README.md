@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success and failure come and go, but don't let them define you. It's who you are that matters.&quot;</em> <br>
-— Kamal Ravikant
+<em>&quot;You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?&quot;</em> <br>
+— Seneca
