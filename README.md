@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man that flies from his fear may find that he has only taken a short cut to meet it.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;The only normal people are the ones you don't know very well.&quot;</em> <br>
+— Alfred Adler
