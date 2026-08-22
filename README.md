@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Given the choice between the experience of pain and nothing, I would choose pain.&quot;</em> <br>
-— William Faulkner
+<em>&quot;If you want peace, accept. If you want suffering, expect.&quot;</em> <br>
+— Maxime Lagace
