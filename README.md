@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is built sequentially. It's one thing at a time.&quot;</em> <br>
-— Gary Keller
+<em>&quot;Unhappiness enters through a door that has been left open.&quot;</em> <br>
+— Zen Proverb
