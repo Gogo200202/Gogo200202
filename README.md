@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Shoot for the moon, because even if you miss, you'll land among the stars.&quot;</em> <br>
-— Les Brown
+<em>&quot;Success is built sequentially. It's one thing at a time.&quot;</em> <br>
+— Gary Keller
