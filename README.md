@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Know your gifts and share them.&quot;</em> <br>
-— Les Brown
+<em>&quot;Identify your problems, but give your power and energy to solutions.&quot;</em> <br>
+— Tony Robbins
