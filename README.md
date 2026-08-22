@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The only normal people are the ones you don't know very well.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Success and failure come and go, but don't let them define you. It's who you are that matters.&quot;</em> <br>
+— Kamal Ravikant
