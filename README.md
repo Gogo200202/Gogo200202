@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Instead of worrying about what you cannot control, shift your energy to what you can create.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;I am always doing what I cannot do yet, in order to learn how to do it.&quot;</em> <br>
+— Vincent van Gogh
