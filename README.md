@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Wheresoever you go, go with all your heart.&quot;</em> <br>
+— Confucius
