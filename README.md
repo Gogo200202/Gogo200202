@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To every action there is always opposed an equal reaction.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;The most important thing in communication is to hear what isn't being said.&quot;</em> <br>
+— Peter Drucker
