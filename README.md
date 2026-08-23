@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be like a postage stamp. Stick to it until you get there.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;It doesn't matter how much you want. What really matters is how much you want it.&quot;</em> <br>
+— Ralph Marston
