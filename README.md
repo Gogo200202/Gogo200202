@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&quot;</em> <br>
+— Jim Rohn
