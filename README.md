@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everyone must choose one of two pains: The pain of discipline or the pain of regret.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.&quot;</em> <br>
+— Earl Nightingale
