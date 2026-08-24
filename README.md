@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life itself is the most wonderful fairy tale.&quot;</em> <br>
-— Hans Christian Andersen
+<em>&quot;Don´t hesitate or allow yourself to make excuses. Just get out and do it.&quot;</em> <br>
+— Christopher McCandless
