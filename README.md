@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The greatest deception men suffer is from their own opinions.&quot;</em> <br>
-— Leonardo da Vinci
+<em>&quot;Human beings believe just as they breathe - in order to survive.&quot;</em> <br>
+— Carlos Ruiz Zafon
