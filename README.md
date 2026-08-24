@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;The greatest deception men suffer is from their own opinions.&quot;</em> <br>
+— Leonardo da Vinci
