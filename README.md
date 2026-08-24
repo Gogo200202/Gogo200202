@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don´t hesitate or allow yourself to make excuses. Just get out and do it.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Success is going from failure to failure without losing your enthusiasm&quot;</em> <br>
+— Winston Churchill
