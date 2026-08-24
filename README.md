@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;We cannot expect to be happy always... by experiencing evil as well as good we become wise.&quot;</em> <br>
+<em>&quot;Life itself is the most wonderful fairy tale.&quot;</em> <br>
 — Hans Christian Andersen
