@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not the love you make. It's the love you give.&quot;</em> <br>
-— Nikola Tesla
+<em>&quot;I don't pretend to know everything; I just only speak on matters I know I'll win.&quot;</em> <br>
+— Criss Jami
