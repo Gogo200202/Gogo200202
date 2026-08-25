@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no coincidences in the universe.&quot;</em> <br>
-— Neale Donald Walsch
+<em>&quot;Those who are easily shocked should be shocked more often.&quot;</em> <br>
+— Mae West
