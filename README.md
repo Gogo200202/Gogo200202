@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Human beings can alter their lives by altering their attitudes of mind.&quot;</em> <br>
+— William James
