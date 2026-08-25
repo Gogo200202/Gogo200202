@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.&quot;</em> <br>
+— Chinese Proverb
