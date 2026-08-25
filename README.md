@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It is often safer to be in chains than to be free.&quot;</em> <br>
-— Franz Kafka
+<em>&quot;It's not the love you make. It's the love you give.&quot;</em> <br>
+— Nikola Tesla
