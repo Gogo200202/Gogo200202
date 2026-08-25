@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I don't pretend to know everything; I just only speak on matters I know I'll win.&quot;</em> <br>
-— Criss Jami
+<em>&quot;When you reach the end of your rope, tie a knot in it and hang on.&quot;</em> <br>
+— Franklin D. Roosevelt
