@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.&quot;</em> <br>
+— Brian Tracy
