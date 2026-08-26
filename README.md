@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Chop your own wood and it will warm you twice.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Self-knowledge is the beginning of self-correction.&quot;</em> <br>
+— Norman Vincent Peale
