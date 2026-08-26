@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For fast-acting relief try slowing down.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Chop your own wood and it will warm you twice.&quot;</em> <br>
+— Henry Ford
