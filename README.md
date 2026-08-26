@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.&quot;</em> <br>
-— Henry Ford
+<em>&quot;It is better to light a single candle than to curse the darkness.&quot;</em> <br>
+— Eleanor Roosevelt
