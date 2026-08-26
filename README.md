@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The chief danger in life is that you may take too many precautions.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Invest in as much of yourself as you can, you are your own biggest asset by far.&quot;</em> <br>
+— Warren Buffett
