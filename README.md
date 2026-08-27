@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Our view of the world is truly shaped by what we decide to hear.&quot;</em> <br>
-— William James
+<em>&quot;The river that flows in you also flows in me.&quot;</em> <br>
+— Kabir
