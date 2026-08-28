@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;What would life be if we had no courage to attempt anything?&quot;</em> <br>
-— Vincent van Gogh
+<em>&quot;No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.&quot;</em> <br>
+— Josh Waitzkin
