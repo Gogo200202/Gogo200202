@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;A fall into a ditch makes you wiser.&quot;</em> <br>
+— Chinese Proverb
