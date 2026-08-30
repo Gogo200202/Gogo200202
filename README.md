@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Those who know, do. Those that understand, teach.&quot;</em> <br>
-— Aristotle
+<em>&quot;We don't stop playing because we grow old; we grow old because we stop playing.&quot;</em> <br>
+— George Bernard Shaw
