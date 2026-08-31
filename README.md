@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;One of the keys to happiness is a bad memory.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Inspire yourself to be great. Being good isn't good enough.&quot;</em> <br>
+— Gurbaksh Chahal
