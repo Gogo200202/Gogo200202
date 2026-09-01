@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Every day is an opportunity to a make a new happy ending.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;People who avoid failure also avoid success.&quot;</em> <br>
+— Robert Kiyosaki
