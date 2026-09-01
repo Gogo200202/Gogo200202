@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To every action there is always opposed an equal reaction.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;I succeeded by saying what everyone else is thinking.&quot;</em> <br>
+— Joan Rivers
