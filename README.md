@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Normal is the average of deviance.&quot;</em> <br>
-— Rita Mae Brown
+<em>&quot;Life is like riding a bicycle. To keep your balance you must keep moving.&quot;</em> <br>
+— Albert Einstein
