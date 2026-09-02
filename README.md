@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Creative endeavors are by their nature uncertain.&quot;</em> <br>
-— Robert Greene
+<em>&quot;Decide what your truth is. Then live it.&quot;</em> <br>
+— Kamal Ravikant
