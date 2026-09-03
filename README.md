@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Invest in as much of yourself as you can, you are your own biggest asset by far.&quot;</em> <br>
-— Warren Buffett
+<em>&quot;Do not believe that you will reach your destination without leaving the shore.&quot;</em> <br>
+— Chinese Proverb
