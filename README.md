@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Do not believe that you will reach your destination without leaving the shore.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Investing in yourself is the best investment you will ever make.&quot;</em> <br>
+— Robin Sharma
