@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Investing in yourself is the best investment you will ever make.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;It's what you do in the present that will redeem the past and thereby change the future.&quot;</em> <br>
+— Paulo Coelho
