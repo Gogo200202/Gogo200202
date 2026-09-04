@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is too short to waste your time on people who don't respect, appreciate, and value you.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.&quot;</em> <br>
+— Colin R. Davis
