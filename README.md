@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;None are more hopelessly enslaved than those who falsely believe they are free.&quot;</em> <br>
+— Johann Wolfgang von Goethe
