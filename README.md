@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;None are more hopelessly enslaved than those who falsely believe they are free.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;There is no such thing as a great talent without great willpower.&quot;</em> <br>
+— Honore de Balzac
