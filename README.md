@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Imagination means nothing without doing.&quot;</em> <br>
-— Charlie Chaplin
+<em>&quot;When your intuition is strong, follow it.&quot;</em> <br>
+— Lolly Daskal
