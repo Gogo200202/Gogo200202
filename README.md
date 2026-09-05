@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.&quot;</em> <br>
-— Colin R. Davis
+<em>&quot;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&quot;</em> <br>
+— Anne Wilson Schaef
