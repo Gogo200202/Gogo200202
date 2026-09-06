@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
-— Aristophanes
+<em>&quot;One is never afraid of the unknown; one is afraid of the known coming to an end.&quot;</em> <br>
+— Jiddu Krishnamurti
