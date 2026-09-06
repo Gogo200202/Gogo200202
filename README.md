@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;When your intuition is strong, follow it.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Let each man exercise the art he knows.&quot;</em> <br>
+— Aristophanes
