@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Loss is nothing else but change and change is nature's delight.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;Anything worth doing is worth doing slowly.&quot;</em> <br>
+— Mae West
