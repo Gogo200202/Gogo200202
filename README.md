@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Judge your success by what you had to give up in order to get it.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Play your part in life, but never forget that it is only a role.&quot;</em> <br>
+— Paramahansa Yogananda
