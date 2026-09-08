@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Emancipate yourself from mental slavery, none but ourselves can free our mind.&quot;</em> <br>
-— Bob Marley
+<em>&quot;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&quot;</em> <br>
+— James Allen
