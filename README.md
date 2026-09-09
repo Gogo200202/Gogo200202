@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is little success where there is little laughter.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;You miss 100% of the shots you don't take.&quot;</em> <br>
+— Wayne Gretzky
