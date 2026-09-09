@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If it is here, it is everywhere. If it is not here, it is nowhere.&quot;</em> <br>
-— Tibetan Proverb
+<em>&quot;Comedy = tragedy + time.&quot;</em> <br>
+— Carol Burnett
