@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You just can't beat the person who never gives up.&quot;</em> <br>
-— Babe Ruth
+<em>&quot;If it is here, it is everywhere. If it is not here, it is nowhere.&quot;</em> <br>
+— Tibetan Proverb
