@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;How much pain they have cost us, the evils which have never happened.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Do not save what is left after spending, but spend what is left after saving.&quot;</em> <br>
+— Warren Buffett
