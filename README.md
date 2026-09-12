@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;In matters of style, swim with the current; in matters of principle, stand like a rock.&quot;</em> <br>
+<em>&quot;How much pain they have cost us, the evils which have never happened.&quot;</em> <br>
 — Thomas Jefferson
