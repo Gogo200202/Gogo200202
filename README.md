@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&quot;</em> <br>
-— Carl Bard
+<em>&quot;A man who dares to waste one hour of time has not discovered the value of life.&quot;</em> <br>
+— Charles Darwin
