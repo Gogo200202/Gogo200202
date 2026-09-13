@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Better the cottage where one is merry than the palace where one weeps.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;For things to change, you have to change.&quot;</em> <br>
+— Jim Rohn
