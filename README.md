@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A man who dares to waste one hour of time has not discovered the value of life.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&quot;</em> <br>
+— Simon Sinek
