@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Walking with a friend in the dark is better than walking alone in the light.&quot;</em> <br>
-— Helen Keller
+<em>&quot;A good salesman is like a good cook—he can create an appetite when the buyer isn't hungry.&quot;</em> <br>
+— George Lorimer
