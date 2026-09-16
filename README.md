@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;For changes to be of any true value, they've got to be lasting and consistent.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&quot;</em> <br>
+— Mark Twain
