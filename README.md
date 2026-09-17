@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Always remember that you are absolutely unique. Just like everyone else.&quot;</em> <br>
+— Margaret Mead
