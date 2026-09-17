@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always remember that you are absolutely unique. Just like everyone else.&quot;</em> <br>
-— Margaret Mead
+<em>&quot;If they wrote it to make money, don't read it.&quot;</em> <br>
+— Naval Ravikant
