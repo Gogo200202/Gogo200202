@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Get busy living, or get busy dying.&quot;</em> <br>
-— Stephen King
+<em>&quot;The one who boasts does so only out of a feeling of inferiority.&quot;</em> <br>
+— Alfred Adler
