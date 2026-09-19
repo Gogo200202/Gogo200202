@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If I persist long enough I will win.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.&quot;</em> <br>
+— Dr. Seuss
