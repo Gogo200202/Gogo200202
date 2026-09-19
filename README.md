@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Make improvements, not excuses. Seek respect, not attention.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.&quot;</em> <br>
+— Sonia Ricotti
