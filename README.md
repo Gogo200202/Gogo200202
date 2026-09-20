@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't seek, don't search, don't ask, don't knock, don't demand - relax.&quot;</em> <br>
-— Osho
+<em>&quot;The first principle of success is desire.&quot;</em> <br>
+— Robert Collier
