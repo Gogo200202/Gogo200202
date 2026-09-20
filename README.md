@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You live by what you thrill to, and there's the end of it.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Don't seek, don't search, don't ask, don't knock, don't demand - relax.&quot;</em> <br>
+— Osho
