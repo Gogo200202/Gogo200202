@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;I would rather die on my feet than live on my knees.&quot;</em> <br>
-— Euripides
+<em>&quot;You live by what you thrill to, and there's the end of it.&quot;</em> <br>
+— D. H. Lawrence
