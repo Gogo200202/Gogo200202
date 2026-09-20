@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Nothing can dim the light which shines from within.&quot;</em> <br>
-— Maya Angelou
+<em>&quot;Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.&quot;</em> <br>
+— Simon Sinek
