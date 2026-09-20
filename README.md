@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The first principle of success is desire.&quot;</em> <br>
-— Robert Collier
+<em>&quot;Nothing can dim the light which shines from within.&quot;</em> <br>
+— Maya Angelou
