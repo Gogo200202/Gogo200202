@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Thinking is the hardest work there is, which is probably the reason why so few engage in it.&quot;</em> <br>
-— Henry Ford
+<em>&quot;Concentrated power has always been the enemy of liberty.&quot;</em> <br>
+— Ronald Reagan
