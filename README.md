@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Any fool can paint a picture, but it takes a wise man to be able to sell it.&quot;</em> <br>
-— Samuel Butler
+<em>&quot;Change is never easy, but always possible.&quot;</em> <br>
+— Barack Obama
