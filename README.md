@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Concentrated power has always been the enemy of liberty.&quot;</em> <br>
-— Ronald Reagan
+<em>&quot;No problem can be solved from the same level of consciousness that created it.&quot;</em> <br>
+— Albert Einstein
