@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;A life without a cause is a life without effect.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Any fool can paint a picture, but it takes a wise man to be able to sell it.&quot;</em> <br>
+— Samuel Butler
