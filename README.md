@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;No problem can be solved from the same level of consciousness that created it.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;A life without a cause is a life without effect.&quot;</em> <br>
+— Paulo Coelho
