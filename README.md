@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Change is never easy, but always possible.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Don't spend time beating on a wall, hoping to transform it into a door.&quot;</em> <br>
+— Coco Chanel
