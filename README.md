@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Integrity is the ability to stand by an idea.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Fear is what stops you. Courage is what keeps you going.&quot;</em> <br>
+— Unknown
