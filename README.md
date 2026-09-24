@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Never argue with stupid people, they will drag you down to their level and then beat you with experience.&quot;</em> <br>
-— Mark Twain
+<em>&quot;If your happiness depends on what somebody else does, I guess you do have a problem.&quot;</em> <br>
+— Richard Bach
