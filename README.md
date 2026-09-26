@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;If you let your head get too big, it'll break your neck.&quot;</em> <br>
+— Elvis Presley
