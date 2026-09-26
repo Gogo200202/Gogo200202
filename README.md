@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.&quot;</em> <br>
-— Joan Rivers
+<em>&quot;You can't tell big dreams to small minded people.&quot;</em> <br>
+— Steve Harvey
