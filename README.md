@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Success is good at any age, but the sooner you find it, the longer you will enjoy it.&quot;</em> <br>
-— Napoleon Hill
+<em>&quot;Sometimes out of your biggest misery, comes your greatest gain.&quot;</em> <br>
+— Steve Harvey
