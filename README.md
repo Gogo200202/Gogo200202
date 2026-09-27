@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Too many of us are not living our dreams because we are living our fears.&quot;</em> <br>
-— Les Brown
+<em>&quot;Success is good at any age, but the sooner you find it, the longer you will enjoy it.&quot;</em> <br>
+— Napoleon Hill
