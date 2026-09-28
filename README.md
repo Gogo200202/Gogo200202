@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Without education, we are in a horrible and deadly danger of taking educated people seriously.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.&quot;</em> <br>
+— Nelson Mandela
