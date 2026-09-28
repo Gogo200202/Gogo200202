@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear does not have any special power unless you empower it by submitting to it.&quot;</em> <br>
-— Les Brown
+<em>&quot;Tis not too late to seek a newer world.&quot;</em> <br>
+— Heraclitus
