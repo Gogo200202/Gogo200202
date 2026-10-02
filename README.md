@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;To live is to be willing to die over and over again.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;Everyday you can take a tiny step in the right direction.&quot;</em> <br>
+— Unknown
