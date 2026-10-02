@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Intelligence is the ability to adapt to change.&quot;</em> <br>
-— Stephen Hawking
+<em>&quot;To live is to be willing to die over and over again.&quot;</em> <br>
+— Pema Chodron
