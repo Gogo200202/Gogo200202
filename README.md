@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Everything eaten is killed. Every meal is a sacrifice.&quot;</em> <br>
-— Adi Da Samraj
+<em>&quot;Look to the beauty of this day, miracles are all around you.&quot;</em> <br>
+— Mary Engelbreit
