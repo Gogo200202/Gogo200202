@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You cannot push anyone up a ladder unless he is willing to climb a little himself.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;Even if you're sure you can win, be careful that you can live with what you lose.&quot;</em> <br>
+— Gary Keller
