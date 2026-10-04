@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&quot;</em> <br>
+— Benjamin Mays
