@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good night 😴
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is 10% what happens to you and 90% how you react to it.&quot;</em> <br>
-— Charles Swindoll
+<em>&quot;There is a difference between giving directions and giving direction.&quot;</em> <br>
+— Simon Sinek
