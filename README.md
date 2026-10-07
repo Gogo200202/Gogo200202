@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The way we feel is the direct result of what we think.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;Getting lost along your path is a part of finding the path you are meant to be on.&quot;</em> <br>
+— Robin Sharma
