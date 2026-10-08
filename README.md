@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.&quot;</em> <br>
-— Gary Keller
+<em>&quot;A person is only by the thoughts that he chooses.&quot;</em> <br>
+— James Allen
