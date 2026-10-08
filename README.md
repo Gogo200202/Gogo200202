@@ -4,7 +4,7 @@
 # 🏆 LeetCode Stats & Badges
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Gogo200202&theme=dark)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Gogo200202&theme=dark)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Gogo200202&theme=light&border=no-border&animated=true&anon=true)
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
