@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Perfection is not attainable, but if we chase perfection we can catch excellence.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.&quot;</em> <br>
+— Gary Keller
