@@ -1,11 +1,12 @@
 ### Good afternoon 👋
 
-<img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
 # 🏆 LeetCode Stats & Badges
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Gogo200202&theme=dark)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Gogo200202)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Gogo200202&theme=dark)
+
+<img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
 # 💫 About Me:
 👯 I’m looking to collaborate on open sores projects<br>🤝 I’m looking for help with open sores projects<br>💬 Ask me about anything <br>⚡ I like challenging myself
