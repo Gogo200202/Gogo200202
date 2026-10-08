@@ -4,7 +4,7 @@
 # 🏆 LeetCode Stats & Badges
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Gogo200202&theme=dark)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Gogo200202&theme=light&border=no-border&animated=true&anon=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Gogo200202&theme=dark&border=no-border&animated=true&anon=true)
 
 
 # 💫 About Me:
