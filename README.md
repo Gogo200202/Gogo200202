@@ -23,14 +23,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gogo200202&amp;theme=dark&amp;hide_border=false" alt=""><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogo200202&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Gogo200202&amp;theme=dark&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="">
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Gogo200202&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="">
-
----
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gogo200202&amp;icon=1&amp;color=12" alt=""></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
