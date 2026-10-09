@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
 
@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;He who cheats the earth will be cheated by the earth.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Anyone who has ever made anything of importance was disciplined.&quot;</em> <br>
+— Andrew Hendrixson
