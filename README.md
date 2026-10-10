@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There is an essence of when you are fearless, you become more creative.&quot;</em> <br>
-— Gurbaksh Chahal
+<em>&quot;Courage is not having the strength to go on; it is going on when you don't have the strength.&quot;</em> <br>
+— Theodore Roosevelt
