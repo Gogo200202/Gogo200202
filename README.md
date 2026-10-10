@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Courage is not having the strength to go on; it is going on when you don't have the strength.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Opportunities multiply as they are seized.&quot;</em> <br>
+— Sun Tzu
