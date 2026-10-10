@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Opportunities multiply as they are seized.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.&quot;</em> <br>
+— Colin R. Davis
