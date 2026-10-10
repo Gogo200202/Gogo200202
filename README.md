@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You get in life what you have the courage to ask for.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;There is an essence of when you are fearless, you become more creative.&quot;</em> <br>
+— Gurbaksh Chahal
