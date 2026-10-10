@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.&quot;</em> <br>
-— Colin R. Davis
+<em>&quot;When you love someone, you love the person as they are, and not as you'd like them to be.&quot;</em> <br>
+— Leo Tolstoy
