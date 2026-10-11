@@ -1,6 +1,10 @@
-### Happy weekend 🏝️
+### Good night 😴
 
-<img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="Alt Text">
+## 🏆 LeetCode Achievements
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_USERNAME&amp;theme=dark" alt="LeetCode Stats">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YOUR_USERNAME&amp;theme=dark&amp;animated=true" alt="LeetCode Badges">
 
 # 💫 About Me:
 🔭 I’m currently working on My very little 3d renderer<br>👯 I’m looking to collaborate on open sores projects<br>🤝 I’m looking for help with open sores projects<br>💬 Ask me about anything <br>⚡ I like challenging myself
@@ -17,17 +21,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gogo200202&amp;theme=dark&amp;hide_border=false" alt=""><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogo200202&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Gogo200202&amp;theme=dark&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="">
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Gogo200202&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="">
-
 ---
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gogo200202&amp;icon=1&amp;color=12" alt=""></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You are free, and that is why you are lost.&quot;</em> <br>
-— Franz Kafka
+<em>&quot;The quicker you let go of old cheese, the sooner you find new cheese.&quot;</em> <br>
+— Spencer Johnson
