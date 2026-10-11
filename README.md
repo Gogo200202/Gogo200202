@@ -29,5 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;None of us can change our yesterdays but all of us can change our tomorrows.&quot;</em> <br>
-— Colin Powell
+<em>&quot;You are free, and that is why you are lost.&quot;</em> <br>
+— Franz Kafka
