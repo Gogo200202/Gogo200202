@@ -18,7 +18,11 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
 
   const text = `### ${greetings}
 
-  ![Alt Text](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
+  ## 🏆 LeetCode Achievements
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_USERNAME&theme=dark)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=YOUR_USERNAME&theme=dark&animated=true)
   
   # 💫 About Me:
   🔭 I’m currently working on My very little 3d renderer<br>👯 I’m looking to collaborate on open sores projects<br>🤝 I’m looking for help with open sores projects<br>💬 Ask me about anything <br>⚡ I like challenging myself
@@ -34,12 +38,6 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   ![](https://github-readme-stats.vercel.app/api?username=Gogo200202&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Gogo200202&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gogo200202&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=Gogo200202&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-  
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=Gogo200202&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
   ---
   [![](https://visitcount.itsvg.in/api?id=Gogo200202&icon=1&color=12)](https://visitcount.itsvg.in)
