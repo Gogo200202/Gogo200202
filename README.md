@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The quicker you let go of old cheese, the sooner you find new cheese.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.&quot;</em> <br>
+— Ayn Rand
