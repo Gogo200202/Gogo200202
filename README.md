@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;What do we live for if not to make life less difficult for each other?&quot;</em> <br>
+— T.S. Eliot
