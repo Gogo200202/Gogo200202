@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good evening ☕
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Walk slowly but never walk backward.&quot;</em> <br>
-— Unknown
+<em>&quot;An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.&quot;</em> <br>
+— John Tukey
