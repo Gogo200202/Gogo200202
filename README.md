@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go as far as you can see and you will see further.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;There are only encounters in history. There are no accidents.&quot;</em> <br>
+— Pablo Picasso
