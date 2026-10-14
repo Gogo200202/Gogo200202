@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;Most people fail in life not because they aim too high and miss, but because they aim too low and hit.&quot;</em> <br>
+— Les Brown
