@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are only encounters in history. There are no accidents.&quot;</em> <br>
-— Pablo Picasso
+<em>&quot;Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.&quot;</em> <br>
+— Roy T. Bennett
