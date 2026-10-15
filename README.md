@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;You can only be afraid of what you think you know.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Science can flourish only in an atmosphere of free speech.&quot;</em> <br>
+— Albert Einstein
