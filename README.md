@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Science can flourish only in an atmosphere of free speech.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;It's not what we do once in a while that shapes our lives, but what we do consistently.&quot;</em> <br>
+— Tony Robbins
