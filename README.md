@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Men go to far greater lengths to avoid what they fear than to obtain what they desire.&quot;</em> <br>
-— Dan Brown
+<em>&quot;You can only be afraid of what you think you know.&quot;</em> <br>
+— Jiddu Krishnamurti
