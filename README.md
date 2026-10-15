@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Less is more.&quot;</em> <br>
-— Robert Browning
+<em>&quot;Men go to far greater lengths to avoid what they fear than to obtain what they desire.&quot;</em> <br>
+— Dan Brown
