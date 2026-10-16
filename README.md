@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;It's not what we do once in a while that shapes our lives, but what we do consistently.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;Go confidently in the direction of your dreams. Live the life you've imagined.&quot;</em> <br>
+— Arnold Schwarzenegger
