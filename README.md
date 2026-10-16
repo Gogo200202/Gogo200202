@@ -1,4 +1,4 @@
-### Good evening ☕
+### Happy weekend 🏝️
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;Short cuts make long delays.&quot;</em> <br>
+— J.R.R. Tolkien
