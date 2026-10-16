@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Go confidently in the direction of your dreams. Live the life you've imagined.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.&quot;</em> <br>
+— Sigmund Freud
