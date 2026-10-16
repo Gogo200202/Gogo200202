@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Short cuts make long delays.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;The time is now, the place is here. Stay in the present.&quot;</em> <br>
+— Dan Millman
