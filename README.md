@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Where violence reigns, reason is weak.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;The dreamers are the saviors of the worlds.&quot;</em> <br>
+— James Allen
