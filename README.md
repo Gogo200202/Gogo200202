@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;People who say it cannot be done should not interrupt those who are doing it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Difficulties strengthen the mind, as labor does the body.&quot;</em> <br>
+— Seneca
