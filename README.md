@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;The time is now, the place is here. Stay in the present.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
+— Rumi
