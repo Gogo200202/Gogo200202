@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Why do you stay in prison when the door is so wide open?&quot;</em> <br>
-— Rumi
+<em>&quot;People who say it cannot be done should not interrupt those who are doing it.&quot;</em> <br>
+— George Bernard Shaw
