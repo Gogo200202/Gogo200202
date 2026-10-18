@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fools talk, cowards are silent, wise men listen.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;Life is a traveling to the edge of knowledge, then a leap taken.&quot;</em> <br>
+— D. H. Lawrence
