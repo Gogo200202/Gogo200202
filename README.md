@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Fear is stupid. So are regrets.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;Fools talk, cowards are silent, wise men listen.&quot;</em> <br>
+— Carlos Ruiz Zafon
