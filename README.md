@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live and act within the limit of your knowledge and keep expanding it to the limit of your life.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;Truth is not something outside to be discovered, it is something inside to be realized.&quot;</em> <br>
+— Osho
