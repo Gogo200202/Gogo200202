@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;There are no secrets to success. It is the result of preparation, hard work, and learning from failure.&quot;</em> <br>
-— Colin Powell
+<em>&quot;A man that flies from his fear may find that he has only taken a short cut to meet it.&quot;</em> <br>
+— J.R.R. Tolkien
