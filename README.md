@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Life is a traveling to the edge of knowledge, then a leap taken.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;There are no secrets to success. It is the result of preparation, hard work, and learning from failure.&quot;</em> <br>
+— Colin Powell
