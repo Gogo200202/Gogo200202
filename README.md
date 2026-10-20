@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Be yourself; everyone else is already taken.&quot;</em> <br>
-— Oscar Wilde
+<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
+— Isaac Newton
