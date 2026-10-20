@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Always render more and better service than is expected of you, no matter what your task may be.&quot;</em> <br>
-— Og Mandino
+<em>&quot;Be yourself; everyone else is already taken.&quot;</em> <br>
+— Oscar Wilde
