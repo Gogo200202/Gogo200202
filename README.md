@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;Winners are not people who never fail, but people who never quit.&quot;</em> <br>
+— Arnold Schwarzenegger
