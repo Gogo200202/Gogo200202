@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Sometimes good things fall apart so better things can fall together.&quot;</em> <br>
-— Marilyn Monroe
+<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
+— Henry David Thoreau
