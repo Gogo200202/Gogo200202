@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 
 ## 🏆 LeetCode Achievements
 
@@ -27,5 +27,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Quote of the day:
-<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;I believe that one of life's greatest risks is never daring to risk.&quot;</em> <br>
+— Oprah Winfrey
